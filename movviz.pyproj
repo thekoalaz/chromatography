@@ -12,8 +12,11 @@
     <OutputPath>.</OutputPath>
     <Name>movviz</Name>
     <RootNamespace>movviz</RootNamespace>
-    <InterpreterId>{b5f00d42-4461-450e-a691-a57c0195237d}</InterpreterId>
+    <InterpreterId>{4572cd7c-2a77-4145-ae92-b1b22fa2ad26}</InterpreterId>
     <InterpreterVersion>3.4</InterpreterVersion>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <CommandLineArguments>"The Cabin In The Woods 2012 Dvdrip Xvid-Exvid.avi"</CommandLineArguments>
+    <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -30,7 +33,7 @@
     <Compile Include="movviz.py" />
   </ItemGroup>
   <ItemGroup>
-    <InterpreterReference Include="{b5f00d42-4461-450e-a691-a57c0195237d}\3.4" />
+    <InterpreterReference Include="{4572cd7c-2a77-4145-ae92-b1b22fa2ad26}\3.4" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

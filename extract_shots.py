@@ -1,47 +1,55 @@
 # -*- coding: utf-8 -*-
 import cv2
 import math
-import sys
+import os, sys
 
-OUTPUT_DIR = "100_stills"
+OUTPUT_DIR = "output"
+EXTENSION = ".png"
+FRAME_COUNT = 50
 WIDTH = 240
 
+def get_frame_filename(mov_name, frame):
+    if not os.path.isdir(OUTPUT_DIR):
+        os.mkdir(OUTPUT_DIR)
+    return OUTPUT_DIR + "/" + mov_name + "_" + str(frame) + ".png"
 
 def run():
-    movie = sys.argv[1]
+    file_path = sys.argv[1]
     
-    cap = cv2.CreateFileCapturef(file_path)
-    cv2.QueryFrame(cap)
+    cap = cv2.VideoCapture(file_path)
+    total_frames = cap.get(cv2.CAP_PROP_FRAME_COUNT)
+    start_frame = 0
+    cap.set(cv2.CAP_PROP_POS_FRAMES, start_frame)
     
-    # skip frames in the beginning, if neccessary
-    start_frame = int( movie.attrib["start_frame"] )
-    for i in range(start_frame):
-        cv2.QueryFrame(cap)
-    
-    end_frame = int( movie.attrib["end_frame"] )
-    every_nth_frame = int( (end_frame - start_frame) / 100 )
+    end_frame = int(cap.get(cv2.CAP_PROP_FRAME_COUNT) - 1)
+    every_nth_frame = int( (end_frame - start_frame) / FRAME_COUNT )
     print("every" + str(every_nth_frame) + "frames")
-    frame = start_frame
-    counter = 1
+    cur_frame = start_frame
+    count = 0
     
-    while 1:
-        print(counter)
-        img = cv2.QueryFrame(cap)
-        if not img or frame > end_frame:
+    while True:
+        print("Frame: " + str(cur_frame))
+        flag, frame = cap.read()
+        if flag:
+        # The frame is ready and already captured
+            filename = get_frame_filename(file_path, cur_frame) 
+            cv2.imwrite(filename, frame)
+            cap.set(cv2.CAP_PROP_POS_FRAMES, cur_frame + every_nth_frame)
+            pos_frame = cap.get(cv2.CAP_PROP_POS_FRAMES)
+            print(str(pos_frame)+" frames")
+            cur_frame += every_nth_frame
+        else:
+            # The next frame is not ready, so we try to read it again
+            cap.set(cv2.CAP_PROP_POS_FRAMES, cur_frame-1)
+            print("frame is not ready")
+            # It is better to wait for a while for the next frame to be ready
+            cv2.waitKey(1000)
+
+        if cur_frame > total_frames:
+            # If the number of captured frames is equal to the total number of frames,
+            # we stop
             break
-        
-        img_small = cv2.CreateImage((WIDTH, int( img.height * float(WIDTH)/img.width )), cv2.IPL_DEPTH_8U, 3)
-        cv2.Resize(img, img_small, cv2.CV_INTER_CUBIC)
-        
-        cv2.SaveImage(OUTPUT_DIR + "\\still_%07d.jpg" % (frame), img_small)
-        
-        for i in range(every_nth_frame-1):
-            cv2.GrabFrame(cap)
-        
-        frame += every_nth_frame
-        counter += 1
     
-    #raw_input("- done -")
     return
 
 
