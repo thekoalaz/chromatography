@@ -60,3 +60,15 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# Vim
+*.swp
+
+# Data
+*.png
+*.jpg
+*.mp4
+*.avi
+
+# Visual studio 
+*.suo
