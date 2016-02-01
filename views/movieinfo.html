@@ -118,7 +118,7 @@
     }
 
     function drawBarcode() {
-      $.getJSON('../data/vertigo/frames.json', function(data) {
+      $.getJSON('../data/budapest/frames.json', function(data) {
         $.each(data, function(i, f) {
           barcodeContainer.append("line")
                 .attr("x1", padding*i)
