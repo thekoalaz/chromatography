@@ -1,0 +1,84 @@
+<!DOCTYPE HTML>
+<!--
+	Eventually by HTML5 UP
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Movie Vis</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<!--[if lte IE 8]><script src="../assets/js/ie/html5shiv.js"></script><![endif]-->
+    <link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="../assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="../assets/css/ie9.css" /><![endif]-->
+	</head>
+	
+	<body>	
+    <p align="right">
+      <!-- Navigation -->
+      <button type="button" onclick="reviewamovie()" class="btn btn-default" id="reviewamovie">Review a movie</button>
+      &nbsp;<a href="#">Help</pre></a>&nbsp;
+      &nbsp;<a href="#">Sign Up</pre></a>&nbsp;
+      &nbsp;<a href="#">Log In</a>&nbsp;
+    </p>
+		<!-- Header -->
+    <header id="header">
+      <h1>Movie Vis</h1>
+      <p>Find out what your favourite movie colors are</p>
+      <br>
+    </header>
+
+    <!-- Search Field -->
+    <section>
+      <table>
+        <thead>
+        </thead>
+        <tbody>
+        <tr>
+          <form id="movie-search" method="post" action="#">
+            <input type="text" id="keyword" placeholder="Which movie are you curious about?" />
+          </form>
+          <br>
+          <a href="movieinfo"><img src="assets/images/magnifying-glass32.png" alt="none"/></a>
+        </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <br>
+    <br>
+    <br>
+    <div id="btm-header">
+      <!-- Footer -->
+      <footer id="footer">
+        <br>
+        <br>
+        <br>
+        Join Us On
+        <!-- Add Pinterest, Facebook, Youtube, LinkedIn and remove Github and email symobls -->
+        <ul class="icons">
+          <li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+          <li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+          <li><a href="#" class="icon fa-facebook"><span class="label">Facebook<span></a></li>
+          <li><a href="#" class="icon fa-pinterest"><span class="label">Pinterest<span></a></li>
+          <li><a href="#" class="icon fa-youtube"><span class="label">Youtube<span></a></li>
+          <li><a href="#" class="icon fa-linkedin"><span class="label">Linkedin<span></a></li>
+        </ul>
+        <ul class="copyright">
+          <li>&copy; Movie Vis</li>
+        </ul>
+      </footer>
+    </div>
+
+    <!-- Scripts -->
+    <!--[if lte IE 8]><script src="../assets/js/ie/respond.min.js"></script><![endif]-->
+    <script src="assets/js/main.js"></script>
+    <script src="assets/js/jquery.js"></script>
+    <script>
+    function reviewamovie() {
+      window.location.href ="moviereview.html"
+    }
+    </script>
+	</body>
+</html>

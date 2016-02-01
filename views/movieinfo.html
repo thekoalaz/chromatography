@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Movie Vis</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="../assets/css/bootstrap.css" rel="stylesheet" />
+
+    <!-- Custom CSS -->
+
+    <link href="../assets/css/4-col-portfolio.css" rel="stylesheet" />
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <style>
+      .fit { /* set relative picture size */
+        max-width: 100%;
+        max-height: 100%;
+      }
+      .center {
+        display: block;
+        margin: auto;
+      }
+      .barcode div {
+        height: 100px;
+        width: 500px;
+        count: 250px;
+        padding: 2px;
+        stroke-width: 2px;
+      }
+    </style>
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="../assets/js/bootstrap.min.js"></script>
+
+    <!-- D3 -->
+    <script type="text/javascript" src="../assets/js/d3.min.js"></script>
+
+    <!-- Barcode JavaScript -->
+    <script src="../assets/js/barcode.js"></script>
+</head>
+<body>
+  <!-- Navigation -->
+  <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="/">Movie Vis</a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav">
+          <li>
+            <a href="/">&nbsp;&nbsp;Home</a>
+          </li>
+        </ul>
+      </div>
+        <!-- /.navbar-collapse -->
+    </div>
+      <!-- /.container -->
+  </nav>
+
+  <!-- Page Content -->
+  <div class="container">
+    <footer>
+      <div class="row">
+        <div class="col-lg-12" style="text-align: center;">
+          <img class="center fit" src="../assets/images/bg01.jpg" />
+          <br>
+          <h1>
+            <b>Vertigo</b>
+          </h1>
+          <br>
+          <div id="barcode"></div>
+        </div>
+        <div class="col-lg-12" style="text-align: center;">
+          <p>Copyright &copy; Movie Vis 2016. All rights reserved.</p>
+        </div>
+      </div>
+    </footer>
+  </div>
+    <script>
+    var frames = [];
+    var padding = 2;
+
+    var barcodeContainer = d3.select("#barcode")
+                              .append("svg")
+                              .attr("width", 960)
+                              .attr("height", 200)
+
+    function componentToHex(u) {
+      var c = Math.round(u);
+      var hex = c.toString(16);
+      return hex.length == 1 ? "0" + hex: hex;
+    }
+
+    function rgbToHex(r, g, b) {
+      return "#" + componentToHex(r) + componentToHex(g) + componentToHex(b);
+    }
+
+    function drawBarcode() {
+      $.getJSON('../data/vertigo/frames.json', function(data) {
+        $.each(data, function(i, f) {
+          barcodeContainer.append("line")
+                .attr("x1", padding*i)
+                .attr("x2", padding*i)
+                .attr("y1", 100)
+                .attr("y2", 0)
+                .attr("stroke", 
+                  rgbToHex(
+                    f.averageColorRGB[0],
+                    f.averageColorRGB[1],
+                    f.averageColorRGB[2]))
+                .attr("stroke-width", 2)
+        });
+      });
+    }
+
+    $(document).ready(function (){
+      drawBarcode();
+    });
+    </script>
+</body>
+</html>

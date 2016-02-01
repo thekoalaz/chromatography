@@ -61,6 +61,10 @@ target/
 #Ipython Notebook
 .ipynb_checkpoints
 
+# Node
+node_modules/*
+tags
+
 # Vim
 *.swp
 
