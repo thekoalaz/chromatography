@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+  <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Movie Vis</title>
+    <title>Chromatography</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="../assets/css/bootstrap.css" rel="stylesheet" />
@@ -33,10 +33,8 @@
       }
       .barcode div {
         height: 100px;
-        width: 500px;
-        count: 250px;
-        padding: 2px;
-        stroke-width: 2px;
+        width: 960px;
+        padding: 20px;
       }
     </style>
 
@@ -51,8 +49,8 @@
 
     <!-- Barcode JavaScript -->
     <script src="../assets/js/barcode.js"></script>
-</head>
-<body>
+  </head>
+  <body>
   <!-- Navigation -->
   <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
     <div class="container">
@@ -82,7 +80,71 @@
   <!-- Page Content -->
   <div class="container">
     <footer>
-      <div class="row">
+      <div class="row" id="movielist">
+        <div class="col-lg-12" id="a1" style="text-align: center;">
+          <img class="center fit" src="../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_2874.png" />
+          <br>
+          <h1><b>The Grand Budapest Hotel</b></h1>
+          <br>
+        </div>
+
+        <div class="col-lg-12" id="a2" style="text-align: center;">
+          <img class="center fit" src="../data/cabin/The Cabin In The Woods 2012 Dvdrip Xvid-Exvid.avi_2733.png" />
+          <br>
+          <h1><b>The Cabin In The Woods</b></h1>
+          <br>
+        </div>
+
+        <div class="col-lg-12" id="a3" style="text-align: center;">
+          <img class="center fit" src="../data/eyeswideshut/Eyes.Wide.Shut.UNRATED[1999]DvDrip[Eng.Subs]-kirklestat.avi_4575.png" />
+          <br>
+          <h1><b>Eyes Wide Shut</b></h1>
+          <br>
+        </div>
+
+        <div class="col-lg-12" id="a4" style="text-align: center;">
+          <img class="center fit" src="../data/fightclub/Fight.Club.-.1999.-.BDRip.-.1080p.-.DTS.iTA.AAC.eNG.mkv_4012.png" />
+          <br>
+          <h1><b>Fight Club</b></h1>
+          <br>
+        </div>
+
+        <div class="col-lg-12" id="a5" style="text-align: center;">
+          <img class="center fit" src="../data/magnolia/Magnolia.mkv_5231.png" />
+          <br>
+          <h1><b>Magnolia</b></h1>
+          <br>
+        </div>
+
+        <div class="col-lg-12" id="a6" style="text-align: center;">
+          <img class="center fit" src="../data/otherguys/The Other Guys.mp4_6688.png" />
+          <br>
+          <h1><b>The Other Guys</b></h1>
+          <br>
+        </div>
+
+        <div class="col-lg-12" id="a7" style="text-align: center;">
+          <img class="center fit" src="../data/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_3999.png" />
+          <br>
+          <h1><b>The Shawshank Redemption</b></h1>
+          <br>
+        </div>
+
+        <div class="col-lg-12" id="a8" style="text-align: center;">
+          <img class="center fit" src="../data/sincity/Sin.City.(2005).BDRip.720p.x264.AC3.iTA.AAC.eNG.mkv_3568.png" />
+          <br>
+          <h1><b>Sin City</b></h1>
+          <br>
+        </div>
+
+        <div class="col-lg-12" id="a9" style="text-align: center;">
+          <img class="center fit" src="../data/watchmen/Watchmen.The.Ultimate.Cut.2009.BluRay.720p.DTS.x264-CHD.mkv_6198.png" />
+          <br>
+          <h1><b>Watchmen</b></h1>
+          <br>
+        </div>
+
+        <!--
         <div class="col-lg-12" style="text-align: center;">
           <img class="center fit" src="../assets/images/bg01.jpg" />
           <br>
@@ -92,20 +154,28 @@
           <br>
           <div id="barcode"></div>
         </div>
-        <div class="col-lg-12" style="text-align: center;">
-          <p>Copyright &copy; Movie Vis 2016. All rights reserved.</p>
-        </div>
+        -->
+      </div>
+      <div class="col-lg-12" style="text-align: center;">
+        <p>Copyright &copy; Movie Vis 2016. All rights reserved.</p>
       </div>
     </footer>
   </div>
     <script>
     var frames = [];
-    var padding = 2;
-
-    var barcodeContainer = d3.select("#barcode")
-                              .append("svg")
-                              .attr("width", 960)
-                              .attr("height", 200)
+    var padding = 4;
+    // Connect to a database and iterate
+    var titles = [ "budapest", "cabin", "eyeswideshut", "fightclub", "magnolia", "otherguys", "shawshank", "sincity", "watchmen" ];
+    var len = titles.length;
+    //var newdiv = document.createElement('div');
+    //newdiv.className = 'col-lg-12';
+    //newdiv.style.cssText = 'text-align: center;';
+    //var movielist = document.getElementById("movielist");
+    //for (i = 0; i < len; ++i) {
+    //  $("#movielist").append("<div class=\"col-lg-12\" id=\"a" + i.toString() + "\" style=\"text-align: center;\"></div>");
+    //  newdiv.id = 'a' + i.toString();
+    //  movielist.appendChild(newdiv);
+    //}
 
     function componentToHex(u) {
       var c = Math.round(u);
@@ -117,27 +187,203 @@
       return "#" + componentToHex(r) + componentToHex(g) + componentToHex(b);
     }
 
-    function drawBarcode() {
-      $.getJSON('../data/vertigo/frames.json', function(data) {
-        $.each(data, function(i, f) {
-          barcodeContainer.append("line")
-                .attr("x1", padding*i)
-                .attr("x2", padding*i)
-                .attr("y1", 100)
-                .attr("y2", 0)
-                .attr("stroke", 
-                  rgbToHex(
-                    f.averageColorRGB[0],
-                    f.averageColorRGB[1],
-                    f.averageColorRGB[2]))
-                .attr("stroke-width", 2)
-        });
-      });
-    }
+    function drawBarcode(titles) {
+      var len = titles.length;
+      //var $newrowimg;
+      var newrowimg = document.createElement('img');
+      var barcodeContainers = [];
+      //for (i = 0; i < len; ++i) {
+        $.getJSON('../data/' + titles[0] + '/' + titles[0] + '.json', function(data) {
+          //document.getElementById("#a" + i.toString()).appendChild("<img class=\"center fit\" src=\"../data/" + titles[i] + "/" + data[1].file + "\" />");
+          //newrowimg.src = titles[i] + "/" + data[1].file;
+          //document.getElementById("#a" + i.toString());
+          //document.getElementById("#a" + i.toString()).appendChild(newrowimg);
+          //document.getElementById("#a" + i.toString()).append('<br><h1><b>' + titles[i] + '</b></h1><br><div id=\"a' + i.toString() + 'barcode\"></div>');
+          barcodeContainers[0] = d3.select("#a" + (0 + 1))
+                                    .append("svg")
+                                    .attr("width", 960)
+                                    .attr("height", 200)
+          $.each(data, function(j, f) {
+            barcodeContainers[0].append("line")
+                            .attr("x1", 20*j)
+                            .attr("x2", 20*j)
+                            .attr("y1", 100)
+                            .attr("y2", 0)
+                            .attr("stroke", 
+                              rgbToHex(
+                                f.averageColorRGB[0],
+                                f.averageColorRGB[1],
+                                f.averageColorRGB[2]))
+                            .attr("stroke-width", 20)
 
-    $(document).ready(function (){
-      drawBarcode();
-    });
+            });
+          });
+        $.getJSON('../data/' + titles[1] + '/' + titles[1] + '.json', function(data) {
+          barcodeContainers[1] = d3.select("#a" + (1 + 1))
+                                    .append("svg")
+                                    .attr("width", 960)
+                                    .attr("height", 200)
+          $.each(data, function(j, f) {
+            barcodeContainers[1].append("line")
+                            .attr("x1", 20*j)
+                            .attr("x2", 20*j)
+                            .attr("y1", 100)
+                            .attr("y2", 0)
+                            .attr("stroke", 
+                              rgbToHex(
+                                f.averageColorRGB[0],
+                                f.averageColorRGB[1],
+                                f.averageColorRGB[2]))
+                            .attr("stroke-width", 20)
+
+            });
+          });
+        $.getJSON('../data/' + titles[2] + '/' + titles[2] + '.json', function(data) {
+          barcodeContainers[2] = d3.select("#a" + (2 + 1))
+                                    .append("svg")
+                                    .attr("width", 960)
+                                    .attr("height", 200)
+          $.each(data, function(j, f) {
+            barcodeContainers[2].append("line")
+                            .attr("x1", 20*j)
+                            .attr("x2", 20*j)
+                            .attr("y1", 100)
+                            .attr("y2", 0)
+                            .attr("stroke", 
+                              rgbToHex(
+                                f.averageColorRGB[0],
+                                f.averageColorRGB[1],
+                                f.averageColorRGB[2]))
+                            .attr("stroke-width", 20)
+
+            });
+          });
+        $.getJSON('../data/' + titles[3] + '/' + titles[3] + '.json', function(data) {
+          barcodeContainers[3] = d3.select("#a" + (3 + 1))
+                                    .append("svg")
+                                    .attr("width", 960)
+                                    .attr("height", 200)
+          $.each(data, function(j, f) {
+            barcodeContainers[3].append("line")
+                            .attr("x1", 20*j)
+                            .attr("x2", 20*j)
+                            .attr("y1", 100)
+                            .attr("y2", 0)
+                            .attr("stroke", 
+                              rgbToHex(
+                                f.averageColorRGB[0],
+                                f.averageColorRGB[1],
+                                f.averageColorRGB[2]))
+                            .attr("stroke-width", 20)
+
+            });
+          });
+        $.getJSON('../data/' + titles[4] + '/' + titles[4] + '.json', function(data) {
+          barcodeContainers[4] = d3.select("#a" + (4 + 1))
+                                    .append("svg")
+                                    .attr("width", 960)
+                                    .attr("height", 200)
+          $.each(data, function(j, f) {
+            barcodeContainers[4].append("line")
+                            .attr("x1", 20*j)
+                            .attr("x2", 20*j)
+                            .attr("y1", 100)
+                            .attr("y2", 0)
+                            .attr("stroke", 
+                              rgbToHex(
+                                f.averageColorRGB[0],
+                                f.averageColorRGB[1],
+                                f.averageColorRGB[2]))
+                            .attr("stroke-width", 20)
+
+            });
+          });
+        $.getJSON('../data/' + titles[5] + '/' + titles[5] + '.json', function(data) {
+          barcodeContainers[5] = d3.select("#a" + (5 + 1))
+                                    .append("svg")
+                                    .attr("width", 960)
+                                    .attr("height", 200)
+          $.each(data, function(j, f) {
+            barcodeContainers[5].append("line")
+                            .attr("x1", 20*j)
+                            .attr("x2", 20*j)
+                            .attr("y1", 100)
+                            .attr("y2", 0)
+                            .attr("stroke", 
+                              rgbToHex(
+                                f.averageColorRGB[0],
+                                f.averageColorRGB[1],
+                                f.averageColorRGB[2]))
+                            .attr("stroke-width", 20)
+
+            });
+          });
+        $.getJSON('../data/' + titles[6] + '/' + titles[6] + '.json', function(data) {
+          barcodeContainers[6] = d3.select("#a" + (6 + 1))
+                                    .append("svg")
+                                    .attr("width", 960)
+                                    .attr("height", 200)
+          $.each(data, function(j, f) {
+            barcodeContainers[6].append("line")
+                            .attr("x1", 20*j)
+                            .attr("x2", 20*j)
+                            .attr("y1", 100)
+                            .attr("y2", 0)
+                            .attr("stroke", 
+                              rgbToHex(
+                                f.averageColorRGB[0],
+                                f.averageColorRGB[1],
+                                f.averageColorRGB[2]))
+                            .attr("stroke-width", 20)
+
+            });
+          });
+        $.getJSON('../data/' + titles[7] + '/' + titles[7] + '.json', function(data) {
+          barcodeContainers[7] = d3.select("#a" + (7 + 1))
+                                    .append("svg")
+                                    .attr("width", 960)
+                                    .attr("height", 200)
+          $.each(data, function(j, f) {
+            barcodeContainers[7].append("line")
+                            .attr("x1", 20*j)
+                            .attr("x2", 20*j)
+                            .attr("y1", 100)
+                            .attr("y2", 0)
+                            .attr("stroke", 
+                              rgbToHex(
+                                f.averageColorRGB[0],
+                                f.averageColorRGB[1],
+                                f.averageColorRGB[2]))
+                            .attr("stroke-width", 20)
+
+            });
+          });
+        $.getJSON('../data/' + titles[8] + '/' + titles[8] + '.json', function(data) {
+          barcodeContainers[8] = d3.select("#a" + (8 + 1))
+                                    .append("svg")
+                                    .attr("width", 960)
+                                    .attr("height", 200)
+          $.each(data, function(j, f) {
+            barcodeContainers[8].append("line")
+                            .attr("x1", 20*j)
+                            .attr("x2", 20*j)
+                            .attr("y1", 100)
+                            .attr("y2", 0)
+                            .attr("stroke", 
+                              rgbToHex(
+                                f.averageColorRGB[0],
+                                f.averageColorRGB[1],
+                                f.averageColorRGB[2]))
+                            .attr("stroke-width", 20)
+
+            });
+          });
+        //}
+      }
+
+      $(document).ready(function (){
+        drawBarcode(titles);
+      });
     </script>
-</body>
+  </body>
 </html>
