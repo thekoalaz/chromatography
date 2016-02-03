@@ -2,6 +2,9 @@
 import colorsys
 import cv2
 
+import utils.logger as logger
+LOGGER = logger.Logger("Movie")
+
 class Frame(object):
     def __init__(self, frame_number, filename, frame):
         self.filename = filename
@@ -9,6 +12,7 @@ class Frame(object):
         b, g, r, a = cv2.mean(frame)
         self.frame_color_RGB = (r, g, b)
         self.frame_color_HSV = colorsys.rgb_to_hls(r, g, b)
+        LOGGER.debug("Saving image to: " + self.filename)
         cv2.imwrite(filename, frame)
 
 class FrameEncoder(json.JSONEncoder):
