@@ -1,5 +1,6 @@
 ﻿import json
 import colorsys
+import colorweave
 import cv2
 
 import utils.logger as logger
@@ -15,6 +16,8 @@ class Frame(object):
         LOGGER.debug("Saving image to: " + self.filename)
         cv2.imwrite(filename, frame)
 
+        self.palette = colorweave.palette(path=filename, n=6, format="css3")
+
 class FrameEncoder(json.JSONEncoder):
     def default(self, obj):
         if isinstance(obj, Frame):
@@ -23,5 +26,6 @@ class FrameEncoder(json.JSONEncoder):
                      "framenumber": obj.frame_number,
                      "averageColorRGB": obj.frame_color_RGB,
                      "averageColorHSV": obj.frame_color_HSV,
+                     "paltte": obj.palette
                    }
         return json.JSONEncoder(self, obj)
