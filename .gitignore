@@ -73,6 +73,7 @@ tags
 *.jpg
 *.mp4
 *.avi
+*.mkv
 
 # Visual studio 
 *.suo
