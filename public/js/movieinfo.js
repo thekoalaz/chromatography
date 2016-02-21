@@ -136,16 +136,14 @@ function initializePage() {
     $.each(data.movies, function(i, movie) {
       $('#movielink'+i).click(function (e) {
         e.preventDefault();
-        i_string = i.toString();
-        console.log('a'+i_string);
-        var div_a = document.getElementById('a'+i_string);
-        console.log(div_a);
-        div_a.innerHTML += "<h1><b>"+movie.title+"</b></h1>";
-        div_a.innerHTML += "<br>";
-        div_a.innerHTML += "<img class=\"center fit\" src=\"data/"+movie.frames[2].file+"\" style=\"width: 100%; position: relative;\" id=\""+"img"+i_string+"\" />";
-        div_a.innerHTML += "<br>";
         if (hashtable_appeared.i_string != "1") {
+          i_string = i.toString();
+          var div_a = document.getElementById('a'+i_string);
           hashtable_appeared.i_string = "1";
+          div_a.innerHTML += "<h1><b>"+movie.title+"</b></h1>";
+          div_a.innerHTML += "<br>";
+          div_a.innerHTML += "<img class=\"center fit\" src=\"data/"+movie.frames[2].file+"\" style=\"width: 100%; position: relative;\" id=\""+"img"+i_string+"\" />";
+          div_a.innerHTML += "<br>";
           show_movie(data, i);
         } else {
 
