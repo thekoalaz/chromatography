@@ -130,16 +130,20 @@ function show_movie(data, i) {
 var hashtable_appeared = {};
 
 function initializePage() {
-
+  console.log('initializePage()');
   $.getJSON('/data/data.json', function(data) {
-    console.log('movies: '+data.movies);
     var i_string;
     $.each(data.movies, function(i, movie) {
       $('#movielink'+i).click(function (e) {
         e.preventDefault();
-        console.log('#movielink'+i+' clicked');
         i_string = i.toString();
-        console.log('hashtable_appeared value on i: '+hashtable_appeared.i_string);
+        console.log('a'+i_string);
+        var div_a = document.getElementById('a'+i_string);
+        console.log(div_a);
+        div_a.innerHTML += "<h1><b>"+movie.title+"</b></h1>";
+        div_a.innerHTML += "<br>";
+        div_a.innerHTML += "<img class=\"center fit\" src=\"data/"+movie.frames[2].file+"\" style=\"width: 100%; position: relative;\" id=\""+"img"+i_string+"\" />";
+        div_a.innerHTML += "<br>";
         if (hashtable_appeared.i_string != "1") {
           hashtable_appeared.i_string = "1";
           show_movie(data, i);
