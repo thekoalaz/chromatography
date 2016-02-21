@@ -8,6 +8,7 @@ var handlebars = require('express-handlebars');
 /* Custom Routes */
 var main = require('./routes/main');
 var movieinfo = require('./routes/movieinfo');
+var moviehistory = require('./routes/moviehistory');
 
 var app = express();
 
@@ -28,6 +29,7 @@ app.use('/data', express.static(path.join(__dirname, 'data')));
 /* Views */
 app.use('/', main);
 app.use('/movieinfo', movieinfo);
+app.use('/moviehistory', moviehistory);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

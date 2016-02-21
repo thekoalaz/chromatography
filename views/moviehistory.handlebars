@@ -30,38 +30,16 @@
 
   <!-- Page Content -->
   <div class="container" style="text-align: center; position: relative; z-index: 1" id="container">
-    {{#each movies}}
-      <div class="container">
-        <div class="col-md-9 portfolio-item" style="text-align: center; margin: 0 auto" id="a{{@index}}">
-          <h1><b>{{title}}</b></h1>
-          <br>
-          <img class="center fit" src="data/{{frames.2.file}}" style="width: 100%; position: relative;" id="img{{@index}}" />
-          <br>
-        </div>
-    {{/each}}
-    <div class="col-md-3 portfolio-item" style="text-align: left; margin: 0 auto">
-      <div class="form-group">
-        <div class="input-group col-md-7" style="width: 100%; padding: 0 20px 0 20px;">
-          <input id="keyword-search" type="text" class="form-control"  placeholder="Search movies" style="text-align: center;"/>
-          <div class="input-group-btn" role="group">
-            <button style="background: #fff; border: none; text-shadow: none; padding: none;">
-              <span>
-                <img src="images/magnifying-glass32.png" alt="none" />
-              </span>
-            </button>
-          </div>
-        </div>
+    {{#each era}}
+      <div class="col-md-6 portfolio-item" style="text-align: center; margin: 0 auto" id="a{{@index}}">
+        <h1><b>{{era}}</b></h1>
+        <br>
       </div>
-      {{#each movies}}
-        <a href="#" id="movielink{{@index}}">{{title}}</a>
-      {{/each}}
-    </div>
+    {{/each}}
   </div>
 
   <script type="text/javascript" src="/js/d3.min.js"></script>
   <script src="js/jquery.js"></script>
   <script src="js/bootstrap.min.js"></script>
-  <script src="js/movieinfo.js"></script>
-
 </body>
 </html>
