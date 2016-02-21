@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<!-- TODO -->
+<!--
+  Modify the code to render fetch N lines (an idea about N: 
+  twice the size of the number of rows that can be viewed on the screen
+  without scrolling?) from the available items' database
+-->
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Chromatography</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/4-col-portfolio.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+  {{> navbar}}
+
+  <!-- Page Content -->
+  <div class="container" style="text-align: center; position: relative; z-index: 1" id="container">
+    <div class="form-group">
+      <div class="input-group col-md-7" style="width: 100%; padding: 0 20px 0 20px;">
+        <input id="keyword-search" type="text" class="form-control"  placeholder="What type of movie?" style="text-align: center;"/>
+        <div class="input-group-btn" role="group">
+          <button style="background: #fff; border: none; text-shadow: none; padding: none;">
+            <span>
+              <img src="images/magnifying-glass32.png" alt="none" />
+            </span>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <hr>
+    {{#each movies}}
+      <div class="container">
+        <div class="col-md-12 portfolio-item" style="text-align: center; margin: 0 auto" id="a{{@index}}">
+          <h1><b>{{title}}</b></h1>
+          <br>
+          <img class="center fit" src="data/{{frames.2.file}}" style="width: 100%; position: relative;" id="img{{@index}}" />
+          <br>
+        </div>
+      </div>
+    {{/each}}
+  </div>
+
+
+  <script type="text/javascript" src="/js/d3.min.js"></script>
+  <script src="js/jquery.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/movieinfo.js"></script>
+
+
+
+</body>
+</html>
