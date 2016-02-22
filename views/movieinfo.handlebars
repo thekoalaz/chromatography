@@ -30,27 +30,33 @@
 
   <!-- Page Content -->
   <div class="container" style="text-align: center; position: relative; z-index: 1" id="container">
-    {{#each movies}}
-      <div class="container">
-        <div class="col-md-9 portfolio-item" style="text-align: center; margin: 0 auto; border-right: solid #C0D6E4;" id="a{{@index}}">
+    <div class="row" style="padding: 0 auto; margin: 0 auto;">
+      {{#each movies}}
+        <div class="col-md-9 portfolio-item" style="width: 75%; padding: 0 auto; margin: 0 auto; position: relative; border-right: solid #C0D6E4;" id="img{{@index}}">
+          <img class="center fit" src="data/{{frames.0.file}}" style="width: 100%; position: relative;" id="img{{@index}}" />
+          <br>
         </div>
-    {{/each}}
-    <div class="col-md-3 portfolio-item" style="text-align: left; margin: 0 auto">
-      <div class="form-group">
-        <div class="input-group col-md-7" style="width: 100%; padding: 0 20px 0 20px;">
-          <input id="keyword-search" type="text" class="form-control"  placeholder="Search movies" style="text-align: center;"/>
-          <div class="input-group-btn" role="group">
-            <button style="background: #fff; border: none; text-shadow: none; padding: none;">
-              <span>
-                <img src="images/magnifying-glass32.png" alt="none" />
-              </span>
-            </button>
+        <div class="col-md-9 portfolio-item" style="width: 75%; padding: 0 auto; margin: 0 auto; border-right: solid #C0D6E4;" id="a{{@index}}"></div>
+        <div class="col-md-9 portfolio-item" style="width: 75%; padding: 0 auto; margin: 0 auto; position: relative; border-right: solid #C0D6E4;" id="palette{{@index}}">
+        </div>
+      {{/each}}
+      <div class="col-md-3 portfolio-item" style="position: absolute; text-align: left; margin: 0 75% auto;">
+        <div class="form-group">
+          <div class="input-group col-md-7" style="width: 100%; padding: 0 10px 0 10px;">
+            <input id="keyword-search" type="text" class="form-control"  placeholder="Search movies" style="text-align: center;"/>
+            <div class="input-group-btn" role="group">
+              <button style="background: #fff; border: none; text-shadow: none; padding: none;">
+                <span>
+                  <img src="images/magnifying-glass32.png" alt="none" />
+                </span>
+              </button>
+            </div>
           </div>
         </div>
+        {{#each movies}}
+          <a href="#" id="movielink{{@index}}">{{title}}</a>
+        {{/each}}
       </div>
-      {{#each movies}}
-        <a href="#" id="movielink{{@index}}">{{title}}</a>
-      {{/each}}
     </div>
   </div>
 

@@ -8,6 +8,7 @@ html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
+  overflow-y: scroll;
 }
 body {
   margin: 0;
@@ -1601,6 +1602,31 @@ pre code {
 @media (min-width: 1200px) {
   .container {
     width: 1170px;
+  }
+}
+@media (min-width: 1440px) {
+  .container {
+    width: 1440px;
+  }
+}
+@media (min-width: 1680px) {
+  .container {
+    width: 1650px;
+  }
+}
+@media (min-width: 1740px) {
+  .container {
+    width: 1710px;
+  }
+}
+@media (min-width: 1800px) {
+  .container {
+    width: 1770px;
+  }
+}
+@media (min-width: 1900px) {
+  .container {
+    width: 1870px;
   }
 }
 .container-fluid {
