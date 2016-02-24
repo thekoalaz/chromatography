@@ -14,7 +14,7 @@
     <InterpreterId />
     <InterpreterVersion />
     <IsWindowsApplication>False</IsWindowsApplication>
-    <CommandLineArguments>../The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4 -o ../data/budapest</CommandLineArguments>
+    <CommandLineArguments>"D:\Downloads\Temp\The Grand Budapest Hotel (2014)\The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4" -o ..\data\budapest</CommandLineArguments>
     <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />

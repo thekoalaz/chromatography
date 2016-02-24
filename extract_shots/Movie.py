@@ -6,9 +6,8 @@ import Frame
 
 import utils.logger as logger
 LOGGER = logger.Logger("Movie")
-LOGGER.level(logger.DEBUG)
+#LOGGER.level(logger.DEBUG)
 
-OUTPUT_DIR = "output"
 EXTENSION = ".png"
 
 class Movie(object):
@@ -16,11 +15,12 @@ class Movie(object):
     Represents a movie which is a collection of frames that can be written to a json file.
     """
 
-    def __init__(self, movfile_loc, output_dir=OUTPUT_DIR):
+    def __init__(self, movfile_loc, output_dir, remote_dir):
         self.movfile_loc = movfile_loc
         self.movfile_name = movfile_loc.split("/")[-1]
         self.output_dir = output_dir
         self.output_name = output_dir.split("/")[-1]
+        self.remote_dir = remote_dir
         LOGGER.horizontal_rule()
         LOGGER.info("Input movie: " + self.movfile_loc)
         LOGGER.info("Saving to: " + self.output_dir)
@@ -28,7 +28,7 @@ class Movie(object):
         self.cap = cv2.VideoCapture(movfile_loc)
         self.total_frames = self.cap.get(cv2.CAP_PROP_FRAME_COUNT)
         LOGGER.debug("Total frame count: " + str(int(self.total_frames)))
-        self.start_frame = 0
+        self.start_frame = 100
         self.end_frame = int(self.cap.get(cv2.CAP_PROP_FRAME_COUNT) - 1)
 
         self.frames = []
@@ -48,7 +48,8 @@ class Movie(object):
             # The frame is ready and already captured
                 retry = 0
                 filename = self.get_frame_filename(cur_frame)
-                self.frames.append(Frame.Frame(cur_frame, filename, frame))
+                remote_filename = self.get_frame_filename(cur_frame, remote=True)
+                self.frames.append(Frame.Frame(cur_frame, filename, frame, remote_filename))
                 self.cap.set(cv2.CAP_PROP_POS_FRAMES, cur_frame + every_nth_frame)
                 pos_frame = self.cap.get(cv2.CAP_PROP_POS_FRAMES)
                 cur_frame += every_nth_frame
@@ -70,11 +71,18 @@ class Movie(object):
 
         jsonfile_name = self.output_dir + "/" + self.output_name+ ".json"
         LOGGER.info("Writing json to: " + jsonfile_name)
-        with open(jsonfile_name, "w") as jsonfile:
+        with open(jsonfile_name, "w+") as jsonfile:
             json.dump(self.frames, jsonfile, cls=Frame.FrameEncoder, indent=2)
             LOGGER.info("Wrote data to " + jsonfile_name)
 
-    def get_frame_filename(self, frame):
+    def get_frame_filename(self, frame, remote=False):
         if not os.path.isdir(self.output_dir):
+            LOGGER.debug(self.output_dir + " doesn't exist. Creating.")
             os.mkdir(self.output_dir)
-        return self.output_dir + "/" + self.movfile_name + "_" + "{0:0>3}".format(frame) + ".png"
+        if not remote:
+            return self.output_dir + "/" + self.movfile_name + "_" + "{0:0>3}".format(frame) + ".png"
+        else:
+            if self.remote_dir == None:
+                return None
+            else:
+                return self.remote_dir + "/" + self.movfile_name + "_" + "{0:0>3}".format(frame) + ".png"

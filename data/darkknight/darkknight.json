@@ -1,0 +1,6671 @@
+[
+  {
+    "averageColorRGB": [
+      50.88712577160494,
+      68.71775462962962,
+      109.48628858024692
+    ],
+    "palette": [
+      {
+        "#0b205d": "midnightblue"
+      },
+      {
+        "#010a21": "black"
+      },
+      {
+        "#163592": "midnightblue"
+      },
+      {
+        "#041845": "midnightblue"
+      },
+      {
+        "#031133": "black"
+      },
+      {
+        "#ecfdff": "azure"
+      }
+    ],
+    "framenumber": 100,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_100.png",
+    "averageColorHSV": [
+      0.6159531183171469,
+      0.3144576751997095,
+      0.3653920011958972
+    ]
+  },
+  {
+    "averageColorRGB": [
+      0.7929783950617284,
+      2.385200617283951,
+      14.582793209876543
+    ],
+    "palette": [
+      {
+        "#000624": "black"
+      },
+      {
+        "#00000b": "black"
+      },
+      {
+        "#000002": "black"
+      },
+      {
+        "#000004": "black"
+      },
+      {
+        "#00021d": "black"
+      },
+      {
+        "#000006": "black"
+      }
+    ],
+    "framenumber": 1193,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_1193.png",
+    "averageColorHSV": [
+      0.6474227265605766,
+      0.030148571774388767,
+      0.8968535153309579
+    ]
+  },
+  {
+    "averageColorRGB": [
+      73.77021219135803,
+      76.11992669753087,
+      77.67842592592592
+    ],
+    "palette": [
+      {
+        "#465b66": "darkslategrey"
+      },
+      {
+        "#68727b": "dimgrey"
+      },
+      {
+        "#1b1d1a": "black"
+      },
+      {
+        "#191c17": "black"
+      },
+      {
+        "#5a6d81": "dimgrey"
+      },
+      {
+        "#525d63": "dimgrey"
+      }
+    ],
+    "framenumber": 2286,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_2286.png",
+    "averageColorHSV": [
+      0.5664625552849641,
+      0.29695811395545874,
+      0.025805538981085528
+    ]
+  },
+  {
+    "averageColorRGB": [
+      68.25869598765432,
+      56.544949845679014,
+      45.2423688271605
+    ],
+    "palette": [
+      {
+        "#504328": "darkolivegreen"
+      },
+      {
+        "#545037": "darkolivegreen"
+      },
+      {
+        "#180b06": "black"
+      },
+      {
+        "#654a34": "darkolivegreen"
+      },
+      {
+        "#45311f": "darkslategrey"
+      },
+      {
+        "#4f3624": "darkolivegreen"
+      }
+    ],
+    "framenumber": 3379,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_3379.png",
+    "averageColorHSV": [
+      0.08184466139844365,
+      0.22255110748002907,
+      0.20278512098583942
+    ]
+  },
+  {
+    "averageColorRGB": [
+      60.97815972222222,
+      50.83990354938272,
+      47.256520061728395
+    ],
+    "palette": [
+      {
+        "#343222": "darkslategrey"
+      },
+      {
+        "#645658": "dimgrey"
+      },
+      {
+        "#352b27": "darkslategrey"
+      },
+      {
+        "#7b6760": "dimgrey"
+      },
+      {
+        "#6c5a55": "dimgrey"
+      },
+      {
+        "#453936": "darkslategrey"
+      }
+    ],
+    "framenumber": 4472,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_4472.png",
+    "averageColorHSV": [
+      0.04352472416217255,
+      0.2122248623214718,
+      0.12677673817563712
+    ]
+  },
+  {
+    "averageColorRGB": [
+      79.3463888888889,
+      61.88478395061728,
+      51.08720679012346
+    ],
+    "palette": [
+      {
+        "#513525": "darkolivegreen"
+      },
+      {
+        "#be9885": "rosybrown"
+      },
+      {
+        "#312420": "darkslategrey"
+      },
+      {
+        "#775c44": "dimgrey"
+      },
+      {
+        "#2a140a": "black"
+      },
+      {
+        "#2b1d19": "black"
+      }
+    ],
+    "framenumber": 5565,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_5565.png",
+    "averageColorHSV": [
+      0.06368182161557522,
+      0.2557521483902203,
+      0.2166557009461675
+    ]
+  },
+  {
+    "averageColorRGB": [
+      72.75561342592593,
+      62.03644675925926,
+      55.85314429012346
+    ],
+    "palette": [
+      {
+        "#7e6551": "dimgrey"
+      },
+      {
+        "#443120": "darkslategrey"
+      },
+      {
+        "#584631": "darkolivegreen"
+      },
+      {
+        "#4f3c29": "darkolivegreen"
+      },
+      {
+        "#322316": "black"
+      },
+      {
+        "#30251a": "black"
+      }
+    ],
+    "framenumber": 6658,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_6658.png",
+    "averageColorHSV": [
+      0.06097040634967007,
+      0.2521740347373518,
+      0.13142549104720244
+    ]
+  },
+  {
+    "averageColorRGB": [
+      53.25195216049383,
+      38.78104552469136,
+      28.897283950617286
+    ],
+    "palette": [
+      {
+        "#645141": "darkolivegreen"
+      },
+      {
+        "#4d382a": "darkolivegreen"
+      },
+      {
+        "#673515": "saddlebrown"
+      },
+      {
+        "#49240a": "maroon"
+      },
+      {
+        "#000101": "black"
+      },
+      {
+        "#21180d": "black"
+      }
+    ],
+    "framenumber": 7751,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_7751.png",
+    "averageColorHSV": [
+      0.06763769399293172,
+      0.16107693355119826,
+      0.2964685901270657
+    ]
+  },
+  {
+    "averageColorRGB": [
+      75.80357638888889,
+      51.09940200617284,
+      33.14434413580247
+    ],
+    "palette": [
+      {
+        "#663912": "saddlebrown"
+      },
+      {
+        "#9e5e35": "sienna"
+      },
+      {
+        "#29282b": "darkslategrey"
+      },
+      {
+        "#502d0b": "saddlebrown"
+      },
+      {
+        "#847985": "grey"
+      },
+      {
+        "#7c4616": "saddlebrown"
+      }
+    ],
+    "framenumber": 8844,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_8844.png",
+    "averageColorHSV": [
+      0.07014916788253306,
+      0.21362337357782618,
+      0.3915561861818038
+    ]
+  },
+  {
+    "averageColorRGB": [
+      45.88755015432099,
+      32.79222222222222,
+      30.22788966049383
+    ],
+    "palette": [
+      {
+        "#503b3a": "darkslategrey"
+      },
+      {
+        "#6a5c63": "dimgrey"
+      },
+      {
+        "#23120a": "black"
+      },
+      {
+        "#160806": "black"
+      },
+      {
+        "#1e0e09": "black"
+      },
+      {
+        "#615256": "dimgrey"
+      }
+    ],
+    "framenumber": 9937,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_9937.png",
+    "averageColorHSV": [
+      0.027292338838159125,
+      0.14924596042120553,
+      0.20573566324948472
+    ]
+  },
+  {
+    "averageColorRGB": [
+      30.090520833333333,
+      28.371593364197533,
+      27.644236111111113
+    ],
+    "palette": [
+      {
+        "#2e231d": "black"
+      },
+      {
+        "#1e1f17": "black"
+      },
+      {
+        "#272822": "darkslategrey"
+      },
+      {
+        "#261b15": "black"
+      },
+      {
+        "#09090c": "black"
+      },
+      {
+        "#636669": "dimgrey"
+      }
+    ],
+    "framenumber": 11030,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_11030.png",
+    "averageColorHSV": [
+      0.04955523277667132,
+      0.11320540577342048,
+      0.04237109241797222
+    ]
+  },
+  {
+    "averageColorRGB": [
+      31.949143518518518,
+      30.584934413580246,
+      28.513695987654323
+    ],
+    "palette": [
+      {
+        "#181b16": "black"
+      },
+      {
+        "#556672": "dimgrey"
+      },
+      {
+        "#454f56": "darkslategrey"
+      },
+      {
+        "#313536": "darkslategrey"
+      },
+      {
+        "#262929": "darkslategrey"
+      },
+      {
+        "#1e1f1a": "black"
+      }
+    ],
+    "framenumber": 12123,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_12123.png",
+    "averageColorHSV": [
+      0.10048367824559667,
+      0.11855458726700557,
+      0.05681915634335132
+    ]
+  },
+  {
+    "averageColorRGB": [
+      17.783287037037038,
+      17.672172067901236,
+      15.34676311728395
+    ],
+    "palette": [
+      {
+        "#16170f": "black"
+      },
+      {
+        "#1b1c14": "black"
+      },
+      {
+        "#17160f": "black"
+      },
+      {
+        "#11120a": "black"
+      },
+      {
+        "#181713": "black"
+      },
+      {
+        "#1f1f1a": "black"
+      }
+    ],
+    "framenumber": 13216,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_13216.png",
+    "averageColorHSV": [
+      0.1590660183116485,
+      0.06496088265553135,
+      0.07354422671875446
+    ]
+  },
+  {
+    "averageColorRGB": [
+      41.93058641975309,
+      41.17547839506173,
+      42.153641975308645
+    ],
+    "palette": [
+      {
+        "#1f1e1d": "black"
+      },
+      {
+        "#272523": "darkslategrey"
+      },
+      {
+        "#272526": "darkslategrey"
+      },
+      {
+        "#2e2b30": "darkslategrey"
+      },
+      {
+        "#424146": "darkslategrey"
+      },
+      {
+        "#161813": "black"
+      }
+    ],
+    "framenumber": 14309,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_14309.png",
+    "averageColorHSV": [
+      0.7953274959901137,
+      0.16339043209876544,
+      0.01173855641220373
+    ]
+  },
+  {
+    "averageColorRGB": [
+      41.62954475308642,
+      41.61533564814815,
+      36.95198688271605
+    ],
+    "palette": [
+      {
+        "#38372d": "darkslategrey"
+      },
+      {
+        "#23130b": "black"
+      },
+      {
+        "#76887f": "grey"
+      },
+      {
+        "#2f2c27": "darkslategrey"
+      },
+      {
+        "#788172": "grey"
+      },
+      {
+        "#343025": "darkslategrey"
+      }
+    ],
+    "framenumber": 15402,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_15402.png",
+    "averageColorHSV": [
+      0.16616038021933494,
+      0.15408143458000484,
+      0.05952490073684476
+    ]
+  },
+  {
+    "averageColorRGB": [
+      25.134282407407408,
+      50.87229552469136,
+      66.92925540123457
+    ],
+    "palette": [
+      {
+        "#0a1f29": "black"
+      },
+      {
+        "#163141": "darkslategrey"
+      },
+      {
+        "#030d1a": "black"
+      },
+      {
+        "#102939": "darkslategrey"
+      },
+      {
+        "#1b3c54": "darkslategrey"
+      },
+      {
+        "#254968": "darkslategrey"
+      }
+    ],
+    "framenumber": 16495,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_16495.png",
+    "averageColorHSV": [
+      0.5640306665545428,
+      0.1805167408012588,
+      0.4539796534943053
+    ]
+  },
+  {
+    "averageColorRGB": [
+      107.05784336419754,
+      106.26947916666667,
+      105.1705825617284
+    ],
+    "palette": [
+      {
+        "#302c24": "darkslategrey"
+      },
+      {
+        "#36362f": "darkslategrey"
+      },
+      {
+        "#3a362c": "darkslategrey"
+      },
+      {
+        "#242019": "black"
+      },
+      {
+        "#27261f": "black"
+      },
+      {
+        "#373529": "darkslategrey"
+      }
+    ],
+    "framenumber": 17588,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_17588.png",
+    "averageColorHSV": [
+      0.0970451110502379,
+      0.41613416848220774,
+      0.008892591999564959
+    ]
+  },
+  {
+    "averageColorRGB": [
+      62.345941358024696,
+      56.215771604938276,
+      60.093981481481485
+    ],
+    "palette": [
+      {
+        "#402720": "darkslategrey"
+      },
+      {
+        "#895c5c": "dimgrey"
+      },
+      {
+        "#74879d": "lightslategrey"
+      },
+      {
+        "#3f444d": "darkslategrey"
+      },
+      {
+        "#4e5766": "dimgrey"
+      },
+      {
+        "#4e352f": "darkslategrey"
+      }
+    ],
+    "framenumber": 18681,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_18681.png",
+    "averageColorHSV": [
+      0.8945594757091729,
+      0.2324739469862019,
+      0.051704463438390094
+    ]
+  },
+  {
+    "averageColorRGB": [
+      134.56400848765432,
+      145.8361574074074,
+      146.88368827160494
+    ],
+    "palette": [
+      {
+        "#b9dade": "powderblue"
+      },
+      {
+        "#9cbcc4": "lightsteelblue"
+      },
+      {
+        "#e6f4f7": "aliceblue"
+      },
+      {
+        "#765551": "dimgrey"
+      },
+      {
+        "#25241a": "black"
+      },
+      {
+        "#cfe6eb": "gainsboro"
+      }
+    ],
+    "framenumber": 19774,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_19774.png",
+    "averageColorHSV": [
+      0.5141715109830778,
+      0.551858228939724,
+      0.05390310930699292
+    ]
+  },
+  {
+    "averageColorRGB": [
+      59.52315200617284,
+      37.68788966049383,
+      24.578838734567903
+    ],
+    "palette": [
+      {
+        "#3b3333": "darkslategrey"
+      },
+      {
+        "#341b07": "black"
+      },
+      {
+        "#291204": "black"
+      },
+      {
+        "#39210a": "black"
+      },
+      {
+        "#874d44": "sienna"
+      },
+      {
+        "#402817": "darkslategrey"
+      }
+    ],
+    "framenumber": 20867,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_20867.png",
+    "averageColorHSV": [
+      0.06252353005211336,
+      0.16490586419753087,
+      0.41549924043209596
+    ]
+  },
+  {
+    "averageColorRGB": [
+      35.13017361111111,
+      20.82721836419753,
+      15.767121913580247
+    ],
+    "palette": [
+      {
+        "#522e1c": "saddlebrown"
+      },
+      {
+        "#1f0904": "black"
+      },
+      {
+        "#2a140a": "black"
+      },
+      {
+        "#260f07": "black"
+      },
+      {
+        "#170704": "black"
+      },
+      {
+        "#080000": "black"
+      }
+    ],
+    "framenumber": 21960,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_21960.png",
+    "averageColorHSV": [
+      0.0435545709225037,
+      0.09979861867586541,
+      0.3804338029736264
+    ]
+  },
+  {
+    "averageColorRGB": [
+      136.9266203703704,
+      131.1823726851852,
+      139.49120370370372
+    ],
+    "palette": [
+      {
+        "#cccfdf": "lightgray"
+      },
+      {
+        "#a6aab7": "darkgrey"
+      },
+      {
+        "#190e16": "black"
+      },
+      {
+        "#dbe4fa": "lavender"
+      },
+      {
+        "#eae6f3": "lavender"
+      },
+      {
+        "#130b15": "black"
+      }
+    ],
+    "framenumber": 23053,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_23053.png",
+    "averageColorHSV": [
+      0.7818904101829034,
+      0.5307325027233116,
+      0.03471756646487063
+    ]
+  },
+  {
+    "averageColorRGB": [
+      61.58158950617284,
+      46.72692901234568,
+      40.986037808641974
+    ],
+    "palette": [
+      {
+        "#080102": "black"
+      },
+      {
+        "#825144": "sienna"
+      },
+      {
+        "#645241": "darkolivegreen"
+      },
+      {
+        "#010003": "black"
+      },
+      {
+        "#2d0c0a": "black"
+      },
+      {
+        "#1a1717": "black"
+      }
+    ],
+    "framenumber": 24146,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_24146.png",
+    "averageColorHSV": [
+      0.04645737170187061,
+      0.201112994734931,
+      0.20079972830331866
+    ]
+  },
+  {
+    "averageColorRGB": [
+      77.82372299382716,
+      75.70275848765432,
+      75.11410108024691
+    ],
+    "palette": [
+      {
+        "#431d15": "maroon"
+      },
+      {
+        "#140604": "black"
+      },
+      {
+        "#97aabc": "darkgrey"
+      },
+      {
+        "#030206": "black"
+      },
+      {
+        "#010003": "black"
+      },
+      {
+        "#7e8c9a": "lightslategrey"
+      }
+    ],
+    "framenumber": 25239,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_25239.png",
+    "averageColorHSV": [
+      0.03620784413114014,
+      0.2998780864197531,
+      0.01771714701699859
+    ]
+  },
+  {
+    "averageColorRGB": [
+      50.827600308641976,
+      53.733333333333334,
+      59.525351080246914
+    ],
+    "palette": [
+      {
+        "#20262f": "darkslategrey"
+      },
+      {
+        "#72869a": "lightslategrey"
+      },
+      {
+        "#191d25": "black"
+      },
+      {
+        "#5c6976": "dimgrey"
+      },
+      {
+        "#141820": "black"
+      },
+      {
+        "#13171b": "black"
+      }
+    ],
+    "framenumber": 26332,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_26332.png",
+    "averageColorHSV": [
+      0.6109868880473953,
+      0.21637833605664486,
+      0.07881756366400805
+    ]
+  },
+  {
+    "averageColorRGB": [
+      80.29990354938272,
+      84.20207561728395,
+      84.76246913580248
+    ],
+    "palette": [
+      {
+        "#bfe3e6": "powderblue"
+      },
+      {
+        "#6f776c": "dimgrey"
+      },
+      {
+        "#86a9ad": "darkgrey"
+      },
+      {
+        "#7e8e88": "grey"
+      },
+      {
+        "#d1e8e6": "gainsboro"
+      },
+      {
+        "#77827c": "grey"
+      }
+    ],
+    "framenumber": 27425,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_27425.png",
+    "averageColorHSV": [
+      0.5209294223119797,
+      0.32365171114742197,
+      0.02703563212998867
+    ]
+  },
+  {
+    "averageColorRGB": [
+      32.34211419753086,
+      20.294807098765432,
+      12.028572530864198
+    ],
+    "palette": [
+      {
+        "#492f14": "darkolivegreen"
+      },
+      {
+        "#533916": "darkolivegreen"
+      },
+      {
+        "#1e0b05": "black"
+      },
+      {
+        "#290f08": "black"
+      },
+      {
+        "#311d0b": "black"
+      },
+      {
+        "#140804": "black"
+      }
+    ],
+    "framenumber": 28518,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_28518.png",
+    "averageColorHSV": [
+      0.06782203635014604,
+      0.08700134652626482,
+      0.45781445283935607
+    ]
+  },
+  {
+    "averageColorRGB": [
+      48.62802469135803,
+      31.808171296296297,
+      21.00179012345679
+    ],
+    "palette": [
+      {
+        "#1d0b05": "black"
+      },
+      {
+        "#4d3116": "darkolivegreen"
+      },
+      {
+        "#401c0f": "maroon"
+      },
+      {
+        "#543e2a": "darkolivegreen"
+      },
+      {
+        "#472c1a": "darkolivegreen"
+      },
+      {
+        "#2e1a0d": "black"
+      }
+    ],
+    "framenumber": 29611,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_29611.png",
+    "averageColorHSV": [
+      0.06519395628744967,
+      0.13652904865649965,
+      0.39675869656375023
+    ]
+  },
+  {
+    "averageColorRGB": [
+      45.08980324074074,
+      33.088815586419756,
+      25.99476466049383
+    ],
+    "palette": [
+      {
+        "#250d05": "black"
+      },
+      {
+        "#2e2519": "black"
+      },
+      {
+        "#493f33": "darkslategrey"
+      },
+      {
+        "#8e7971": "grey"
+      },
+      {
+        "#3c2716": "darkslategrey"
+      },
+      {
+        "#070000": "black"
+      }
+    ],
+    "framenumber": 30704,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_30704.png",
+    "averageColorHSV": [
+      0.06191879717963711,
+      0.13938150568869523,
+      0.2686242477660932
+    ]
+  },
+  {
+    "averageColorRGB": [
+      30.325752314814814,
+      39.27225308641975,
+      38.16528549382716
+    ],
+    "palette": [
+      {
+        "#29433d": "darkslategrey"
+      },
+      {
+        "#273537": "darkslategrey"
+      },
+      {
+        "#051414": "black"
+      },
+      {
+        "#314c53": "darkslategrey"
+      },
+      {
+        "#000002": "black"
+      },
+      {
+        "#040d09": "black"
+      }
+    ],
+    "framenumber": 31797,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_31797.png",
+    "averageColorHSV": [
+      0.4793780156649632,
+      0.1364666772573227,
+      0.12854536160954752
+    ]
+  },
+  {
+    "averageColorRGB": [
+      20.63863040123457,
+      16.107461419753086,
+      9.23172839506173
+    ],
+    "palette": [
+      {
+        "#312f1e": "darkslategrey"
+      },
+      {
+        "#2a271a": "black"
+      },
+      {
+        "#252115": "black"
+      },
+      {
+        "#060100": "black"
+      },
+      {
+        "#090200": "black"
+      },
+      {
+        "#1b170f": "black"
+      }
+    ],
+    "framenumber": 32890,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_32890.png",
+    "averageColorHSV": [
+      0.10046158926368376,
+      0.058569330973129996,
+      0.3818803143264289
+    ]
+  },
+  {
+    "averageColorRGB": [
+      38.27722222222222,
+      43.51038580246914,
+      45.224197530864195
+    ],
+    "palette": [
+      {
+        "#2e3935": "darkslategrey"
+      },
+      {
+        "#000002": "black"
+      },
+      {
+        "#61757b": "dimgrey"
+      },
+      {
+        "#010005": "black"
+      },
+      {
+        "#323d3f": "darkslategrey"
+      },
+      {
+        "#515f63": "dimgrey"
+      }
+    ],
+    "framenumber": 33983,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_33983.png",
+    "averageColorHSV": [
+      0.5411164968026466,
+      0.16372827402565965,
+      0.08319589450316134
+    ]
+  },
+  {
+    "averageColorRGB": [
+      35.86302854938272,
+      42.18233796296296,
+      44.94979552469136
+    ],
+    "palette": [
+      {
+        "#000007": "black"
+      },
+      {
+        "#1f2d2e": "darkslategrey"
+      },
+      {
+        "#578095": "slategrey"
+      },
+      {
+        "#364f55": "darkslategrey"
+      },
+      {
+        "#2c4347": "darkslategrey"
+      },
+      {
+        "#476974": "dimgrey"
+      }
+    ],
+    "framenumber": 35076,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_35076.png",
+    "averageColorHSV": [
+      0.5507598498132573,
+      0.1584565177923021,
+      0.11244214120001046
+    ]
+  },
+  {
+    "averageColorRGB": [
+      35.731373456790124,
+      38.0367862654321,
+      42.48102237654321
+    ],
+    "palette": [
+      {
+        "#020106": "black"
+      },
+      {
+        "#000002": "black"
+      },
+      {
+        "#010005": "black"
+      },
+      {
+        "#3a4249": "darkslategrey"
+      },
+      {
+        "#2f363b": "darkslategrey"
+      },
+      {
+        "#576982": "dimgrey"
+      }
+    ],
+    "framenumber": 36169,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_36169.png",
+    "averageColorHSV": [
+      0.6097399327468449,
+      0.15335763888888887,
+      0.08629896639576479
+    ]
+  },
+  {
+    "averageColorRGB": [
+      42.04147762345679,
+      45.54255787037037,
+      46.890979938271606
+    ],
+    "palette": [
+      {
+        "#454b49": "darkslategrey"
+      },
+      {
+        "#333e39": "darkslategrey"
+      },
+      {
+        "#000002": "black"
+      },
+      {
+        "#414c48": "darkslategrey"
+      },
+      {
+        "#546164": "dimgrey"
+      },
+      {
+        "#475252": "darkslategrey"
+      }
+    ],
+    "framenumber": 37262,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_37262.png",
+    "averageColorHSV": [
+      0.5463422835432657,
+      0.1743773677680949,
+      0.05453017320980645
+    ]
+  },
+  {
+    "averageColorRGB": [
+      11.488672839506172,
+      9.372762345679012,
+      6.872770061728395
+    ],
+    "palette": [
+      {
+        "#0a0804": "black"
+      },
+      {
+        "#020200": "black"
+      },
+      {
+        "#030300": "black"
+      },
+      {
+        "#010100": "black"
+      },
+      {
+        "#040401": "black"
+      },
+      {
+        "#020000": "black"
+      }
+    ],
+    "framenumber": 38355,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_38355.png",
+    "averageColorHSV": [
+      0.09026736495932663,
+      0.03600282921810699,
+      0.2513910700050386
+    ]
+  },
+  {
+    "averageColorRGB": [
+      47.855513117283955,
+      41.57241512345679,
+      43.69904706790123
+    ],
+    "palette": [
+      {
+        "#4c5872": "dimgrey"
+      },
+      {
+        "#592812": "saddlebrown"
+      },
+      {
+        "#7a8e96": "lightslategrey"
+      },
+      {
+        "#441b0b": "maroon"
+      },
+      {
+        "#394050": "darkslategrey"
+      },
+      {
+        "#889aa6": "lightslategrey"
+      }
+    ],
+    "framenumber": 39448,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_39448.png",
+    "averageColorHSV": [
+      0.9435885517374349,
+      0.17534887890341322,
+      0.07025878959102137
+    ]
+  },
+  {
+    "averageColorRGB": [
+      28.802773919753086,
+      30.604957561728394,
+      33.02148919753086
+    ],
+    "palette": [
+      {
+        "#1c2023": "black"
+      },
+      {
+        "#161b1d": "black"
+      },
+      {
+        "#23302f": "darkslategrey"
+      },
+      {
+        "#0b1016": "black"
+      },
+      {
+        "#0c1212": "black"
+      },
+      {
+        "#080c12": "black"
+      }
+    ],
+    "framenumber": 40541,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_40541.png",
+    "averageColorHSV": [
+      0.5954687022267827,
+      0.12122404532800775,
+      0.06823721084672935
+    ]
+  },
+  {
+    "averageColorRGB": [
+      62.01058641975309,
+      59.53264660493827,
+      58.35621913580247
+    ],
+    "palette": [
+      {
+        "#2a405d": "darkslategrey"
+      },
+      {
+        "#f1dec4": "bisque"
+      },
+      {
+        "#5a779b": "slategrey"
+      },
+      {
+        "#415876": "darkslateblue"
+      },
+      {
+        "#736051": "dimgrey"
+      },
+      {
+        "#a79179": "rosybrown"
+      }
+    ],
+    "framenumber": 41634,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_41634.png",
+    "averageColorHSV": [
+      0.053653951456132866,
+      0.23601334422657955,
+      0.030360258105079824
+    ]
+  },
+  {
+    "averageColorRGB": [
+      35.42092206790124,
+      25.463344907407407,
+      11.969625771604939
+    ],
+    "palette": [
+      {
+        "#3f2a0f": "darkslategrey"
+      },
+      {
+        "#170d06": "black"
+      },
+      {
+        "#231906": "black"
+      },
+      {
+        "#33230b": "black"
+      },
+      {
+        "#4d3715": "darkolivegreen"
+      },
+      {
+        "#2d1d08": "black"
+      }
+    ],
+    "framenumber": 42727,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_42727.png",
+    "averageColorHSV": [
+      0.09589888596715195,
+      0.09292264282256113,
+      0.49485176613102155
+    ]
+  },
+  {
+    "averageColorRGB": [
+      30.04630401234568,
+      22.385771604938274,
+      17.917002314814816
+    ],
+    "palette": [
+      {
+        "#090202": "black"
+      },
+      {
+        "#030102": "black"
+      },
+      {
+        "#020001": "black"
+      },
+      {
+        "#3b2b17": "darkslategrey"
+      },
+      {
+        "#25170a": "black"
+      },
+      {
+        "#322213": "black"
+      }
+    ],
+    "framenumber": 43820,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_43820.png",
+    "averageColorHSV": [
+      0.0614045969224147,
+      0.09404569868070685,
+      0.2528871052966239
+    ]
+  },
+  {
+    "averageColorRGB": [
+      33.571539351851854,
+      23.727025462962963,
+      12.906450617283951
+    ],
+    "palette": [
+      {
+        "#36250f": "black"
+      },
+      {
+        "#211709": "black"
+      },
+      {
+        "#2b1f0d": "black"
+      },
+      {
+        "#1f1408": "black"
+      },
+      {
+        "#2a1c0b": "black"
+      },
+      {
+        "#34260d": "black"
+      }
+    ],
+    "framenumber": 44913,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_44913.png",
+    "averageColorHSV": [
+      0.08726936351982768,
+      0.09113331366497215,
+      0.4446209646391931
+    ]
+  },
+  {
+    "averageColorRGB": [
+      57.37103009259259,
+      59.52726851851852,
+      60.989324845679015
+    ],
+    "palette": [
+      {
+        "#49535e": "darkslategrey"
+      },
+      {
+        "#45474b": "darkslategrey"
+      },
+      {
+        "#222b2c": "darkslategrey"
+      },
+      {
+        "#44423f": "darkslategrey"
+      },
+      {
+        "#1c2121": "black"
+      },
+      {
+        "#292c30": "darkslategrey"
+      }
+    ],
+    "framenumber": 46006,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_46006.png",
+    "averageColorHSV": [
+      0.5673455511933881,
+      0.23207912732994432,
+      0.03057015801425629
+    ]
+  },
+  {
+    "averageColorRGB": [
+      109.43319830246914,
+      103.44510030864198,
+      96.30824074074074
+    ],
+    "palette": [
+      {
+        "#9e9fa9": "darkgrey"
+      },
+      {
+        "#bfbdc9": "silver"
+      },
+      {
+        "#2f231a": "black"
+      },
+      {
+        "#3a2d25": "darkslategrey"
+      },
+      {
+        "#373b1e": "darkslategrey"
+      },
+      {
+        "#4e5034": "darkolivegreen"
+      }
+    ],
+    "framenumber": 47099,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_47099.png",
+    "averageColorHSV": [
+      0.09062708119671574,
+      0.40341458635923505,
+      0.06379345659661637
+    ]
+  },
+  {
+    "averageColorRGB": [
+      79.23351466049382,
+      74.16429783950618,
+      73.29504243827161
+    ],
+    "palette": [
+      {
+        "#755f55": "dimgrey"
+      },
+      {
+        "#85746c": "grey"
+      },
+      {
+        "#150f0f": "black"
+      },
+      {
+        "#080a0d": "black"
+      },
+      {
+        "#87909e": "lightslategrey"
+      },
+      {
+        "#675c4c": "dimgrey"
+      }
+    ],
+    "framenumber": 48192,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_48192.png",
+    "averageColorHSV": [
+      0.024396156921240475,
+      0.29907560215444207,
+      0.038933510781046225
+    ]
+  },
+  {
+    "averageColorRGB": [
+      8.922229938271606,
+      19.1032600308642,
+      32.5155362654321
+    ],
+    "palette": [
+      {
+        "#000007": "black"
+      },
+      {
+        "#010a15": "black"
+      },
+      {
+        "#000002": "black"
+      },
+      {
+        "#182e51": "midnightblue"
+      },
+      {
+        "#041324": "black"
+      },
+      {
+        "#1e3f65": "darkslategrey"
+      }
+    ],
+    "framenumber": 49285,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_49285.png",
+    "averageColorHSV": [
+      0.5947463378566243,
+      0.08125052196804647,
+      0.5693672340149388
+    ]
+  },
+  {
+    "averageColorRGB": [
+      19.853912037037038,
+      23.245987654320988,
+      27.50513117283951
+    ],
+    "palette": [
+      {
+        "#0a0b0d": "black"
+      },
+      {
+        "#16242d": "darkslategrey"
+      },
+      {
+        "#000002": "black"
+      },
+      {
+        "#070b0e": "black"
+      },
+      {
+        "#0b1217": "black"
+      },
+      {
+        "#010003": "black"
+      }
+    ],
+    "framenumber": 50378,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_50378.png",
+    "averageColorHSV": [
+      0.5927770124586779,
+      0.09286086903897361,
+      0.16155772197287213
+    ]
+  },
+  {
+    "averageColorRGB": [
+      7.988526234567901,
+      19.165605709876544,
+      30.22797453703704
+    ],
+    "palette": [
+      {
+        "#000e1d": "black"
+      },
+      {
+        "#010a17": "black"
+      },
+      {
+        "#030c15": "black"
+      },
+      {
+        "#00040a": "black"
+      },
+      {
+        "#000307": "black"
+      },
+      {
+        "#081b2a": "black"
+      }
+    ],
+    "framenumber": 51471,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_51471.png",
+    "averageColorHSV": [
+      0.5829035015969971,
+      0.07493431523844106,
+      0.5819331402259926
+    ]
+  },
+  {
+    "averageColorRGB": [
+      10.965200617283951,
+      14.86931712962963,
+      15.68945987654321
+    ],
+    "palette": [
+      {
+        "#050b05": "black"
+      },
+      {
+        "#080e08": "black"
+      },
+      {
+        "#12191c": "black"
+      },
+      {
+        "#1f2830": "darkslategrey"
+      },
+      {
+        "#091213": "black"
+      },
+      {
+        "#0b110d": "black"
+      }
+    ],
+    "framenumber": 52564,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_52564.png",
+    "averageColorHSV": [
+      0.5289337333786297,
+      0.05226404018397483,
+      0.17723952103435456
+    ]
+  },
+  {
+    "averageColorRGB": [
+      11.402685185185186,
+      17.458715277777777,
+      32.080358796296295
+    ],
+    "palette": [
+      {
+        "#0c1522": "black"
+      },
+      {
+        "#09101e": "black"
+      },
+      {
+        "#0b0f1e": "black"
+      },
+      {
+        "#0e1626": "black"
+      },
+      {
+        "#050a14": "black"
+      },
+      {
+        "#0d1324": "black"
+      }
+    ],
+    "framenumber": 53657,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_53657.png",
+    "averageColorHSV": [
+      0.6178537117981332,
+      0.08526087055192447,
+      0.4755341787920206
+    ]
+  },
+  {
+    "averageColorRGB": [
+      36.12304783950617,
+      35.53137731481482,
+      28.488171296296297
+    ],
+    "palette": [
+      {
+        "#201f11": "black"
+      },
+      {
+        "#353326": "darkslategrey"
+      },
+      {
+        "#14150a": "black"
+      },
+      {
+        "#3d3c31": "darkslategrey"
+      },
+      {
+        "#191a0f": "black"
+      },
+      {
+        "#2f3023": "darkslategrey"
+      }
+    ],
+    "framenumber": 54750,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_54750.png",
+    "averageColorHSV": [
+      0.15375070744229305,
+      0.1266886649721617,
+      0.11816642133253333
+    ]
+  },
+  {
+    "averageColorRGB": [
+      14.817233796296296,
+      14.643445216049383,
+      16.6266975308642
+    ],
+    "palette": [
+      {
+        "#4a3934": "darkslategrey"
+      },
+      {
+        "#020104": "black"
+      },
+      {
+        "#0f1418": "black"
+      },
+      {
+        "#000002": "black"
+      },
+      {
+        "#010003": "black"
+      },
+      {
+        "#0e1821": "black"
+      }
+    ],
+    "framenumber": 55843,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_55843.png",
+    "averageColorHSV": [
+      0.6812713456367202,
+      0.061314005386105055,
+      0.06342319351933771
+    ]
+  },
+  {
+    "averageColorRGB": [
+      24.77253086419753,
+      18.9915625,
+      19.144452160493827
+    ],
+    "palette": [
+      {
+        "#170603": "black"
+      },
+      {
+        "#070000": "black"
+      },
+      {
+        "#30190c": "black"
+      },
+      {
+        "#241109": "black"
+      },
+      {
+        "#0b0000": "black"
+      },
+      {
+        "#1a0904": "black"
+      }
+    ],
+    "framenumber": 56936,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_56936.png",
+    "averageColorHSV": [
+      0.9955921554180929,
+      0.08581194777293633,
+      0.13209386782194413
+    ]
+  },
+  {
+    "averageColorRGB": [
+      58.80084104938272,
+      59.27922839506173,
+      67.74295910493828
+    ],
+    "palette": [
+      {
+        "#5c647c": "dimgrey"
+      },
+      {
+        "#332015": "black"
+      },
+      {
+        "#3e4452": "darkslategrey"
+      },
+      {
+        "#616d85": "slategrey"
+      },
+      {
+        "#72798f": "slategrey"
+      },
+      {
+        "#160e08": "black"
+      }
+    ],
+    "framenumber": 58029,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_58029.png",
+    "averageColorHSV": [
+      0.6577502976605228,
+      0.24812509834180585,
+      0.07066421306022566
+    ]
+  },
+  {
+    "averageColorRGB": [
+      32.59821759259259,
+      23.33698302469136,
+      22.045895061728395
+    ],
+    "palette": [
+      {
+        "#24110a": "black"
+      },
+      {
+        "#545b67": "dimgrey"
+      },
+      {
+        "#1a0a05": "black"
+      },
+      {
+        "#3d1d12": "black"
+      },
+      {
+        "#2d1208": "black"
+      },
+      {
+        "#1f0e09": "black"
+      }
+    ],
+    "framenumber": 59122,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_59122.png",
+    "averageColorHSV": [
+      0.020391845163101923,
+      0.10714531893004114,
+      0.19310996223176422
+    ]
+  },
+  {
+    "averageColorRGB": [
+      34.30511959876543,
+      27.18323688271605,
+      29.306597222222223
+    ],
+    "palette": [
+      {
+        "#090304": "black"
+      },
+      {
+        "#120f13": "black"
+      },
+      {
+        "#060102": "black"
+      },
+      {
+        "#0d0a0e": "black"
+      },
+      {
+        "#0d0606": "black"
+      },
+      {
+        "#0a080c": "black"
+      }
+    ],
+    "framenumber": 60215,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_60215.png",
+    "averageColorHSV": [
+      0.9503090118122577,
+      0.12056540486564996,
+      0.11582489960020788
+    ]
+  },
+  {
+    "averageColorRGB": [
+      71.14407407407407,
+      65.27578703703703,
+      63.15986111111111
+    ],
+    "palette": [
+      {
+        "#271d1a": "black"
+      },
+      {
+        "#635854": "dimgrey"
+      },
+      {
+        "#332824": "darkslategrey"
+      },
+      {
+        "#342c28": "darkslategrey"
+      },
+      {
+        "#0e0706": "black"
+      },
+      {
+        "#423833": "darkslategrey"
+      }
+    ],
+    "framenumber": 61308,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_61308.png",
+    "averageColorHSV": [
+      0.04416895223405731,
+      0.2633410493827161,
+      0.05944883857612896
+    ]
+  },
+  {
+    "averageColorRGB": [
+      41.43468364197531,
+      39.92882716049383,
+      42.624972993827164
+    ],
+    "palette": [
+      {
+        "#bac2d5": "lightsteelblue"
+      },
+      {
+        "#7a7a8b": "slategrey"
+      },
+      {
+        "#08090b": "black"
+      },
+      {
+        "#010205": "black"
+      },
+      {
+        "#675149": "dimgrey"
+      },
+      {
+        "#000104": "black"
+      }
+    ],
+    "framenumber": 62401,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_62401.png",
+    "averageColorHSV": [
+      0.7597536492564118,
+      0.16187019638102157,
+      0.0326592576997464
+    ]
+  },
+  {
+    "averageColorRGB": [
+      32.48689043209877,
+      24.104274691358025,
+      21.017561728395062
+    ],
+    "palette": [
+      {
+        "#1a0b07": "black"
+      },
+      {
+        "#28110a": "black"
+      },
+      {
+        "#150704": "black"
+      },
+      {
+        "#0a0a07": "black"
+      },
+      {
+        "#33180d": "black"
+      },
+      {
+        "#322318": "black"
+      }
+    ],
+    "framenumber": 63494,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_63494.png",
+    "averageColorHSV": [
+      0.044854600803942345,
+      0.10491069051077222,
+      0.21436213699188816
+    ]
+  },
+  {
+    "averageColorRGB": [
+      42.15728009259259,
+      27.78213348765432,
+      20.60418209876543
+    ],
+    "palette": [
+      {
+        "#ad7053": "indianred"
+      },
+      {
+        "#0d0a05": "black"
+      },
+      {
+        "#582a15": "saddlebrown"
+      },
+      {
+        "#3b1809": "black"
+      },
+      {
+        "#96593e": "sienna"
+      },
+      {
+        "#763a22": "saddlebrown"
+      }
+    ],
+    "framenumber": 64587,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_64587.png",
+    "averageColorHSV": [
+      0.05550595240758943,
+      0.12306169057129024,
+      0.3434129359209692
+    ]
+  },
+  {
+    "averageColorRGB": [
+      12.378109567901236,
+      17.048850308641974,
+      24.466998456790122
+    ],
+    "palette": [
+      {
+        "#000003": "black"
+      },
+      {
+        "#0a1119": "black"
+      },
+      {
+        "#000002": "black"
+      },
+      {
+        "#0f1a23": "black"
+      },
+      {
+        "#000005": "black"
+      },
+      {
+        "#1c2631": "darkslategrey"
+      }
+    ],
+    "framenumber": 65680,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_65680.png",
+    "averageColorHSV": [
+      0.6022722630718954,
+      0.072245309852336,
+      0.3281002427998758
+    ]
+  },
+  {
+    "averageColorRGB": [
+      22.28962577160494,
+      35.85916666666667,
+      44.55783179012346
+    ],
+    "palette": [
+      {
+        "#070e0e": "black"
+      },
+      {
+        "#2f4039": "darkslategrey"
+      },
+      {
+        "#16232a": "black"
+      },
+      {
+        "#4a7fb2": "steelblue"
+      },
+      {
+        "#315981": "darkslateblue"
+      },
+      {
+        "#213846": "darkslategrey"
+      }
+    ],
+    "framenumber": 66773,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_66773.png",
+    "averageColorHSV": [
+      0.5651052679937701,
+      0.13107344619946745,
+      0.3331197151059272
+    ]
+  },
+  {
+    "averageColorRGB": [
+      17.499375,
+      11.425590277777777,
+      9.112654320987655
+    ],
+    "palette": [
+      {
+        "#150302": "black"
+      },
+      {
+        "#060000": "black"
+      },
+      {
+        "#090000": "black"
+      },
+      {
+        "#000101": "black"
+      },
+      {
+        "#0b0000": "black"
+      },
+      {
+        "#0e0000": "black"
+      }
+    ],
+    "framenumber": 67866,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_67866.png",
+    "averageColorHSV": [
+      0.04596425001924396,
+      0.0521804496489954,
+      0.3151477317965426
+    ]
+  },
+  {
+    "averageColorRGB": [
+      34.97649305555556,
+      41.16430555555556,
+      55.06317901234568
+    ],
+    "palette": [
+      {
+        "#3b5b92": "darkslateblue"
+      },
+      {
+        "#21130b": "black"
+      },
+      {
+        "#130807": "black"
+      },
+      {
+        "#190f0a": "black"
+      },
+      {
+        "#2c4067": "darkslategrey"
+      },
+      {
+        "#170d0a": "black"
+      }
+    ],
+    "framenumber": 68959,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_68959.png",
+    "averageColorHSV": [
+      0.6153240964909871,
+      0.1765483766037279,
+      0.2230870625743976
+    ]
+  },
+  {
+    "averageColorRGB": [
+      11.947002314814815,
+      29.66468364197531,
+      51.09253858024692
+    ],
+    "palette": [
+      {
+        "#030b13": "black"
+      },
+      {
+        "#19468b": "darkslateblue"
+      },
+      {
+        "#04101c": "black"
+      },
+      {
+        "#071523": "black"
+      },
+      {
+        "#0a2336": "midnightblue"
+      },
+      {
+        "#081925": "black"
+      }
+    ],
+    "framenumber": 70052,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_70052.png",
+    "averageColorHSV": [
+      0.5912315808413714,
+      0.12360694293149359,
+      0.6209679783454547
+    ]
+  },
+  {
+    "averageColorRGB": [
+      31.945204475308643,
+      23.80812114197531,
+      19.195119598765434
+    ],
+    "palette": [
+      {
+        "#050500": "black"
+      },
+      {
+        "#5e2f1e": "saddlebrown"
+      },
+      {
+        "#3a1d12": "black"
+      },
+      {
+        "#030300": "black"
+      },
+      {
+        "#0f0b04": "black"
+      },
+      {
+        "#040401": "black"
+      }
+    ],
+    "framenumber": 71145,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_71145.png",
+    "averageColorHSV": [
+      0.06030027234951433,
+      0.1002751452432825,
+      0.24931568400066026
+    ]
+  },
+  {
+    "averageColorRGB": [
+      38.84016589506173,
+      30.202033179012346,
+      26.930632716049384
+    ],
+    "palette": [
+      {
+        "#040405": "black"
+      },
+      {
+        "#37120c": "black"
+      },
+      {
+        "#a68c82": "rosybrown"
+      },
+      {
+        "#11110f": "black"
+      },
+      {
+        "#7c5e51": "dimgrey"
+      },
+      {
+        "#442b23": "darkslategrey"
+      }
+    ],
+    "framenumber": 72238,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_72238.png",
+    "averageColorHSV": [
+      0.04578125794675717,
+      0.12896235021786492,
+      0.18107630484207607
+    ]
+  },
+  {
+    "averageColorRGB": [
+      35.3563387345679,
+      23.470077160493826,
+      20.892260802469135
+    ],
+    "palette": [
+      {
+        "#180d14": "black"
+      },
+      {
+        "#492316": "maroon"
+      },
+      {
+        "#2c1a26": "black"
+      },
+      {
+        "#24160b": "black"
+      },
+      {
+        "#0f080a": "black"
+      },
+      {
+        "#0f0902": "black"
+      }
+    ],
+    "framenumber": 73331,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_73331.png",
+    "averageColorHSV": [
+      0.02970366045369068,
+      0.11029137164124908,
+      0.2571455654211419
+    ]
+  },
+  {
+    "averageColorRGB": [
+      40.847449845679016,
+      30.552874228395062,
+      25.153487654320987
+    ],
+    "palette": [
+      {
+        "#170d06": "black"
+      },
+      {
+        "#0f0904": "black"
+      },
+      {
+        "#0d0603": "black"
+      },
+      {
+        "#130906": "black"
+      },
+      {
+        "#c49e7d": "rosybrown"
+      },
+      {
+        "#45291d": "darkslategrey"
+      }
+    ],
+    "framenumber": 74424,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_74424.png",
+    "averageColorHSV": [
+      0.05734038041975235,
+      0.1294136029411765,
+      0.23778392831704886
+    ]
+  },
+  {
+    "averageColorRGB": [
+      18.27258487654321,
+      16.238865740740742,
+      14.66173611111111
+    ],
+    "palette": [
+      {
+        "#111110": "black"
+      },
+      {
+        "#0a1111": "black"
+      },
+      {
+        "#000101": "black"
+      },
+      {
+        "#010303": "black"
+      },
+      {
+        "#000202": "black"
+      },
+      {
+        "#020404": "black"
+      }
+    ],
+    "framenumber": 75517,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_75517.png",
+    "averageColorHSV": [
+      0.07279588688067085,
+      0.06457709997579278,
+      0.1096378688598333
+    ]
+  },
+  {
+    "averageColorRGB": [
+      17.95332561728395,
+      14.522264660493828,
+      14.072141203703705
+    ],
+    "palette": [
+      {
+        "#1e0e06": "black"
+      },
+      {
+        "#0c0603": "black"
+      },
+      {
+        "#170b06": "black"
+      },
+      {
+        "#020001": "black"
+      },
+      {
+        "#0a0400": "black"
+      },
+      {
+        "#120700": "black"
+      }
+    ],
+    "framenumber": 76610,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_76610.png",
+    "averageColorHSV": [
+      0.01932929954814583,
+      0.06279503298232873,
+      0.12119056484874534
+    ]
+  },
+  {
+    "averageColorRGB": [
+      48.37319058641975,
+      45.42275462962963,
+      41.826149691358026
+    ],
+    "palette": [
+      {
+        "#2e2d22": "darkslategrey"
+      },
+      {
+        "#100f0a": "black"
+      },
+      {
+        "#545149": "darkolivegreen"
+      },
+      {
+        "#1e1e18": "black"
+      },
+      {
+        "#353229": "darkslategrey"
+      },
+      {
+        "#080907": "black"
+      }
+    ],
+    "framenumber": 77703,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_77703.png",
+    "averageColorHSV": [
+      0.09155802842635963,
+      0.17686145152505447,
+      0.07258413282069988
+    ]
+  },
+  {
+    "averageColorRGB": [
+      75.80422067901235,
+      69.34800540123457,
+      66.24282021604938
+    ],
+    "palette": [
+      {
+        "#563127": "darkolivegreen"
+      },
+      {
+        "#cbe3ea": "gainsboro"
+      },
+      {
+        "#271d1c": "black"
+      },
+      {
+        "#84534a": "sienna"
+      },
+      {
+        "#daecef": "lavender"
+      },
+      {
+        "#32332f": "darkslategrey"
+      }
+    ],
+    "framenumber": 78796,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_78796.png",
+    "averageColorHSV": [
+      0.05412709845197263,
+      0.27852360959816025,
+      0.06731150753099129
+    ]
+  },
+  {
+    "averageColorRGB": [
+      7.005327932098766,
+      23.472199074074073,
+      68.21853395061729
+    ],
+    "palette": [
+      {
+        "#081d4e": "midnightblue"
+      },
+      {
+        "#06163c": "midnightblue"
+      },
+      {
+        "#00010c": "black"
+      },
+      {
+        "#0c2668": "midnightblue"
+      },
+      {
+        "#041033": "black"
+      },
+      {
+        "#000009": "black"
+      }
+    ],
+    "framenumber": 79889,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_79889.png",
+    "averageColorHSV": [
+      0.6218319209937757,
+      0.14749776839748246,
+      0.8137471872151153
+    ]
+  },
+  {
+    "averageColorRGB": [
+      41.20138888888889,
+      28.235015432098766,
+      13.217476851851853
+    ],
+    "palette": [
+      {
+        "#150f06": "black"
+      },
+      {
+        "#251505": "black"
+      },
+      {
+        "#151109": "black"
+      },
+      {
+        "#3d1f06": "black"
+      },
+      {
+        "#543b1a": "darkolivegreen"
+      },
+      {
+        "#2d1806": "black"
+      }
+    ],
+    "framenumber": 80982,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_80982.png",
+    "averageColorHSV": [
+      0.08944150100940747,
+      0.10670365831517793,
+      0.5142318138411116
+    ]
+  },
+  {
+    "averageColorRGB": [
+      129.61262345679012,
+      128.16059027777777,
+      121.43697145061729
+    ],
+    "palette": [
+      {
+        "#191910": "black"
+      },
+      {
+        "#3c3123": "darkslategrey"
+      },
+      {
+        "#3c3b2f": "darkslategrey"
+      },
+      {
+        "#2c2d23": "darkslategrey"
+      },
+      {
+        "#281d14": "black"
+      },
+      {
+        "#080b05": "black"
+      }
+    ],
+    "framenumber": 82075,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_82075.png",
+    "averageColorHSV": [
+      0.13706590459256243,
+      0.4922541076615832,
+      0.03256588408034755
+    ]
+  },
+  {
+    "averageColorRGB": [
+      95.12463348765432,
+      87.33385030864197,
+      83.43614197530864
+    ],
+    "palette": [
+      {
+        "#191a15": "black"
+      },
+      {
+        "#22201b": "black"
+      },
+      {
+        "#b6bfc4": "silver"
+      },
+      {
+        "#34190c": "black"
+      },
+      {
+        "#849194": "lightslategrey"
+      },
+      {
+        "#412214": "maroon"
+      }
+    ],
+    "framenumber": 83168,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_83168.png",
+    "averageColorHSV": [
+      0.055577578583978215,
+      0.3501191675744372,
+      0.0654594576106671
+    ]
+  },
+  {
+    "averageColorRGB": [
+      108.59066743827161,
+      93.92469907407407,
+      88.43521219135803
+    ],
+    "palette": [
+      {
+        "#35150c": "black"
+      },
+      {
+        "#371e17": "black"
+      },
+      {
+        "#996d5c": "grey"
+      },
+      {
+        "#3d1c0f": "black"
+      },
+      {
+        "#432413": "maroon"
+      },
+      {
+        "#2c100a": "black"
+      }
+    ],
+    "framenumber": 84261,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_84261.png",
+    "averageColorHSV": [
+      0.04539289583115591,
+      0.38632525417574437,
+      0.10229851674714974
+    ]
+  },
+  {
+    "averageColorRGB": [
+      25.82758101851852,
+      29.00979938271605,
+      31.977210648148148
+    ],
+    "palette": [
+      {
+        "#2c3644": "darkslategrey"
+      },
+      {
+        "#050a0c": "black"
+      },
+      {
+        "#070c10": "black"
+      },
+      {
+        "#030505": "black"
+      },
+      {
+        "#05090c": "black"
+      },
+      {
+        "#040509": "black"
+      }
+    ],
+    "framenumber": 85354,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_85354.png",
+    "averageColorHSV": [
+      0.5804224927393666,
+      0.11334272875816993,
+      0.10638615679287765
+    ]
+  },
+  {
+    "averageColorRGB": [
+      73.95033950617284,
+      59.9280362654321,
+      52.85726851851852
+    ],
+    "palette": [
+      {
+        "#3e3025": "darkslategrey"
+      },
+      {
+        "#2e251e": "darkslategrey"
+      },
+      {
+        "#7b675b": "dimgrey"
+      },
+      {
+        "#6e5340": "darkolivegreen"
+      },
+      {
+        "#403128": "darkslategrey"
+      },
+      {
+        "#655344": "darkolivegreen"
+      }
+    ],
+    "framenumber": 86447,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_86447.png",
+    "averageColorHSV": [
+      0.05586959299772004,
+      0.2486423686758654,
+      0.16633915989920084
+    ]
+  },
+  {
+    "averageColorRGB": [
+      82.00063657407408,
+      74.93117669753087,
+      68.41631944444444
+    ],
+    "palette": [
+      {
+        "#190507": "black"
+      },
+      {
+        "#534436": "darkolivegreen"
+      },
+      {
+        "#6f6e67": "dimgrey"
+      },
+      {
+        "#3d3732": "darkslategrey"
+      },
+      {
+        "#433f3a": "darkslategrey"
+      },
+      {
+        "#716d66": "dimgrey"
+      }
+    ],
+    "framenumber": 87540,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_87540.png",
+    "averageColorHSV": [
+      0.0799311096626817,
+      0.29493520787944805,
+      0.09031107588666536
+    ]
+  },
+  {
+    "averageColorRGB": [
+      23.41758487654321,
+      23.935320216049384,
+      22.900694444444444
+    ],
+    "palette": [
+      {
+        "#191b1b": "black"
+      },
+      {
+        "#0f110c": "black"
+      },
+      {
+        "#171915": "black"
+      },
+      {
+        "#1d1f1a": "black"
+      },
+      {
+        "#111311": "black"
+      },
+      {
+        "#0b0d0b": "black"
+      }
+    ],
+    "framenumber": 88633,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_88633.png",
+    "averageColorHSV": [
+      0.2500680525776076,
+      0.09183532286371338,
+      0.022090388755421717
+    ]
+  },
+  {
+    "averageColorRGB": [
+      89.7369212962963,
+      80.9766975308642,
+      71.82051311728395
+    ],
+    "palette": [
+      {
+        "#a49987": "rosybrown"
+      },
+      {
+        "#7c6f5c": "dimgrey"
+      },
+      {
+        "#c0b09f": "darkgrey"
+      },
+      {
+        "#c5b8a4": "tan"
+      },
+      {
+        "#5b4b40": "darkolivegreen"
+      },
+      {
+        "#9d8d7c": "grey"
+      }
+    ],
+    "framenumber": 89726,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_89726.png",
+    "averageColorHSV": [
+      0.08517503733724548,
+      0.3167792831638829,
+      0.1108980731468358
+    ]
+  },
+  {
+    "averageColorRGB": [
+      43.46055941358025,
+      38.31493827160494,
+      36.79204861111111
+    ],
+    "palette": [
+      {
+        "#15100e": "black"
+      },
+      {
+        "#322d2a": "darkslategrey"
+      },
+      {
+        "#2d241f": "darkslategrey"
+      },
+      {
+        "#3b302a": "darkslategrey"
+      },
+      {
+        "#493e38": "darkslategrey"
+      },
+      {
+        "#0a0909": "black"
+      }
+    ],
+    "framenumber": 90819,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_90819.png",
+    "averageColorHSV": [
+      0.03806171286723531,
+      0.15735805495037522,
+      0.08309400736755412
+    ]
+  },
+  {
+    "averageColorRGB": [
+      16.224108796296296,
+      18.42422839506173,
+      19.605378086419755
+    ],
+    "palette": [
+      {
+        "#0b1a17": "black"
+      },
+      {
+        "#303a4e": "darkslategrey"
+      },
+      {
+        "#0a1315": "black"
+      },
+      {
+        "#070c0d": "black"
+      },
+      {
+        "#282f3b": "darkslategrey"
+      },
+      {
+        "#0a0b09": "black"
+      }
+    ],
+    "framenumber": 91912,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_91912.png",
+    "averageColorHSV": [
+      0.5582202318129522,
+      0.07025389584846284,
+      0.09437113350776358
+    ]
+  },
+  {
+    "averageColorRGB": [
+      22.26011188271605,
+      18.78783564814815,
+      14.407303240740742
+    ],
+    "palette": [
+      {
+        "#0a0905": "black"
+      },
+      {
+        "#553925": "darkolivegreen"
+      },
+      {
+        "#080100": "black"
+      },
+      {
+        "#30190c": "black"
+      },
+      {
+        "#2e2214": "black"
+      },
+      {
+        "#372819": "darkslategrey"
+      }
+    ],
+    "framenumber": 93005,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_93005.png",
+    "averageColorHSV": [
+      0.0929716701188142,
+      0.07189689239893488,
+      0.21416313682149163
+    ]
+  },
+  {
+    "averageColorRGB": [
+      18.336886574074075,
+      15.232835648148148,
+      14.700447530864198
+    ],
+    "palette": [
+      {
+        "#030102": "black"
+      },
+      {
+        "#13130b": "black"
+      },
+      {
+        "#020003": "black"
+      },
+      {
+        "#020001": "black"
+      },
+      {
+        "#020104": "black"
+      },
+      {
+        "#010003": "black"
+      }
+    ],
+    "framenumber": 94098,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_94098.png",
+    "averageColorHSV": [
+      0.024400616049467878,
+      0.06477908648027113,
+      0.11007059563762801
+    ]
+  },
+  {
+    "averageColorRGB": [
+      15.321435185185186,
+      11.758233024691359,
+      8.213638117283951
+    ],
+    "palette": [
+      {
+        "#271208": "black"
+      },
+      {
+        "#020200": "black"
+      },
+      {
+        "#491e11": "maroon"
+      },
+      {
+        "#010100": "black"
+      },
+      {
+        "#030300": "black"
+      },
+      {
+        "#100b03": "black"
+      }
+    ],
+    "framenumber": 95191,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_95191.png",
+    "averageColorHSV": [
+      0.08311517791766021,
+      0.04614720255386105,
+      0.30200870745346414
+    ]
+  },
+  {
+    "averageColorRGB": [
+      14.393730709876543,
+      11.859980709876544,
+      11.160659722222222
+    ],
+    "palette": [
+      {
+        "#6f646c": "dimgrey"
+      },
+      {
+        "#8f8590": "grey"
+      },
+      {
+        "#d6cdda": "lightgray"
+      },
+      {
+        "#020200": "black"
+      },
+      {
+        "#160c08": "black"
+      },
+      {
+        "#090905": "black"
+      }
+    ],
+    "framenumber": 96284,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_96284.png",
+    "averageColorHSV": [
+      0.036050398641865156,
+      0.05010664790607601,
+      0.12651724157713712
+    ]
+  },
+  {
+    "averageColorRGB": [
+      17.34841435185185,
+      13.306396604938271,
+      11.506280864197532
+    ],
+    "palette": [
+      {
+        "#090703": "black"
+      },
+      {
+        "#0c0a06": "black"
+      },
+      {
+        "#623a2c": "saddlebrown"
+      },
+      {
+        "#402415": "darkslategrey"
+      },
+      {
+        "#020001": "black"
+      },
+      {
+        "#060101": "black"
+      }
+    ],
+    "framenumber": 97377,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_97377.png",
+    "averageColorHSV": [
+      0.05135440515994061,
+      0.05657783375695957,
+      0.20246734349163545
+    ]
+  },
+  {
+    "averageColorRGB": [
+      20.03738425925926,
+      16.272538580246913,
+      12.653329475308642
+    ],
+    "palette": [
+      {
+        "#2a1a0f": "black"
+      },
+      {
+        "#13100a": "black"
+      },
+      {
+        "#020001": "black"
+      },
+      {
+        "#0b0902": "black"
+      },
+      {
+        "#060402": "black"
+      },
+      {
+        "#070000": "black"
+      }
+    ],
+    "framenumber": 98470,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_98470.png",
+    "averageColorHSV": [
+      0.08168974027668129,
+      0.06409943869523119,
+      0.2258762180570732
+    ]
+  },
+  {
+    "averageColorRGB": [
+      11.4390625,
+      6.379911265432099,
+      5.224043209876544
+    ],
+    "palette": [
+      {
+        "#030102": "black"
+      },
+      {
+        "#080101": "black"
+      },
+      {
+        "#100506": "black"
+      },
+      {
+        "#180c08": "black"
+      },
+      {
+        "#050002": "black"
+      },
+      {
+        "#020001": "black"
+      }
+    ],
+    "framenumber": 99563,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_99563.png",
+    "averageColorHSV": [
+      0.030996633627841757,
+      0.032672756293875574,
+      0.3729808475283029
+    ]
+  },
+  {
+    "averageColorRGB": [
+      137.45935185185186,
+      136.76097993827162,
+      130.81971064814815
+    ],
+    "palette": [
+      {
+        "#736f61": "dimgrey"
+      },
+      {
+        "#3a3427": "darkslategrey"
+      },
+      {
+        "#484435": "darkslategrey"
+      },
+      {
+        "#10100f": "black"
+      },
+      {
+        "#5b5b4f": "dimgrey"
+      },
+      {
+        "#474133": "darkslategrey"
+      }
+    ],
+    "framenumber": 100656,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_100656.png",
+    "averageColorHSV": [
+      0.14913630390171614,
+      0.5260373774509803,
+      0.027468208887381614
+    ]
+  },
+  {
+    "averageColorRGB": [
+      23.685216049382717,
+      21.061608796296298,
+      17.132364969135804
+    ],
+    "palette": [
+      {
+        "#453b2e": "darkslategrey"
+      },
+      {
+        "#332c20": "darkslategrey"
+      },
+      {
+        "#39342c": "darkslategrey"
+      },
+      {
+        "#0e0902": "black"
+      },
+      {
+        "#252016": "black"
+      },
+      {
+        "#010100": "black"
+      }
+    ],
+    "framenumber": 101749,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_101749.png",
+    "averageColorHSV": [
+      0.09993725832828478,
+      0.08003447258533043,
+      0.1605399172791242
+    ]
+  },
+  {
+    "averageColorRGB": [
+      121.93979552469136,
+      126.76106867283951,
+      122.58311342592593
+    ],
+    "palette": [
+      {
+        "#82a4b2": "lightslategrey"
+      },
+      {
+        "#1e1f19": "black"
+      },
+      {
+        "#9fbfc2": "silver"
+      },
+      {
+        "#563b22": "darkolivegreen"
+      },
+      {
+        "#ebe8d9": "antiquewhite"
+      },
+      {
+        "#bcd8e1": "powderblue"
+      }
+    ],
+    "framenumber": 102842,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_102842.png",
+    "averageColorHSV": [
+      0.35557219989639965,
+      0.4876487533284919,
+      0.01938583190575023
+    ]
+  },
+  {
+    "averageColorRGB": [
+      54.63073688271605,
+      45.52052469135803,
+      38.18773919753087
+    ],
+    "palette": [
+      {
+        "#45422e": "darkslategrey"
+      },
+      {
+        "#352017": "black"
+      },
+      {
+        "#3b3621": "darkslategrey"
+      },
+      {
+        "#5b5b4a": "darkolivegreen"
+      },
+      {
+        "#41271d": "darkslategrey"
+      },
+      {
+        "#584338": "darkolivegreen"
+      }
+    ],
+    "framenumber": 103935,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_103935.png",
+    "averageColorHSV": [
+      0.07432531093396526,
+      0.18199701192205278,
+      0.17715220481501184
+    ]
+  },
+  {
+    "averageColorRGB": [
+      60.83952932098766,
+      52.307820216049386,
+      50.73405478395062
+    ],
+    "palette": [
+      {
+        "#321914": "black"
+      },
+      {
+        "#1e1716": "black"
+      },
+      {
+        "#30211e": "black"
+      },
+      {
+        "#312a28": "darkslategrey"
+      },
+      {
+        "#25120d": "black"
+      },
+      {
+        "#1e0c08": "black"
+      }
+    ],
+    "framenumber": 105028,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_105028.png",
+    "averageColorHSV": [
+      0.025955657769638336,
+      0.21877173353909465,
+      0.09057228570817032
+    ]
+  },
+  {
+    "averageColorRGB": [
+      20.23545524691358,
+      24.179043209876543,
+      20.49054012345679
+    ],
+    "palette": [
+      {
+        "#000400": "black"
+      },
+      {
+        "#262f28": "darkslategrey"
+      },
+      {
+        "#050b0d": "black"
+      },
+      {
+        "#050b0a": "black"
+      },
+      {
+        "#14190b": "black"
+      },
+      {
+        "#0a1308": "black"
+      }
+    ],
+    "framenumber": 106121,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_106121.png",
+    "averageColorHSV": [
+      0.3441139084060376,
+      0.08708725187605906,
+      0.08879055488602651
+    ]
+  },
+  {
+    "averageColorRGB": [
+      10.188441358024692,
+      11.523788580246913,
+      18.248337191358026
+    ],
+    "palette": [
+      {
+        "#060815": "black"
+      },
+      {
+        "#000106": "black"
+      },
+      {
+        "#000104": "black"
+      },
+      {
+        "#00020e": "black"
+      },
+      {
+        "#010412": "black"
+      },
+      {
+        "#010109": "black"
+      }
+    ],
+    "framenumber": 107214,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_107214.png",
+    "averageColorHSV": [
+      0.6390536707951894,
+      0.05575838931251513,
+      0.2834320990099735
+    ]
+  },
+  {
+    "averageColorRGB": [
+      7.42033950617284,
+      6.521253858024692,
+      7.439807098765432
+    ],
+    "palette": [
+      {
+        "#030100": "black"
+      },
+      {
+        "#0b1125": "black"
+      },
+      {
+        "#040200": "black"
+      },
+      {
+        "#020200": "black"
+      },
+      {
+        "#010100": "black"
+      },
+      {
+        "#0f1734": "black"
+      }
+    ],
+    "framenumber": 108307,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_108307.png",
+    "averageColorHSV": [
+      0.8298010407872686,
+      0.02737462932703946,
+      0.06579394242197559
+    ]
+  },
+  {
+    "averageColorRGB": [
+      31.931516203703705,
+      23.346003086419753,
+      11.884270833333334
+    ],
+    "palette": [
+      {
+        "#45321a": "darkolivegreen"
+      },
+      {
+        "#281c0d": "black"
+      },
+      {
+        "#684b2a": "darkolivegreen"
+      },
+      {
+        "#0d0902": "black"
+      },
+      {
+        "#181006": "black"
+      },
+      {
+        "#110b04": "black"
+      }
+    ],
+    "framenumber": 109400,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_109400.png",
+    "averageColorHSV": [
+      0.09528933644275761,
+      0.0859133079157589,
+      0.4575347546176596
+    ]
+  },
+  {
+    "averageColorRGB": [
+      38.961215277777775,
+      20.653800154320987,
+      11.055046296296297
+    ],
+    "palette": [
+      {
+        "#1b0402": "black"
+      },
+      {
+        "#0a0301": "black"
+      },
+      {
+        "#3b230b": "black"
+      },
+      {
+        "#0d0200": "black"
+      },
+      {
+        "#0f0602": "black"
+      },
+      {
+        "#070201": "black"
+      }
+    ],
+    "framenumber": 110493,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_110493.png",
+    "averageColorHSV": [
+      0.05732755043275212,
+      0.09807110112563543,
+      0.5579419193526179
+    ]
+  },
+  {
+    "averageColorRGB": [
+      24.630189043209878,
+      14.520783179012346,
+      6.867766203703704
+    ],
+    "palette": [
+      {
+        "#0b0603": "black"
+      },
+      {
+        "#191009": "black"
+      },
+      {
+        "#110703": "black"
+      },
+      {
+        "#2e1c0e": "black"
+      },
+      {
+        "#281608": "black"
+      },
+      {
+        "#1f140a": "black"
+      }
+    ],
+    "framenumber": 111586,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_111586.png",
+    "averageColorHSV": [
+      0.07180905672289288,
+      0.06176069656257565,
+      0.5639230451712156
+    ]
+  },
+  {
+    "averageColorRGB": [
+      19.808896604938273,
+      11.06658950617284,
+      7.504953703703704
+    ],
+    "palette": [
+      {
+        "#0d0706": "black"
+      },
+      {
+        "#030102": "black"
+      },
+      {
+        "#140c09": "black"
+      },
+      {
+        "#1b0c06": "black"
+      },
+      {
+        "#080302": "black"
+      },
+      {
+        "#070201": "black"
+      }
+    ],
+    "framenumber": 112679,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_112679.png",
+    "averageColorHSV": [
+      0.04824518220241638,
+      0.05355656923263133,
+      0.4504653412902998
+    ]
+  },
+  {
+    "averageColorRGB": [
+      26.09613425925926,
+      14.433695987654321,
+      4.203140432098765
+    ],
+    "palette": [
+      {
+        "#170d03": "black"
+      },
+      {
+        "#070200": "black"
+      },
+      {
+        "#613912": "saddlebrown"
+      },
+      {
+        "#2d1805": "black"
+      },
+      {
+        "#140900": "black"
+      },
+      {
+        "#0f0600": "black"
+      }
+    ],
+    "framenumber": 113772,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_113772.png",
+    "averageColorHSV": [
+      0.07788302532097054,
+      0.059410342532074556,
+      0.7225583466988015
+    ]
+  },
+  {
+    "averageColorRGB": [
+      14.634077932098766,
+      10.371450617283951,
+      4.037083333333333
+    ],
+    "palette": [
+      {
+        "#150f06": "black"
+      },
+      {
+        "#161105": "black"
+      },
+      {
+        "#0f0b03": "black"
+      },
+      {
+        "#1a1207": "black"
+      },
+      {
+        "#191008": "black"
+      },
+      {
+        "#110b04": "black"
+      }
+    ],
+    "framenumber": 114865,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_114865.png",
+    "averageColorHSV": [
+      0.09962521645348676,
+      0.03661012012829823,
+      0.5675594810690631
+    ]
+  },
+  {
+    "averageColorRGB": [
+      93.19887345679012,
+      83.63224151234569,
+      62.39939043209877
+    ],
+    "palette": [
+      {
+        "#675437": "darkolivegreen"
+      },
+      {
+        "#9b8a63": "grey"
+      },
+      {
+        "#7c6d4f": "dimgrey"
+      },
+      {
+        "#876f4f": "dimgrey"
+      },
+      {
+        "#493d28": "darkolivegreen"
+      },
+      {
+        "#5a533c": "darkolivegreen"
+      }
+    ],
+    "framenumber": 115958,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_115958.png",
+    "averageColorHSV": [
+      0.11489830886244069,
+      0.30509463507625273,
+      0.19794233081343987
+    ]
+  },
+  {
+    "averageColorRGB": [
+      26.242584876543212,
+      20.211176697530863,
+      13.319220679012346
+    ],
+    "palette": [
+      {
+        "#1b160e": "black"
+      },
+      {
+        "#402f1f": "darkslategrey"
+      },
+      {
+        "#1f1811": "black"
+      },
+      {
+        "#281d13": "black"
+      },
+      {
+        "#141009": "black"
+      },
+      {
+        "#090704": "black"
+      }
+    ],
+    "framenumber": 117051,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_117051.png",
+    "averageColorHSV": [
+      0.08888237759632399,
+      0.0775721677559913,
+      0.32666264888701646
+    ]
+  },
+  {
+    "averageColorRGB": [
+      10.854228395061728,
+      8.65801311728395,
+      6.17576774691358
+    ],
+    "palette": [
+      {
+        "#0e0c09": "black"
+      },
+      {
+        "#050502": "black"
+      },
+      {
+        "#020200": "black"
+      },
+      {
+        "#080805": "black"
+      },
+      {
+        "#13120c": "black"
+      },
+      {
+        "#251b11": "black"
+      }
+    ],
+    "framenumber": 118144,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_118144.png",
+    "averageColorHSV": [
+      0.08842813755249836,
+      0.0333921492979908,
+      0.2747188319448141
+    ]
+  },
+  {
+    "averageColorRGB": [
+      16.27292438271605,
+      14.654371141975309,
+      9.807827932098766
+    ],
+    "palette": [
+      {
+        "#040603": "black"
+      },
+      {
+        "#0b1109": "black"
+      },
+      {
+        "#010003": "black"
+      },
+      {
+        "#060805": "black"
+      },
+      {
+        "#17130c": "black"
+      },
+      {
+        "#13120a": "black"
+      }
+    ],
+    "framenumber": 119237,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_119237.png",
+    "averageColorHSV": [
+      0.12494124531877111,
+      0.05113873002904866,
+      0.2478876518813023
+    ]
+  },
+  {
+    "averageColorRGB": [
+      13.754637345679013,
+      25.54360339506173,
+      26.27926311728395
+    ],
+    "palette": [
+      {
+        "#111e1d": "black"
+      },
+      {
+        "#11272f": "darkslategrey"
+      },
+      {
+        "#1a2e30": "darkslategrey"
+      },
+      {
+        "#08130f": "black"
+      },
+      {
+        "#0e1e22": "black"
+      },
+      {
+        "#172424": "black"
+      }
+    ],
+    "framenumber": 120330,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_120330.png",
+    "averageColorHSV": [
+      0.5097895103566029,
+      0.07849784404502543,
+      0.31285049987052826
+    ]
+  },
+  {
+    "averageColorRGB": [
+      18.78895061728395,
+      23.85985725308642,
+      24.369953703703704
+    ],
+    "palette": [
+      {
+        "#101a1d": "black"
+      },
+      {
+        "#090d0e": "black"
+      },
+      {
+        "#15140f": "black"
+      },
+      {
+        "#04090b": "black"
+      },
+      {
+        "#050a08": "black"
+      },
+      {
+        "#0b1214": "black"
+      }
+    ],
+    "framenumber": 121423,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_121423.png",
+    "averageColorHSV": [
+      0.5152331173780839,
+      0.08462530259017187,
+      0.12931290018189306
+    ]
+  },
+  {
+    "averageColorRGB": [
+      15.291165123456791,
+      10.430135030864198,
+      8.623059413580247
+    ],
+    "palette": [
+      {
+        "#0f0904": "black"
+      },
+      {
+        "#0d1116": "black"
+      },
+      {
+        "#090302": "black"
+      },
+      {
+        "#080b12": "black"
+      },
+      {
+        "#1d0c06": "black"
+      },
+      {
+        "#120804": "black"
+      }
+    ],
+    "framenumber": 122516,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_122516.png",
+    "averageColorHSV": [
+      0.04516714081200449,
+      0.04689063634713145,
+      0.2788342854082242
+    ]
+  },
+  {
+    "averageColorRGB": [
+      24.877997685185186,
+      21.825351080246914,
+      16.41210648148148
+    ],
+    "palette": [
+      {
+        "#050300": "black"
+      },
+      {
+        "#040200": "black"
+      },
+      {
+        "#161309": "black"
+      },
+      {
+        "#706b56": "dimgrey"
+      },
+      {
+        "#0f0a03": "black"
+      },
+      {
+        "#352d1c": "darkslategrey"
+      }
+    ],
+    "framenumber": 123609,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_123609.png",
+    "averageColorHSV": [
+      0.10656969377693748,
+      0.0809609885620915,
+      0.20503438716287342
+    ]
+  },
+  {
+    "averageColorRGB": [
+      3.3480671296296296,
+      2.180150462962963,
+      1.460366512345679
+    ],
+    "palette": [
+      {
+        "#23160c": "black"
+      },
+      {
+        "#352b20": "darkslategrey"
+      },
+      {
+        "#1b150d": "black"
+      },
+      {
+        "#100a05": "black"
+      },
+      {
+        "#1b1008": "black"
+      },
+      {
+        "#0d0803": "black"
+      }
+    ],
+    "framenumber": 124702,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_124702.png",
+    "averageColorHSV": [
+      0.06355032713934962,
+      0.009428301258775114,
+      0.3925811933443843
+    ]
+  },
+  {
+    "averageColorRGB": [
+      36.909047067901234,
+      35.52153163580247,
+      30.82295138888889
+    ],
+    "palette": [
+      {
+        "#2f2b24": "darkslategrey"
+      },
+      {
+        "#494a45": "darkslategrey"
+      },
+      {
+        "#413a30": "darkslategrey"
+      },
+      {
+        "#5c635d": "dimgrey"
+      },
+      {
+        "#575b52": "dimgrey"
+      },
+      {
+        "#1a150c": "black"
+      }
+    ],
+    "framenumber": 125795,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_125795.png",
+    "averageColorHSV": [
+      0.12866979901735803,
+      0.1328078401113532,
+      0.08985554564575547
+    ]
+  },
+  {
+    "averageColorRGB": [
+      41.307878086419755,
+      42.81599151234568,
+      39.219533179012345
+    ],
+    "palette": [
+      {
+        "#75877f": "grey"
+      },
+      {
+        "#6f7f73": "grey"
+      },
+      {
+        "#1f1c14": "black"
+      },
+      {
+        "#262620": "black"
+      },
+      {
+        "#44443f": "darkslategrey"
+      },
+      {
+        "#32332a": "darkslategrey"
+      }
+    ],
+    "framenumber": 126888,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_126888.png",
+    "averageColorHSV": [
+      0.23655548904636556,
+      0.16085396998305496,
+      0.04384025514390597
+    ]
+  },
+  {
+    "averageColorRGB": [
+      67.50141589506173,
+      68.82569444444445,
+      63.96300540123457
+    ],
+    "palette": [
+      {
+        "#4a504c": "darkslategrey"
+      },
+      {
+        "#34342e": "darkslategrey"
+      },
+      {
+        "#676f5f": "dimgrey"
+      },
+      {
+        "#3f403c": "darkslategrey"
+      },
+      {
+        "#5f6255": "dimgrey"
+      },
+      {
+        "#4c534c": "darkslategrey"
+      }
+    ],
+    "framenumber": 127981,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_127981.png",
+    "averageColorHSV": [
+      0.2120557691987285,
+      0.2603699996974098,
+      0.03661975039187133
+    ]
+  },
+  {
+    "averageColorRGB": [
+      47.360231481481485,
+      51.28439043209877,
+      49.42513888888889
+    ],
+    "palette": [
+      {
+        "#4b524f": "darkslategrey"
+      },
+      {
+        "#798e8e": "lightslategrey"
+      },
+      {
+        "#5d686a": "dimgrey"
+      },
+      {
+        "#6a7879": "dimgrey"
+      },
+      {
+        "#2f2e2b": "darkslategrey"
+      },
+      {
+        "#3d413f": "darkslategrey"
+      }
+    ],
+    "framenumber": 129074,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_129074.png",
+    "averageColorHSV": [
+      0.42103396903611595,
+      0.19342082728152993,
+      0.03978076933636711
+    ]
+  },
+  {
+    "averageColorRGB": [
+      55.29292824074074,
+      57.15087962962963,
+      57.83303240740741
+    ],
+    "palette": [
+      {
+        "#070909": "black"
+      },
+      {
+        "#11100b": "black"
+      },
+      {
+        "#d9e9f7": "lavender"
+      },
+      {
+        "#050502": "black"
+      },
+      {
+        "#090b0b": "black"
+      },
+      {
+        "#0c0c07": "black"
+      }
+    ],
+    "framenumber": 130167,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_130167.png",
+    "averageColorHSV": [
+      0.5447588453739775,
+      0.221815609114016,
+      0.02245376880879771
+    ]
+  },
+  {
+    "averageColorRGB": [
+      5.077226080246914,
+      4.153695987654321,
+      3.963676697530864
+    ],
+    "palette": [
+      {
+        "#1c1a18": "black"
+      },
+      {
+        "#020001": "black"
+      },
+      {
+        "#0a0201": "black"
+      },
+      {
+        "#241d1a": "black"
+      },
+      {
+        "#0a0a08": "black"
+      },
+      {
+        "#010000": "black"
+      }
+    ],
+    "framenumber": 131260,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_131260.png",
+    "averageColorHSV": [
+      0.028440482459787236,
+      0.01772726034858388,
+      0.12316794130925894
+    ]
+  },
+  {
+    "averageColorRGB": [
+      27.496574074074076,
+      41.236685956790126,
+      45.0457600308642
+    ],
+    "palette": [
+      {
+        "#3c616d": "darkslategrey"
+      },
+      {
+        "#1c3c43": "darkslategrey"
+      },
+      {
+        "#53798a": "slategrey"
+      },
+      {
+        "#30535b": "darkslategrey"
+      },
+      {
+        "#172a2b": "darkslategrey"
+      },
+      {
+        "#6998b2": "cadetblue"
+      }
+    ],
+    "framenumber": 132353,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_132353.png",
+    "averageColorHSV": [
+      0.5361752209233792,
+      0.1422398707939966,
+      0.24191647778252942
+    ]
+  },
+  {
+    "averageColorRGB": [
+      6.739320987654321,
+      4.8384375,
+      4.030408950617284
+    ],
+    "palette": [
+      {
+        "#0a0302": "black"
+      },
+      {
+        "#020001": "black"
+      },
+      {
+        "#110704": "black"
+      },
+      {
+        "#25130c": "black"
+      },
+      {
+        "#070201": "black"
+      },
+      {
+        "#010000": "black"
+      }
+    ],
+    "framenumber": 133446,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_133446.png",
+    "averageColorHSV": [
+      0.049714211113484785,
+      0.021117117526022754,
+      0.25153017323216004
+    ]
+  },
+  {
+    "averageColorRGB": [
+      103.74148919753087,
+      108.61183256172839,
+      104.65858410493827
+    ],
+    "palette": [
+      {
+        "#8fa5a6": "darkgrey"
+      },
+      {
+        "#5d6054": "dimgrey"
+      },
+      {
+        "#92a39c": "darkgrey"
+      },
+      {
+        "#5a5b53": "dimgrey"
+      },
+      {
+        "#96acb1": "darkgrey"
+      },
+      {
+        "#9eb1af": "darkgrey"
+      }
+    ],
+    "framenumber": 134539,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_134539.png",
+    "averageColorHSV": [
+      0.36471698327435825,
+      0.4163790622730573,
+      0.022935093851364084
+    ]
+  },
+  {
+    "averageColorRGB": [
+      10.542604166666667,
+      10.366238425925927,
+      8.135162037037038
+    ],
+    "palette": [
+      {
+        "#432e1e": "darkslategrey"
+      },
+      {
+        "#020001": "black"
+      },
+      {
+        "#060101": "black"
+      },
+      {
+        "#010000": "black"
+      },
+      {
+        "#0d1c10": "black"
+      },
+      {
+        "#1d2b24": "darkslategrey"
+      }
+    ],
+    "framenumber": 135632,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_135632.png",
+    "averageColorHSV": [
+      0.15445690687153554,
+      0.03662307098765433,
+      0.12889347170178436
+    ]
+  },
+  {
+    "averageColorRGB": [
+      10.57215663580247,
+      9.368553240740741,
+      7.186435185185186
+    ],
+    "palette": [
+      {
+        "#0c0c0a": "black"
+      },
+      {
+        "#050502": "black"
+      },
+      {
+        "#080805": "black"
+      },
+      {
+        "#0a0a05": "black"
+      },
+      {
+        "#0d1209": "black"
+      },
+      {
+        "#040401": "black"
+      }
+    ],
+    "framenumber": 136725,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_136725.png",
+    "averageColorHSV": [
+      0.10741767977583784,
+      0.03482076827644638,
+      0.1906525857875698
+    ]
+  },
+  {
+    "averageColorRGB": [
+      7.739101080246914,
+      5.736774691358025,
+      4.966408179012346
+    ],
+    "palette": [
+      {
+        "#090202": "black"
+      },
+      {
+        "#130805": "black"
+      },
+      {
+        "#0f100c": "black"
+      },
+      {
+        "#1b100a": "black"
+      },
+      {
+        "#020001": "black"
+      },
+      {
+        "#010000": "black"
+      }
+    ],
+    "framenumber": 137818,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_137818.png",
+    "averageColorHSV": [
+      0.04630675783355274,
+      0.02491276325344953,
+      0.21822760856389456
+    ]
+  },
+  {
+    "averageColorRGB": [
+      28.752743055555555,
+      28.135412808641977,
+      27.700054012345678
+    ],
+    "palette": [
+      {
+        "#313339": "darkslategrey"
+      },
+      {
+        "#282b33": "darkslategrey"
+      },
+      {
+        "#22252a": "darkslategrey"
+      },
+      {
+        "#1b1914": "black"
+      },
+      {
+        "#1a1a15": "black"
+      },
+      {
+        "#2c2d33": "darkslategrey"
+      }
+    ],
+    "framenumber": 138911,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_138911.png",
+    "averageColorHSV": [
+      0.06892804655918731,
+      0.11069175895666908,
+      0.018647243323368128
+    ]
+  },
+  {
+    "averageColorRGB": [
+      23.296238425925928,
+      26.58144675925926,
+      42.5263387345679
+    ],
+    "palette": [
+      {
+        "#000002": "black"
+      },
+      {
+        "#02020b": "black"
+      },
+      {
+        "#000005": "black"
+      },
+      {
+        "#0f192e": "black"
+      },
+      {
+        "#091224": "black"
+      },
+      {
+        "#4166bd": "steelblue"
+      }
+    ],
+    "framenumber": 140004,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_140004.png",
+    "averageColorHSV": [
+      0.6381938707147827,
+      0.12906387678528203,
+      0.2921505224833968
+    ]
+  },
+  {
+    "averageColorRGB": [
+      40.48474922839506,
+      68.75602237654321,
+      86.82103780864198
+    ],
+    "palette": [
+      {
+        "#285374": "darkslategrey"
+      },
+      {
+        "#417ca2": "steelblue"
+      },
+      {
+        "#0c1d2a": "black"
+      },
+      {
+        "#0b141b": "black"
+      },
+      {
+        "#183352": "darkslategrey"
+      },
+      {
+        "#80c3d8": "skyblue"
+      }
+    ],
+    "framenumber": 141097,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_141097.png",
+    "averageColorHSV": [
+      0.5649779254576144,
+      0.24961919026870005,
+      0.3639762940766103
+    ]
+  },
+  {
+    "averageColorRGB": [
+      38.130574845679014,
+      66.75307870370371,
+      85.49569058641976
+    ],
+    "palette": [
+      {
+        "#9fd2e7": "lightblue"
+      },
+      {
+        "#60cbec": "skyblue"
+      },
+      {
+        "#08141c": "black"
+      },
+      {
+        "#1f3c60": "darkslategrey"
+      },
+      {
+        "#132b48": "midnightblue"
+      },
+      {
+        "#060c12": "black"
+      }
+    ],
+    "framenumber": 142190,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_142190.png",
+    "averageColorHSV": [
+      0.5659508289648801,
+      0.24240444202372308,
+      0.38313149374196576
+    ]
+  },
+  {
+    "averageColorRGB": [
+      54.1882137345679,
+      45.76949074074074,
+      45.40012731481482
+    ],
+    "palette": [
+      {
+        "#1e0d07": "black"
+      },
+      {
+        "#171511": "black"
+      },
+      {
+        "#838ba6": "lightslategrey"
+      },
+      {
+        "#24130b": "black"
+      },
+      {
+        "#281910": "black"
+      },
+      {
+        "#110f0b": "black"
+      }
+    ],
+    "framenumber": 143283,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_143283.png",
+    "averageColorHSV": [
+      0.007005002915001428,
+      0.19527125695957398,
+      0.08824412905317254
+    ]
+  },
+  {
+    "averageColorRGB": [
+      46.9854012345679,
+      48.28609567901235,
+      47.147970679012346
+    ],
+    "palette": [
+      {
+        "#0b0907": "black"
+      },
+      {
+        "#2a322b": "darkslategrey"
+      },
+      {
+        "#373f34": "darkslategrey"
+      },
+      {
+        "#534d4e": "darkslategrey"
+      },
+      {
+        "#3c4740": "darkslategrey"
+      },
+      {
+        "#1d221a": "black"
+      }
+    ],
+    "framenumber": 144376,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_144376.png",
+    "averageColorHSV": [
+      0.354164442071543,
+      0.1868068566932946,
+      0.013652503493508591
+    ]
+  },
+  {
+    "averageColorRGB": [
+      52.64785493827161,
+      54.627746913580246,
+      53.18106481481482
+    ],
+    "palette": [
+      {
+        "#2f3833": "darkslategrey"
+      },
+      {
+        "#253029": "darkslategrey"
+      },
+      {
+        "#1d1310": "black"
+      },
+      {
+        "#18231d": "black"
+      },
+      {
+        "#1d2920": "black"
+      },
+      {
+        "#341f19": "black"
+      }
+    ],
+    "framenumber": 145469,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_145469.png",
+    "averageColorHSV": [
+      0.3782187684305431,
+      0.21034431735657227,
+      0.018456125541415153
+    ]
+  },
+  {
+    "averageColorRGB": [
+      86.05465663580247,
+      87.60051697530865,
+      88.6199112654321
+    ],
+    "palette": [
+      {
+        "#8e969f": "lightslategrey"
+      },
+      {
+        "#a8bbd1": "lightsteelblue"
+      },
+      {
+        "#838d8f": "lightslategrey"
+      },
+      {
+        "#5f6065": "dimgrey"
+      },
+      {
+        "#8e9199": "lightslategrey"
+      },
+      {
+        "#463f3c": "darkslategrey"
+      }
+    ],
+    "framenumber": 146562,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_146562.png",
+    "averageColorHSV": [
+      0.5662308709597524,
+      0.34249915274751874,
+      0.014685907974193958
+    ]
+  },
+  {
+    "averageColorRGB": [
+      22.107793209876544,
+      18.20101466049383,
+      17.641060956790124
+    ],
+    "palette": [
+      {
+        "#1c140d": "black"
+      },
+      {
+        "#000002": "black"
+      },
+      {
+        "#2b2019": "black"
+      },
+      {
+        "#382b26": "darkslategrey"
+      },
+      {
+        "#161007": "black"
+      },
+      {
+        "#010003": "black"
+      }
+    ],
+    "framenumber": 147655,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_147655.png",
+    "averageColorHSV": [
+      0.020893488124224275,
+      0.07793892973856209,
+      0.11237386200763026
+    ]
+  },
+  {
+    "averageColorRGB": [
+      31.3058487654321,
+      26.011693672839506,
+      23.46835262345679
+    ],
+    "palette": [
+      {
+        "#000002": "black"
+      },
+      {
+        "#3c3329": "darkslategrey"
+      },
+      {
+        "#2d2618": "black"
+      },
+      {
+        "#262114": "black"
+      },
+      {
+        "#27221a": "black"
+      },
+      {
+        "#1a160c": "black"
+      }
+    ],
+    "framenumber": 148748,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_148748.png",
+    "averageColorHSV": [
+      0.0540848974236669,
+      0.10740039488017429,
+      0.1430873649134603
+    ]
+  },
+  {
+    "averageColorRGB": [
+      15.210640432098765,
+      12.365578703703704,
+      11.97783950617284
+    ],
+    "palette": [
+      {
+        "#1b1514": "black"
+      },
+      {
+        "#0c0a08": "black"
+      },
+      {
+        "#020001": "black"
+      },
+      {
+        "#0f0a08": "black"
+      },
+      {
+        "#0a0806": "black"
+      },
+      {
+        "#2a2120": "black"
+      }
+    ],
+    "framenumber": 149841,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_149841.png",
+    "averageColorHSV": [
+      0.019989848143825446,
+      0.053310744977003145,
+      0.11890333454704483
+    ]
+  },
+  {
+    "averageColorRGB": [
+      28.250659722222224,
+      27.214170524691358,
+      30.323190586419752
+    ],
+    "palette": [
+      {
+        "#4a5d77": "dimgrey"
+      },
+      {
+        "#060702": "black"
+      },
+      {
+        "#020200": "black"
+      },
+      {
+        "#010100": "black"
+      },
+      {
+        "#22251e": "black"
+      },
+      {
+        "#2f2c3f": "darkslategrey"
+      }
+    ],
+    "framenumber": 150934,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_150934.png",
+    "averageColorHSV": [
+      0.7222302192197634,
+      0.11281835511982571,
+      0.05403480454594579
+    ]
+  },
+  {
+    "averageColorRGB": [
+      53.72110725308642,
+      55.57627314814815,
+      56.268626543209876
+    ],
+    "palette": [
+      {
+        "#13161c": "black"
+      },
+      {
+        "#273724": "darkslategrey"
+      },
+      {
+        "#657265": "dimgrey"
+      },
+      {
+        "#535864": "dimgrey"
+      },
+      {
+        "#434f42": "darkslategrey"
+      },
+      {
+        "#6b7974": "dimgrey"
+      }
+    ],
+    "framenumber": 152027,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_152027.png",
+    "averageColorHSV": [
+      0.5452959209995605,
+      0.2156661446986202,
+      0.023161427909640396
+    ]
+  },
+  {
+    "averageColorRGB": [
+      79.50346064814815,
+      70.60005787037038,
+      58.90630787037037
+    ],
+    "palette": [
+      {
+        "#b27b25": "darkgoldenrod"
+      },
+      {
+        "#10110b": "black"
+      },
+      {
+        "#070200": "black"
+      },
+      {
+        "#7d5f33": "sienna"
+      },
+      {
+        "#080300": "black"
+      },
+      {
+        "#e0ddea": "gainsboro"
+      }
+    ],
+    "framenumber": 153120,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_153120.png",
+    "averageColorHSV": [
+      0.0946227060779033,
+      0.27139170297748727,
+      0.14881285474458392
+    ]
+  },
+  {
+    "averageColorRGB": [
+      12.974498456790124,
+      12.600578703703704,
+      14.937010030864197
+    ],
+    "palette": [
+      {
+        "#4c6485": "darkslateblue"
+      },
+      {
+        "#13161e": "black"
+      },
+      {
+        "#5a3730": "darkolivegreen"
+      },
+      {
+        "#020200": "black"
+      },
+      {
+        "#030300": "black"
+      },
+      {
+        "#567492": "slategrey"
+      }
+    ],
+    "framenumber": 154213,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_154213.png",
+    "averageColorHSV": [
+      0.693339806220687,
+      0.05399527202856451,
+      0.08484516744298583
+    ]
+  },
+  {
+    "averageColorRGB": [
+      62.5705787037037,
+      62.23246527777778,
+      57.92287422839507
+    ],
+    "palette": [
+      {
+        "#2d2f22": "darkslategrey"
+      },
+      {
+        "#1e211b": "black"
+      },
+      {
+        "#484435": "darkslategrey"
+      },
+      {
+        "#2d2b21": "darkslategrey"
+      },
+      {
+        "#4b453d": "darkslategrey"
+      },
+      {
+        "#3a3a2c": "darkslategrey"
+      }
+    ],
+    "framenumber": 155306,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_155306.png",
+    "averageColorHSV": [
+      0.15454192036369133,
+      0.23626167241587992,
+      0.03857225734851952
+    ]
+  },
+  {
+    "averageColorRGB": [
+      67.83765046296297,
+      69.51060956790124,
+      63.618499228395066
+    ],
+    "palette": [
+      {
+        "#2e2f23": "darkslategrey"
+      },
+      {
+        "#152318": "black"
+      },
+      {
+        "#1a2a1e": "black"
+      },
+      {
+        "#504839": "darkolivegreen"
+      },
+      {
+        "#34372b": "darkslategrey"
+      },
+      {
+        "#5b676a": "dimgrey"
+      }
+    ],
+    "framenumber": 156399,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_156399.png",
+    "averageColorHSV": [
+      0.21398867888700837,
+      0.261037468228032,
+      0.04425861776421733
+    ]
+  },
+  {
+    "averageColorRGB": [
+      64.65868827160494,
+      62.16179783950617,
+      57.48565200617284
+    ],
+    "palette": [
+      {
+        "#a89e89": "rosybrown"
+      },
+      {
+        "#686d6e": "dimgrey"
+      },
+      {
+        "#6f665a": "dimgrey"
+      },
+      {
+        "#90a296": "darkseagreen"
+      },
+      {
+        "#776a5d": "dimgrey"
+      },
+      {
+        "#a6b08b": "darkseagreen"
+      }
+    ],
+    "framenumber": 157492,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_157492.png",
+    "averageColorHSV": [
+      0.10865101054134142,
+      0.23949870642701526,
+      0.058725899612862585
+    ]
+  },
+  {
+    "averageColorRGB": [
+      56.05204861111111,
+      56.005189043209874,
+      53.279147376543214
+    ],
+    "palette": [
+      {
+        "#606a71": "dimgrey"
+      },
+      {
+        "#0c0b06": "black"
+      },
+      {
+        "#39473a": "darkslategrey"
+      },
+      {
+        "#2a1b13": "black"
+      },
+      {
+        "#2c392d": "darkslategrey"
+      },
+      {
+        "#2a150f": "black"
+      }
+    ],
+    "framenumber": 158585,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_158585.png",
+    "averageColorHSV": [
+      0.16385014803766593,
+      0.21437489409343985,
+      0.025362397342484147
+    ]
+  },
+  {
+    "averageColorRGB": [
+      70.55211805555555,
+      67.10932098765433,
+      62.29874228395062
+    ],
+    "palette": [
+      {
+        "#e0e7ee": "lavender"
+      },
+      {
+        "#3a3b2e": "darkslategrey"
+      },
+      {
+        "#252619": "black"
+      },
+      {
+        "#c4cfd9": "lightgray"
+      },
+      {
+        "#2f2f21": "darkslategrey"
+      },
+      {
+        "#1b1b0e": "black"
+      }
+    ],
+    "framenumber": 159678,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_159678.png",
+    "averageColorHSV": [
+      0.09714365848243013,
+      0.26049188301863957,
+      0.062125120985389755
+    ]
+  },
+  {
+    "averageColorRGB": [
+      83.96653935185185,
+      72.86311728395061,
+      67.64994212962964
+    ],
+    "palette": [
+      {
+        "#8c8071": "grey"
+      },
+      {
+        "#5a372e": "darkolivegreen"
+      },
+      {
+        "#0d0b0c": "black"
+      },
+      {
+        "#a2938a": "rosybrown"
+      },
+      {
+        "#988476": "grey"
+      },
+      {
+        "#827163": "dimgrey"
+      }
+    ],
+    "framenumber": 160771,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_160771.png",
+    "averageColorHSV": [
+      0.053250228211604356,
+      0.29728721859114016,
+      0.10761756942773489
+    ]
+  },
+  {
+    "averageColorRGB": [
+      157.55620370370372,
+      156.84795910493827,
+      150.36242283950617
+    ],
+    "palette": [
+      {
+        "#98a8b0": "darkgrey"
+      },
+      {
+        "#bab39e": "darkgrey"
+      },
+      {
+        "#cfdadd": "lightgray"
+      },
+      {
+        "#4c433b": "darkslategrey"
+      },
+      {
+        "#908c82": "grey"
+      },
+      {
+        "#d8cdb7": "silver"
+      }
+    ],
+    "framenumber": 161864,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_161864.png",
+    "averageColorHSV": [
+      0.15025794242426127,
+      0.6037620128298233,
+      0.03559843612076278
+    ]
+  },
+  {
+    "averageColorRGB": [
+      68.46474537037037,
+      60.89339891975309,
+      57.508908179012344
+    ],
+    "palette": [
+      {
+        "#483a2b": "darkslategrey"
+      },
+      {
+        "#fbf3e8": "oldlace"
+      },
+      {
+        "#4d3026": "darkslategrey"
+      },
+      {
+        "#55453c": "darkolivegreen"
+      },
+      {
+        "#3c1b11": "black"
+      },
+      {
+        "#625141": "darkolivegreen"
+      }
+    ],
+    "framenumber": 162957,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_162957.png",
+    "averageColorHSV": [
+      0.05148687227375063,
+      0.24700716382231905,
+      0.08696927399238483
+    ]
+  },
+  {
+    "averageColorRGB": [
+      50.81854166666667,
+      37.677646604938275,
+      33.91839891975309
+    ],
+    "palette": [
+      {
+        "#250d08": "black"
+      },
+      {
+        "#5b3224": "saddlebrown"
+      },
+      {
+        "#3d1a12": "black"
+      },
+      {
+        "#2a130b": "black"
+      },
+      {
+        "#0e0502": "black"
+      },
+      {
+        "#160806": "black"
+      }
+    ],
+    "framenumber": 164050,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_164050.png",
+    "averageColorHSV": [
+      0.037073135431274475,
+      0.1661508638949407,
+      0.19944244658771712
+    ]
+  },
+  {
+    "averageColorRGB": [
+      43.685262345679014,
+      38.874845679012346,
+      37.467391975308644
+    ],
+    "palette": [
+      {
+        "#0b0002": "black"
+      },
+      {
+        "#060100": "black"
+      },
+      {
+        "#080101": "black"
+      },
+      {
+        "#b2b7c1": "silver"
+      },
+      {
+        "#2c110d": "black"
+      },
+      {
+        "#050000": "black"
+      }
+    ],
+    "framenumber": 165143,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_165143.png",
+    "averageColorHSV": [
+      0.037726038548786554,
+      0.15912285160977974,
+      0.07661943312139215
+    ]
+  },
+  {
+    "averageColorRGB": [
+      22.11980324074074,
+      14.104660493827161,
+      9.733896604938272
+    ],
+    "palette": [
+      {
+        "#030100": "black"
+      },
+      {
+        "#2d190e": "black"
+      },
+      {
+        "#040200": "black"
+      },
+      {
+        "#070301": "black"
+      },
+      {
+        "#140704": "black"
+      },
+      {
+        "#020000": "black"
+      }
+    ],
+    "framenumber": 166236,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_166236.png",
+    "averageColorHSV": [
+      0.0588136718262088,
+      0.06245823499152747,
+      0.3888372997739109
+    ]
+  },
+  {
+    "averageColorRGB": [
+      16.850667438271607,
+      24.594104938271606,
+      27.410806327160493
+    ],
+    "palette": [
+      {
+        "#0c1012": "black"
+      },
+      {
+        "#030502": "black"
+      },
+      {
+        "#0f1317": "black"
+      },
+      {
+        "#13191f": "black"
+      },
+      {
+        "#12181a": "black"
+      },
+      {
+        "#080c0e": "black"
+      }
+    ],
+    "framenumber": 167329,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_167329.png",
+    "averageColorHSV": [
+      0.5444549296577362,
+      0.08678720346163157,
+      0.23858534274871523
+    ]
+  },
+  {
+    "averageColorRGB": [
+      81.1527237654321,
+      71.11989583333333,
+      68.1308989197531
+    ],
+    "palette": [
+      {
+        "#7e675c": "dimgrey"
+      },
+      {
+        "#614d48": "darkolivegreen"
+      },
+      {
+        "#202f26": "darkslategrey"
+      },
+      {
+        "#4d4241": "darkslategrey"
+      },
+      {
+        "#ac8f86": "rosybrown"
+      },
+      {
+        "#7d6862": "dimgrey"
+      }
+    ],
+    "framenumber": 168422,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_168422.png",
+    "averageColorHSV": [
+      0.03825624735143609,
+      0.29271298565722587,
+      0.08722875698923721
+    ]
+  },
+  {
+    "averageColorRGB": [
+      81.61802083333333,
+      83.3433950617284,
+      87.42657793209877
+    ],
+    "palette": [
+      {
+        "#5d6e83": "dimgrey"
+      },
+      {
+        "#131b25": "black"
+      },
+      {
+        "#8b9eaa": "darkgrey"
+      },
+      {
+        "#e1cdb5": "wheat"
+      },
+      {
+        "#343a42": "darkslategrey"
+      },
+      {
+        "#5e6d8c": "slategrey"
+      }
+    ],
+    "framenumber": 169515,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_169515.png",
+    "averageColorHSV": [
+      0.6171599877256441,
+      0.33145999757927863,
+      0.03436109252343195
+    ]
+  },
+  {
+    "averageColorRGB": [
+      79.07859182098765,
+      79.69139274691358,
+      82.8503587962963
+    ],
+    "palette": [
+      {
+        "#3b1f16": "black"
+      },
+      {
+        "#495e7b": "darkslateblue"
+      },
+      {
+        "#c8ddd1": "lightgray"
+      },
+      {
+        "#d6dfe4": "gainsboro"
+      },
+      {
+        "#647b9c": "slategrey"
+      },
+      {
+        "#29110e": "black"
+      }
+    ],
+    "framenumber": 170608,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_170608.png",
+    "averageColorHSV": [
+      0.6395882473679873,
+      0.31750774630839995,
+      0.023292727834833844
+    ]
+  },
+  {
+    "averageColorRGB": [
+      115.09927083333334,
+      96.33463348765433,
+      89.8824537037037
+    ],
+    "palette": [
+      {
+        "#dcd0ce": "lightgray"
+      },
+      {
+        "#a79b9a": "darkgrey"
+      },
+      {
+        "#18100c": "black"
+      },
+      {
+        "#944023": "saddlebrown"
+      },
+      {
+        "#bdaaa6": "darkgrey"
+      },
+      {
+        "#b1a49f": "darkgrey"
+      }
+    ],
+    "framenumber": 171701,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_171701.png",
+    "averageColorHSV": [
+      0.04264468793968281,
+      0.40192495007262163,
+      0.12301983109266575
+    ]
+  },
+  {
+    "averageColorRGB": [
+      40.58853009259259,
+      33.07013117283951,
+      28.7328587962963
+    ],
+    "palette": [
+      {
+        "#181f16": "black"
+      },
+      {
+        "#0e160d": "black"
+      },
+      {
+        "#1f1f17": "black"
+      },
+      {
+        "#411b11": "maroon"
+      },
+      {
+        "#0f0b05": "black"
+      },
+      {
+        "#0d0d04": "black"
+      }
+    ],
+    "framenumber": 172794,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_172794.png",
+    "averageColorHSV": [
+      0.06097324321480604,
+      0.13592429193899783,
+      0.17102472247489212
+    ]
+  },
+  {
+    "averageColorRGB": [
+      30.776743827160495,
+      24.441832561728397,
+      12.312411265432099
+    ],
+    "palette": [
+      {
+        "#291304": "black"
+      },
+      {
+        "#0b0c03": "black"
+      },
+      {
+        "#6a761c": "olivedrab"
+      },
+      {
+        "#32220b": "black"
+      },
+      {
+        "#2e1c06": "black"
+      },
+      {
+        "#3d1a0b": "black"
+      }
+    ],
+    "framenumber": 173887,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_173887.png",
+    "averageColorHSV": [
+      0.1094851497767948,
+      0.08448853939724038,
+      0.42851461167087446
+    ]
+  },
+  {
+    "averageColorRGB": [
+      17.86596450617284,
+      22.05389274691358,
+      22.94241512345679
+    ],
+    "palette": [
+      {
+        "#0c1611": "black"
+      },
+      {
+        "#000101": "black"
+      },
+      {
+        "#060808": "black"
+      },
+      {
+        "#010303": "black"
+      },
+      {
+        "#000202": "black"
+      },
+      {
+        "#020404": "black"
+      }
+    ],
+    "framenumber": 174980,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_174980.png",
+    "averageColorHSV": [
+      0.5291713785716747,
+      0.08001643064633261,
+      0.12439726015482627
+    ]
+  },
+  {
+    "averageColorRGB": [
+      53.20708333333334,
+      31.75003086419753,
+      27.225570987654322
+    ],
+    "palette": [
+      {
+        "#330202": "black"
+      },
+      {
+        "#4e1708": "maroon"
+      },
+      {
+        "#3e0704": "black"
+      },
+      {
+        "#833415": "saddlebrown"
+      },
+      {
+        "#691c0a": "maroon"
+      },
+      {
+        "#2a0302": "black"
+      }
+    ],
+    "framenumber": 176073,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_176073.png",
+    "averageColorHSV": [
+      0.02902358554258468,
+      0.15771108690389737,
+      0.3230219438238723
+    ]
+  },
+  {
+    "averageColorRGB": [
+      19.793850308641975,
+      13.733387345679013,
+      9.720733024691357
+    ],
+    "palette": [
+      {
+        "#50382d": "darkolivegreen"
+      },
+      {
+        "#1b1108": "black"
+      },
+      {
+        "#160d06": "black"
+      },
+      {
+        "#000101": "black"
+      },
+      {
+        "#23170b": "black"
+      },
+      {
+        "#0a0703": "black"
+      }
+    ],
+    "framenumber": 177166,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_177166.png",
+    "averageColorHSV": [
+      0.0663921307885655,
+      0.05787173202614379,
+      0.34129288461186535
+    ]
+  },
+  {
+    "averageColorRGB": [
+      5.460127314814815,
+      7.439216820987655,
+      12.881604938271606
+    ],
+    "palette": [
+      {
+        "#010312": "black"
+      },
+      {
+        "#00020d": "black"
+      },
+      {
+        "#000104": "black"
+      },
+      {
+        "#000002": "black"
+      },
+      {
+        "#010003": "black"
+      },
+      {
+        "#01010a": "black"
+      }
+    ],
+    "framenumber": 178259,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_178259.png",
+    "averageColorHSV": [
+      0.6222215753028838,
+      0.035964180888404744,
+      0.4046225035374156
+    ]
+  },
+  {
+    "averageColorRGB": [
+      13.283888888888889,
+      9.733391203703704,
+      5.75233024691358
+    ],
+    "palette": [
+      {
+        "#0d0604": "black"
+      },
+      {
+        "#1b140b": "black"
+      },
+      {
+        "#472515": "maroon"
+      },
+      {
+        "#171910": "black"
+      },
+      {
+        "#141007": "black"
+      },
+      {
+        "#090402": "black"
+      }
+    ],
+    "framenumber": 179352,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_179352.png",
+    "averageColorHSV": [
+      0.08809732367575392,
+      0.03732591987412249,
+      0.39564361957833794
+    ]
+  },
+  {
+    "averageColorRGB": [
+      1.2775925925925926,
+      4.989722222222222,
+      12.5395987654321
+    ],
+    "palette": [
+      {
+        "#01040b": "black"
+      },
+      {
+        "#000408": "black"
+      },
+      {
+        "#000209": "black"
+      },
+      {
+        "#00030a": "black"
+      },
+      {
+        "#00050d": "black"
+      },
+      {
+        "#000307": "black"
+      }
+    ],
+    "framenumber": 180445,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_180445.png",
+    "averageColorHSV": [
+      0.611730782055182,
+      0.02709253207455822,
+      0.8150720273768811
+    ]
+  },
+  {
+    "averageColorRGB": [
+      12.078348765432098,
+      9.721300154320987,
+      7.181130401234568
+    ],
+    "palette": [
+      {
+        "#0a0301": "black"
+      },
+      {
+        "#020200": "black"
+      },
+      {
+        "#030300": "black"
+      },
+      {
+        "#1b0c07": "black"
+      },
+      {
+        "#020001": "black"
+      },
+      {
+        "#040401": "black"
+      }
+    ],
+    "framenumber": 181538,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_181538.png",
+    "averageColorHSV": [
+      0.08644940740431457,
+      0.03776368464052288,
+      0.2542757424444472
+    ]
+  },
+  {
+    "averageColorRGB": [
+      33.8042862654321,
+      61.60844521604938,
+      98.69438657407407
+    ],
+    "palette": [
+      {
+        "#11294e": "midnightblue"
+      },
+      {
+        "#193461": "midnightblue"
+      },
+      {
+        "#264d87": "darkslateblue"
+      },
+      {
+        "#02050c": "black"
+      },
+      {
+        "#5089c7": "steelblue"
+      },
+      {
+        "#2f609f": "steelblue"
+      }
+    ],
+    "framenumber": 182631,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_182631.png",
+    "averageColorHSV": [
+      0.5952532080693097,
+      0.25980131929314937,
+      0.48974151150360934
+    ]
+  },
+  {
+    "averageColorRGB": [
+      73.07954089506173,
+      50.9570524691358,
+      42.586288580246915
+    ],
+    "palette": [
+      {
+        "#73301b": "saddlebrown"
+      },
+      {
+        "#451b0f": "maroon"
+      },
+      {
+        "#0b0c07": "black"
+      },
+      {
+        "#0d140d": "black"
+      },
+      {
+        "#3a1c10": "black"
+      },
+      {
+        "#522819": "saddlebrown"
+      }
+    ],
+    "framenumber": 183724,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_183724.png",
+    "averageColorHSV": [
+      0.045752001144758435,
+      0.22679574406923264,
+      0.26363233163277705
+    ]
+  },
+  {
+    "averageColorRGB": [
+      12.433881172839506,
+      12.071604938271605,
+      15.613306327160494
+    ],
+    "palette": [
+      {
+        "#000106": "black"
+      },
+      {
+        "#020104": "black"
+      },
+      {
+        "#010205": "black"
+      },
+      {
+        "#010207": "black"
+      },
+      {
+        "#02020a": "black"
+      },
+      {
+        "#000104": "black"
+      }
+    ],
+    "framenumber": 184817,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_184817.png",
+    "averageColorHSV": [
+      0.6837147929196047,
+      0.054284139736141365,
+      0.1279289413259245
+    ]
+  },
+  {
+    "averageColorRGB": [
+      16.80090663580247,
+      15.448661265432099,
+      13.597395833333334
+    ],
+    "palette": [
+      {
+        "#1b1812": "black"
+      },
+      {
+        "#11110e": "black"
+      },
+      {
+        "#0a0b0b": "black"
+      },
+      {
+        "#000002": "black"
+      },
+      {
+        "#010003": "black"
+      },
+      {
+        "#090906": "black"
+      }
+    ],
+    "framenumber": 185910,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_185910.png",
+    "averageColorHSV": [
+      0.09631440557194758,
+      0.059604514645364315,
+      0.10538452947238561
+    ]
+  },
+  {
+    "averageColorRGB": [
+      44.29374614197531,
+      36.64479166666667,
+      31.589895833333333
+    ],
+    "palette": [
+      {
+        "#233234": "darkslategrey"
+      },
+      {
+        "#010003": "black"
+      },
+      {
+        "#000002": "black"
+      },
+      {
+        "#595545": "darkolivegreen"
+      },
+      {
+        "#391a12": "black"
+      },
+      {
+        "#270805": "black"
+      }
+    ],
+    "framenumber": 187003,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_187003.png",
+    "averageColorHSV": [
+      0.06631711004306924,
+      0.14879145485354636,
+      0.16741223770961877
+    ]
+  },
+  {
+    "averageColorRGB": [
+      38.89582175925926,
+      31.910123456790124,
+      25.742885802469136
+    ],
+    "palette": [
+      {
+        "#685440": "darkolivegreen"
+      },
+      {
+        "#000101": "black"
+      },
+      {
+        "#503f32": "darkolivegreen"
+      },
+      {
+        "#010303": "black"
+      },
+      {
+        "#000202": "black"
+      },
+      {
+        "#7d6b54": "dimgrey"
+      }
+    ],
+    "framenumber": 188096,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_188096.png",
+    "averageColorHSV": [
+      0.07814779496863573,
+      0.12674256384652627,
+      0.2034838946033906
+    ]
+  },
+  {
+    "averageColorRGB": [
+      41.81667824074074,
+      34.2461612654321,
+      24.192060185185184
+    ],
+    "palette": [
+      {
+        "#37160e": "black"
+      },
+      {
+        "#2e2c21": "darkslategrey"
+      },
+      {
+        "#2d0f09": "black"
+      },
+      {
+        "#1d2c2d": "darkslategrey"
+      },
+      {
+        "#490904": "maroon"
+      },
+      {
+        "#203033": "darkslategrey"
+      }
+    ],
+    "framenumber": 189189,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_189189.png",
+    "averageColorHSV": [
+      0.0950763022547478,
+      0.12942889887436457,
+      0.267004316032091
+    ]
+  },
+  {
+    "averageColorRGB": [
+      37.299436728395065,
+      30.158703703703704,
+      26.3975
+    ],
+    "palette": [
+      {
+        "#332115": "black"
+      },
+      {
+        "#321b0f": "black"
+      },
+      {
+        "#000002": "black"
+      },
+      {
+        "#080804": "black"
+      },
+      {
+        "#3a2e22": "darkslategrey"
+      },
+      {
+        "#010003": "black"
+      }
+    ],
+    "framenumber": 190282,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_190282.png",
+    "averageColorHSV": [
+      0.05750054321246297,
+      0.1248959543694021,
+      0.17115323417955133
+    ]
+  },
+  {
+    "averageColorRGB": [
+      22.72822916666667,
+      27.138032407407408,
+      33.85099537037037
+    ],
+    "palette": [
+      {
+        "#04080a": "black"
+      },
+      {
+        "#0f141b": "black"
+      },
+      {
+        "#6e85ad": "lightslategrey"
+      },
+      {
+        "#8fa8ce": "darkgrey"
+      },
+      {
+        "#6777a0": "slategrey"
+      },
+      {
+        "#020404": "black"
+      }
+    ],
+    "framenumber": 191375,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_191375.png",
+    "averageColorHSV": [
+      0.6005889308471911,
+      0.11093965595497458,
+      0.1965874628844141
+    ]
+  },
+  {
+    "averageColorRGB": [
+      12.867932098765433,
+      14.573001543209877,
+      12.993935185185185
+    ],
+    "palette": [
+      {
+        "#090904": "black"
+      },
+      {
+        "#0f1007": "black"
+      },
+      {
+        "#050502": "black"
+      },
+      {
+        "#060803": "black"
+      },
+      {
+        "#080c05": "black"
+      },
+      {
+        "#040601": "black"
+      }
+    ],
+    "framenumber": 192468,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_192468.png",
+    "averageColorHSV": [
+      0.3456498489284707,
+      0.05380575223916727,
+      0.062135985119553906
+    ]
+  },
+  {
+    "averageColorRGB": [
+      11.243329475308641,
+      11.87235339506173,
+      18.49874614197531
+    ],
+    "palette": [
+      {
+        "#030205": "black"
+      },
+      {
+        "#020106": "black"
+      },
+      {
+        "#04040a": "black"
+      },
+      {
+        "#000002": "black"
+      },
+      {
+        "#030207": "black"
+      },
+      {
+        "#020104": "black"
+      }
+    ],
+    "framenumber": 193561,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_193561.png",
+    "averageColorHSV": [
+      0.6522171422940005,
+      0.05831779532800775,
+      0.24394453030205948
+    ]
+  },
+  {
+    "averageColorRGB": [
+      22.694888117283952,
+      29.743796296296296,
+      42.9257600308642
+    ],
+    "palette": [
+      {
+        "#272f4a": "darkslategrey"
+      },
+      {
+        "#111820": "black"
+      },
+      {
+        "#060a0e": "black"
+      },
+      {
+        "#263062": "midnightblue"
+      },
+      {
+        "#060a0c": "black"
+      },
+      {
+        "#0c1316": "black"
+      }
+    ],
+    "framenumber": 194654,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_194654.png",
+    "averageColorHSV": [
+      0.6085961082224318,
+      0.12866793754538852,
+      0.30830039758074484
+    ]
+  },
+  {
+    "averageColorRGB": [
+      12.830659722222222,
+      9.148456790123458,
+      5.449000771604938
+    ],
+    "palette": [
+      {
+        "#150f09": "black"
+      },
+      {
+        "#16110b": "black"
+      },
+      {
+        "#010100": "black"
+      },
+      {
+        "#0c0802": "black"
+      },
+      {
+        "#0e0a04": "black"
+      },
+      {
+        "#130e06": "black"
+      }
+    ],
+    "framenumber": 195747,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_195747.png",
+    "averageColorHSV": [
+      0.08352810759901867,
+      0.03584247155652384,
+      0.403818164626744
+    ]
+  },
+  {
+    "averageColorRGB": [
+      7.761875,
+      5.90761188271605,
+      3.875354938271605
+    ],
+    "palette": [
+      {
+        "#020200": "black"
+      },
+      {
+        "#030300": "black"
+      },
+      {
+        "#010100": "black"
+      },
+      {
+        "#010303": "black"
+      },
+      {
+        "#000202": "black"
+      },
+      {
+        "#040401": "black"
+      }
+    ],
+    "framenumber": 196840,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_196840.png",
+    "averageColorHSV": [
+      0.08714981149231775,
+      0.022818097918179618,
+      0.33397295424632917
+    ]
+  },
+  {
+    "averageColorRGB": [
+      13.208942901234568,
+      11.379421296296297,
+      9.386269290123456
+    ],
+    "palette": [
+      {
+        "#050502": "black"
+      },
+      {
+        "#020200": "black"
+      },
+      {
+        "#030300": "black"
+      },
+      {
+        "#231c17": "black"
+      },
+      {
+        "#2e2622": "darkslategrey"
+      },
+      {
+        "#040401": "black"
+      }
+    ],
+    "framenumber": 197933,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_197933.png",
+    "averageColorHSV": [
+      0.08690043535583218,
+      0.04430433763011377,
+      0.16918069096837995
+    ]
+  },
+  {
+    "averageColorRGB": [
+      5.080320216049383,
+      4.4763117283950615,
+      3.158942901234568
+    ],
+    "palette": [
+      {
+        "#050502": "black"
+      },
+      {
+        "#020200": "black"
+      },
+      {
+        "#030300": "black"
+      },
+      {
+        "#0f0b04": "black"
+      },
+      {
+        "#101009": "black"
+      },
+      {
+        "#040401": "black"
+      }
+    ],
+    "framenumber": 199026,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_199026.png",
+    "averageColorHSV": [
+      0.11427295903854114,
+      0.016155417877027355,
+      0.23319771288578428
+    ]
+  },
+  {
+    "averageColorRGB": [
+      23.142187500000002,
+      14.47105324074074,
+      9.476608796296297
+    ],
+    "palette": [
+      {
+        "#0e0d02": "black"
+      },
+      {
+        "#23140a": "black"
+      },
+      {
+        "#0c0300": "black"
+      },
+      {
+        "#131207": "black"
+      },
+      {
+        "#010000": "black"
+      },
+      {
+        "#110600": "black"
+      }
+    ],
+    "framenumber": 200119,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_200119.png",
+    "averageColorHSV": [
+      0.060912708159355476,
+      0.0639584241103849,
+      0.4189479764848148
+    ]
+  },
+  {
+    "averageColorRGB": [
+      16.049726080246913,
+      11.451581790123457,
+      6.500887345679012
+    ],
+    "palette": [
+      {
+        "#1a160d": "black"
+      },
+      {
+        "#010100": "black"
+      },
+      {
+        "#0f0b05": "black"
+      },
+      {
+        "#0c0b04": "black"
+      },
+      {
+        "#120e08": "black"
+      },
+      {
+        "#141008": "black"
+      }
+    ],
+    "framenumber": 201212,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_201212.png",
+    "averageColorHSV": [
+      0.0864100613359116,
+      0.044216889070442994,
+      0.42344030976957014
+    ]
+  },
+  {
+    "averageColorRGB": [
+      11.002226080246913,
+      8.53878086419753,
+      6.335659722222222
+    ],
+    "palette": [
+      {
+        "#050301": "black"
+      },
+      {
+        "#1e1a11": "black"
+      },
+      {
+        "#030300": "black"
+      },
+      {
+        "#060402": "black"
+      },
+      {
+        "#040401": "black"
+      },
+      {
+        "#000202": "black"
+      }
+    ],
+    "framenumber": 202305,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_202305.png",
+    "averageColorHSV": [
+      0.07868458923003747,
+      0.03399585451464536,
+      0.26915429085131665
+    ]
+  },
+  {
+    "averageColorRGB": [
+      10.805972222222222,
+      8.265111882716049,
+      4.307750771604939
+    ],
+    "palette": [
+      {
+        "#030100": "black"
+      },
+      {
+        "#050300": "black"
+      },
+      {
+        "#040200": "black"
+      },
+      {
+        "#020200": "black"
+      },
+      {
+        "#010100": "black"
+      },
+      {
+        "#0d0703": "black"
+      }
+    ],
+    "framenumber": 203398,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_203398.png",
+    "averageColorHSV": [
+      0.10149857006220246,
+      0.029634750968288548,
+      0.4299550450455739
+    ]
+  },
+  {
+    "averageColorRGB": [
+      14.728950617283951,
+      10.419471450617284,
+      5.102885802469136
+    ],
+    "palette": [
+      {
+        "#050301": "black"
+      },
+      {
+        "#030100": "black"
+      },
+      {
+        "#1a160a": "black"
+      },
+      {
+        "#040200": "black"
+      },
+      {
+        "#231d10": "black"
+      },
+      {
+        "#130f06": "black"
+      }
+    ],
+    "framenumber": 204491,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_204491.png",
+    "averageColorHSV": [
+      0.09205190543294069,
+      0.03888595376422174,
+      0.48538444000208536
+    ]
+  },
+  {
+    "averageColorRGB": [
+      56.09613425925926,
+      52.740443672839504,
+      55.90839120370371
+    ],
+    "palette": [
+      {
+        "#d8ccdc": "lightgray"
+      },
+      {
+        "#0d0b09": "black"
+      },
+      {
+        "#eedfed": "lavender"
+      },
+      {
+        "#100e0c": "black"
+      },
+      {
+        "#0b0907": "black"
+      },
+      {
+        "#252428": "darkslategrey"
+      }
+    ],
+    "framenumber": 205584,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_205584.png",
+    "averageColorHSV": [
+      0.842657944304884,
+      0.2134050547688211,
+      0.030832378692697518
+    ]
+  },
+  {
+    "averageColorRGB": [
+      20.462264660493826,
+      18.705979938271604,
+      16.022172067901234
+    ],
+    "palette": [
+      {
+        "#342b21": "darkslategrey"
+      },
+      {
+        "#281f17": "black"
+      },
+      {
+        "#585143": "darkolivegreen"
+      },
+      {
+        "#322a1e": "darkslategrey"
+      },
+      {
+        "#2a2219": "black"
+      },
+      {
+        "#40382b": "darkslategrey"
+      }
+    ],
+    "framenumber": 206677,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_206677.png",
+    "averageColorHSV": [
+      0.10074143779673146,
+      0.07153811123214718,
+      0.12169826344439529
+    ]
+  },
+  {
+    "averageColorRGB": [
+      6.17283950617284e-05,
+      0.0,
+      0.0
+    ],
+    "palette": [
+      {
+        "#010000": "black"
+      }
+    ],
+    "framenumber": 207770,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_207770.png",
+    "averageColorHSV": [
+      0.0,
+      1.2103606874848705e-07,
+      1.0
+    ]
+  },
+  {
+    "averageColorRGB": [
+      0.636658950617284,
+      0.636658950617284,
+      0.636658950617284
+    ],
+    "palette": [
+      {
+        "#010101": "black"
+      }
+    ],
+    "framenumber": 208863,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_208863.png",
+    "averageColorHSV": [
+      0.0,
+      0.0024967017671266036,
+      0.0
+    ]
+  },
+  {
+    "averageColorRGB": [
+      0.11056712962962963,
+      0.11056712962962963,
+      0.11056712962962963
+    ],
+    "palette": [
+      {
+        "#010101": "black"
+      }
+    ],
+    "framenumber": 209956,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_209956.png",
+    "averageColorHSV": [
+      0.0,
+      0.0004335965867828613,
+      0.0
+    ]
+  },
+  {
+    "averageColorRGB": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "palette": [
+      {
+        "#ffffff": "white"
+      }
+    ],
+    "framenumber": 211049,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_211049.png",
+    "averageColorHSV": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "averageColorRGB": [
+      13.042341820987655,
+      13.042341820987655,
+      13.042341820987655
+    ],
+    "palette": [
+      {
+        "#010101": "black"
+      }
+    ],
+    "framenumber": 212142,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_212142.png",
+    "averageColorHSV": [
+      0.0,
+      0.05114643851367708,
+      0.0
+    ]
+  },
+  {
+    "averageColorRGB": [
+      16.93057484567901,
+      16.93057484567901,
+      16.93057484567901
+    ],
+    "palette": [
+      {
+        "#010101": "black"
+      }
+    ],
+    "framenumber": 213235,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_213235.png",
+    "averageColorHSV": [
+      0.0,
+      0.06639441115952553,
+      0.0
+    ]
+  },
+  {
+    "averageColorRGB": [
+      18.058317901234567,
+      18.058317901234567,
+      18.058317901234567
+    ],
+    "palette": [
+      {
+        "#010101": "black"
+      }
+    ],
+    "framenumber": 214328,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_214328.png",
+    "averageColorHSV": [
+      0.0,
+      0.0708169329460179,
+      0.0
+    ]
+  },
+  {
+    "averageColorRGB": [
+      13.358171296296296,
+      13.358171296296296,
+      13.358171296296296
+    ],
+    "palette": [
+      {
+        "#010101": "black"
+      }
+    ],
+    "framenumber": 215421,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_215421.png",
+    "averageColorHSV": [
+      0.0,
+      0.052384985475671754,
+      0.0
+    ]
+  },
+  {
+    "averageColorRGB": [
+      23.053348765432098,
+      23.053348765432098,
+      23.053348765432098
+    ],
+    "palette": [
+      {
+        "#010101": "black"
+      }
+    ],
+    "framenumber": 216514,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_216514.png",
+    "averageColorHSV": [
+      0.0,
+      0.09040528927620431,
+      0.0
+    ]
+  },
+  {
+    "averageColorRGB": [
+      3.764675925925926,
+      3.764675925925926,
+      3.764675925925926
+    ],
+    "palette": [
+      {
+        "#010101": "black"
+      }
+    ],
+    "framenumber": 217607,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_217607.png",
+    "averageColorHSV": [
+      0.0,
+      0.014763435003631083,
+      0.0
+    ]
+  },
+  {
+    "averageColorRGB": [
+      13.447515432098765,
+      13.447515432098765,
+      13.447515432098765
+    ],
+    "palette": [
+      {
+        "#ffffff": "white"
+      }
+    ],
+    "framenumber": 218700,
+    "file": "http://128.54.253.204/chromatography/darkknight/DarkKnight.mp4_218700.png",
+    "averageColorHSV": [
+      0.0,
+      0.05273535463568143,
+      0.0
+    ]
+  }
+]

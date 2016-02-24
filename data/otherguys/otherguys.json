@@ -1,716 +1,6827 @@
 [
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_100.png",
     "averageColorRGB": [
-      0.0,
-      0.0,
-      0.0
+      190.42864879261364,
+      193.59093572443183,
+      201.77808061079546
+    ],
+    "framenumber": 100,
+    "palette": [
+      {
+        "#b8d3e1": "lightblue"
+      },
+      {
+        "#969fba": "darkgray"
+      },
+      {
+        "#5e748c": "slategrey"
+      },
+      {
+        "#c3d4e1": "lightgray"
+      },
+      {
+        "#838193": "lightslategray"
+      },
+      {
+        "#9c8997": "rosybrown"
+      }
     ],
     "averageColorHSV": [
-      0.0,
-      0.0,
-      0.0
-    ],
-    "framenumber": 0,
-    "file": "../data/otherguys/The Other Guys.mp4_000.png"
+      0.6202284105131411,
+      0.7690328027517825,
+      0.09635042613809781
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_935.png",
     "averageColorRGB": [
-      98.84610706676136,
-      97.7253536339962,
-      96.33437352035985
+      139.70208333333332,
+      134.38560310132576,
+      133.9843897964015
+    ],
+    "framenumber": 935,
+    "palette": [
+      {
+        "#4c4846": "darkslategray"
+      },
+      {
+        "#0c1112": "black"
+      },
+      {
+        "#958e8d": "grey"
+      },
+      {
+        "#131716": "black"
+      },
+      {
+        "#332820": "darkslategray"
+      },
+      {
+        "#080c0e": "black"
+      }
     ],
     "averageColorHSV": [
-      0.09229881062484878,
-      97.59024029356061,
-      -0.013002004854567928
-    ],
-    "framenumber": 3344,
-    "file": "../data/otherguys/The Other Guys.mp4_3344.png"
+      0.011695080144139133,
+      0.5366401433916369,
+      0.024195371346942864
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_1770.png",
     "averageColorRGB": [
-      68.00019383285985,
-      69.67516719933712,
-      63.718032374526516
+      79.1376405658144,
+      82.2932676373106,
+      79.81238162878788
+    ],
+    "framenumber": 1770,
+    "palette": [
+      {
+        "#333e3f": "darkslategray"
+      },
+      {
+        "#263132": "darkslategray"
+      },
+      {
+        "#bcb4a3": "darkgray"
+      },
+      {
+        "#111c20": "black"
+      },
+      {
+        "#0a1217": "black"
+      },
+      {
+        "#0c161a": "black"
+      }
     ],
     "averageColorHSV": [
-      0.21352849470244353,
-      66.69659978693181,
-      -0.04533822788493527
-    ],
-    "framenumber": 6688,
-    "file": "../data/otherguys/The Other Guys.mp4_6688.png"
+      0.36897025787511456,
+      0.31653119255514706,
+      0.01954784933456209
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_2605.png",
     "averageColorRGB": [
-      90.20646602746213,
-      99.08292347301136,
-      96.15862038352273
+      98.13412642045455,
+      102.1435546875,
+      100.71376953125
+    ],
+    "framenumber": 2605,
+    "palette": [
+      {
+        "#637a80": "slategrey"
+      },
+      {
+        "#535a59": "dimgray"
+      },
+      {
+        "#80979c": "lightslategray"
+      },
+      {
+        "#4c4c44": "darkslategray"
+      },
+      {
+        "#c1cdce": "silver"
+      },
+      {
+        "#a1b4b6": "darkgray"
+      }
     ],
     "averageColorHSV": [
-      0.4450925269187782,
-      94.64469475023674,
-      -0.047394342355559844
-    ],
-    "framenumber": 10032,
-    "file": "../data/otherguys/The Other Guys.mp4_10032.png"
+      0.440565709081193,
+      0.3927013355057932,
+      0.020019346363833054
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_3440.png",
     "averageColorRGB": [
-      66.91306522253788,
-      70.65966796875,
-      80.15952888257576
+      82.50577207623105,
+      91.7736328125,
+      89.6315400094697
+    ],
+    "framenumber": 3440,
+    "palette": [
+      {
+        "#315f5b": "darkslategray"
+      },
+      {
+        "#0c302e": "darkslategray"
+      },
+      {
+        "#214846": "darkslategray"
+      },
+      {
+        "#111b1d": "black"
+      },
+      {
+        "#c3bfb9": "silver"
+      },
+      {
+        "#d2ccc6": "lightgray"
+      }
     ],
     "averageColorHSV": [
-      0.6195270068252893,
-      73.53629705255682,
-      -0.09130920792965233
-    ],
-    "framenumber": 13376,
-    "file": "../data/otherguys/The Other Guys.mp4_13376.png"
+      0.46147811481730977,
+      0.34172432331123737,
+      0.05317817525361658
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_4275.png",
     "averageColorRGB": [
-      91.06470762310606,
-      91.05124585700757,
-      87.1883212002841
+      57.155563446969694,
+      48.57337831439394,
+      38.249456972064394
+    ],
+    "framenumber": 4275,
+    "palette": [
+      {
+        "#100600": "black"
+      },
+      {
+        "#88b0b7": "darkgray"
+      },
+      {
+        "#57534e": "dimgray"
+      },
+      {
+        "#0c0300": "black"
+      },
+      {
+        "#100902": "black"
+      },
+      {
+        "#201605": "black"
+      }
     ],
     "averageColorHSV": [
-      0.16608787305881786,
-      89.12651441169507,
-      -0.02199330388078721
-    ],
-    "framenumber": 16720,
-    "file": "../data/otherguys/The Other Guys.mp4_16720.png"
+      0.09101046581636492,
+      0.18706866748830214,
+      0.19816678820324823
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_5110.png",
     "averageColorRGB": [
-      40.25909238873106,
-      44.42214873342803,
-      42.83509114583333
+      74.13502752130682,
+      67.11946762547349,
+      62.636271898674245
+    ],
+    "framenumber": 5110,
+    "palette": [
+      {
+        "#a69f8d": "rosybrown"
+      },
+      {
+        "#827a69": "grey"
+      },
+      {
+        "#0d1316": "black"
+      },
+      {
+        "#643b2d": "saddlebrown"
+      },
+      {
+        "#101b20": "black"
+      },
+      {
+        "#845d4e": "dimgray"
+      }
     ],
     "averageColorHSV": [
-      0.43646264282024655,
-      42.34062056107955,
-      -0.05035067553650018
-    ],
-    "framenumber": 20064,
-    "file": "../data/otherguys/The Other Guys.mp4_20064.png"
+      0.06498088248168248,
+      0.26817901847055114,
+      0.08407286961077678
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_5945.png",
     "averageColorRGB": [
-      54.17383848248106,
-      51.96286843039773,
-      45.45158617424242
+      95.34467033617425,
+      86.13343690814393,
+      78.00480439157197
+    ],
+    "framenumber": 5945,
+    "palette": [
+      {
+        "#955e56": "sienna"
+      },
+      {
+        "#a59c8a": "rosybrown"
+      },
+      {
+        "#a7a59b": "darkgray"
+      },
+      {
+        "#493929": "darkslategray"
+      },
+      {
+        "#9a8f81": "grey"
+      },
+      {
+        "#cabfb0": "silver"
+      }
     ],
     "averageColorHSV": [
-      0.1244189770037006,
-      49.81271232836174,
-      -0.089344065225922
-    ],
-    "framenumber": 23408,
-    "file": "../data/otherguys/The Other Guys.mp4_23408.png"
+      0.07813048211696554,
+      0.3399009308387181,
+      0.10002837315680009
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_6780.png",
     "averageColorRGB": [
-      38.282652698863636,
-      33.206985381155306,
-      29.543189216382576
+      67.6642548532197,
+      64.5099032315341,
+      58.12057439630682
+    ],
+    "framenumber": 6780,
+    "palette": [
+      {
+        "#070a0f": "black"
+      },
+      {
+        "#919283": "grey"
+      },
+      {
+        "#7e887a": "grey"
+      },
+      {
+        "#906152": "sienna"
+      },
+      {
+        "#687667": "dimgray"
+      },
+      {
+        "#593627": "darkolivegreen"
+      }
     ],
     "averageColorHSV": [
-      0.06987073009148097,
-      33.91292095762311,
-      -0.1327664520224978
-    ],
-    "framenumber": 26752,
-    "file": "../data/otherguys/The Other Guys.mp4_26752.png"
+      0.11158044781698473,
+      0.24663692009711086,
+      0.07587306445342899
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_7615.png",
     "averageColorRGB": [
-      52.53590198863636,
-      51.59437292850379,
-      50.94492779356061
+      70.5561064749053,
+      71.08852095170455,
+      65.6574248342803
+    ],
+    "framenumber": 7615,
+    "palette": [
+      {
+        "#8f8c7d": "grey"
+      },
+      {
+        "#787d71": "grey"
+      },
+      {
+        "#5e655c": "dimgray"
+      },
+      {
+        "#424c49": "darkslategray"
+      },
+      {
+        "#515e56": "dimgray"
+      },
+      {
+        "#ac9e8c": "rosybrown"
+      }
     ],
     "averageColorHSV": [
-      0.06803432523222624,
-      51.74041489109848,
-      -0.01567758362333435
-    ],
-    "framenumber": 30096,
-    "file": "../data/otherguys/The Other Guys.mp4_30096.png"
+      0.1830051265677025,
+      0.2681293054627154,
+      0.039716688390339705
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_8450.png",
     "averageColorRGB": [
-      74.85691435842803,
-      43.67552379261364,
-      24.79541903409091
+      84.76266128077651,
+      79.41520478219697,
+      69.19672703598485
+    ],
+    "framenumber": 8450,
+    "palette": [
+      {
+        "#73786b": "dimgray"
+      },
+      {
+        "#8a887f": "grey"
+      },
+      {
+        "#595343": "darkolivegreen"
+      },
+      {
+        "#7b7d6e": "grey"
+      },
+      {
+        "#979087": "grey"
+      },
+      {
+        "#9b968d": "rosybrown"
+      }
     ],
     "averageColorHSV": [
-      0.06285637506498355,
-      49.82616669625947,
-      -0.5126502725041109
-    ],
-    "framenumber": 33440,
-    "file": "../data/otherguys/The Other Guys.mp4_33440.png"
+      0.10941069116609776,
+      0.3018811535622772,
+      0.10110415749876704
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_9285.png",
     "averageColorRGB": [
-      82.92597508285985,
-      78.94088837594697,
-      74.0118563565341
+      70.2261260061553,
+      81.28825313683713,
+      73.35634765625
+    ],
+    "framenumber": 9285,
+    "palette": [
+      {
+        "#a3b1a5": "darkgray"
+      },
+      {
+        "#849287": "grey"
+      },
+      {
+        "#000001": "black"
+      },
+      {
+        "#afbfaa": "darkgray"
+      },
+      {
+        "#294244": "darkslategray"
+      },
+      {
+        "#335952": "darkslategray"
+      }
     ],
     "averageColorHSV": [
-      0.09215777372839888,
-      78.46891571969698,
-      -0.05753351937039749
-    ],
-    "framenumber": 36784,
-    "file": "../data/otherguys/The Other Guys.mp4_36784.png"
+      0.38049457114826707,
+      0.29708701792743614,
+      0.07301041124447931
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_10120.png",
     "averageColorRGB": [
-      63.67771809895833,
-      66.79936671401515,
-      62.36296904592803
+      137.78977716619318,
+      152.0379113399621,
+      149.5429657907197
+    ],
+    "framenumber": 10120,
+    "palette": [
+      {
+        "#688c8a": "slategrey"
+      },
+      {
+        "#bccccc": "silver"
+      },
+      {
+        "#b9c3bd": "silver"
+      },
+      {
+        "#b1c2c0": "silver"
+      },
+      {
+        "#c1d1d4": "lightgray"
+      },
+      {
+        "#071b24": "black"
+      }
     ],
     "averageColorHSV": [
-      0.28394081747570993,
-      64.58116787997159,
-      -0.034887670484931486
-    ],
-    "framenumber": 40128,
-    "file": "../data/otherguys/The Other Guys.mp4_40128.png"
+      0.47081552902747054,
+      0.5682895853061868,
+      0.06471356037958141
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_10955.png",
     "averageColorRGB": [
-      58.90544063683712,
-      72.7029326467803,
-      74.19924686316288
+      67.95774739583334,
+      65.62719282670454,
+      67.02897727272727
+    ],
+    "framenumber": 10955,
+    "palette": [
+      {
+        "#06121b": "black"
+      },
+      {
+        "#061720": "black"
+      },
+      {
+        "#040911": "black"
+      },
+      {
+        "#040c14": "black"
+      },
+      {
+        "#523129": "darkolivegreen"
+      },
+      {
+        "#050f17": "black"
+      }
     ],
     "averageColorHSV": [
-      0.5163063202867808,
-      66.55234375,
-      -0.11665338988223256
-    ],
-    "framenumber": 43472,
-    "file": "../data/otherguys/The Other Guys.mp4_43472.png"
+      0.8997531557087185,
+      0.2619312553383096,
+      0.017446237317218043
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_11790.png",
     "averageColorRGB": [
-      78.51773496685605,
-      62.69769620028409,
-      44.01406397964015
+      48.955490944602275,
+      51.84038529829545,
+      44.439849668560605
+    ],
+    "framenumber": 11790,
+    "palette": [
+      {
+        "#212b22": "darkslategray"
+      },
+      {
+        "#34473a": "darkslategray"
+      },
+      {
+        "#9aa694": "darkseagreen"
+      },
+      {
+        "#071d29": "black"
+      },
+      {
+        "#0b2330": "black"
+      },
+      {
+        "#181d14": "black"
+      }
     ],
     "averageColorHSV": [
-      0.09024948981789256,
-      61.2658994732481,
-      -0.2862619764144731
-    ],
-    "framenumber": 46816,
-    "file": "../data/otherguys/The Other Guys.mp4_46816.png"
+      0.23163706200989628,
+      0.18878477444481578,
+      0.07686453644699183
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_12625.png",
     "averageColorRGB": [
-      67.86201171875,
-      54.21500355113636,
-      44.68684008049242
+      52.42546460700758,
+      57.87450432054924,
+      50.56159298058712
+    ],
+    "framenumber": 12625,
+    "palette": [
+      {
+        "#081e2a": "black"
+      },
+      {
+        "#253128": "darkslategray"
+      },
+      {
+        "#140f04": "black"
+      },
+      {
+        "#354b3d": "darkslategray"
+      },
+      {
+        "#859987": "grey"
+      },
+      {
+        "#222119": "black"
+      }
     ],
     "averageColorHSV": [
-      0.06852278248010073,
-      56.27442589962121,
-      -0.20963737986482092
-    ],
-    "framenumber": 50160,
-    "file": "../data/otherguys/The Other Guys.mp4_50160.png"
+      0.29085431825591473,
+      0.21261979862967914,
+      0.06743982420958526
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_13460.png",
     "averageColorRGB": [
-      36.98201201467803,
-      43.249138849431816,
-      41.142945075757574
+      77.13230202414773,
+      57.55975526751894,
+      42.52477509469697
+    ],
+    "framenumber": 13460,
+    "palette": [
+      {
+        "#462e0b": "darkolivegreen"
+      },
+      {
+        "#543818": "darkolivegreen"
+      },
+      {
+        "#1b1a14": "black"
+      },
+      {
+        "#8a6852": "dimgray"
+      },
+      {
+        "#9c8168": "grey"
+      },
+      {
+        "#442415": "maroon"
+      }
     ],
     "averageColorHSV": [
-      0.44398832114490555,
-      40.115575432054925,
-      -0.08011037503001842
-    ],
-    "framenumber": 53504,
-    "file": "../data/otherguys/The Other Guys.mp4_53504.png"
+      0.07240708167075693,
+      0.23462171984087196,
+      0.28922256637673166
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_14295.png",
     "averageColorRGB": [
-      120.73072176846591,
-      101.86147312973485,
-      93.31136215672349
+      117.95592004024621,
+      112.40836736505682,
+      104.20110085227273
+    ],
+    "framenumber": 14295,
+    "palette": [
+      {
+        "#a88e82": "rosybrown"
+      },
+      {
+        "#0a191a": "black"
+      },
+      {
+        "#5a584a": "darkolivegreen"
+      },
+      {
+        "#6d6c61": "dimgray"
+      },
+      {
+        "#b8c2c3": "silver"
+      },
+      {
+        "#091615": "black"
+      }
     ],
     "averageColorHSV": [
-      0.05197125373021566,
-      107.0210419625947,
-      -0.1293109325477873
-    ],
-    "framenumber": 56848,
-    "file": "../data/otherguys/The Other Guys.mp4_56848.png"
+      0.09944716345865774,
+      0.43560200175003716,
+      0.061914852534091895
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_15130.png",
     "averageColorRGB": [
-      21.054347182765152,
-      16.00318566524621,
-      8.81092714251894
+      132.41728367660986,
+      108.4062440814394,
+      98.11203095407197
+    ],
+    "framenumber": 15130,
+    "palette": [
+      {
+        "#5f350b": "saddlebrown"
+      },
+      {
+        "#320400": "black"
+      },
+      {
+        "#6e4529": "saddlebrown"
+      },
+      {
+        "#4f0001": "maroon"
+      },
+      {
+        "#956f5d": "grey"
+      },
+      {
+        "#815843": "sienna"
+      }
     ],
     "averageColorHSV": [
-      0.09790644687901867,
-      14.932637162642045,
-      -0.4393791317940448
-    ],
-    "framenumber": 60192,
-    "file": "../data/otherguys/The Other Guys.mp4_60192.png"
+      0.050012812958156384,
+      0.45201826398172906,
+      0.1488108042896689
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_15965.png",
     "averageColorRGB": [
-      56.084166370738636,
-      38.76523289535985,
-      22.299758818655302
+      32.08541518702651,
+      55.46410097064394,
+      54.7094667376894
+    ],
+    "framenumber": 15965,
+    "palette": [
+      {
+        "#1b5a5b": "darkslategray"
+      },
+      {
+        "#060402": "black"
+      },
+      {
+        "#3c6b6c": "seagreen"
+      },
+      {
+        "#124244": "darkslategray"
+      },
+      {
+        "#050301": "black"
+      },
+      {
+        "#5c7d7c": "slategrey"
+      }
     ],
     "averageColorHSV": [
-      0.08122817235199771,
-      39.19196259469697,
-      -0.4422973481437999
-    ],
-    "framenumber": 63536,
-    "file": "../data/otherguys/The Other Guys.mp4_63536.png"
+      0.49462021204599854,
+      0.17166571795621657,
+      0.2670338662010887
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_16800.png",
     "averageColorRGB": [
-      75.12815459280303,
-      78.4190947561553,
-      72.18807410037878
+      123.67161310369318,
+      122.46403290719697,
+      112.94295247395833
+    ],
+    "framenumber": 16800,
+    "palette": [
+      {
+        "#797763": "dimgray"
+      },
+      {
+        "#8d887a": "grey"
+      },
+      {
+        "#1b221f": "black"
+      },
+      {
+        "#7b7c6d": "grey"
+      },
+      {
+        "#fbf0ed": "seashell"
+      },
+      {
+        "#79705b": "dimgray"
+      }
     ],
     "averageColorHSV": [
-      0.25469237826768615,
-      75.30358442826704,
-      -0.04192947556784403
-    ],
-    "framenumber": 66880,
-    "file": "../data/otherguys/The Other Guys.mp4_66880.png"
+      0.14790725456214973,
+      0.4639501285836304,
+      0.04534235077009218
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_17635.png",
     "averageColorRGB": [
-      74.40169566761364,
-      75.16050988399621,
-      71.50817205255682
+      109.1483309659091,
+      102.32934422348485,
+      99.55052971117425
+    ],
+    "framenumber": 17635,
+    "palette": [
+      {
+        "#466168": "dimgray"
+      },
+      {
+        "#967b73": "grey"
+      },
+      {
+        "#a39495": "rosybrown"
+      },
+      {
+        "#6c8285": "slategrey"
+      },
+      {
+        "#6c6f69": "dimgray"
+      },
+      {
+        "#d6c5c6": "thistle"
+      }
     ],
     "averageColorHSV": [
-      0.20129353907017614,
-      73.3343409682765,
-      -0.02524622318077933
-    ],
-    "framenumber": 70224,
-    "file": "../data/otherguys/The Other Guys.mp4_70224.png"
+      0.04825435948918927,
+      0.40921345230800654,
+      0.04598875731087667
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_18470.png",
     "averageColorRGB": [
-      76.32527225378787,
-      71.84041785037878,
-      64.09725526751895
+      82.54352213541667,
+      83.02023407907197,
+      78.9616240530303
+    ],
+    "framenumber": 18470,
+    "palette": [
+      {
+        "#192524": "black"
+      },
+      {
+        "#656f6b": "dimgray"
+      },
+      {
+        "#52554f": "darkslategray"
+      },
+      {
+        "#70766f": "dimgray"
+      },
+      {
+        "#3d433f": "darkslategray"
+      },
+      {
+        "#666862": "dimgray"
+      }
     ],
     "averageColorHSV": [
-      0.10553854305178541,
-      70.21126376065341,
-      -0.08833834495896427
-    ],
-    "framenumber": 73568,
-    "file": "../data/otherguys/The Other Guys.mp4_73568.png"
+      0.1862428245383078,
+      0.3176114865335339,
+      0.025055954246010172
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_19305.png",
     "averageColorRGB": [
-      68.14612926136364,
-      61.43577030066288,
-      59.536919981060606
+      112.25505001183713,
+      100.41992335464015,
+      95.5306122750947
+    ],
+    "framenumber": 19305,
+    "palette": [
+      {
+        "#9a3345": "brown"
+      },
+      {
+        "#b7b6a9": "darkgray"
+      },
+      {
+        "#847b74": "grey"
+      },
+      {
+        "#bfc1b3": "silver"
+      },
+      {
+        "#423935": "darkslategray"
+      },
+      {
+        "#898077": "grey"
+      }
     ],
     "averageColorHSV": [
-      0.03676006041473604,
-      63.84152462121212,
-      -0.06849936671807769
-    ],
-    "framenumber": 76912,
-    "file": "../data/otherguys/The Other Guys.mp4_76912.png"
+      0.04872421977654854,
+      0.4074228672292781,
+      0.08048889202782238
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_20140.png",
     "averageColorRGB": [
-      51.281970584753786,
-      42.265482954545455,
-      36.39503284801136
+      129.31839192708333,
+      130.7456483783144,
+      131.56517223011363
+    ],
+    "framenumber": 20140,
+    "palette": [
+      {
+        "#657779": "dimgray"
+      },
+      {
+        "#7b6e6b": "dimgray"
+      },
+      {
+        "#080201": "black"
+      },
+      {
+        "#524e49": "darkslategray"
+      },
+      {
+        "#919d98": "darkgray"
+      },
+      {
+        "#465e63": "darkslategray"
+      }
     ],
     "averageColorHSV": [
-      0.06572260651525448,
-      43.838501716382574,
-      -0.17375651738829684
-    ],
-    "framenumber": 80256,
-    "file": "../data/otherguys/The Other Guys.mp4_80256.png"
+      0.5607924630855025,
+      0.5115364003082292,
+      0.00901899666085487
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_20975.png",
+    "averageColorRGB": [
+      102.40163796164772,
+      98.432763671875,
+      93.84608191287879
+    ],
+    "framenumber": 20975,
+    "palette": [
+      {
+        "#9ca39a": "darkgray"
+      },
+      {
+        "#7c615b": "dimgray"
+      },
+      {
+        "#dcd7ce": "lightgray"
+      },
+      {
+        "#7c5048": "sienna"
+      },
+      {
+        "#020001": "black"
+      },
+      {
+        "#cdcfbf": "silver"
+      }
+    ],
+    "averageColorHSV": [
+      0.0893509382061378,
+      0.3847994507343657,
+      0.0435956965728776
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_21810.png",
+    "averageColorRGB": [
+      128.64672999526516,
+      129.28610765861742,
+      120.04063979640152
+    ],
+    "framenumber": 21810,
+    "palette": [
+      {
+        "#b2b5a5": "darkgray"
+      },
+      {
+        "#a6a292": "darkgray"
+      },
+      {
+        "#d1cbb5": "silver"
+      },
+      {
+        "#b1b09f": "darkgray"
+      },
+      {
+        "#29382f": "darkslategray"
+      },
+      {
+        "#e6dcc7": "gainsboro"
+      }
+    ],
+    "averageColorHSV": [
+      0.17819263219703654,
+      0.48887597540199795,
+      0.03708173293314181
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_22645.png",
+    "averageColorRGB": [
+      71.87942264441288,
+      69.40110825047348,
+      63.72049005681818
+    ],
+    "framenumber": 22645,
+    "palette": [
+      {
+        "#7d7468": "dimgray"
+      },
+      {
+        "#272722": "darkslategray"
+      },
+      {
+        "#5f574e": "dimgray"
+      },
+      {
+        "#a6a599": "darkgray"
+      },
+      {
+        "#5b5751": "dimgray"
+      },
+      {
+        "#403c36": "darkslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.11604087774693368,
+      0.26588218176711975,
+      0.060169158114219246
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_23480.png",
+    "averageColorRGB": [
+      64.99419389204546,
+      59.55006954308712,
+      39.03122928503788
+    ],
+    "framenumber": 23480,
+    "palette": [
+      {
+        "#434625": "darkolivegreen"
+      },
+      {
+        "#26280c": "black"
+      },
+      {
+        "#1a190e": "black"
+      },
+      {
+        "#2f300c": "black"
+      },
+      {
+        "#1d210d": "black"
+      },
+      {
+        "#050002": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.13171865237423022,
+      0.20397141799428103,
+      0.24958287901228346
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_24315.png",
+    "averageColorRGB": [
+      41.50973307291667,
+      54.717854817708336,
+      55.48318832859849
+    ],
+    "framenumber": 24315,
+    "palette": [
+      {
+        "#90604f": "sienna"
+      },
+      {
+        "#030102": "black"
+      },
+      {
+        "#488085": "slategrey"
+      },
+      {
+        "#0f1316": "black"
+      },
+      {
+        "#020001": "black"
+      },
+      {
+        "#366166": "darkslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.5091284211967898,
+      0.1901821988265003,
+      0.1440667530554816
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_25150.png",
+    "averageColorRGB": [
+      63.78093631628788,
+      69.05176669034091,
+      71.44370561079545
+    ],
+    "framenumber": 25150,
+    "palette": [
+      {
+        "#37606e": "darkslategray"
+      },
+      {
+        "#3a4750": "darkslategray"
+      },
+      {
+        "#d0e4e3": "gainsboro"
+      },
+      {
+        "#693d31": "saddlebrown"
+      },
+      {
+        "#203a48": "darkslategray"
+      },
+      {
+        "#162a33": "darkslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.5520251193035614,
+      0.26514635671977127,
+      0.0566669594040377
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_25985.png",
+    "averageColorRGB": [
+      60.85432202888258,
+      43.87925692471591,
+      34.80323597301136
+    ],
+    "framenumber": 25985,
+    "palette": [
+      {
+        "#100708": "black"
+      },
+      {
+        "#372212": "black"
+      },
+      {
+        "#150b0a": "black"
+      },
+      {
+        "#42210b": "maroon"
+      },
+      {
+        "#6f3e2a": "saddlebrown"
+      },
+      {
+        "#60331c": "saddlebrown"
+      }
+    ],
+    "averageColorHSV": [
+      0.05806553152422256,
+      0.1875638392193999,
+      0.27233693395513425
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_26820.png",
+    "averageColorRGB": [
+      71.58194839015151,
+      69.73746892755682,
+      64.23171756628788
+    ],
+    "framenumber": 26820,
+    "palette": [
+      {
+        "#787468": "dimgray"
+      },
+      {
+        "#628788": "slategrey"
+      },
+      {
+        "#7c5040": "sienna"
+      },
+      {
+        "#435c62": "darkslategray"
+      },
+      {
+        "#15110e": "black"
+      },
+      {
+        "#637c82": "slategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.12484304899635908,
+      0.26630130579694,
+      0.05411996482166331
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_27655.png",
+    "averageColorRGB": [
+      84.92565696022727,
+      79.01693892045455,
+      72.09169330018939
+    ],
+    "framenumber": 27655,
+    "palette": [
+      {
+        "#9e9a94": "darkgray"
+      },
+      {
+        "#807e76": "grey"
+      },
+      {
+        "#583b24": "darkolivegreen"
+      },
+      {
+        "#745f51": "dimgray"
+      },
+      {
+        "#1c2828": "darkslategray"
+      },
+      {
+        "#735b46": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.08993383758530282,
+      0.307877157373366,
+      0.08173595872527771
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_28490.png",
+    "averageColorRGB": [
+      76.55972271543561,
+      76.3006865530303,
+      77.51939512310607
+    ],
+    "framenumber": 28490,
+    "palette": [
+      {
+        "#11191a": "black"
+      },
+      {
+        "#625d63": "dimgray"
+      },
+      {
+        "#93a1b5": "darkgray"
+      },
+      {
+        "#233034": "darkslategray"
+      },
+      {
+        "#895a4c": "sienna"
+      },
+      {
+        "#44545a": "darkslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.7020916195998632,
+      0.3016080032865419,
+      0.007922948400467747
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_29325.png",
+    "averageColorRGB": [
+      88.90850497159092,
+      86.99843158143939,
+      82.8844696969697
+    ],
+    "framenumber": 29325,
+    "palette": [
+      {
+        "#241605": "black"
+      },
+      {
+        "#2b1c04": "black"
+      },
+      {
+        "#495d63": "dimgray"
+      },
+      {
+        "#4d4238": "darkslategray"
+      },
+      {
+        "#7a8387": "grey"
+      },
+      {
+        "#33240d": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.1138207667818472,
+      0.3368489699383541,
+      0.03506566718600318
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_30160.png",
+    "averageColorRGB": [
+      73.45472449100379,
+      67.5795957623106,
+      63.60330551609849
+    ],
+    "framenumber": 30160,
+    "palette": [
+      {
+        "#1b1f25": "black"
+      },
+      {
+        "#1b3238": "darkslategray"
+      },
+      {
+        "#754b40": "sienna"
+      },
+      {
+        "#7c8c8f": "lightslategray"
+      },
+      {
+        "#855c4e": "dimgray"
+      },
+      {
+        "#4c392e": "darkslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.06727102387214473,
+      0.26874123530804367,
+      0.07187772197218072
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_30995.png",
+    "averageColorRGB": [
+      48.51754557291667,
+      50.49103338068182,
+      50.519222005208334
+    ],
+    "framenumber": 30995,
+    "palette": [
+      {
+        "#1e3237": "darkslategray"
+      },
+      {
+        "#30434a": "darkslategray"
+      },
+      {
+        "#000002": "black"
+      },
+      {
+        "#1c2a2f": "darkslategray"
+      },
+      {
+        "#754d3f": "darkolivegreen"
+      },
+      {
+        "#0f2125": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.5023470846796022,
+      0.1941897403492647,
+      0.02021144753853813
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_31830.png",
+    "averageColorRGB": [
+      67.27933682528409,
+      60.061157966382574,
+      54.914464962121215
+    ],
+    "framenumber": 31830,
+    "palette": [
+      {
+        "#4b281d": "darkslategray"
+      },
+      {
+        "#95826d": "grey"
+      },
+      {
+        "#101214": "black"
+      },
+      {
+        "#0c1418": "black"
+      },
+      {
+        "#5e2d24": "saddlebrown"
+      },
+      {
+        "#0d2a34": "darkslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.06937250760619494,
+      0.2395956897792261,
+      0.10119066337485329
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_32665.png",
+    "averageColorRGB": [
+      71.6674923058712,
+      64.090087890625,
+      57.97858960700758
+    ],
+    "framenumber": 32665,
+    "palette": [
+      {
+        "#5b362c": "darkolivegreen"
+      },
+      {
+        "#a6a890": "darkgray"
+      },
+      {
+        "#885b4c": "sienna"
+      },
+      {
+        "#6b4539": "darkolivegreen"
+      },
+      {
+        "#434c52": "darkslategray"
+      },
+      {
+        "#1a1917": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.07440940078813822,
+      0.2542080037507427,
+      0.10558670572136904
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_33500.png",
+    "averageColorRGB": [
+      120.64695046164773,
+      33.49664861505682,
+      35.43739642518939
+    ],
+    "framenumber": 33500,
+    "palette": [
+      {
+        "#820003": "maroon"
+      },
+      {
+        "#8e2d2d": "brown"
+      },
+      {
+        "#1c1916": "black"
+      },
+      {
+        "#9b1215": "firebrick"
+      },
+      {
+        "#680001": "maroon"
+      },
+      {
+        "#aa484a": "sienna"
+      }
+    ],
+    "averageColorHSV": [
+      0.9962885043252655,
+      0.30224235113079323,
+      0.5653838522559954
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_34335.png",
+    "averageColorRGB": [
+      76.23820726799242,
+      63.40298739346591,
+      48.97769886363636
+    ],
+    "framenumber": 34335,
+    "palette": [
+      {
+        "#171712": "black"
+      },
+      {
+        "#34240e": "black"
+      },
+      {
+        "#4c402f": "darkolivegreen"
+      },
+      {
+        "#9c9e8e": "darkgray"
+      },
+      {
+        "#865f4e": "dimgray"
+      },
+      {
+        "#2a1f0e": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.08819405417205688,
+      0.24552138457182116,
+      0.21770803124404509
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_35170.png",
+    "averageColorRGB": [
+      67.51352095170455,
+      55.0449159564394,
+      47.7253477154356
+    ],
+    "framenumber": 35170,
+    "palette": [
+      {
+        "#47210c": "maroon"
+      },
+      {
+        "#b2ada7": "darkgray"
+      },
+      {
+        "#947a6d": "grey"
+      },
+      {
+        "#502b14": "saddlebrown"
+      },
+      {
+        "#75533f": "darkolivegreen"
+      },
+      {
+        "#3d2a17": "darkslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.061649351135219556,
+      0.2259585660140003,
+      0.17171440040274755
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_36005.png",
+    "averageColorRGB": [
+      74.15602065577652,
+      74.41081912878788,
+      75.3419463186553
+    ],
+    "framenumber": 36005,
+    "palette": [
+      {
+        "#141c1f": "black"
+      },
+      {
+        "#c8d3d5": "lightgray"
+      },
+      {
+        "#805c52": "dimgray"
+      },
+      {
+        "#c1cbcf": "silver"
+      },
+      {
+        "#1a2227": "black"
+      },
+      {
+        "#1d282b": "darkslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.6308580038661025,
+      0.29313326857731725,
+      0.007932721005374042
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_36840.png",
+    "averageColorRGB": [
+      85.18568152225379,
+      81.26457445549242,
+      78.64016039299243
+    ],
+    "framenumber": 36840,
+    "palette": [
+      {
+        "#968c86": "grey"
+      },
+      {
+        "#a49e97": "darkgray"
+      },
+      {
+        "#9f928c": "rosybrown"
+      },
+      {
+        "#94807c": "grey"
+      },
+      {
+        "#090b04": "black"
+      },
+      {
+        "#192830": "darkslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.06682467829713633,
+      0.3212271410102867,
+      0.03995414308719146
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_37675.png",
+    "averageColorRGB": [
+      71.23802083333334,
+      67.45021750710227,
+      65.06321466619318
+    ],
+    "framenumber": 37675,
+    "palette": [
+      {
+        "#0f1611": "black"
+      },
+      {
+        "#41200e": "maroon"
+      },
+      {
+        "#9392a0": "lightslategray"
+      },
+      {
+        "#4d5d63": "dimgray"
+      },
+      {
+        "#575347": "darkolivegreen"
+      },
+      {
+        "#c2c2d2": "silver"
+      }
+    ],
+    "averageColorHSV": [
+      0.06442854982805658,
+      0.2672573245088755,
+      0.045302642668720416
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_38510.png",
+    "averageColorRGB": [
+      99.54812381628788,
+      97.64764589251894,
+      93.11720821496212
+    ],
+    "framenumber": 38510,
+    "palette": [
+      {
+        "#9ea7a3": "darkgray"
+      },
+      {
+        "#aa6d4a": "sienna"
+      },
+      {
+        "#313334": "darkslategray"
+      },
+      {
+        "#565a5c": "dimgray"
+      },
+      {
+        "#46494c": "darkslategray"
+      },
+      {
+        "#161a19": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.11741297710450554,
+      0.37777516084558826,
+      0.03337868589810792
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_39345.png",
+    "averageColorRGB": [
+      117.53904030539773,
+      118.23185221354167,
+      107.3592255563447
+    ],
+    "framenumber": 39345,
+    "palette": [
+      {
+        "#9ba49d": "darkgray"
+      },
+      {
+        "#a7a69b": "darkgray"
+      },
+      {
+        "#8e7e6b": "grey"
+      },
+      {
+        "#111d0c": "black"
+      },
+      {
+        "#958577": "grey"
+      },
+      {
+        "#abada3": "darkgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.1772867914072592,
+      0.44233544660762036,
+      0.048196173202769844
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_40180.png",
+    "averageColorRGB": [
+      60.72475733901515,
+      59.52011570785985,
+      58.092045454545456
+    ],
+    "framenumber": 40180,
+    "palette": [
+      {
+        "#5d8793": "slategrey"
+      },
+      {
+        "#3d4144": "darkslategray"
+      },
+      {
+        "#855f51": "dimgray"
+      },
+      {
+        "#414a4e": "darkslategray"
+      },
+      {
+        "#393e40": "darkslategray"
+      },
+      {
+        "#9c7d73": "grey"
+      }
+    ],
+    "averageColorHSV": [
+      0.09040552834123587,
+      0.23297412312462862,
+      0.02215774050951298
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_41015.png",
+    "averageColorRGB": [
+      59.91413500236742,
+      60.20170010653409,
+      59.36543116714015
+    ],
+    "framenumber": 41015,
+    "palette": [
+      {
+        "#3a4e49": "darkslategray"
+      },
+      {
+        "#111b20": "black"
+      },
+      {
+        "#192a34": "darkslategray"
+      },
+      {
+        "#293a38": "darkslategray"
+      },
+      {
+        "#82897d": "grey"
+      },
+      {
+        "#54655d": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.22397779602159118,
+      0.23444535543857695,
+      0.006994137356024903
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_41850.png",
+    "averageColorRGB": [
+      104.75251390861743,
+      106.04733072916666,
+      102.53123964251894
+    ],
+    "framenumber": 41850,
+    "palette": [
+      {
+        "#939ea1": "darkgray"
+      },
+      {
+        "#899390": "lightslategray"
+      },
+      {
+        "#878982": "grey"
+      },
+      {
+        "#97968f": "grey"
+      },
+      {
+        "#232728": "darkslategray"
+      },
+      {
+        "#7c8786": "grey"
+      }
+    ],
+    "averageColorHSV": [
+      0.22804243825699255,
+      0.4089775889640894,
+      0.01685739374079551
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_42685.png",
+    "averageColorRGB": [
+      96.3348233309659,
+      87.63273703835227,
+      77.77504142992424
+    ],
+    "framenumber": 42685,
+    "palette": [
+      {
+        "#96998d": "darkseagreen"
+      },
+      {
+        "#80877a": "grey"
+      },
+      {
+        "#989787": "grey"
+      },
+      {
+        "#808374": "grey"
+      },
+      {
+        "#7e5546": "sienna"
+      },
+      {
+        "#643f32": "darkolivegreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.08852201371930613,
+      0.34139189168801987,
+      0.10659810646875359
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_43520.png",
+    "averageColorRGB": [
+      68.62340050899621,
+      77.33450076941288,
+      77.07327473958334
+    ],
+    "framenumber": 43520,
+    "palette": [
+      {
+        "#959d92": "darkseagreen"
+      },
+      {
+        "#205054": "darkslategray"
+      },
+      {
+        "#1a1a1d": "black"
+      },
+      {
+        "#184249": "darkslategray"
+      },
+      {
+        "#366265": "darkslategray"
+      },
+      {
+        "#b7aeac": "darkgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.4950020467751825,
+      0.2861919632909982,
+      0.059682279507435446
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_44355.png",
+    "averageColorRGB": [
+      62.105945194128786,
+      66.06429184422349,
+      63.17372011126894
+    ],
+    "framenumber": 44355,
+    "palette": [
+      {
+        "#13221f": "black"
+      },
+      {
+        "#1e3331": "darkslategray"
+      },
+      {
+        "#5a6d62": "dimgray"
+      },
+      {
+        "#586458": "dimgray"
+      },
+      {
+        "#8d5c4e": "sienna"
+      },
+      {
+        "#102527": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.37829212596099976,
+      0.251314190271279,
+      0.030883508851670797
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_45190.png",
+    "averageColorRGB": [
+      82.4264589251894,
+      66.21019028172348,
+      47.733022608901514
+    ],
+    "framenumber": 45190,
+    "palette": [
+      {
+        "#927848": "sienna"
+      },
+      {
+        "#5c3928": "darkolivegreen"
+      },
+      {
+        "#b4905b": "peru"
+      },
+      {
+        "#775b31": "darkolivegreen"
+      },
+      {
+        "#94825d": "grey"
+      },
+      {
+        "#261f0d": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.0887639932059584,
+      0.25521466967468803,
+      0.2665455939696648
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_46025.png",
+    "averageColorRGB": [
+      40.03234641335227,
+      27.86174094460227,
+      32.32601503314394
+    ],
+    "framenumber": 46025,
+    "palette": [
+      {
+        "#010a15": "black"
+      },
+      {
+        "#6d4442": "darkolivegreen"
+      },
+      {
+        "#010005": "black"
+      },
+      {
+        "#00030c": "black"
+      },
+      {
+        "#020008": "black"
+      },
+      {
+        "#010610": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.9388653519881103,
+      0.13312566148618538,
+      0.1792586945691388
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_46860.png",
+    "averageColorRGB": [
+      117.40592743844697,
+      89.9784608783144,
+      65.63395478219697
+    ],
+    "framenumber": 46860,
+    "palette": [
+      {
+        "#c6a67e": "tan"
+      },
+      {
+        "#9d8263": "grey"
+      },
+      {
+        "#9c753c": "sienna"
+      },
+      {
+        "#6d5d46": "darkolivegreen"
+      },
+      {
+        "#836e55": "dimgray"
+      },
+      {
+        "#4d1e19": "maroon"
+      }
+    ],
+    "averageColorHSV": [
+      0.07837093072783313,
+      0.35890172984439983,
+      0.28284531233385474
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_47695.png",
+    "averageColorRGB": [
+      66.74240648674242,
+      58.149372632575755,
+      52.58872218276515
+    ],
+    "framenumber": 47695,
+    "palette": [
+      {
+        "#442613": "maroon"
+      },
+      {
+        "#1b1913": "black"
+      },
+      {
+        "#130704": "black"
+      },
+      {
+        "#583625": "darkolivegreen"
+      },
+      {
+        "#754b37": "saddlebrown"
+      },
+      {
+        "#20150c": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.0654794225350925,
+      0.23398260523432857,
+      0.11860848432244767
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_48530.png",
+    "averageColorRGB": [
+      66.2698700875947,
+      52.121948982007574,
+      42.234002130681816
+    ],
+    "framenumber": 48530,
+    "palette": [
+      {
+        "#7b4a2f": "saddlebrown"
+      },
+      {
+        "#4f3822": "darkolivegreen"
+      },
+      {
+        "#564d41": "darkolivegreen"
+      },
+      {
+        "#010005": "black"
+      },
+      {
+        "#39352d": "darkslategray"
+      },
+      {
+        "#493e32": "darkslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.06856382905921449,
+      0.2127526906240716,
+      0.22152083115116936
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_49365.png",
+    "averageColorRGB": [
+      65.62306906960227,
+      45.81071851325758,
+      35.178776041666666
+    ],
+    "framenumber": 49365,
+    "palette": [
+      {
+        "#72503d": "darkolivegreen"
+      },
+      {
+        "#332112": "black"
+      },
+      {
+        "#684b33": "darkolivegreen"
+      },
+      {
+        "#695e4e": "dimgray"
+      },
+      {
+        "#521b19": "maroon"
+      },
+      {
+        "#43120b": "maroon"
+      }
+    ],
+    "averageColorHSV": [
+      0.05820435410688779,
+      0.19765067668876263,
+      0.3020211881472013
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_50200.png",
+    "averageColorRGB": [
+      69.57360026041667,
+      62.113768051609846,
+      48.89691495028409
+    ],
+    "framenumber": 50200,
+    "palette": [
+      {
+        "#adab9f": "darkgray"
+      },
+      {
+        "#2c2816": "black"
+      },
+      {
+        "#352c19": "darkslategray"
+      },
+      {
+        "#232010": "black"
+      },
+      {
+        "#1d1b0f": "black"
+      },
+      {
+        "#56574e": "darkolivegreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.10653587928532604,
+      0.23229512786411916,
+      0.17453022191520756
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_51035.png",
+    "averageColorRGB": [
+      40.588170276988635,
+      36.79556699810606,
+      33.88663589015152
+    ],
+    "framenumber": 51035,
+    "palette": [
+      {
+        "#0f0707": "black"
+      },
+      {
+        "#523f32": "darkolivegreen"
+      },
+      {
+        "#216572": "darkslategray"
+      },
+      {
+        "#080207": "black"
+      },
+      {
+        "#715945": "darkolivegreen"
+      },
+      {
+        "#65432c": "darkolivegreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.07234490242682712,
+      0.14602903170027481,
+      0.08998391176470054
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_51870.png",
+    "averageColorRGB": [
+      20.096706321022726,
+      21.70191465435606,
+      24.913294566761362
+    ],
+    "framenumber": 51870,
+    "palette": [
+      {
+        "#060005": "black"
+      },
+      {
+        "#050004": "black"
+      },
+      {
+        "#433633": "darkslategray"
+      },
+      {
+        "#080207": "black"
+      },
+      {
+        "#2b5a68": "darkslategray"
+      },
+      {
+        "#154b59": "darkslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.611122221392791,
+      0.08825490370153743,
+      0.10701151190258866
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_52705.png",
+    "averageColorRGB": [
+      43.3587890625,
+      50.486209753787875,
+      49.61672141335227
+    ],
+    "framenumber": 52705,
+    "palette": [
+      {
+        "#0d2f31": "darkslategray"
+      },
+      {
+        "#03181b": "black"
+      },
+      {
+        "#041316": "black"
+      },
+      {
+        "#19211a": "black"
+      },
+      {
+        "#041e21": "black"
+      },
+      {
+        "#1d3e40": "darkslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.4796679991707143,
+      0.18400980160056446,
+      0.07594886015439775
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_53540.png",
+    "averageColorRGB": [
+      36.851089015151516,
+      43.39851592092803,
+      40.97282640861742
+    ],
+    "framenumber": 53540,
+    "palette": [
+      {
+        "#142325": "black"
+      },
+      {
+        "#0a1c1d": "black"
+      },
+      {
+        "#060206": "black"
+      },
+      {
+        "#091014": "black"
+      },
+      {
+        "#2b6a5d": "darkslategray"
+      },
+      {
+        "#050002": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.4382533640767458,
+      0.15735216654133244,
+      0.08158827586742227
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_54375.png",
+    "averageColorRGB": [
+      46.45755948153409,
+      57.41701586174242,
+      54.999175840435605
+    ],
+    "framenumber": 54375,
+    "palette": [
+      {
+        "#464d46": "darkslategray"
+      },
+      {
+        "#0b3d3d": "darkslategray"
+      },
+      {
+        "#0b1713": "black"
+      },
+      {
+        "#093432": "darkslategray"
+      },
+      {
+        "#031619": "black"
+      },
+      {
+        "#0d4b4d": "darkslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.46323053599517966,
+      0.20367563792799315,
+      0.10550662993317067
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_55210.png",
+    "averageColorRGB": [
+      54.00131983901515,
+      40.78277254971591,
+      27.270876242897728
+    ],
+    "framenumber": 55210,
+    "palette": [
+      {
+        "#42250d": "maroon"
+      },
+      {
+        "#665942": "darkolivegreen"
+      },
+      {
+        "#463923": "darkolivegreen"
+      },
+      {
+        "#27140a": "black"
+      },
+      {
+        "#21190a": "black"
+      },
+      {
+        "#62533e": "darkolivegreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.08424786179493592,
+      0.15935724721943703,
+      0.3289002252280258
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_56045.png",
+    "averageColorRGB": [
+      96.94850260416666,
+      79.60019975142045,
+      56.49105705492424
+    ],
+    "framenumber": 56045,
+    "palette": [
+      {
+        "#c0b272": "darkkhaki"
+      },
+      {
+        "#e5d3b6": "wheat"
+      },
+      {
+        "#73482e": "saddlebrown"
+      },
+      {
+        "#624f42": "darkolivegreen"
+      },
+      {
+        "#0e282c": "black"
+      },
+      {
+        "#a08856": "peru"
+      }
+    ],
+    "averageColorHSV": [
+      0.09519938123778775,
+      0.30086188168449196,
+      0.2636702401853212
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_56880.png",
+    "averageColorRGB": [
+      113.08639174952651,
+      95.18368696732955,
+      86.8472138375947
+    ],
+    "framenumber": 56880,
+    "palette": [
+      {
+        "#f0c5aa": "wheat"
+      },
+      {
+        "#4d2a1b": "saddlebrown"
+      },
+      {
+        "#7e5648": "dimgray"
+      },
+      {
+        "#fbddc5": "bisque"
+      },
+      {
+        "#01222d": "black"
+      },
+      {
+        "#63433a": "darkolivegreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.052951818572689824,
+      0.39202667762180626,
+      0.1312394573932599
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_57715.png",
+    "averageColorRGB": [
+      82.98656782670454,
+      82.34890062736743,
+      77.54688239820075
+    ],
+    "framenumber": 57715,
+    "palette": [
+      {
+        "#aa998e": "rosybrown"
+      },
+      {
+        "#53635e": "dimgray"
+      },
+      {
+        "#7d7165": "dimgray"
+      },
+      {
+        "#525e58": "dimgray"
+      },
+      {
+        "#464940": "darkslategray"
+      },
+      {
+        "#a96660": "indianred"
+      }
+    ],
+    "averageColorHSV": [
+      0.14712916436932919,
+      0.3147714710292261,
+      0.033885058976075515
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_58550.png",
+    "averageColorRGB": [
+      83.88612837357955,
+      77.04800248579545,
+      67.16710611979167
+    ],
+    "framenumber": 58550,
+    "palette": [
+      {
+        "#6e7167": "dimgray"
+      },
+      {
+        "#666859": "dimgray"
+      },
+      {
+        "#7c848f": "lightslategray"
+      },
+      {
+        "#655442": "darkolivegreen"
+      },
+      {
+        "#504a37": "darkolivegreen"
+      },
+      {
+        "#5a5845": "darkolivegreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.0984995435739387,
+      0.29618281273210045,
+      0.11068298080384087
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_59385.png",
+    "averageColorRGB": [
+      99.46561612215909,
+      97.69405036695076,
+      88.27176402698863
+    ],
+    "framenumber": 59385,
+    "palette": [
+      {
+        "#5e6f69": "dimgray"
+      },
+      {
+        "#5d4535": "darkolivegreen"
+      },
+      {
+        "#faecce": "blanchedalmond"
+      },
+      {
+        "#f9d5bc": "peachpuff"
+      },
+      {
+        "#031418": "black"
+      },
+      {
+        "#275f5a": "darkslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.14028960212346295,
+      0.3681125100963681,
+      0.05962505754729039
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_60220.png",
+    "averageColorRGB": [
+      21.140817353219695,
+      16.006880326704547,
+      8.809582149621212
+    ],
+    "framenumber": 60220,
+    "palette": [
+      {
+        "#191706": "black"
+      },
+      {
+        "#060100": "black"
+      },
+      {
+        "#050000": "black"
+      },
+      {
+        "#282416": "black"
+      },
+      {
+        "#020001": "black"
+      },
+      {
+        "#040001": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.09727733486346157,
+      0.05872627353498218,
+      0.41172189380742047
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_61055.png",
+    "averageColorRGB": [
+      22.304400449810608,
+      18.54798768939394,
+      12.331159741950758
+    ],
+    "framenumber": 61055,
+    "palette": [
+      {
+        "#0b0d07": "black"
+      },
+      {
+        "#0d1009": "black"
+      },
+      {
+        "#040603": "black"
+      },
+      {
+        "#060805": "black"
+      },
+      {
+        "#080d08": "black"
+      },
+      {
+        "#74543e": "darkolivegreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.10389180624347673,
+      0.06791286312110072,
+      0.2879480121771539
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_61890.png",
+    "averageColorRGB": [
+      66.99901012073863,
+      47.69434333570076,
+      30.576910215435607
+    ],
+    "framenumber": 61890,
+    "palette": [
+      {
+        "#573019": "saddlebrown"
+      },
+      {
+        "#1a0d00": "black"
+      },
+      {
+        "#5d452f": "darkolivegreen"
+      },
+      {
+        "#715943": "darkolivegreen"
+      },
+      {
+        "#513c24": "darkolivegreen"
+      },
+      {
+        "#836d57": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.07832896860592085,
+      0.1913253339924985,
+      0.37326934534482986
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_62725.png",
+    "averageColorRGB": [
+      63.66927379261364,
+      46.22303503787879,
+      30.61596531723485
+    ],
+    "framenumber": 62725,
+    "palette": [
+      {
+        "#2d2618": "black"
+      },
+      {
+        "#552b13": "saddlebrown"
+      },
+      {
+        "#241502": "black"
+      },
+      {
+        "#a28562": "grey"
+      },
+      {
+        "#937659": "grey"
+      },
+      {
+        "#594834": "darkolivegreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.07869645753348993,
+      0.18487301786244803,
+      0.3505671596894347
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_63560.png",
+    "averageColorRGB": [
+      56.31328272964015,
+      39.11007782907197,
+      22.576781486742423
+    ],
+    "framenumber": 63560,
+    "palette": [
+      {
+        "#100501": "black"
+      },
+      {
+        "#2e1b02": "black"
+      },
+      {
+        "#412107": "maroon"
+      },
+      {
+        "#4b2c0e": "saddlebrown"
+      },
+      {
+        "#5a4631": "darkolivegreen"
+      },
+      {
+        "#766150": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.08167857628592595,
+      0.15468640042427956,
+      0.4276394192095473
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_64395.png",
+    "averageColorRGB": [
+      60.972727272727276,
+      42.57618963068182,
+      24.607737038352273
+    ],
+    "framenumber": 64395,
+    "palette": [
+      {
+        "#64361d": "saddlebrown"
+      },
+      {
+        "#755f4b": "dimgray"
+      },
+      {
+        "#574433": "darkolivegreen"
+      },
+      {
+        "#291500": "black"
+      },
+      {
+        "#3a2717": "darkslategray"
+      },
+      {
+        "#513b2c": "darkolivegreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.08235234161814042,
+      0.16780483198250892,
+      0.42492162816727164
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_65230.png",
+    "averageColorRGB": [
+      58.81075846354167,
+      58.94849668560606,
+      50.68161251183712
+    ],
+    "framenumber": 65230,
+    "palette": [
+      {
+        "#7b715a": "dimgray"
+      },
+      {
+        "#4f2e17": "saddlebrown"
+      },
+      {
+        "#88755e": "dimgray"
+      },
+      {
+        "#b09b87": "rosybrown"
+      },
+      {
+        "#5e5941": "darkolivegreen"
+      },
+      {
+        "#5c8385": "slategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.1694435738860646,
+      0.21496099842635918,
+      0.07540705955952595
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_66065.png",
+    "averageColorRGB": [
+      71.34603900331439,
+      76.14032315340908,
+      72.57016009706439
+    ],
+    "framenumber": 66065,
+    "palette": [
+      {
+        "#5c7271": "dimgray"
+      },
+      {
+        "#7a9a9e": "lightslategray"
+      },
+      {
+        "#4d5a55": "darkslategray"
+      },
+      {
+        "#697673": "dimgray"
+      },
+      {
+        "#416261": "darkslategray"
+      },
+      {
+        "#698385": "slategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.3758882124152579,
+      0.2891889454053401,
+      0.032506626917817326
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_66900.png",
+    "averageColorRGB": [
+      73.69988162878788,
+      75.29387576941288,
+      68.40018495501894
+    ],
+    "framenumber": 66900,
+    "palette": [
+      {
+        "#604e3d": "darkolivegreen"
+      },
+      {
+        "#5d7172": "dimgray"
+      },
+      {
+        "#4a2f19": "darkolivegreen"
+      },
+      {
+        "#355c5c": "darkslategray"
+      },
+      {
+        "#b5d0d3": "lightsteelblue"
+      },
+      {
+        "#738486": "slategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.20520417832144808,
+      0.28175306024398394,
+      0.04797477905238031
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_67735.png",
+    "averageColorRGB": [
+      34.261897786458334,
+      30.44033203125,
+      25.94868312026515
+    ],
+    "framenumber": 67735,
+    "palette": [
+      {
+        "#060000": "black"
+      },
+      {
+        "#654134": "darkolivegreen"
+      },
+      {
+        "#625f54": "dimgray"
+      },
+      {
+        "#020001": "black"
+      },
+      {
+        "#534f48": "darkslategray"
+      },
+      {
+        "#090302": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.09005038145774406,
+      0.11805996256220291,
+      0.138068999518071
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_68570.png",
+    "averageColorRGB": [
+      32.55408528645833,
+      22.461282256155304,
+      12.577944483901515
+    ],
+    "framenumber": 68570,
+    "palette": [
+      {
+        "#271401": "black"
+      },
+      {
+        "#331b04": "black"
+      },
+      {
+        "#1d0c02": "black"
+      },
+      {
+        "#1f1003": "black"
+      },
+      {
+        "#2b1b0b": "black"
+      },
+      {
+        "#040001": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.0824595189993587,
+      0.08849417602031343,
+      0.44261560812130835
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_69405.png",
+    "averageColorRGB": [
+      59.05738340435606,
+      59.28805634469697,
+      55.77170040246212
+    ],
+    "framenumber": 69405,
+    "palette": [
+      {
+        "#070c0c": "black"
+      },
+      {
+        "#0c1212": "black"
+      },
+      {
+        "#a8a79e": "darkgray"
+      },
+      {
+        "#0e1513": "black"
+      },
+      {
+        "#2b302f": "darkslategray"
+      },
+      {
+        "#909189": "grey"
+      }
+    ],
+    "averageColorHSV": [
+      0.17759999955115968,
+      0.2256073661709002,
+      0.030561127901234383
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_70240.png",
+    "averageColorRGB": [
+      78.73220732717803,
+      79.22355291193182,
+      75.32802586410985
+    ],
+    "framenumber": 70240,
+    "palette": [
+      {
+        "#23292a": "darkslategray"
+      },
+      {
+        "#aeada0": "darkgray"
+      },
+      {
+        "#141d1d": "black"
+      },
+      {
+        "#c2c4b9": "silver"
+      },
+      {
+        "#2d3537": "darkslategray"
+      },
+      {
+        "#745a4e": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.18768845134098525,
+      0.3030423113255719,
+      0.025205352663960286
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_71075.png",
+    "averageColorRGB": [
+      104.58346354166666,
+      106.86901781486742,
+      103.2410097064394
+    ],
+    "framenumber": 71075,
+    "palette": [
+      {
+        "#828f87": "grey"
+      },
+      {
+        "#b1b7aa": "darkgray"
+      },
+      {
+        "#6b7b7b": "slategrey"
+      },
+      {
+        "#445255": "darkslategray"
+      },
+      {
+        "#5d6361": "dimgray"
+      },
+      {
+        "#949a91": "darkseagreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.27166249380256,
+      0.41198044612020945,
+      0.017267182110383167
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_71910.png",
+    "averageColorRGB": [
+      82.87727420691287,
+      82.70069839015152,
+      80.31428592566287
+    ],
+    "framenumber": 71910,
+    "palette": [
+      {
+        "#091314": "black"
+      },
+      {
+        "#2d3538": "darkslategray"
+      },
+      {
+        "#1f2729": "darkslategray"
+      },
+      {
+        "#69534a": "dimgray"
+      },
+      {
+        "#c3bdb2": "silver"
+      },
+      {
+        "#523d33": "darkolivegreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.1551842486591966,
+      0.31998345124034455,
+      0.01570539725931813
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_72745.png",
+    "averageColorRGB": [
+      57.33204456676136,
+      62.23008404356061,
+      52.238850911458336
+    ],
+    "framenumber": 72745,
+    "palette": [
+      {
+        "#161c18": "black"
+      },
+      {
+        "#18201d": "black"
+      },
+      {
+        "#a8bba3": "darkgray"
+      },
+      {
+        "#303e37": "darkslategray"
+      },
+      {
+        "#0c0a07": "black"
+      },
+      {
+        "#0e0c08": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.24837228818568993,
+      0.22444889206866458,
+      0.08728335889582944
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_73580.png",
+    "averageColorRGB": [
+      76.58668027935606,
+      72.23464133522727,
+      64.22187647964014
+    ],
+    "framenumber": 73580,
+    "palette": [
+      {
+        "#4f473f": "darkslategray"
+      },
+      {
+        "#42413a": "darkslategray"
+      },
+      {
+        "#534d45": "darkolivegreen"
+      },
+      {
+        "#443f36": "darkslategray"
+      },
+      {
+        "#3c3e38": "darkslategray"
+      },
+      {
+        "#3c3932": "darkslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.10800501414306345,
+      0.2760952093313651,
+      0.08781287220264002
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_74415.png",
+    "averageColorRGB": [
+      88.6806758996212,
+      76.00710819128788,
+      69.74027284564394
+    ],
+    "framenumber": 74415,
+    "palette": [
+      {
+        "#76443c": "saddlebrown"
+      },
+      {
+        "#a19384": "rosybrown"
+      },
+      {
+        "#777771": "grey"
+      },
+      {
+        "#552624": "saddlebrown"
+      },
+      {
+        "#0a0809": "black"
+      },
+      {
+        "#cbb79c": "tan"
+      }
+    ],
+    "averageColorHSV": [
+      0.055145212835795376,
+      0.31062931126522575,
+      0.11955743987136905
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_75250.png",
+    "averageColorRGB": [
+      85.53688890861743,
+      69.92142075047349,
+      63.60106090198864
+    ],
+    "framenumber": 75250,
+    "palette": [
+      {
+        "#ad6d5d": "indianred"
+      },
+      {
+        "#4c1911": "maroon"
+      },
+      {
+        "#864a41": "sienna"
+      },
+      {
+        "#78746f": "dimgray"
+      },
+      {
+        "#cab69e": "tan"
+      },
+      {
+        "#0d0d0a": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.04802158859754385,
+      0.29242735256981583,
+      0.14708414615116835
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_76085.png",
+    "averageColorRGB": [
+      102.26342033617425,
+      103.81782670454545,
+      85.42121803977273
+    ],
+    "framenumber": 76085,
+    "palette": [
+      {
+        "#636a3f": "darkolivegreen"
+      },
+      {
+        "#819d68": "grey"
+      },
+      {
+        "#5b7847": "darkolivegreen"
+      },
+      {
+        "#9a867c": "grey"
+      },
+      {
+        "#788257": "dimgray"
+      },
+      {
+        "#ac9a8d": "rosybrown"
+      }
+    ],
+    "averageColorHSV": [
+      0.18074903004040896,
+      0.37105695047905524,
+      0.09721359928458992
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_76920.png",
+    "averageColorRGB": [
+      72.36959339488637,
+      61.58451260653409,
+      58.046642696496214
+    ],
+    "framenumber": 76920,
+    "palette": [
+      {
+        "#192123": "black"
+      },
+      {
+        "#764c44": "sienna"
+      },
+      {
+        "#a9a492": "darkgray"
+      },
+      {
+        "#373d41": "darkslategray"
+      },
+      {
+        "#583932": "darkolivegreen"
+      },
+      {
+        "#9a6659": "sienna"
+      }
+    ],
+    "averageColorHSV": [
+      0.04116784295519408,
+      0.25571810998310307,
+      0.1098249046871286
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_77755.png",
+    "averageColorRGB": [
+      78.74524443655304,
+      61.175538589015154,
+      53.30197088068182
+    ],
+    "framenumber": 77755,
+    "palette": [
+      {
+        "#ab6b58": "indianred"
+      },
+      {
+        "#0a0b0e": "black"
+      },
+      {
+        "#844d42": "sienna"
+      },
+      {
+        "#6f4237": "saddlebrown"
+      },
+      {
+        "#bcaa93": "tan"
+      },
+      {
+        "#553228": "darkolivegreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.05157596100362679,
+      0.2589161084651664,
+      0.19268315121031063
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_78590.png",
+    "averageColorRGB": [
+      76.20794566761364,
+      65.91670069839014,
+      56.41404178503788
+    ],
+    "framenumber": 78590,
+    "palette": [
+      {
+        "#6e635a": "dimgray"
+      },
+      {
+        "#554e48": "darkolivegreen"
+      },
+      {
+        "#483f37": "darkslategray"
+      },
+      {
+        "#27251e": "black"
+      },
+      {
+        "#302a22": "darkslategray"
+      },
+      {
+        "#756d62": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.08001334627844087,
+      0.2600431126522579,
+      0.1492505448211787
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_79425.png",
+    "averageColorRGB": [
+      107.76204427083333,
+      104.12330581202652,
+      94.67730527935606
+    ],
+    "framenumber": 79425,
+    "palette": [
+      {
+        "#6a6761": "dimgray"
+      },
+      {
+        "#6e6d5d": "dimgray"
+      },
+      {
+        "#6c7262": "dimgray"
+      },
+      {
+        "#84827a": "grey"
+      },
+      {
+        "#4d514a": "darkslategray"
+      },
+      {
+        "#858e7f": "grey"
+      }
+    ],
+    "averageColorHSV": [
+      0.12031829011928963,
+      0.3969399010788027,
+      0.06463535385067641
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_80260.png",
+    "averageColorRGB": [
+      51.685455137310605,
+      42.42614524147727,
+      36.69034534801136
+    ],
+    "framenumber": 80260,
+    "palette": [
+      {
+        "#051419": "black"
+      },
+      {
+        "#84583d": "sienna"
+      },
+      {
+        "#020104": "black"
+      },
+      {
+        "#96968e": "grey"
+      },
+      {
+        "#1f1d1c": "black"
+      },
+      {
+        "#010003": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.06375189394032836,
+      0.17328588330455288,
+      0.16967438718464253
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_81095.png",
+    "averageColorRGB": [
+      73.95108013731061,
+      69.47639678030303,
+      63.507603870738635
+    ],
+    "framenumber": 81095,
+    "palette": [
+      {
+        "#694735": "darkolivegreen"
+      },
+      {
+        "#707672": "dimgray"
+      },
+      {
+        "#363b3a": "darkslategray"
+      },
+      {
+        "#909a92": "lightslategray"
+      },
+      {
+        "#757f79": "grey"
+      },
+      {
+        "#443e35": "darkslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.09525552535078165,
+      0.2695268313883319,
+      0.07597538374483809
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_81930.png",
+    "averageColorRGB": [
+      73.67405007102273,
+      73.72378669507576,
+      66.90335582386363
+    ],
+    "framenumber": 81930,
+    "palette": [
+      {
+        "#555b56": "dimgray"
+      },
+      {
+        "#686d66": "dimgray"
+      },
+      {
+        "#5a645f": "dimgray"
+      },
+      {
+        "#474944": "darkslategray"
+      },
+      {
+        "#474c47": "darkslategray"
+      },
+      {
+        "#434b47": "darkslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.16788204990252042,
+      0.27573949513517526,
+      0.04850010281829886
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_82765.png",
+    "averageColorRGB": [
+      90.07017637310607,
+      102.82114701704545,
+      99.95578687263257
+    ],
+    "framenumber": 82765,
+    "palette": [
+      {
+        "#536c69": "dimgray"
+      },
+      {
+        "#78847f": "grey"
+      },
+      {
+        "#4d5d5d": "dimgray"
+      },
+      {
+        "#697a77": "dimgray"
+      },
+      {
+        "#434e4e": "darkslategray"
+      },
+      {
+        "#868e88": "grey"
+      }
+    ],
+    "averageColorHSV": [
+      0.4625471630823806,
+      0.37821828115715983,
+      0.06610442823365695
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_83600.png",
     "averageColorRGB": [
       96.96123934659092,
       91.10125769412879,
       79.97449100378788
     ],
-    "averageColorHSV": [
-      0.10917104778575937,
-      88.46786517518939,
-      -0.0971027948880442
-    ],
     "framenumber": 83600,
-    "file": "../data/otherguys/The Other Guys.mp4_83600.png"
-  },
-  {
-    "averageColorRGB": [
-      85.53515477035985,
-      81.12641749526514,
-      65.32042495265152
+    "palette": [
+      {
+        "#c4ccbd": "silver"
+      },
+      {
+        "#e8e4d5": "gainsboro"
+      },
+      {
+        "#716b5f": "dimgray"
+      },
+      {
+        "#7e857a": "grey"
+      },
+      {
+        "#997a5d": "grey"
+      },
+      {
+        "#655e53": "dimgray"
+      }
     ],
     "averageColorHSV": [
-      0.1303174523820694,
-      75.42778986150569,
-      -0.13580095455826144
-    ],
-    "framenumber": 86944,
-    "file": "../data/otherguys/The Other Guys.mp4_86944.png"
+      0.10917104778575935,
+      0.3469328046085859,
+      0.0960051896197837
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_84435.png",
     "averageColorRGB": [
-      102.81179125236743,
-      100.55214399857955,
-      94.30759203361742
+      67.88318536931818,
+      73.66441021543561,
+      61.81538677793561
+    ],
+    "framenumber": 84435,
+    "palette": [
+      {
+        "#656859": "dimgray"
+      },
+      {
+        "#3f5655": "darkslategray"
+      },
+      {
+        "#24464a": "darkslategray"
+      },
+      {
+        "#60746b": "dimgray"
+      },
+      {
+        "#4e6562": "dimgray"
+      },
+      {
+        "#6f8173": "grey"
+      }
     ],
     "averageColorHSV": [
-      0.12238173566446602,
-      98.55969164299242,
-      -0.04358459459809521
-    ],
-    "framenumber": 90288,
-    "file": "../data/otherguys/The Other Guys.mp4_90288.png"
+      0.2479845473709518,
+      0.2656466607713161,
+      0.08745970764984062
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_85270.png",
     "averageColorRGB": [
-      60.78475526751894,
-      51.03701171875,
-      48.904770359848484
+      87.0901426373106,
+      86.89883404356061,
+      85.62961943655303
+    ],
+    "framenumber": 85270,
+    "palette": [
+      {
+        "#213536": "darkslategray"
+      },
+      {
+        "#2b5251": "darkslategray"
+      },
+      {
+        "#99a8ad": "darkgray"
+      },
+      {
+        "#a8b2bb": "darkgray"
+      },
+      {
+        "#8e9c9d": "lightslategray"
+      },
+      {
+        "#b9c7cd": "silver"
+      }
     ],
     "averageColorHSV": [
-      0.029913637313416803,
-      54.844762813683715,
-      -0.11031699544093229
-    ],
-    "framenumber": 93632,
-    "file": "../data/otherguys/The Other Guys.mp4_93632.png"
+      0.14483560940687054,
+      0.3386662001448306,
+      0.008456028327163747
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_86105.png",
     "averageColorRGB": [
-      87.31824396306818,
-      61.84420868844697,
-      47.95519797585227
+      80.13138760653409,
+      77.0403779000947,
+      73.64609818892045
+    ],
+    "framenumber": 86105,
+    "palette": [
+      {
+        "#fbf0e7": "linen"
+      },
+      {
+        "#cabaac": "silver"
+      },
+      {
+        "#9a8d81": "grey"
+      },
+      {
+        "#131819": "black"
+      },
+      {
+        "#b5b4ab": "darkgray"
+      },
+      {
+        "#020001": "black"
+      }
     ],
     "averageColorHSV": [
-      0.05880731688085269,
-      67.63672096946023,
-      -0.2953555143061143
-    ],
-    "framenumber": 96976,
-    "file": "../data/otherguys/The Other Guys.mp4_96976.png"
+      0.08723022964237599,
+      0.30152448195187165,
+      0.04217320490100867
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_86940.png",
     "averageColorRGB": [
-      15.077183948863636,
-      21.66813446969697,
-      21.284009528882574
+      85.38729876893939,
+      80.97621478456439,
+      65.12530332623106
+    ],
+    "framenumber": 86940,
+    "palette": [
+      {
+        "#4a4b3f": "darkslategray"
+      },
+      {
+        "#696753": "dimgray"
+      },
+      {
+        "#4d4c3b": "darkolivegreen"
+      },
+      {
+        "#6e6f5e": "dimgray"
+      },
+      {
+        "#585948": "darkolivegreen"
+      },
+      {
+        "#565243": "darkolivegreen"
+      }
     ],
     "averageColorHSV": [
-      0.49028655680744343,
-      18.372659209280304,
-      -0.18969319669013343
-    ],
-    "framenumber": 100320,
-    "file": "../data/otherguys/The Other Guys.mp4_100320.png"
+      0.13038294198904277,
+      0.29512274920621656,
+      0.13461992657529426
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_87775.png",
     "averageColorRGB": [
-      104.46912286931818,
-      106.60114228219697,
-      100.28145714962122
+      63.01804421164773,
+      67.55967240767045,
+      67.10016867897727
+    ],
+    "framenumber": 87775,
+    "palette": [
+      {
+        "#040000": "black"
+      },
+      {
+        "#7a857f": "grey"
+      },
+      {
+        "#022135": "black"
+      },
+      {
+        "#03263a": "midnightblue"
+      },
+      {
+        "#8e8874": "grey"
+      },
+      {
+        "#7a7a6e": "grey"
+      }
     ],
     "averageColorHSV": [
-      0.22289360857260063,
-      103.4412997159091,
-      -0.03084539707179404
-    ],
-    "framenumber": 103664,
-    "file": "../data/otherguys/The Other Guys.mp4_103664.png"
+      0.48313733500922346,
+      0.2560347384692513,
+      0.034781035490636006
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_88610.png",
     "averageColorRGB": [
-      100.67043383049243,
-      102.46238162878788,
-      92.9149384469697
+      76.13837002840908,
+      74.94192264441288,
+      68.72776100852273
+    ],
+    "framenumber": 88610,
+    "palette": [
+      {
+        "#727367": "dimgray"
+      },
+      {
+        "#43413b": "darkslategray"
+      },
+      {
+        "#45453c": "darkslategray"
+      },
+      {
+        "#5f5f53": "dimgray"
+      },
+      {
+        "#102c3b": "darkslategray"
+      },
+      {
+        "#352518": "black"
+      }
     ],
     "averageColorHSV": [
-      0.19794812712629314,
-      97.68866003787879,
-      -0.04937209378058332
-    ],
-    "framenumber": 107008,
-    "file": "../data/otherguys/The Other Guys.mp4_107008.png"
+      0.13975823082858768,
+      0.2840512373273173,
+      0.05115487634578381
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_89445.png",
     "averageColorRGB": [
-      75.81793619791667,
-      78.27582563920454,
-      75.74285333806819
+      117.02952769886363,
+      110.07125207149622,
+      108.96423709753788
+    ],
+    "framenumber": 89445,
+    "palette": [
+      {
+        "#181e1f": "black"
+      },
+      {
+        "#b49e9b": "rosybrown"
+      },
+      {
+        "#543a2f": "darkolivegreen"
+      },
+      {
+        "#baaeb6": "silver"
+      },
+      {
+        "#d0c2c0": "silver"
+      },
+      {
+        "#b4aaae": "darkgray"
+      }
     ],
     "averageColorHSV": [
-      0.3283929674362675,
-      77.00933948863636,
-      -0.01666224386488085
-    ],
-    "framenumber": 110352,
-    "file": "../data/otherguys/The Other Guys.mp4_110352.png"
+      0.02287611256430076,
+      0.44312502901255196,
+      0.035688111167986473
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_90280.png",
     "averageColorRGB": [
-      92.80152994791666,
-      103.67120916193181,
-      93.0381377249053
+      103.1415556936553,
+      100.87092359138258,
+      94.50981297348484
+    ],
+    "framenumber": 90280,
+    "palette": [
+      {
+        "#8d9085": "grey"
+      },
+      {
+        "#646c5f": "dimgray"
+      },
+      {
+        "#6a6e5f": "dimgray"
+      },
+      {
+        "#84847a": "grey"
+      },
+      {
+        "#543d34": "darkolivegreen"
+      },
+      {
+        "#555a50": "dimgray"
+      }
     ],
     "averageColorHSV": [
-      0.3369612811983687,
-      98.23636955492424,
-      -0.055893074082097344
-    ],
-    "framenumber": 113696,
-    "file": "../data/otherguys/The Other Guys.mp4_113696.png"
+      0.1228239924836431,
+      0.3875517032689022,
+      0.04367155551908658
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_91115.png",
     "averageColorRGB": [
-      14.745306581439394,
-      17.83431729403409,
-      18.593686375473485
+      133.32523970170453,
+      124.763427734375,
+      120.16070963541667
+    ],
+    "framenumber": 91115,
+    "palette": [
+      {
+        "#7d7c71": "grey"
+      },
+      {
+        "#ede1e0": "gainsboro"
+      },
+      {
+        "#6b4d48": "dimgray"
+      },
+      {
+        "#ddcdca": "lightgray"
+      },
+      {
+        "#5e6056": "dimgray"
+      },
+      {
+        "#858277": "grey"
+      }
     ],
     "averageColorHSV": [
-      0.5328869603175428,
-      16.669496478456438,
-      -0.12279845109653406
-    ],
-    "framenumber": 117040,
-    "file": "../data/otherguys/The Other Guys.mp4_117040.png"
+      0.05827171036846842,
+      0.4970312732100416,
+      0.051933963601192866
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_91950.png",
     "averageColorRGB": [
-      86.53693181818181,
-      95.20660363399621,
-      93.94125236742424
+      47.30095732717803,
+      45.600341796875,
+      43.81764470880682
+    ],
+    "framenumber": 91950,
+    "palette": [
+      {
+        "#000002": "black"
+      },
+      {
+        "#201e21": "black"
+      },
+      {
+        "#61635b": "dimgray"
+      },
+      {
+        "#080d10": "black"
+      },
+      {
+        "#545651": "dimgray"
+      },
+      {
+        "#11181b": "black"
+      }
     ],
     "averageColorHSV": [
-      0.4756747565256962,
-      90.87176772608902,
-      -0.048233566753898754
-    ],
-    "framenumber": 120384,
-    "file": "../data/otherguys/The Other Guys.mp4_120384.png"
+      0.08529701864187768,
+      0.1786639255607546,
+      0.038228336920660494
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_92785.png",
     "averageColorRGB": [
-      73.43616092566288,
-      73.35956883285985,
-      71.66482007575758
+      48.6919892282197,
+      45.01786517518939,
+      41.683040364583334
+    ],
+    "framenumber": 92785,
+    "palette": [
+      {
+        "#694836": "darkolivegreen"
+      },
+      {
+        "#414440": "darkslategray"
+      },
+      {
+        "#4f534e": "darkslategray"
+      },
+      {
+        "#585f5a": "dimgray"
+      },
+      {
+        "#8c8a7f": "grey"
+      },
+      {
+        "#000002": "black"
+      }
     ],
     "averageColorHSV": [
-      0.1594600645035727,
-      72.55049050071023,
-      -0.012378257909271198
-    ],
-    "framenumber": 123728,
-    "file": "../data/otherguys/The Other Guys.mp4_123728.png"
+      0.07929921389277317,
+      0.17720594037804516,
+      0.07755404225277857
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_93620.png",
     "averageColorRGB": [
-      119.54885031960227,
-      121.30134647253787,
-      116.66386570785984
+      49.707122987689395,
+      37.94308416193182,
+      31.790376420454546
+    ],
+    "framenumber": 93620,
+    "palette": [
+      {
+        "#513527": "darkolivegreen"
+      },
+      {
+        "#442a1c": "darkslategray"
+      },
+      {
+        "#342111": "black"
+      },
+      {
+        "#20170f": "black"
+      },
+      {
+        "#6f7169": "dimgray"
+      },
+      {
+        "#74746b": "dimgray"
+      }
     ],
     "averageColorHSV": [
-      0.22964971866779185,
-      118.98260609019886,
-      -0.019653239228893758
-    ],
-    "framenumber": 127072,
-    "file": "../data/otherguys/The Other Guys.mp4_127072.png"
+      0.057234235378509,
+      0.15979901844734107,
+      0.2198441264744431
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_94455.png",
     "averageColorRGB": [
-      101.16219371448864,
-      96.10617601799242,
-      90.65050455729167
+      55.63374615293561,
+      49.24169921875,
+      47.34527254971591
+    ],
+    "framenumber": 94455,
+    "palette": [
+      {
+        "#7b7d76": "grey"
+      },
+      {
+        "#161a1d": "black"
+      },
+      {
+        "#0e0d11": "black"
+      },
+      {
+        "#786255": "dimgray"
+      },
+      {
+        "#030008": "black"
+      },
+      {
+        "#060309": "black"
+      }
     ],
     "averageColorHSV": [
-      0.08650166145380256,
-      95.90634913589015,
-      -0.05537927258241687
-    ],
-    "framenumber": 130416,
-    "file": "../data/otherguys/The Other Guys.mp4_130416.png"
+      0.03813381409369545,
+      0.201919644515003,
+      0.08048701286572163
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_95290.png",
     "averageColorRGB": [
-      23.907904237689394,
-      16.358781664299244,
-      6.374255741003788
+      87.96317471590909,
+      72.38456143465909,
+      61.80022046638258
+    ],
+    "framenumber": 95290,
+    "palette": [
+      {
+        "#a39a99": "darkgray"
+      },
+      {
+        "#302212": "black"
+      },
+      {
+        "#8f8680": "grey"
+      },
+      {
+        "#513b2c": "darkolivegreen"
+      },
+      {
+        "#402f1e": "darkslategray"
+      },
+      {
+        "#836e58": "dimgray"
+      }
     ],
     "averageColorHSV": [
-      0.09490823625197797,
-      15.14107998934659,
-      -0.6199543638072503
-    ],
-    "framenumber": 133760,
-    "file": "../data/otherguys/The Other Guys.mp4_133760.png"
+      0.067425750594584,
+      0.29365371604370916,
+      0.17469525325384772
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_96125.png",
     "averageColorRGB": [
-      17.16294981060606,
-      12.188162878787878,
-      7.058414713541667
+      94.35075165719697,
+      76.4603426846591,
+      64.81745975378787
+    ],
+    "framenumber": 96125,
+    "palette": [
+      {
+        "#8e847d": "grey"
+      },
+      {
+        "#6a3e28": "saddlebrown"
+      },
+      {
+        "#312417": "black"
+      },
+      {
+        "#7b6c60": "dimgray"
+      },
+      {
+        "#5a4435": "darkolivegreen"
+      },
+      {
+        "#aa9e9d": "darkgray"
+      }
     ],
     "averageColorHSV": [
-      0.08461131752508048,
-      12.110682262073864,
-      -0.4547216299918892
-    ],
-    "framenumber": 137104,
-    "file": "../data/otherguys/The Other Guys.mp4_137104.png"
+      0.06570484911824348,
+      0.31209453217840166,
+      0.18554767714987896
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_96960.png",
     "averageColorRGB": [
-      139.34815488873107,
-      147.70828154592803,
-      146.2076112689394
+      90.37545276988637,
+      64.08727509469696,
+      50.63801639441288
+    ],
+    "framenumber": 96960,
+    "palette": [
+      {
+        "#8f6f59": "dimgray"
+      },
+      {
+        "#73422f": "saddlebrown"
+      },
+      {
+        "#a58b7c": "rosybrown"
+      },
+      {
+        "#47240c": "maroon"
+      },
+      {
+        "#3a2b23": "darkslategray"
+      },
+      {
+        "#552a17": "saddlebrown"
+      }
     ],
     "averageColorHSV": [
-      0.47008278425828304,
-      143.52821821732954,
-      -0.029327970144302544
-    ],
-    "framenumber": 140448,
-    "file": "../data/otherguys/The Other Guys.mp4_140448.png"
+      0.05640885072539622,
+      0.2764969983613711,
+      0.28179887078144383
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_97795.png",
     "averageColorRGB": [
-      102.84288589015152,
-      107.32899650804924,
-      97.54979137073863
+      103.98404356060605,
+      79.15916637073863,
+      60.43927852746212
+    ],
+    "framenumber": 97795,
+    "palette": [
+      {
+        "#6b513d": "darkolivegreen"
+      },
+      {
+        "#8d6d4d": "dimgray"
+      },
+      {
+        "#533e31": "darkolivegreen"
+      },
+      {
+        "#422d22": "darkslategray"
+      },
+      {
+        "#7c5b35": "sienna"
+      },
+      {
+        "#a9896b": "rosybrown"
+      }
     ],
     "averageColorHSV": [
-      0.24312330015421976,
-      102.43939393939394,
-      -0.04820220605395821
-    ],
-    "framenumber": 143792,
-    "file": "../data/otherguys/The Other Guys.mp4_143792.png"
+      0.0716499745684238,
+      0.322398670760918,
+      0.26483326379831046
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_98630.png",
     "averageColorRGB": [
-      69.88596709280303,
-      66.97003284801136,
-      64.24647993607955
+      8.5111328125,
+      7.576896898674242,
+      7.550338837594697
+    ],
+    "framenumber": 98630,
+    "palette": [
+      {
+        "#010000": "black"
+      },
+      {
+        "#242720": "black"
+      },
+      {
+        "#000002": "black"
+      },
+      {
+        "#2f0000": "black"
+      },
+      {
+        "#010005": "black"
+      },
+      {
+        "#020009": "black"
+      }
     ],
     "averageColorHSV": [
-      0.08049056105762935,
-      67.06622351444129,
-      -0.042680562447244705
-    ],
-    "framenumber": 147136,
-    "file": "../data/otherguys/The Other Guys.mp4_147136.png"
+      0.004606964270039204,
+      0.03149308166685234,
+      0.059819797079406434
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_99465.png",
     "averageColorRGB": [
-      49.56343217329545,
-      50.02531664299242,
-      48.20927586410985
+      21.494887843276516,
+      17.788648200757574,
+      16.271858723958335
+    ],
+    "framenumber": 99465,
+    "palette": [
+      {
+        "#3f2f25": "darkslategray"
+      },
+      {
+        "#182023": "black"
+      },
+      {
+        "#060103": "black"
+      },
+      {
+        "#070201": "black"
+      },
+      {
+        "#050002": "black"
+      },
+      {
+        "#1f292f": "darkslategray"
+      }
     ],
     "averageColorHSV": [
-      0.20905599285617096,
-      49.11729625355113,
-      -0.018870976969622925
-    ],
-    "framenumber": 150480,
-    "file": "../data/otherguys/The Other Guys.mp4_150480.png"
+      0.04840069629292193,
+      0.0740524442494801,
+      0.13829703625700987
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_100300.png",
     "averageColorRGB": [
-      91.14140625,
-      85.69139589251894,
-      72.99015003551136
+      15.635940459280302,
+      21.49181758996212,
+      20.85721768465909
+    ],
+    "framenumber": 100300,
+    "palette": [
+      {
+        "#59544d": "darkolivegreen"
+      },
+      {
+        "#142426": "black"
+      },
+      {
+        "#0d0a05": "black"
+      },
+      {
+        "#085d6d": "teal"
+      },
+      {
+        "#1c3535": "darkslategray"
+      },
+      {
+        "#0b0603": "black"
+      }
     ],
     "averageColorHSV": [
-      0.11662412146502225,
-      82.06577814275568,
-      -0.11195387640962712
-    ],
-    "framenumber": 153824,
-    "file": "../data/otherguys/The Other Guys.mp4_153824.png"
+      0.48193837600695627,
+      0.07279952558674985,
+      0.15772234679280095
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_101135.png",
     "averageColorRGB": [
-      55.159713837594694,
-      63.148080906723486,
-      58.08602035984848
+      12.864007753314393,
+      13.038762133049243,
+      11.054026100852273
+    ],
+    "framenumber": 101135,
+    "palette": [
+      {
+        "#704a32": "saddlebrown"
+      },
+      {
+        "#332e24": "darkslategray"
+      },
+      {
+        "#302b24": "darkslategray"
+      },
+      {
+        "#030102": "black"
+      },
+      {
+        "#020001": "black"
+      },
+      {
+        "#52331f": "darkolivegreen"
+      }
     ],
     "averageColorHSV": [
-      0.39438683143731507,
-      59.15389737215909,
-      -0.06868298970580418
-    ],
-    "framenumber": 157168,
-    "file": "../data/otherguys/The Other Guys.mp4_157168.png"
+      0.18134152996502087,
+      0.04724076124294415,
+      0.08237884353311183
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_101970.png",
     "averageColorRGB": [
-      63.7461943655303,
-      61.30118519176136,
-      50.79841382575758
+      45.09118430397727,
+      30.544711766098484,
+      19.84084990530303
+    ],
+    "framenumber": 101970,
+    "palette": [
+      {
+        "#110603": "black"
+      },
+      {
+        "#391b05": "black"
+      },
+      {
+        "#653712": "saddlebrown"
+      },
+      {
+        "#1b1710": "black"
+      },
+      {
+        "#6a5846": "darkolivegreen"
+      },
+      {
+        "#755c48": "dimgray"
+      }
     ],
     "averageColorHSV": [
-      0.1351939731258907,
-      57.27230409564394,
-      -0.11504576494473961
-    ],
-    "framenumber": 160512,
-    "file": "../data/otherguys/The Other Guys.mp4_160512.png"
+      0.0706516178610652,
+      0.12731771413584372,
+      0.3888732996919628
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_102805.png",
     "averageColorRGB": [
-      47.866822028882574,
-      39.19283410274621,
-      27.405052971117424
+      83.17150656960227,
+      86.06063713304924,
+      80.28074396306818
+    ],
+    "framenumber": 102805,
+    "palette": [
+      {
+        "#746e65": "dimgray"
+      },
+      {
+        "#525850": "darkslategray"
+      },
+      {
+        "#474b43": "darkslategray"
+      },
+      {
+        "#6d6c64": "dimgray"
+      },
+      {
+        "#64655f": "dimgray"
+      },
+      {
+        "#3b3b33": "darkslategray"
+      }
     ],
     "averageColorHSV": [
-      0.09601467903671944,
-      37.6359375,
-      -0.2792581608941378
-    ],
-    "framenumber": 163856,
-    "file": "../data/otherguys/The Other Guys.mp4_163856.png"
+      0.24997646953211863,
+      0.3261595707767008,
+      0.03474717554882661
+    ]
   },
   {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_103640.png",
     "averageColorRGB": [
-      0.0,
-      0.0,
-      0.0
+      103.62550603693182,
+      106.05472301136363,
+      99.96642400568182
+    ],
+    "framenumber": 103640,
+    "palette": [
+      {
+        "#8d8c81": "grey"
+      },
+      {
+        "#626b62": "dimgray"
+      },
+      {
+        "#72776d": "dimgray"
+      },
+      {
+        "#7f8177": "grey"
+      },
+      {
+        "#071d23": "black"
+      },
+      {
+        "#978e82": "grey"
+      }
     ],
     "averageColorHSV": [
-      0.0,
-      0.0,
-      0.0
+      0.23316627441602286,
+      0.40396303336675576,
+      0.029551815887997615
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_104475.png",
+    "averageColorRGB": [
+      87.72899502840909,
+      91.78029267282197,
+      87.2535185842803
     ],
-    "framenumber": 167200,
-    "file": "../data/otherguys/The Other Guys.mp4_167200.png"
+    "framenumber": 104475,
+    "palette": [
+      {
+        "#527d85": "slategrey"
+      },
+      {
+        "#797f78": "grey"
+      },
+      {
+        "#aaada3": "darkgray"
+      },
+      {
+        "#070c0f": "black"
+      },
+      {
+        "#4a5c5c": "darkslategray"
+      },
+      {
+        "#687a70": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.3158272522982637,
+      0.35104668873941625,
+      0.025284464743036635
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_105310.png",
+    "averageColorRGB": [
+      67.25335138494319,
+      72.03476118607955,
+      69.40146632339015
+    ],
+    "framenumber": 105310,
+    "palette": [
+      {
+        "#5e6459": "dimgray"
+      },
+      {
+        "#767d75": "grey"
+      },
+      {
+        "#525c53": "dimgray"
+      },
+      {
+        "#60736b": "dimgray"
+      },
+      {
+        "#020001": "black"
+      },
+      {
+        "#1a2c39": "darkslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.4082106543114976,
+      0.27311394621769164,
+      0.034327479300850915
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_106145.png",
+    "averageColorRGB": [
+      102.5526396780303,
+      112.05687588778409,
+      106.9822265625
+    ],
+    "framenumber": 106145,
+    "palette": [
+      {
+        "#3a5757": "darkslategray"
+      },
+      {
+        "#71757a": "grey"
+      },
+      {
+        "#486d6f": "dimgray"
+      },
+      {
+        "#636e6f": "dimgray"
+      },
+      {
+        "#7e8873": "grey"
+      },
+      {
+        "#67716e": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.41101074627339695,
+      0.4208029716976753,
+      0.044286182673196194
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_106980.png",
+    "averageColorRGB": [
+      71.53308771306818,
+      78.65862482244319,
+      75.75194424715909
+    ],
+    "framenumber": 106980,
+    "palette": [
+      {
+        "#74524a": "dimgray"
+      },
+      {
+        "#66706b": "dimgray"
+      },
+      {
+        "#828e87": "grey"
+      },
+      {
+        "#5e695f": "dimgray"
+      },
+      {
+        "#3d6061": "darkslategray"
+      },
+      {
+        "#8e9c9a": "lightslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.4320125970700557,
+      0.29449355399119875,
+      0.04744294468105382
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_107815.png",
+    "averageColorRGB": [
+      72.00315755208334,
+      76.15439009232955,
+      72.44173177083333
+    ],
+    "framenumber": 107815,
+    "palette": [
+      {
+        "#656a61": "dimgray"
+      },
+      {
+        "#91a9a3": "darkgray"
+      },
+      {
+        "#849088": "grey"
+      },
+      {
+        "#5c625e": "dimgray"
+      },
+      {
+        "#687069": "dimgray"
+      },
+      {
+        "#748681": "grey"
+      }
+    ],
+    "averageColorHSV": [
+      0.35094152618120117,
+      0.2905049953812017,
+      0.028019041933721945
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_108650.png",
+    "averageColorRGB": [
+      70.04343187736742,
+      71.01094637784091,
+      64.19557587594697
+    ],
+    "framenumber": 108650,
+    "palette": [
+      {
+        "#738478": "grey"
+      },
+      {
+        "#abc7bd": "silver"
+      },
+      {
+        "#596358": "dimgray"
+      },
+      {
+        "#9a806d": "grey"
+      },
+      {
+        "#5a6c65": "dimgray"
+      },
+      {
+        "#82978d": "lightslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.19032677681046165,
+      0.2651108279486037,
+      0.05040711341647584
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_109485.png",
+    "averageColorRGB": [
+      40.357677852746214,
+      52.692073567708334,
+      50.93489731297348
+    ],
+    "framenumber": 109485,
+    "palette": [
+      {
+        "#284e51": "darkslategray"
+      },
+      {
+        "#223d40": "darkslategray"
+      },
+      {
+        "#325d5f": "darkslategray"
+      },
+      {
+        "#497672": "dimgray"
+      },
+      {
+        "#261103": "black"
+      },
+      {
+        "#678182": "slategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.4762564201854477,
+      0.18245049298128344,
+      0.13255699802171347
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_110320.png",
+    "averageColorRGB": [
+      80.74147135416666,
+      82.86314216382576,
+      80.03862452651515
+    ],
+    "framenumber": 110320,
+    "palette": [
+      {
+        "#8b958f": "lightslategray"
+      },
+      {
+        "#454d4f": "darkslategray"
+      },
+      {
+        "#3c3f40": "darkslategray"
+      },
+      {
+        "#94978e": "grey"
+      },
+      {
+        "#a7b1a7": "darkgray"
+      },
+      {
+        "#45494c": "darkslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.2918603623755535,
+      0.31941522880459,
+      0.01733877842270253
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_111155.png",
+    "averageColorRGB": [
+      65.57329249526515,
+      68.07016749526515,
+      64.96684718276515
+    ],
+    "framenumber": 111155,
+    "palette": [
+      {
+        "#7c857e": "grey"
+      },
+      {
+        "#6d6d67": "dimgray"
+      },
+      {
+        "#080c0e": "black"
+      },
+      {
+        "#a5aca2": "darkgray"
+      },
+      {
+        "#31352d": "darkslategray"
+      },
+      {
+        "#0c3645": "darkslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.30076363102355924,
+      0.2608568915255496,
+      0.023326743463166995
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_111990.png",
+    "averageColorRGB": [
+      75.75316642992425,
+      82.99112807765151,
+      78.63551580255682
+    ],
+    "framenumber": 111990,
+    "palette": [
+      {
+        "#363d3c": "darkslategray"
+      },
+      {
+        "#353c36": "darkslategray"
+      },
+      {
+        "#c3d4bc": "silver"
+      },
+      {
+        "#174149": "darkslategray"
+      },
+      {
+        "#163038": "darkslategray"
+      },
+      {
+        "#2b312e": "darkslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.39970444518583587,
+      0.311263322563874,
+      0.04559509789110471
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_112825.png",
+    "averageColorRGB": [
+      86.98403468276516,
+      89.1036650686553,
+      86.72087772253788
+    ],
+    "framenumber": 112825,
+    "palette": [
+      {
+        "#8e9894": "lightslategray"
+      },
+      {
+        "#687168": "dimgray"
+      },
+      {
+        "#566d71": "dimgray"
+      },
+      {
+        "#644237": "darkolivegreen"
+      },
+      {
+        "#6d878c": "slategrey"
+      },
+      {
+        "#879da0": "lightslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.3149265319699308,
+      0.3447540054729278,
+      0.013552074746169988
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_113660.png",
+    "averageColorRGB": [
+      94.04339340672348,
+      105.43538855350378,
+      94.61770833333334
+    ],
+    "framenumber": 113660,
+    "palette": [
+      {
+        "#59756a": "dimgray"
+      },
+      {
+        "#90a896": "darkseagreen"
+      },
+      {
+        "#516358": "dimgray"
+      },
+      {
+        "#7b9083": "grey"
+      },
+      {
+        "#a5bea4": "darkgray"
+      },
+      {
+        "#647665": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.3417356503288799,
+      0.3911348665886809,
+      0.05710880643461963
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_114495.png",
+    "averageColorRGB": [
+      67.0329042376894,
+      49.334537760416666,
+      22.842267400568183
+    ],
+    "framenumber": 114495,
+    "palette": [
+      {
+        "#756541": "darkolivegreen"
+      },
+      {
+        "#352808": "black"
+      },
+      {
+        "#42310e": "darkolivegreen"
+      },
+      {
+        "#4f3f24": "darkolivegreen"
+      },
+      {
+        "#2d1501": "black"
+      },
+      {
+        "#5f4f32": "darkolivegreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.09991660472290491,
+      0.17622582674168152,
+      0.4916890397159517
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_115330.png",
+    "averageColorRGB": [
+      36.78859641335227,
+      29.203996508049244,
+      20.429350142045454
+    ],
+    "framenumber": 115330,
+    "palette": [
+      {
+        "#070000": "black"
+      },
+      {
+        "#413a2e": "darkslategray"
+      },
+      {
+        "#2c2313": "black"
+      },
+      {
+        "#362c1c": "darkslategray"
+      },
+      {
+        "#020001": "black"
+      },
+      {
+        "#60574d": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.0893953814709465,
+      0.1121920520694073,
+      0.2859111040531312
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_116165.png",
+    "averageColorRGB": [
+      25.21842891808712,
+      19.840391216856062,
+      18.365466678503786
+    ],
+    "framenumber": 116165,
+    "palette": [
+      {
+        "#1a140d": "black"
+      },
+      {
+        "#211812": "black"
+      },
+      {
+        "#524342": "darkslategray"
+      },
+      {
+        "#342725": "darkslategray"
+      },
+      {
+        "#161009": "black"
+      },
+      {
+        "#433735": "darkslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.03587072973672071,
+      0.08545861881684491,
+      0.15723611085649183
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_117000.png",
+    "averageColorRGB": [
+      14.605337062026516,
+      17.77779208096591,
+      18.544390684185608
+    ],
+    "framenumber": 117000,
+    "palette": [
+      {
+        "#443632": "darkslategray"
+      },
+      {
+        "#000002": "black"
+      },
+      {
+        "#20393d": "darkslategray"
+      },
+      {
+        "#000005": "black"
+      },
+      {
+        "#0f2e31": "darkslategray"
+      },
+      {
+        "#52413d": "darkslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.5324358199013086,
+      0.06499946616904338,
+      0.1188261228663994
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_117835.png",
+    "averageColorRGB": [
+      68.21512784090909,
+      58.90957919034091,
+      49.218079723011364
+    ],
+    "framenumber": 117835,
+    "palette": [
+      {
+        "#4d2d19": "darkolivegreen"
+      },
+      {
+        "#120e0b": "black"
+      },
+      {
+        "#5e5851": "dimgray"
+      },
+      {
+        "#7a674a": "dimgray"
+      },
+      {
+        "#443b2f": "darkslategray"
+      },
+      {
+        "#40392d": "darkslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.08502636310637186,
+      0.23026119130180484,
+      0.16176896222099169
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_118670.png",
+    "averageColorRGB": [
+      74.8943300189394,
+      82.76122750946969,
+      83.33216293797348
+    ],
+    "framenumber": 118670,
+    "palette": [
+      {
+        "#4a483a": "darkslategray"
+      },
+      {
+        "#49524b": "darkslategray"
+      },
+      {
+        "#60635a": "dimgray"
+      },
+      {
+        "#022858": "midnightblue"
+      },
+      {
+        "#313932": "darkslategray"
+      },
+      {
+        "#7d8d94": "lightslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.5112772918904306,
+      0.3102480254057115,
+      0.05332756077284609
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_119505.png",
+    "averageColorRGB": [
+      77.34641631155303,
+      93.03094223484848,
+      93.8340272845644
+    ],
+    "framenumber": 119505,
+    "palette": [
+      {
+        "#8fa5ad": "darkgray"
+      },
+      {
+        "#153437": "darkslategray"
+      },
+      {
+        "#52818c": "slategrey"
+      },
+      {
+        "#21555b": "darkslategray"
+      },
+      {
+        "#6d8a94": "slategrey"
+      },
+      {
+        "#36676d": "darkslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.5081180656497223,
+      0.3356479286198381,
+      0.09631714129630478
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_120340.png",
+    "averageColorRGB": [
+      89.005810546875,
+      97.4519560842803,
+      96.50899325284091
+    ],
+    "framenumber": 120340,
+    "palette": [
+      {
+        "#949fa9": "darkgray"
+      },
+      {
+        "#433b26": "darkslategray"
+      },
+      {
+        "#735c51": "dimgray"
+      },
+      {
+        "#98a7af": "darkgray"
+      },
+      {
+        "#7b919b": "lightslategray"
+      },
+      {
+        "#42737a": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.4813926398484907,
+      0.3656034639826574,
+      0.045297901449786106
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_121175.png",
+    "averageColorRGB": [
+      101.02189423532197,
+      112.64029356060605,
+      116.19489968039773
+    ],
+    "framenumber": 121175,
+    "palette": [
+      {
+        "#a4acb5": "darkgray"
+      },
+      {
+        "#768d97": "lightslategray"
+      },
+      {
+        "#617a81": "slategrey"
+      },
+      {
+        "#3e6167": "darkslategray"
+      },
+      {
+        "#9aa9b5": "darkgray"
+      },
+      {
+        "#634d40": "darkolivegreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.5390452870687449,
+      0.42591528218768565,
+      0.06985189851832034
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_122010.png",
+    "averageColorRGB": [
+      69.89918027935606,
+      93.53360854640151,
+      96.77363725142045
+    ],
+    "framenumber": 122010,
+    "palette": [
+      {
+        "#608495": "slategrey"
+      },
+      {
+        "#477273": "dimgray"
+      },
+      {
+        "#306c79": "seagreen"
+      },
+      {
+        "#7b95a9": "lightslategray"
+      },
+      {
+        "#4a3824": "darkolivegreen"
+      },
+      {
+        "#32737a": "seagreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.5200936072766474,
+      0.3268094461387775,
+      0.16124079121121213
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_122845.png",
+    "averageColorRGB": [
+      80.42866062973485,
+      81.34431078361743,
+      78.00876390861742
+    ],
+    "framenumber": 122845,
+    "palette": [
+      {
+        "#b0b7ad": "darkgray"
+      },
+      {
+        "#0f1112": "black"
+      },
+      {
+        "#161818": "black"
+      },
+      {
+        "#97978f": "grey"
+      },
+      {
+        "#08090c": "black"
+      },
+      {
+        "#707771": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.212418792090007,
+      0.3124570092004605,
+      0.020931801168205186
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_123680.png",
+    "averageColorRGB": [
+      58.215022786458334,
+      55.277974076704545,
+      53.558883759469694
+    ],
+    "framenumber": 123680,
+    "palette": [
+      {
+        "#2e2a27": "darkslategray"
+      },
+      {
+        "#7c5e56": "dimgray"
+      },
+      {
+        "#242a2e": "darkslategray"
+      },
+      {
+        "#373331": "darkslategray"
+      },
+      {
+        "#b9ceca": "silver"
+      },
+      {
+        "#9aa8a5": "darkgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.061534900743240674,
+      0.21916452263907454,
+      0.04165676203752822
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_124515.png",
+    "averageColorRGB": [
+      100.44501953125,
+      97.8592314749053,
+      95.54265358664773
+    ],
+    "framenumber": 124515,
+    "palette": [
+      {
+        "#5b5754": "dimgray"
+      },
+      {
+        "#141618": "black"
+      },
+      {
+        "#9d9894": "darkgray"
+      },
+      {
+        "#0c1114": "black"
+      },
+      {
+        "#563429": "darkolivegreen"
+      },
+      {
+        "#0f1517": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.0787571387106885,
+      0.3842895551331328,
+      0.025013644310441948
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_125350.png",
+    "averageColorRGB": [
+      115.73341915246212,
+      110.78658854166666,
+      104.35763198390151
+    ],
+    "framenumber": 125350,
+    "palette": [
+      {
+        "#888881": "grey"
+      },
+      {
+        "#795848": "dimgray"
+      },
+      {
+        "#5b3229": "saddlebrown"
+      },
+      {
+        "#85594c": "sienna"
+      },
+      {
+        "#96978c": "grey"
+      },
+      {
+        "#6b4437": "darkolivegreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.09419064753504014,
+      0.4315510806595365,
+      0.051686731967636464
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_126185.png",
+    "averageColorRGB": [
+      123.65295928030304,
+      121.66872336647727,
+      118.69216678503788
+    ],
+    "framenumber": 126185,
+    "palette": [
+      {
+        "#171a1a": "black"
+      },
+      {
+        "#724d41": "darkolivegreen"
+      },
+      {
+        "#9a9992": "darkgray"
+      },
+      {
+        "#1d2020": "black"
+      },
+      {
+        "#101313": "black"
+      },
+      {
+        "#99948d": "grey"
+      }
+    ],
+    "averageColorHSV": [
+      0.10000272417093192,
+      0.4751865216967469,
+      0.020469949512942277
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_127020.png",
+    "averageColorRGB": [
+      93.88296490293561,
+      95.48876953125,
+      94.30846058238636
+    ],
+    "framenumber": 127020,
+    "palette": [
+      {
+        "#5b6063": "dimgray"
+      },
+      {
+        "#848d8e": "lightslategray"
+      },
+      {
+        "#616467": "dimgray"
+      },
+      {
+        "#b4af9d": "darkgray"
+      },
+      {
+        "#44494f": "darkslategray"
+      },
+      {
+        "#99aeb4": "darkgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.3774955840360014,
+      0.3713171263415404,
+      0.0084796426093487
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_127855.png",
+    "averageColorRGB": [
+      106.53322088068182,
+      93.78817915482955,
+      95.03505859375
+    ],
+    "framenumber": 127855,
+    "palette": [
+      {
+        "#4a2d1f": "darkslategray"
+      },
+      {
+        "#331f12": "black"
+      },
+      {
+        "#e8e1f4": "lavender"
+      },
+      {
+        "#6b4635": "darkolivegreen"
+      },
+      {
+        "#8e624e": "sienna"
+      },
+      {
+        "#b4b0bf": "silver"
+      }
+    ],
+    "averageColorHSV": [
+      0.9836945814466387,
+      0.39278705889315957,
+      0.06362296651078185
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_128690.png",
+    "averageColorRGB": [
+      25.256739760890152,
+      28.330384410511364,
+      32.10097064393939
+    ],
+    "framenumber": 128690,
+    "palette": [
+      {
+        "#070d10": "black"
+      },
+      {
+        "#0a1013": "black"
+      },
+      {
+        "#1c1f24": "black"
+      },
+      {
+        "#14181c": "black"
+      },
+      {
+        "#0e1216": "black"
+      },
+      {
+        "#0e1417": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.5918190881697276,
+      0.1124660988329991,
+      0.11932538510939149
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_129525.png",
+    "averageColorRGB": [
+      67.98351976799242,
+      62.81549627130682,
+      59.01203095407197
+    ],
+    "framenumber": 129525,
+    "palette": [
+      {
+        "#452a1d": "darkslategray"
+      },
+      {
+        "#895747": "sienna"
+      },
+      {
+        "#0d1314": "black"
+      },
+      {
+        "#583c32": "darkolivegreen"
+      },
+      {
+        "#97a4a5": "darkgray"
+      },
+      {
+        "#714537": "saddlebrown"
+      }
+    ],
+    "averageColorHSV": [
+      0.07065838227677577,
+      0.2490108837687537,
+      0.07064411912788161
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_130360.png",
+    "averageColorRGB": [
+      105.1226103811553,
+      99.80218394886364,
+      94.06637369791666
+    ],
+    "framenumber": 130360,
+    "palette": [
+      {
+        "#3b4543": "darkslategray"
+      },
+      {
+        "#96978f": "grey"
+      },
+      {
+        "#52372f": "darkolivegreen"
+      },
+      {
+        "#2e1c13": "black"
+      },
+      {
+        "#755247": "dimgray"
+      },
+      {
+        "#807a75": "grey"
+      }
+    ],
+    "averageColorHSV": [
+      0.08646417425262685,
+      0.3905666354491607,
+      0.05550626574233464
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_131195.png",
+    "averageColorRGB": [
+      102.0759158972538,
+      93.14216234611743,
+      86.47369347774621
+    ],
+    "framenumber": 131195,
+    "palette": [
+      {
+        "#775349": "dimgray"
+      },
+      {
+        "#2e190b": "black"
+      },
+      {
+        "#717067": "dimgray"
+      },
+      {
+        "#9a938e": "rosybrown"
+      },
+      {
+        "#948e88": "grey"
+      },
+      {
+        "#8a817d": "grey"
+      }
+    ],
+    "averageColorHSV": [
+      0.07123417729722044,
+      0.36970511642156867,
+      0.08274863295249185
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_132030.png",
+    "averageColorRGB": [
+      106.50792347301136,
+      114.37034801136363,
+      106.87445105350379
+    ],
+    "framenumber": 132030,
+    "palette": [
+      {
+        "#855d51": "dimgray"
+      },
+      {
+        "#809c95": "lightslategray"
+      },
+      {
+        "#c0dad0": "lightgray"
+      },
+      {
+        "#64554c": "dimgray"
+      },
+      {
+        "#91b8b0": "darkgray"
+      },
+      {
+        "#9cbfb3": "darkgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.34110293796153557,
+      0.43309464996936275,
+      0.035596188278340726
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_132865.png",
+    "averageColorRGB": [
+      101.75132575757576,
+      94.49528142755682,
+      84.79735292376894
+    ],
+    "framenumber": 132865,
+    "palette": [
+      {
+        "#b59982": "rosybrown"
+      },
+      {
+        "#b9b1a4": "darkgray"
+      },
+      {
+        "#cdb49d": "tan"
+      },
+      {
+        "#b7b2a5": "darkgray"
+      },
+      {
+        "#7eaebe": "mediumaquamarine"
+      },
+      {
+        "#947861": "grey"
+      }
+    ],
+    "averageColorHSV": [
+      0.09533585037218985,
+      0.36578172290459743,
+      0.09088229921353097
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_133700.png",
+    "averageColorRGB": [
+      67.53089192708333,
+      53.26031309185606,
+      43.55655776515152
+    ],
+    "framenumber": 133700,
+    "palette": [
+      {
+        "#5f3a1b": "saddlebrown"
+      },
+      {
+        "#4b2808": "maroon"
+      },
+      {
+        "#5a4c35": "darkolivegreen"
+      },
+      {
+        "#493819": "darkolivegreen"
+      },
+      {
+        "#331806": "black"
+      },
+      {
+        "#210d02": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.06745933144699436,
+      0.2178185288083036,
+      0.21581496585214743
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_134535.png",
+    "averageColorRGB": [
+      17.7993193655303,
+      12.166350023674243,
+      6.62378965435606
+    ],
+    "framenumber": 134535,
+    "palette": [
+      {
+        "#1f0c01": "black"
+      },
+      {
+        "#180800": "black"
+      },
+      {
+        "#241102": "black"
+      },
+      {
+        "#010000": "black"
+      },
+      {
+        "#020001": "black"
+      },
+      {
+        "#080000": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.08265917459191012,
+      0.04788844905860071,
+      0.4575801427277189
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_135370.png",
+    "averageColorRGB": [
+      81.30897401751893,
+      60.73451260653409,
+      38.95409416429924
+    ],
+    "framenumber": 135370,
+    "palette": [
+      {
+        "#c37e11": "darkgoldenrod"
+      },
+      {
+        "#746a5d": "dimgray"
+      },
+      {
+        "#9c7c54": "grey"
+      },
+      {
+        "#321a05": "black"
+      },
+      {
+        "#553413": "saddlebrown"
+      },
+      {
+        "#332622": "darkslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.08570605684521915,
+      0.23580993761140817,
+      0.3521852593115786
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_136205.png",
+    "averageColorRGB": [
+      18.706664299242423,
+      14.13464873342803,
+      8.389201586174243
+    ],
+    "framenumber": 136205,
+    "palette": [
+      {
+        "#181e07": "black"
+      },
+      {
+        "#0a0a03": "black"
+      },
+      {
+        "#2d211d": "black"
+      },
+      {
+        "#010000": "black"
+      },
+      {
+        "#020001": "black"
+      },
+      {
+        "#040001": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.09281104775202398,
+      0.05312914879493464,
+      0.38077626884849497
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_137040.png",
+    "averageColorRGB": [
+      20.15695282907197,
+      12.841336706912879,
+      8.363793205492424
+    ],
+    "framenumber": 137040,
+    "palette": [
+      {
+        "#261002": "black"
+      },
+      {
+        "#1c0b02": "black"
+      },
+      {
+        "#150401": "black"
+      },
+      {
+        "#010000": "black"
+      },
+      {
+        "#020001": "black"
+      },
+      {
+        "#080000": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.0632788221355587,
+      0.05592303144032234,
+      0.413494079337454
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_137875.png",
+    "averageColorRGB": [
+      20.55351710464015,
+      14.382726680871212,
+      7.53517548532197
+    ],
+    "framenumber": 137875,
+    "palette": [
+      {
+        "#110000": "black"
+      },
+      {
+        "#1f0c02": "black"
+      },
+      {
+        "#574c33": "darkolivegreen"
+      },
+      {
+        "#1c0e02": "black"
+      },
+      {
+        "#010000": "black"
+      },
+      {
+        "#301805": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.0876654312787432,
+      0.05507586782345514,
+      0.46347267953548205
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_138710.png",
+    "averageColorRGB": [
+      92.503076171875,
+      78.64958718039773,
+      65.78284949100379
+    ],
+    "framenumber": 138710,
+    "palette": [
+      {
+        "#8f654b": "sienna"
+      },
+      {
+        "#b4906c": "rosybrown"
+      },
+      {
+        "#967d65": "grey"
+      },
+      {
+        "#c3ab8a": "tan"
+      },
+      {
+        "#877968": "grey"
+      },
+      {
+        "#8b8172": "grey"
+      }
+    ],
+    "averageColorHSV": [
+      0.08025591650765662,
+      0.3103645601232917,
+      0.16880987092801036
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_139545.png",
+    "averageColorRGB": [
+      94.39132782907197,
+      80.96491033380681,
+      86.33466944839014
+    ],
+    "framenumber": 139545,
+    "palette": [
+      {
+        "#6f727a": "dimgray"
+      },
+      {
+        "#0c1014": "black"
+      },
+      {
+        "#50000b": "maroon"
+      },
+      {
+        "#5b5e64": "dimgray"
+      },
+      {
+        "#6a6f76": "dimgray"
+      },
+      {
+        "#660009": "maroon"
+      }
+    ],
+    "averageColorHSV": [
+      0.9333433618650572,
+      0.34383576110368386,
+      0.07656652330095087
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_140380.png",
+    "averageColorRGB": [
+      108.46801313920454,
+      109.2002411813447,
+      109.33925189393939
+    ],
+    "framenumber": 140380,
+    "palette": [
+      {
+        "#0a0b0e": "black"
+      },
+      {
+        "#070b0d": "black"
+      },
+      {
+        "#0e1113": "black"
+      },
+      {
+        "#4a4642": "darkslategray"
+      },
+      {
+        "#30312e": "darkslategray"
+      },
+      {
+        "#54514c": "darkslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.5265925407624525,
+      0.4270730686924391,
+      0.00400004451000414
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_141215.png",
+    "averageColorRGB": [
+      73.13527018229166,
+      67.67030066287879,
+      62.22087920217803
+    ],
+    "framenumber": 141215,
+    "palette": [
+      {
+        "#533c2f": "darkolivegreen"
+      },
+      {
+        "#715040": "darkolivegreen"
+      },
+      {
+        "#8f6752": "dimgray"
+      },
+      {
+        "#9aacb5": "darkgray"
+      },
+      {
+        "#241503": "black"
+      },
+      {
+        "#bbc6ca": "silver"
+      }
+    ],
+    "averageColorHSV": [
+      0.08321462111551901,
+      0.26540421447935236,
+      0.08063461490110853
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_142050.png",
+    "averageColorRGB": [
+      69.43473603219697,
+      58.651371626420456,
+      49.81342329545455
+    ],
+    "framenumber": 142050,
+    "palette": [
+      {
+        "#2a2d36": "darkslategray"
+      },
+      {
+        "#372710": "black"
+      },
+      {
+        "#3b3128": "darkslategray"
+      },
+      {
+        "#2f221e": "black"
+      },
+      {
+        "#9b7a38": "sienna"
+      },
+      {
+        "#86745a": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.07507099082805135,
+      0.2338199202502971,
+      0.16454184993187218
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_142885.png",
+    "averageColorRGB": [
+      71.7911221590909,
+      79.12039831912878,
+      76.13370324337122
+    ],
+    "framenumber": 142885,
+    "palette": [
+      {
+        "#28312f": "darkslategray"
+      },
+      {
+        "#151915": "black"
+      },
+      {
+        "#424e4d": "darkslategray"
+      },
+      {
+        "#343e3c": "darkslategray"
+      },
+      {
+        "#010000": "black"
+      },
+      {
+        "#53615f": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.43208299131360756,
+      0.29590494211415624,
+      0.04856671072435244
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_143720.png",
+    "averageColorRGB": [
+      83.906494140625,
+      84.55672348484849,
+      83.48017726089014
+    ],
+    "framenumber": 143720,
+    "palette": [
+      {
+        "#747d7d": "grey"
+      },
+      {
+        "#716f69": "dimgray"
+      },
+      {
+        "#828a89": "grey"
+      },
+      {
+        "#315f6d": "darkslategray"
+      },
+      {
+        "#081217": "black"
+      },
+      {
+        "#0a1a1f": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.267332625042436,
+      0.32948411910929143,
+      0.00640660604415278
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_144555.png",
+    "averageColorRGB": [
+      39.3249452533144,
+      41.498255504261365,
+      39.641061493844695
+    ],
+    "framenumber": 144555,
+    "palette": [
+      {
+        "#0d1616": "black"
+      },
+      {
+        "#212a2a": "darkslategray"
+      },
+      {
+        "#161f20": "black"
+      },
+      {
+        "#5b4136": "darkolivegreen"
+      },
+      {
+        "#060d10": "black"
+      },
+      {
+        "#101b1b": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.35757563378971163,
+      0.1584768642305407,
+      0.026889683043680536
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_145390.png",
+    "averageColorRGB": [
+      99.12113074100378,
+      89.42087032433712,
+      82.61551106770834
+    ],
+    "framenumber": 145390,
+    "palette": [
+      {
+        "#a1a393": "darkgray"
+      },
+      {
+        "#8e8d83": "grey"
+      },
+      {
+        "#835b52": "dimgray"
+      },
+      {
+        "#c7c4b0": "silver"
+      },
+      {
+        "#77574c": "dimgray"
+      },
+      {
+        "#b9bfb0": "silver"
+      }
+    ],
+    "averageColorHSV": [
+      0.06871759832237835,
+      0.3563463564876708,
+      0.09082163898829233
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_146225.png",
+    "averageColorRGB": [
+      55.29274680397727,
+      47.48354936079546,
+      46.558706202651514
+    ],
+    "framenumber": 146225,
+    "palette": [
+      {
+        "#05161a": "black"
+      },
+      {
+        "#41525b": "darkslategray"
+      },
+      {
+        "#93000f": "darkred"
+      },
+      {
+        "#182326": "black"
+      },
+      {
+        "#2e241d": "black"
+      },
+      {
+        "#0e181a": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.01764824934909583,
+      0.19970873138554662,
+      0.08575273443332539
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_147060.png",
+    "averageColorRGB": [
+      241.81266571969698,
+      177.59266542376895,
+      11.154937559185607
+    ],
+    "framenumber": 147060,
+    "palette": [
+      {
+        "#f3cf06": "gold"
+      },
+      {
+        "#f3ad06": "orange"
+      },
+      {
+        "#f6bd08": "orange"
+      },
+      {
+        "#c35d04": "chocolate"
+      },
+      {
+        "#ec8603": "darkorange"
+      },
+      {
+        "#f59a08": "orange"
+      }
+    ],
+    "averageColorHSV": [
+      0.12026313417714878,
+      0.49601490838996587,
+      0.9118073823319746
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_147895.png",
+    "averageColorRGB": [
+      36.68784771543561,
+      45.01643140388258,
+      45.969340376420455
+    ],
+    "framenumber": 147895,
+    "palette": [
+      {
+        "#0b1b24": "black"
+      },
+      {
+        "#152129": "black"
+      },
+      {
+        "#2a4344": "darkslategray"
+      },
+      {
+        "#485a5a": "darkslategray"
+      },
+      {
+        "#081216": "black"
+      },
+      {
+        "#08151e": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.5171112737886703,
+      0.16207291782716876,
+      0.11228899597540652
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_148730.png",
+    "averageColorRGB": [
+      43.02186168323863,
+      49.77682143702651,
+      48.945170454545455
+    ],
+    "framenumber": 148730,
+    "palette": [
+      {
+        "#7c5549": "dimgray"
+      },
+      {
+        "#13524b": "darkslategray"
+      },
+      {
+        "#04141b": "black"
+      },
+      {
+        "#0a2425": "black"
+      },
+      {
+        "#101a1f": "black"
+      },
+      {
+        "#041c1e": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.47948048513502245,
+      0.1819582021965983,
+      0.07279154753773381
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_149565.png",
+    "averageColorRGB": [
+      35.16712683475379,
+      56.38399029356061,
+      56.96271898674242
+    ],
+    "framenumber": 149565,
+    "palette": [
+      {
+        "#073c3d": "darkslategray"
+      },
+      {
+        "#154645": "darkslategray"
+      },
+      {
+        "#001a22": "black"
+      },
+      {
+        "#03292f": "black"
+      },
+      {
+        "#011e24": "black"
+      },
+      {
+        "#083034": "darkslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.5044254260918609,
+      0.18064675651273765,
+      0.2365747164520184
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_150400.png",
+    "averageColorRGB": [
+      57.92217536695076,
+      64.47895951704545,
+      67.69946141098485
+    ],
+    "framenumber": 150400,
+    "palette": [
+      {
+        "#9ca6ad": "darkgray"
+      },
+      {
+        "#bdc3ce": "silver"
+      },
+      {
+        "#7d8a8f": "lightslategray"
+      },
+      {
+        "#0c2f3d": "darkslategray"
+      },
+      {
+        "#564946": "darkslategray"
+      },
+      {
+        "#020001": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.5548976795032073,
+      0.24631693485869727,
+      0.07783122633020323
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_151235.png",
+    "averageColorRGB": [
+      33.695608428030305,
+      35.16579811789773,
+      37.070367246685606
+    ],
+    "framenumber": 151235,
+    "palette": [
+      {
+        "#08090c": "black"
+      },
+      {
+        "#442c24": "darkslategray"
+      },
+      {
+        "#070506": "black"
+      },
+      {
+        "#022c3c": "midnightblue"
+      },
+      {
+        "#08070a": "black"
+      },
+      {
+        "#053342": "darkslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.5940595180836641,
+      0.13875681504846257,
+      0.04768900289268637
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_152070.png",
+    "averageColorRGB": [
+      75.08086973248106,
+      70.23152669270833,
+      59.087093098958334
+    ],
+    "framenumber": 152070,
+    "palette": [
+      {
+        "#351a06": "black"
+      },
+      {
+        "#076678": "teal"
+      },
+      {
+        "#9ea6a7": "darkgray"
+      },
+      {
+        "#553711": "saddlebrown"
+      },
+      {
+        "#492c09": "maroon"
+      },
+      {
+        "#251506": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.11613302108178984,
+      0.263074436924391,
+      0.11920712140212159
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_152905.png",
+    "averageColorRGB": [
+      90.89767252604166,
+      77.86770981297349,
+      63.11991299715909
+    ],
+    "framenumber": 152905,
+    "palette": [
+      {
+        "#6b6561": "dimgray"
+      },
+      {
+        "#4f2a09": "maroon"
+      },
+      {
+        "#6c605a": "dimgray"
+      },
+      {
+        "#554a45": "darkslategray"
+      },
+      {
+        "#5d3610": "saddlebrown"
+      },
+      {
+        "#c1b9a4": "silver"
+      }
+    ],
+    "averageColorHSV": [
+      0.08848683902722032,
+      0.30199526573176616,
+      0.18035446689104348
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_153740.png",
+    "averageColorRGB": [
+      67.42749911221591,
+      64.16442205255682,
+      59.09860321969697
+    ],
+    "framenumber": 153740,
+    "palette": [
+      {
+        "#42393b": "darkslategray"
+      },
+      {
+        "#554e51": "darkslategray"
+      },
+      {
+        "#6b4840": "darkolivegreen"
+      },
+      {
+        "#12100e": "black"
+      },
+      {
+        "#716d67": "dimgray"
+      },
+      {
+        "#55594d": "darkolivegreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.10137035565162128,
+      0.24809039672924094,
+      0.06582749123710428
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_154575.png",
+    "averageColorRGB": [
+      89.72399976325758,
+      84.0136200875947,
+      77.69568684895833
+    ],
+    "framenumber": 154575,
+    "palette": [
+      {
+        "#503326": "darkolivegreen"
+      },
+      {
+        "#75756a": "dimgray"
+      },
+      {
+        "#959c92": "darkseagreen"
+      },
+      {
+        "#8e6c63": "dimgray"
+      },
+      {
+        "#a5b2ad": "darkgray"
+      },
+      {
+        "#898c80": "grey"
+      }
+    ],
+    "averageColorHSV": [
+      0.08754252409365476,
+      0.32827389531807044,
+      0.07184527194916869
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_155410.png",
+    "averageColorRGB": [
+      92.67390358664773,
+      50.08285984848485,
+      47.465781841856064
+    ],
+    "framenumber": 155410,
+    "palette": [
+      {
+        "#670000": "maroon"
+      },
+      {
+        "#390000": "black"
+      },
+      {
+        "#c77b82": "rosybrown"
+      },
+      {
+        "#b14e5c": "indianred"
+      },
+      {
+        "#9f1e25": "brown"
+      },
+      {
+        "#510000": "maroon"
+      }
+    ],
+    "averageColorHSV": [
+      0.009648259006064919,
+      0.27478369691863486,
+      0.32259328688058075
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_156245.png",
+    "averageColorRGB": [
+      54.10651485558712,
+      60.98626154119318,
+      60.90709043560606
+    ],
+    "framenumber": 156245,
+    "palette": [
+      {
+        "#323638": "darkslategray"
+      },
+      {
+        "#23292a": "darkslategray"
+      },
+      {
+        "#080b0d": "black"
+      },
+      {
+        "#087a14": "green"
+      },
+      {
+        "#ced5e0": "lightgray"
+      },
+      {
+        "#2c3334": "darkslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.49808202469254753,
+      0.22567211058192216,
+      0.059775660132554746
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_157080.png",
+    "averageColorRGB": [
+      54.65596590909091,
+      62.27606238162879,
+      58.379918323863635
+    ],
+    "framenumber": 157080,
+    "palette": [
+      {
+        "#323638": "darkslategray"
+      },
+      {
+        "#0a7a15": "green"
+      },
+      {
+        "#bcb1b7": "silver"
+      },
+      {
+        "#96a79d": "darkgray"
+      },
+      {
+        "#aa9d96": "darkgray"
+      },
+      {
+        "#2c3333": "darkslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.41478357980097996,
+      0.22927848684454843,
+      0.06516688869530753
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_157915.png",
+    "averageColorRGB": [
+      66.67257634943182,
+      66.82030510179925,
+      50.15882161458333
+    ],
+    "framenumber": 157915,
+    "palette": [
+      {
+        "#323638": "darkslategray"
+      },
+      {
+        "#292f30": "darkslategray"
+      },
+      {
+        "#212728": "darkslategray"
+      },
+      {
+        "#f28705": "darkorange"
+      },
+      {
+        "#01800d": "green"
+      },
+      {
+        "#2c2f32": "darkslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.16814441375604172,
+      0.22937083669878938,
+      0.14243125209518698
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_158750.png",
+    "averageColorRGB": [
+      55.85468010179924,
+      60.111175722064395,
+      59.083858605587125
+    ],
+    "framenumber": 158750,
+    "palette": [
+      {
+        "#323638": "darkslategray"
+      },
+      {
+        "#2d3334": "darkslategray"
+      },
+      {
+        "#23292a": "darkslategray"
+      },
+      {
+        "#9e8f84": "rosybrown"
+      },
+      {
+        "#383c40": "darkslategray"
+      },
+      {
+        "#0c1012": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.45977453410319463,
+      0.22738403102718358,
+      0.036704731664553014
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_159585.png",
+    "averageColorRGB": [
+      43.827962239583336,
+      123.46798946496212,
+      21.390334990530302
+    ],
+    "framenumber": 159585,
+    "palette": [
+      {
+        "#d9fbe9": "lightcyan"
+      },
+      {
+        "#f28705": "darkorange"
+      },
+      {
+        "#8bda97": "lightgreen"
+      },
+      {
+        "#68ac6b": "mediumseagreen"
+      },
+      {
+        "#e77203": "chocolate"
+      },
+      {
+        "#005c03": "darkgreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.29669843453238637,
+      0.2840359303048871,
+      0.7046723400821543
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_160420.png",
+    "averageColorRGB": [
+      50.66794655539773,
+      59.51032049005682,
+      51.02980587121212
+    ],
+    "framenumber": 160420,
+    "palette": [
+      {
+        "#017f15": "green"
+      },
+      {
+        "#222829": "darkslategray"
+      },
+      {
+        "#fd8805": "darkorange"
+      },
+      {
+        "#303637": "darkslategray"
+      },
+      {
+        "#1e7031": "forestgreen"
+      },
+      {
+        "#363a3c": "darkslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.34015388700079036,
+      0.21603581773618538,
+      0.08025515532034215
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_161255.png",
+    "averageColorRGB": [
+      64.75145596590909,
+      67.80656220407197,
+      65.35359552556818
+    ],
+    "framenumber": 161255,
+    "palette": [
+      {
+        "#323638": "darkslategray"
+      },
+      {
+        "#aea39e": "darkgray"
+      },
+      {
+        "#cfd6e2": "gainsboro"
+      },
+      {
+        "#2c2f32": "darkslategray"
+      },
+      {
+        "#2d3334": "darkslategray"
+      },
+      {
+        "#f48604": "darkorange"
+      }
+    ],
+    "averageColorHSV": [
+      0.36618213970965857,
+      0.2599176826862374,
+      0.02304731377505412
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_162090.png",
+    "averageColorRGB": [
+      49.447270063920456,
+      57.37006392045455,
+      55.889673591382575
+    ],
+    "framenumber": 162090,
+    "palette": [
+      {
+        "#323638": "darkslategray"
+      },
+      {
+        "#000102": "black"
+      },
+      {
+        "#057c0f": "green"
+      },
+      {
+        "#14181a": "black"
+      },
+      {
+        "#2c3333": "darkslategray"
+      },
+      {
+        "#090d0f": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.4688579905043837,
+      0.20944575291053924,
+      0.07417142481474986
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_162925.png",
+    "averageColorRGB": [
+      46.609169330018936,
+      52.78811257102273,
+      53.056763435132574
+    ],
+    "framenumber": 162925,
+    "palette": [
+      {
+        "#323638": "darkslategray"
+      },
+      {
+        "#2d3334": "darkslategray"
+      },
+      {
+        "#057a0f": "green"
+      }
+    ],
+    "averageColorHSV": [
+      0.506944473130341,
+      0.19542339757872845,
+      0.06469205601382835
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_163760.png",
+    "averageColorRGB": [
+      66.5465243252841,
+      52.83309215198864,
+      42.228872218276514
+    ],
+    "framenumber": 163760,
+    "palette": [
+      {
+        "#3e2f1a": "darkslategray"
+      },
+      {
+        "#372405": "black"
+      },
+      {
+        "#4b3828": "darkolivegreen"
+      },
+      {
+        "#746c73": "dimgray"
+      },
+      {
+        "#43382c": "darkslategray"
+      },
+      {
+        "#2d1c06": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.07267847986207186,
+      0.21328509126188355,
+      0.2235583861766869
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_164595.png",
+    "averageColorRGB": [
+      121.62739405776514,
+      105.36287878787878,
+      98.66825432054924
+    ],
+    "framenumber": 164595,
+    "palette": [
+      {
+        "#938e9e": "lightslategray"
+      },
+      {
+        "#857882": "grey"
+      },
+      {
+        "#4f2d0f": "saddlebrown"
+      },
+      {
+        "#777381": "grey"
+      },
+      {
+        "#948a96": "lightslategray"
+      },
+      {
+        "#6e626d": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.04859810765236563,
+      0.4319522517221851,
+      0.10421966982202074
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_165430.png",
+    "averageColorRGB": [
+      46.82645004734849,
+      38.330968868371215,
+      26.429819187973486
+    ],
+    "framenumber": 165430,
+    "palette": [
+      {
+        "#311b08": "black"
+      },
+      {
+        "#2e1206": "black"
+      },
+      {
+        "#3d3d2c": "darkslategray"
+      },
+      {
+        "#252108": "black"
+      },
+      {
+        "#51544d": "darkslategray"
+      },
+      {
+        "#4b4c3f": "darkslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.0972476758739426,
+      0.14363974359867054,
+      0.27842846861139847
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_166265.png",
+    "averageColorRGB": [
+      45.94392015861742,
+      36.90988103693182,
+      25.025424656723484
+    ],
+    "framenumber": 166265,
+    "palette": [
+      {
+        "#4a4b3d": "darkslategray"
+      },
+      {
+        "#4e4f47": "darkslategray"
+      },
+      {
+        "#5b3f2e": "darkolivegreen"
+      },
+      {
+        "#373626": "darkslategray"
+      },
+      {
+        "#352807": "black"
+      },
+      {
+        "#36210b": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.09468858455214373,
+      0.1391555780692959,
+      0.294753961112688
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/otherguys/The Other Guys.mp4_167100.png",
+    "averageColorRGB": [
+      57.21501094933712,
+      61.14434037642045,
+      63.03870738636363
+    ],
+    "framenumber": 167100,
+    "palette": [
+      {
+        "#080a0c": "black"
+      },
+      {
+        "#242a2b": "darkslategray"
+      },
+      {
+        "#393a3d": "darkslategray"
+      },
+      {
+        "#202325": "black"
+      },
+      {
+        "#2a2e30": "darkslategray"
+      },
+      {
+        "#393d41": "darkslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.5542143359298679,
+      0.2357916045798054,
+      0.048428410510925377
+    ]
   }
 ]

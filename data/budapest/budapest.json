@@ -1,919 +1,3665 @@
 [
   {
-    "framenumber": 0,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_000.png",
+    "framenumber": 100,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_100.png",
+    "palette": [
+      {
+        "#121011": "black"
+      },
+      {
+        "#0c0c09": "black"
+      },
+      {
+        "#131310": "black"
+      },
+      {
+        "#12100e": "black"
+      },
+      {
+        "#141212": "black"
+      },
+      {
+        "#0f0f0c": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.11635859820703127,
+      0.9281074436951379,
+      0.0015833641618341688
+    ],
+    "averageColorRGB": [
+      236.6964253270349,
+      236.67890170784884,
+      236.63837095748545
+    ]
+  },
+  {
+    "framenumber": 818,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_818.png",
+    "palette": [
+      {
+        "#010000": "black"
+      }
+    ],
     "averageColorHSV": [
       0.0,
+      7.124943000455997e-08,
+      1.0
+    ],
+    "averageColorRGB": [
+      3.633720930232558e-05,
       0.0,
       0.0
-    ],
-    "palette": [
-      {
-        "#ffffff": "white"
-      }
-    ],
-    "averageColorRGB": [
-      0.0,
-      0.0,
-      0.0
     ]
   },
   {
-    "framenumber": 2874,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_2874.png",
-    "averageColorHSV": [
-      0.055385740940771845,
-      36.05835982921512,
-      -0.35959221597449276
-    ],
+    "framenumber": 1536,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_1536.png",
     "palette": [
       {
-        "#5d3725": "saddlebrown"
+        "#b58273": "rosybrown"
       },
       {
-        "#6d2a0c": "saddlebrown"
+        "#fcf5e5": "oldlace"
       },
       {
-        "#3c1f13": "black"
+        "#75473d": "sienna"
       },
       {
-        "#281a14": "black"
+        "#806057": "dimgray"
       },
       {
-        "#4d2811": "maroon"
+        "#cfb5b7": "silver"
       },
       {
-        "#4c220f": "maroon"
+        "#5b3f38": "darkolivegreen"
       }
     ],
+    "averageColorHSV": [
+      0.03771365838603254,
+      0.35362148829371864,
+      0.11776775056830423
+    ],
     "averageColorRGB": [
-      48.66507312863372,
-      31.830432412790696,
-      23.451646529796513
+      100.79300735828488,
+      84.35996661518895,
+      79.55395167151163
     ]
   },
   {
-    "framenumber": 5748,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_5748.png",
-    "averageColorHSV": [
-      0.026517721370920566,
-      63.6521353788154,
-      -0.24752661247825777
-    ],
+    "framenumber": 2254,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_2254.png",
     "palette": [
       {
-        "#977066": "gray"
+        "#b58c7f": "rosybrown"
       },
       {
-        "#6a504d": "dimgray"
+        "#f9d2cd": "pink"
       },
       {
-        "#5d413f": "darkolivegreen"
+        "#77615c": "dimgray"
       },
       {
-        "#bf9280": "rosybrown"
+        "#86665c": "dimgray"
       },
       {
-        "#4e3633": "darkslategrey"
+        "#fbdad2": "bisque"
       },
       {
-        "#79554d": "dimgray"
+        "#c9a098": "rosybrown"
       }
     ],
+    "averageColorHSV": [
+      0.030490693400420304,
+      0.3812059745318912,
+      0.1434312759921437
+    ],
     "averageColorRGB": [
-      79.16020621366279,
-      53.07892896075581,
-      48.14406454396802
+      111.1501226380814,
+      88.3663585574128,
+      83.26492437318313
     ]
   },
   {
-    "framenumber": 8622,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_8622.png",
-    "averageColorHSV": [
-      0.053433946743126993,
-      49.53147710755814,
-      -0.5084735729347318
-    ],
+    "framenumber": 2972,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_2972.png",
     "palette": [
       {
-        "#381810": "black"
+        "#663015": "saddlebrown"
       },
       {
-        "#4c2212": "maroon"
+        "#674433": "darkolivegreen"
       },
       {
-        "#421e14": "maroon"
+        "#ebd0c0": "wheat"
       },
       {
-        "#2f1611": "black"
+        "#2a130b": "black"
       },
       {
-        "#4d2a18": "saddlebrown"
+        "#21130d": "black"
       },
       {
-        "#6b311a": "saddlebrown"
+        "#502512": "maroon"
       }
     ],
+    "averageColorHSV": [
+      0.05534221316990443,
+      0.13088763430517555,
+      0.3463741453360317
+    ],
     "averageColorRGB": [
-      74.20845067223837,
-      40.677560637718024,
-      24.854503542877907
+      44.93705032703488,
+      29.49318223110465,
+      21.81564316860465
     ]
   },
   {
-    "framenumber": 11496,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_11496.png",
-    "averageColorHSV": [
-      0.04610036049063543,
-      47.688989825581395,
-      -0.23466015529842837
-    ],
+    "framenumber": 3690,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_3690.png",
     "palette": [
       {
-        "#643f2f": "darkolivegreen"
+        "#1e0f0b": "black"
       },
       {
-        "#3e3029": "darkslategrey"
+        "#28120d": "black"
       },
       {
-        "#815141": "sienna"
+        "#f3d7ca": "bisque"
       },
       {
-        "#976b5f": "gray"
+        "#040508": "black"
       },
       {
-        "#543529": "darkolivegreen"
+        "#442213": "maroon"
       },
       {
-        "#4d3325": "darkolivegreen"
+        "#6a371c": "saddlebrown"
       }
     ],
+    "averageColorHSV": [
+      0.04906062070028344,
+      0.11091227770177839,
+      0.30915713995719074
+    ],
     "averageColorRGB": [
-      58.64503542877907,
-      42.79387604469477,
-      36.73294422238372
+      37.02640806686046,
+      24.68655523255814,
+      19.538853561046512
     ]
   },
   {
-    "framenumber": 14370,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_14370.png",
-    "averageColorHSV": [
-      0.007818513865790485,
-      61.99714469022529,
-      -0.33773378548096905
-    ],
+    "framenumber": 4408,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_4408.png",
     "palette": [
       {
-        "#793f36": "saddlebrown"
+        "#704a51": "dimgray"
       },
       {
-        "#9d4f4e": "sienna"
+        "#513744": "darkslategrey"
       },
       {
-        "#8e4736": "sienna"
+        "#de8f8c": "darksalmon"
       },
       {
-        "#a3584e": "sienna"
+        "#855a5f": "dimgray"
       },
       {
-        "#673127": "saddlebrown"
+        "#ce8890": "rosybrown"
       },
       {
-        "#bb726b": "indianred"
+        "#5c3d42": "darkslategrey"
       }
     ],
+    "averageColorHSV": [
+      0.9830458234671066,
+      0.3535971454806487,
+      0.19770778900167846
+    ],
     "averageColorRGB": [
-      82.59794126998547,
-      43.32915947492732,
-      41.39634811046511
+      107.9940441042878,
+      72.34050009084302,
+      75.96735896620639
     ]
   },
   {
-    "framenumber": 17244,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_17244.png",
-    "averageColorHSV": [
-      0.9885605951818915,
-      88.51346691042878,
-      -0.22079413662708514
-    ],
+    "framenumber": 5126,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_5126.png",
     "palette": [
       {
-        "#c48185": "rosybrown"
+        "#b67673": "rosybrown"
       },
       {
-        "#e3abaf": "lightpink"
+        "#f3a868": "sandybrown"
       },
       {
-        "#38163d": "midnightblue"
+        "#985a59": "sienna"
       },
       {
-        "#ce9491": "rosybrown"
+        "#78494d": "dimgray"
       },
       {
-        "#b35044": "sienna"
+        "#bc766b": "indianred"
       },
       {
-        "#471e4e": "darkslategrey"
+        "#915a5f": "dimgray"
       }
     ],
+    "averageColorHSV": [
+      0.023605796015831643,
+      0.4081528318085955,
+      0.2573356760323203
+    ],
     "averageColorRGB": [
-      107.83592728015988,
-      69.19100654069767,
-      71.84345589571221
+      130.86220476017442,
+      84.88261378088663,
+      77.2957394622093
     ]
   },
   {
-    "framenumber": 20118,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_20118.png",
-    "averageColorHSV": [
-      0.016265212348507734,
-      64.59376816860464,
-      -0.37011292351496383
-    ],
+    "framenumber": 5844,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_5844.png",
     "palette": [
       {
-        "#61211b": "maroon"
+        "#964e2c": "sienna"
       },
       {
-        "#81423c": "sienna"
+        "#53220e": "maroon"
       },
       {
-        "#c2756d": "indianred"
+        "#a66c51": "indianred"
       },
       {
-        "#9f6053": "sienna"
+        "#7a4b34": "saddlebrown"
       },
       {
-        "#d7826a": "darksalmon"
+        "#52311f": "darkolivegreen"
       },
       {
-        "#9f524d": "sienna"
+        "#6c2b0f": "saddlebrown"
       }
     ],
+    "averageColorHSV": [
+      0.053083889187647136,
+      0.2194374122741393,
+      0.4382118192015059
+    ],
     "averageColorRGB": [
-      88.13064362281976,
-      45.650880041787794,
-      41.056892714389534
+      80.47735737645348,
+      47.05564702943314,
+      31.435722883357556
     ]
   },
   {
-    "framenumber": 22992,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_22992.png",
-    "averageColorHSV": [
-      0.0403390701992013,
-      64.3141845703125,
-      -0.40938709161441933
-    ],
+    "framenumber": 6562,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_6562.png",
     "palette": [
       {
-        "#b3674b": "indianred"
+        "#96522c": "sienna"
       },
       {
-        "#d08060": "peru"
+        "#d18e69": "darksalmon"
       },
       {
-        "#99533d": "sienna"
+        "#a4580e": "saddlebrown"
       },
       {
-        "#794131": "saddlebrown"
+        "#8a2a0a": "saddlebrown"
       },
       {
-        "#4f291c": "saddlebrown"
+        "#985d52": "sienna"
       },
       {
-        "#643424": "saddlebrown"
+        "#bb720c": "darkgoldenrod"
       }
     ],
+    "averageColorHSV": [
+      0.05920178346090669,
+      0.28051092966256275,
+      0.5447836336911075
+    ],
     "averageColorRGB": [
-      90.23419444949128,
-      50.94124386809593,
-      38.39417469113372
+      110.4988167696221,
+      60.24583484738372,
+      32.561757358284886
     ]
   },
   {
-    "framenumber": 25866,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_25866.png",
-    "averageColorHSV": [
-      0.9049223046448264,
-      71.25124341388081,
-      -0.1505258416752127
-    ],
+    "framenumber": 7280,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_7280.png",
     "palette": [
       {
-        "#965a62": "dimgray"
+        "#490f07": "maroon"
       },
       {
-        "#271118": "black"
+        "#753e31": "saddlebrown"
       },
       {
-        "#e5bccf": "thistle"
+        "#731d06": "maroon"
       },
       {
-        "#9e717d": "gray"
+        "#8e2c0a": "saddlebrown"
       },
       {
-        "#0e0d31": "black"
+        "#5d1308": "maroon"
       },
       {
-        "#aa8092": "rosybrown"
+        "#8e600a": "saddlebrown"
       }
     ],
+    "averageColorHSV": [
+      0.04487108467480091,
+      0.212071160813526,
+      0.5466972802024115
+    ],
     "averageColorRGB": [
-      81.82587095748546,
-      60.67661587027616,
-      72.74155046329942
+      83.64252134811046,
+      40.43279773800872,
+      24.51377066678779
     ]
   },
   {
-    "framenumber": 28740,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_28740.png",
-    "averageColorHSV": [
-      0.06426646142619237,
-      75.99449037063954,
-      -0.23457499330589146
-    ],
+    "framenumber": 7998,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_7998.png",
     "palette": [
       {
-        "#b4947b": "rosybrown"
+        "#964928": "sienna"
       },
       {
-        "#20121c": "black"
+        "#74361a": "saddlebrown"
       },
       {
-        "#b18e79": "rosybrown"
+        "#6e1f0f": "maroon"
       },
       {
-        "#693624": "saddlebrown"
+        "#5c1711": "maroon"
       },
       {
-        "#3f0f06": "black"
+        "#932f0e": "saddlebrown"
       },
       {
-        "#c6a688": "tan"
+        "#502a1d": "saddlebrown"
       }
     ],
+    "averageColorHSV": [
+      0.028741304706627446,
+      0.20396194701536138,
+      0.43694907777379755
+    ],
     "averageColorRGB": [
-      93.58632244731105,
-      71.96943586482558,
-      58.402658293968024
+      74.73614757449128,
+      37.122492732558136,
+      29.284445403343025
     ]
   },
   {
-    "framenumber": 31614,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_31614.png",
-    "averageColorHSV": [
-      0.03604165769702287,
-      30.747669308684593,
-      -0.30366363689718134
-    ],
+    "framenumber": 8716,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_8716.png",
     "palette": [
       {
-        "#554d4b": "darkslategrey"
+        "#97360a": "saddlebrown"
       },
       {
-        "#0b0b08": "black"
+        "#7e2609": "saddlebrown"
       },
       {
-        "#74321f": "saddlebrown"
+        "#aa4a2d": "sienna"
       },
       {
-        "#4b3f3c": "darkslategrey"
+        "#4b2f5a": "darkslategrey"
       },
       {
-        "#934e3d": "sienna"
+        "#5f180b": "maroon"
       },
       {
-        "#1c1017": "black"
+        "#e1b7b6": "lightpink"
       }
     ],
+    "averageColorHSV": [
+      0.03383947299201253,
+      0.27210162885103173,
+      0.4426917381243989
+    ],
     "averageColorRGB": [
-      39.78095476017442,
-      25.621278842659883,
-      21.71438385719477
+      100.10248682776162,
+      51.14253497456395,
+      38.669343886264535
     ]
   },
   {
-    "framenumber": 34488,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_34488.png",
-    "averageColorHSV": [
-      0.0093936237328169,
-      16.557747206577034,
-      -0.2401581385052356
-    ],
+    "framenumber": 9434,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_9434.png",
     "palette": [
       {
-        "#04050a": "black"
+        "#ab5b30": "sienna"
       },
       {
-        "#32170a": "black"
+        "#be754f": "peru"
       },
       {
-        "#301f1b": "black"
+        "#78220c": "maroon"
       },
       {
-        "#04070e": "black"
+        "#321913": "black"
       },
       {
-        "#04090f": "black"
+        "#7d371d": "saddlebrown"
       },
       {
-        "#0b0a12": "black"
+        "#985034": "sienna"
       }
     ],
+    "averageColorHSV": [
+      0.047614751030532865,
+      0.28151881074013907,
+      0.5224727341636618
+    ],
     "averageColorRGB": [
-      20.294066815043603,
-      13.242598564680232,
-      12.821427598110464
+      109.2942019440407,
+      55.710974972747096,
+      34.28039153343023
     ]
   },
   {
-    "framenumber": 37362,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_37362.png",
-    "averageColorHSV": [
-      0.05938176940626836,
-      18.034435183502907,
-      -0.40401167772855584
-    ],
+    "framenumber": 10152,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_10152.png",
     "palette": [
       {
-        "#5c433b": "darkolivegreen"
+        "#9e5b44": "sienna"
       },
       {
-        "#11100b": "black"
+        "#543427": "darkolivegreen"
       },
       {
-        "#252117": "black"
+        "#3e2921": "darkslategrey"
       },
       {
-        "#220d05": "black"
+        "#835140": "sienna"
       },
       {
-        "#0d0d0a": "black"
+        "#745448": "dimgray"
       },
       {
-        "#11110b": "black"
+        "#b97358": "indianred"
       }
     ],
+    "averageColorHSV": [
+      0.04816103655254541,
+      0.1628637995896033,
+      0.26748643050695897
+    ],
     "averageColorRGB": [
-      24.916545921148256,
-      16.056387400072673,
-      11.152324445857557
+      52.63905228015988,
+      36.84161178234012,
+      30.42148551053779
     ]
   },
   {
-    "framenumber": 40236,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_40236.png",
-    "averageColorHSV": [
-      0.03429061134812811,
-      28.127986464389533,
-      -0.31372030712444837
-    ],
+    "framenumber": 10870,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_10870.png",
     "palette": [
       {
-        "#432c24": "darkslategrey"
+        "#8e5947": "sienna"
       },
       {
-        "#2c1d19": "black"
+        "#361f17": "black"
       },
       {
-        "#33211b": "black"
+        "#583a2d": "darkolivegreen"
       },
       {
-        "#1b1510": "black"
+        "#b67964": "indianred"
       },
       {
-        "#935b52": "sienna"
+        "#6a4535": "darkolivegreen"
       },
       {
-        "#15100d": "black"
+        "#412d25": "darkslategrey"
       }
     ],
+    "averageColorHSV": [
+      0.04500380716377772,
+      0.19698345944482445,
+      0.23932552320959694
+    ],
     "averageColorRGB": [
-      36.638586709665695,
-      23.119390443313954,
-      19.61738621911337
+      62.25229037972384,
+      44.70143759084302,
+      38.20927393713663
     ]
   },
   {
-    "framenumber": 43110,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_43110.png",
-    "averageColorHSV": [
-      0.02886096548466895,
-      15.40331293150436,
-      -0.4352286657973129
-    ],
+    "framenumber": 11588,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_11588.png",
     "palette": [
       {
-        "#130705": "black"
+        "#be897e": "rosybrown"
       },
       {
-        "#412013": "maroon"
+        "#8a5947": "sienna"
       },
       {
-        "#0e0b0f": "black"
+        "#603824": "saddlebrown"
       },
       {
-        "#2d1106": "black"
+        "#a97364": "indianred"
       },
       {
-        "#1b0e0d": "black"
+        "#6e4230": "saddlebrown"
       },
       {
-        "#34180d": "black"
+        "#0a080d": "black"
       }
     ],
+    "averageColorHSV": [
+      0.03856724838411583,
+      0.2727953645120839,
+      0.32023423191064937
+    ],
     "averageColorRGB": [
-      21.672047601744186,
-      11.305639080668605,
-      9.134578261264535
+      91.83921352652617,
+      57.59609375,
+      47.28642237463663
     ]
   },
   {
-    "framenumber": 45984,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_45984.png",
-    "averageColorHSV": [
-      0.04450482758976543,
-      20.17326319494913,
-      -0.22190533850308938
-    ],
+    "framenumber": 12306,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_12306.png",
     "palette": [
       {
-        "#0a0806": "black"
+        "#8c2c0a": "saddlebrown"
+      },
+      {
+        "#5e1d05": "maroon"
+      },
+      {
+        "#743e1b": "saddlebrown"
+      },
+      {
+        "#8b4624": "saddlebrown"
+      },
+      {
+        "#46200d": "maroon"
+      },
+      {
+        "#5e3017": "saddlebrown"
+      }
+    ],
+    "averageColorHSV": [
+      0.04986105893884213,
+      0.20865809714147288,
+      0.5661496602530298
+    ],
+    "averageColorRGB": [
+      83.33140102652617,
+      41.108155432412794,
+      23.084228515625
+    ]
+  },
+  {
+    "framenumber": 13024,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_13024.png",
+    "palette": [
+      {
+        "#633b21": "saddlebrown"
+      },
+      {
+        "#52250f": "maroon"
+      },
+      {
+        "#af4812": "sienna"
+      },
+      {
+        "#a85c2f": "sienna"
+      },
+      {
+        "#782506": "maroon"
+      },
+      {
+        "#7d431e": "saddlebrown"
+      }
+    ],
+    "averageColorHSV": [
+      0.059122925102946956,
+      0.21828265940278727,
+      0.5833414910088849
+    ],
+    "averageColorRGB": [
+      88.13207780704941,
+      46.228734783793605,
+      23.192078488372093
+    ]
+  },
+  {
+    "framenumber": 13742,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_13742.png",
+    "palette": [
+      {
+        "#703e40": "saddlebrown"
+      },
+      {
+        "#6f3a37": "saddlebrown"
+      },
+      {
+        "#9e5f61": "indianred"
+      },
+      {
+        "#8e3f46": "sienna"
+      },
+      {
+        "#f3c1bb": "lightpink"
+      },
+      {
+        "#0d0b13": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.9847156510979937,
+      0.2059066111455483,
+      0.2537612934176467
+    ],
+    "averageColorRGB": [
+      65.83022347383721,
+      39.18214821039244,
+      41.625939089752904
+    ]
+  },
+  {
+    "framenumber": 14460,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_14460.png",
+    "palette": [
+      {
+        "#b4685a": "indianred"
+      },
+      {
+        "#9e5044": "sienna"
+      },
+      {
+        "#be756f": "indianred"
+      },
+      {
+        "#da8776": "darksalmon"
+      },
+      {
+        "#d7a09b": "tan"
+      },
+      {
+        "#110d19": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.00452803814193566,
+      0.27031652336625056,
+      0.26085666387276973
+    ],
+    "averageColorRGB": [
+      86.91174940952035,
+      51.92670330668604,
+      50.94967750726744
+    ]
+  },
+  {
+    "framenumber": 15178,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_15178.png",
+    "palette": [
+      {
+        "#fad6ce": "bisque"
       },
       {
         "#06050a": "black"
       },
       {
-        "#745747": "dimgray"
+        "#45211d": "darkslategrey"
       },
       {
-        "#b1897b": "rosybrown"
+        "#bd8374": "rosybrown"
       },
       {
-        "#09070f": "black"
+        "#ddb1ae": "tan"
       },
       {
-        "#453527": "darkslategrey"
+        "#c26e64": "indianred"
       }
     ],
+    "averageColorHSV": [
+      0.023450713456862615,
+      0.2571238675793719,
+      0.2500309639367274
+    ],
     "averageColorRGB": [
-      24.42791265443314,
-      18.190843023255812,
-      15.918613735465117
+      81.96026299055232,
+      53.78623046875,
+      49.17290947492732
     ]
   },
   {
-    "framenumber": 48858,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_48858.png",
-    "averageColorHSV": [
-      0.03321306655165882,
-      22.603913063226745,
-      -0.31516577688516384
-    ],
+    "framenumber": 15896,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_15896.png",
     "palette": [
       {
-        "#04050a": "black"
+        "#83271d": "saddlebrown"
       },
       {
-        "#040306": "black"
+        "#650209": "maroon"
       },
       {
-        "#34170a": "black"
+        "#561b33": "darkslategrey"
       },
       {
-        "#1b0c05": "black"
+        "#06050a": "black"
       },
       {
-        "#13080b": "black"
+        "#af1f0a": "firebrick"
       },
       {
-        "#180b0b": "black"
+        "#350e23": "black"
       }
     ],
+    "averageColorHSV": [
+      0.006156056000150956,
+      0.19318466471799478,
+      0.6912287909825804
+    ],
     "averageColorRGB": [
-      29.41272710755814,
-      18.508798146802324,
-      15.795099018895348
+      83.3134640715843,
+      17.726180959302326,
+      15.210714934593023
     ]
   },
   {
-    "framenumber": 51732,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_51732.png",
-    "averageColorHSV": [
-      0.7472631807581785,
-      99.54672567678053,
-      -0.004429764299749139
-    ],
+    "framenumber": 16614,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_16614.png",
     "palette": [
       {
-        "#273648": "darkslategrey"
+        "#ac6b52": "indianred"
       },
       {
-        "#7b808c": "slategrey"
+        "#b77969": "indianred"
       },
       {
-        "#86615f": "dimgray"
+        "#c8877c": "rosybrown"
       },
       {
-        "#1f2c3c": "darkslategrey"
+        "#8d5743": "sienna"
       },
       {
-        "#e8e4d2": "gainsboro"
+        "#b3615a": "indianred"
       },
       {
-        "#344459": "darkslategrey"
+        "#e7b1ac": "lightpink"
       }
     ],
+    "averageColorHSV": [
+      0.021951672429569673,
+      0.33127440738286595,
+      0.27955303713202334
+    ],
     "averageColorRGB": [
-      99.53238894440406,
-      99.11018690952035,
-      99.9832644440407
+      108.0902093931686,
+      67.08046534338662,
+      60.85973837209302
     ]
   },
   {
-    "framenumber": 54606,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_54606.png",
-    "averageColorHSV": [
-      0.05039726536166902,
-      20.335348155886628,
-      -0.4275749301966627
-    ],
+    "framenumber": 17332,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_17332.png",
     "palette": [
       {
-        "#0f0a09": "black"
+        "#e3abaf": "lightpink"
       },
       {
-        "#0d080a": "black"
+        "#35143e": "midnightblue"
+      },
+      {
+        "#ba5b4f": "indianred"
+      },
+      {
+        "#431c4a": "darkslategrey"
+      },
+      {
+        "#b97e83": "rosybrown"
+      },
+      {
+        "#ce9291": "rosybrown"
+      }
+    ],
+    "averageColorHSV": [
+      0.9868714852759719,
+      0.33880066502436734,
+      0.21677837714955037
+    ],
+    "averageColorRGB": [
+      105.12255745821221,
+      67.66578170421512,
+      70.61629269622092
+    ]
+  },
+  {
+    "framenumber": 18050,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_18050.png",
+    "palette": [
+      {
+        "#c77f82": "rosybrown"
+      },
+      {
+        "#e19f9c": "tan"
+      },
+      {
+        "#e4a399": "tan"
+      },
+      {
+        "#713929": "saddlebrown"
+      },
+      {
+        "#cf8577": "darksalmon"
+      },
+      {
+        "#9c645f": "indianred"
+      }
+    ],
+    "averageColorHSV": [
+      0.011497384919641288,
+      0.41596683917934907,
+      0.2326414199156501
+    ],
+    "averageColorRGB": [
+      130.7481785973837,
+      84.79951058321221,
+      81.3949093840843
+    ]
+  },
+  {
+    "framenumber": 18768,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_18768.png",
+    "palette": [
+      {
+        "#6a2c20": "saddlebrown"
+      },
+      {
+        "#0d070c": "black"
+      },
+      {
+        "#8e2c26": "brown"
+      },
+      {
+        "#864231": "saddlebrown"
+      },
+      {
+        "#ab6146": "sienna"
+      },
+      {
+        "#c07665": "indianred"
+      }
+    ],
+    "averageColorHSV": [
+      0.019472602570822135,
+      0.21558446352741678,
+      0.3691149634028202
+    ],
+    "averageColorRGB": [
+      75.26577829760174,
+      39.42389398619186,
+      34.682298101380816
+    ]
+  },
+  {
+    "framenumber": 19486,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_19486.png",
+    "palette": [
+      {
+        "#1b0815": "black"
+      },
+      {
+        "#9b1106": "darkred"
+      },
+      {
+        "#210918": "black"
+      },
+      {
+        "#130611": "black"
+      },
+      {
+        "#7f0005": "maroon"
+      },
+      {
+        "#0e060f": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.0008875519363198044,
+      0.1788155873268639,
+      0.7007762131522011
+    ],
+    "averageColorRGB": [
+      77.55195085392442,
+      13.98432844295058,
+      13.643998682776163
+    ]
+  },
+  {
+    "framenumber": 20204,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_20204.png",
+    "palette": [
+      {
+        "#a8625c": "indianred"
+      },
+      {
+        "#0d0b13": "black"
+      },
+      {
+        "#140c14": "black"
+      },
+      {
+        "#0e0a13": "black"
+      },
+      {
+        "#150d1a": "black"
+      },
+      {
+        "#100c17": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.961284602094975,
+      0.12676055560305516,
+      0.27406031303015455
+    ],
+    "averageColorRGB": [
+      41.18265125363372,
+      23.465232103924418,
+      27.580853697311046
+    ]
+  },
+  {
+    "framenumber": 20922,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_20922.png",
+    "palette": [
+      {
+        "#75311b": "saddlebrown"
+      },
+      {
+        "#551d13": "maroon"
+      },
+      {
+        "#984b30": "sienna"
+      },
+      {
+        "#e2aa95": "burlywood"
+      },
+      {
+        "#bc7861": "indianred"
+      },
+      {
+        "#6c1b10": "maroon"
+      }
+    ],
+    "averageColorHSV": [
+      0.023606325735339773,
+      0.20697349343080257,
+      0.38146442784565726
+    ],
+    "averageColorRGB": [
+      72.91126226380814,
+      38.34841933139535,
+      32.645219385901164
+    ]
+  },
+  {
+    "framenumber": 21640,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_21640.png",
+    "palette": [
+      {
+        "#b05f37": "sienna"
+      },
+      {
+        "#0d050d": "black"
+      },
+      {
+        "#130511": "black"
+      },
+      {
+        "#1b0814": "black"
+      },
+      {
+        "#914422": "saddlebrown"
+      },
+      {
+        "#d88b62": "darksalmon"
+      }
+    ],
+    "averageColorHSV": [
+      0.04845009429773175,
+      0.2868454114476459,
+      0.41483369145039817
+    ],
+    "averageColorRGB": [
+      103.4888308502907,
+      60.44392941497093,
+      42.80232898800872
+    ]
+  },
+  {
+    "framenumber": 22358,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_22358.png",
+    "palette": [
+      {
+        "#984a35": "sienna"
+      },
+      {
+        "#be6b50": "indianred"
+      },
+      {
+        "#663422": "saddlebrown"
+      },
+      {
+        "#8d2e0b": "saddlebrown"
+      },
+      {
+        "#7b4128": "saddlebrown"
+      },
+      {
+        "#472112": "maroon"
+      }
+    ],
+    "averageColorHSV": [
+      0.044893591136891196,
+      0.2838987354116792,
+      0.487858905171808
+    ],
+    "averageColorRGB": [
+      107.71232172056686,
+      56.10273323946221,
+      37.07603333938953
+    ]
+  },
+  {
+    "framenumber": 23076,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_23076.png",
+    "palette": [
+      {
+        "#d98a67": "darksalmon"
+      },
+      {
+        "#904f3a": "sienna"
+      },
+      {
+        "#ab6146": "sienna"
+      },
+      {
+        "#522a1c": "saddlebrown"
+      },
+      {
+        "#3f1f15": "black"
+      },
+      {
+        "#743d2d": "saddlebrown"
+      }
+    ],
+    "averageColorHSV": [
+      0.039910418826797654,
+      0.24198814632139193,
+      0.4083871330144526
+    ],
+    "averageColorRGB": [
+      86.9073128633721,
+      48.575713117732555,
+      36.50664176053779
+    ]
+  },
+  {
+    "framenumber": 23794,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_23794.png",
+    "palette": [
+      {
+        "#5a3023": "saddlebrown"
+      },
+      {
+        "#44241a": "darkslategrey"
+      },
+      {
+        "#613a31": "darkolivegreen"
+      },
+      {
+        "#cf7f65": "indianred"
+      },
+      {
+        "#a7634f": "sienna"
+      },
+      {
+        "#844635": "sienna"
+      }
+    ],
+    "averageColorHSV": [
+      0.03695538206124458,
+      0.21882184837052554,
+      0.3848071955471843
+    ],
+    "averageColorRGB": [
+      77.27164789244186,
+      43.84960029069767,
+      34.327494776526166
+    ]
+  },
+  {
+    "framenumber": 24512,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_24512.png",
+    "palette": [
+      {
+        "#974f57": "sienna"
+      },
+      {
+        "#b95056": "indianred"
+      },
+      {
+        "#7d282f": "brown"
+      },
+      {
+        "#bb7a7d": "rosybrown"
+      },
+      {
+        "#c2939b": "rosybrown"
+      },
+      {
+        "#a0383f": "brown"
+      }
+    ],
+    "averageColorHSV": [
+      0.9861096685314009,
+      0.28702565246665523,
+      0.2591599347635719
+    ],
+    "averageColorRGB": [
+      92.15985646802325,
+      54.22322628997093,
+      57.38494049781977
+    ]
+  },
+  {
+    "framenumber": 25230,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_25230.png",
+    "palette": [
+      {
+        "#6a5568": "dimgray"
+      },
+      {
+        "#313345": "darkslategrey"
+      },
+      {
+        "#453f52": "darkslategrey"
+      },
+      {
+        "#60373f": "darkolivegreen"
+      },
+      {
+        "#252839": "darkslategrey"
+      },
+      {
+        "#19212e": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.8368680174378872,
+      0.174913877251482,
+      0.1185474406059999
+    ],
+    "averageColorRGB": [
+      49.890614780159886,
+      39.31546261809593,
+      49.66633584665698
+    ]
+  },
+  {
+    "framenumber": 25948,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_25948.png",
+    "palette": [
+      {
+        "#1c1242": "midnightblue"
+      },
+      {
+        "#aa8aa3": "rosybrown"
+      },
+      {
+        "#fadcdd": "mistyrose"
+      },
+      {
+        "#cca4b9": "silver"
+      },
+      {
+        "#f8ceda": "pink"
+      },
+      {
+        "#a77a8b": "rosybrown"
+      }
+    ],
+    "averageColorHSV": [
+      0.8995840246496316,
+      0.37843128794032144,
+      0.12241288396292097
+    ],
+    "averageColorRGB": [
+      108.31281908611919,
+      84.68713776344477,
+      98.92151276344477
+    ]
+  },
+  {
+    "framenumber": 26666,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_26666.png",
+    "palette": [
+      {
+        "#ce9897": "rosybrown"
+      },
+      {
+        "#562224": "maroon"
+      },
+      {
+        "#6a3e43": "darkolivegreen"
+      },
+      {
+        "#884c4d": "sienna"
+      },
+      {
+        "#703638": "saddlebrown"
+      },
+      {
+        "#a96464": "indianred"
+      }
+    ],
+    "averageColorHSV": [
+      0.006393852100399555,
+      0.44656919744642043,
+      0.23266437121630817
+    ],
+    "averageColorRGB": [
+      140.36983443859012,
+      89.41329374091569,
+      87.3804562590843
+    ]
+  },
+  {
+    "framenumber": 27384,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_27384.png",
+    "palette": [
+      {
+        "#190d18": "black"
+      },
+      {
+        "#28150a": "black"
+      },
+      {
+        "#381709": "black"
+      },
+      {
+        "#200f1e": "black"
+      },
+      {
+        "#b28269": "rosybrown"
+      },
+      {
+        "#5c2815": "saddlebrown"
+      }
+    ],
+    "averageColorHSV": [
+      0.03230772480866967,
+      0.1281811824021033,
+      0.35246587723201533
+    ],
+    "averageColorRGB": [
+      44.20697220203488,
+      25.63194949127907,
+      21.16543082303779
+    ]
+  },
+  {
+    "framenumber": 28102,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_28102.png",
+    "palette": [
+      {
+        "#672d0f": "saddlebrown"
+      },
+      {
+        "#100b08": "black"
+      },
+      {
+        "#190d0b": "black"
+      },
+      {
+        "#21100b": "black"
+      },
+      {
+        "#2e172f": "darkslategrey"
+      },
+      {
+        "#7a381a": "saddlebrown"
+      }
+    ],
+    "averageColorHSV": [
+      0.03285400237868128,
+      0.10442177525079799,
+      0.43004712978918597
+    ],
+    "averageColorRGB": [
+      38.078655296148256,
+      19.691024709302326,
+      15.176450081758722
+    ]
+  },
+  {
+    "framenumber": 28820,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_28820.png",
+    "palette": [
+      {
+        "#401207": "black"
+      },
+      {
+        "#af9079": "rosybrown"
+      },
+      {
+        "#957864": "grey"
+      },
+      {
+        "#4f1709": "maroon"
+      },
+      {
+        "#c7a788": "tan"
+      },
+      {
+        "#7e614e": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.05581221349477372,
+      0.2262377651369414,
+      0.2554944228411729
+    ],
+    "averageColorRGB": [
+      72.43026435319767,
+      52.8228152252907,
+      42.950995866642444
+    ]
+  },
+  {
+    "framenumber": 29538,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_29538.png",
+    "palette": [
+      {
+        "#4b220c": "maroon"
+      },
+      {
+        "#5a280f": "saddlebrown"
+      },
+      {
+        "#110b06": "black"
+      },
+      {
+        "#1d0d04": "black"
+      },
+      {
+        "#b9917c": "rosybrown"
+      },
+      {
+        "#1d101d": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.04146290495609998,
+      0.10722031926869585,
+      0.4347630163597593
+    ],
+    "averageColorRGB": [
+      39.22811591569767,
+      21.368648937136626,
+      15.45424691133721
+    ]
+  },
+  {
+    "framenumber": 30256,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_30256.png",
+    "palette": [
+      {
+        "#2b1b15": "black"
+      },
+      {
+        "#9f5543": "sienna"
+      },
+      {
+        "#7e3a2c": "saddlebrown"
+      },
+      {
+        "#6f594f": "dimgray"
+      },
+      {
+        "#5f4840": "darkolivegreen"
+      },
+      {
+        "#20120c": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.038574985044058895,
+      0.15426342339261284,
+      0.2852398229565317
+    ],
+    "averageColorRGB": [
+      50.55770121729651,
+      33.31062522710756,
+      28.116644712936047
+    ]
+  },
+  {
+    "framenumber": 30974,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_30974.png",
+    "palette": [
+      {
+        "#0e0c08": "black"
+      },
+      {
+        "#9f543d": "sienna"
+      },
+      {
+        "#624331": "darkolivegreen"
+      },
+      {
+        "#aa7957": "peru"
+      },
+      {
+        "#79543b": "sienna"
+      },
+      {
+        "#803a27": "saddlebrown"
+      }
+    ],
+    "averageColorHSV": [
+      0.05367390174254386,
+      0.1728424091747891,
+      0.3112505191258798
+    ],
+    "averageColorRGB": [
+      57.793123183139535,
+      39.19228742732558,
+      30.356505496002907
+    ]
+  },
+  {
+    "framenumber": 31692,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_31692.png",
+    "palette": [
+      {
+        "#2c1910": "black"
+      },
+      {
+        "#5a423a": "darkolivegreen"
+      },
+      {
+        "#2a1528": "black"
+      },
+      {
+        "#73554a": "dimgray"
+      },
+      {
+        "#25140d": "black"
+      },
+      {
+        "#473732": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.015582174131228551,
+      0.1272893310212893,
+      0.24024417499421322
+    ],
+    "averageColorRGB": [
+      40.25681209120639,
+      26.118870367005815,
+      24.660746729651162
+    ]
+  },
+  {
+    "framenumber": 32410,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_32410.png",
+    "palette": [
+      {
+        "#100b08": "black"
+      },
+      {
+        "#2e100a": "black"
+      },
+      {
+        "#482412": "maroon"
+      },
+      {
+        "#3c1c0e": "black"
+      },
+      {
+        "#22120c": "black"
+      },
+      {
+        "#221321": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.036085502305429694,
+      0.08540962855890903,
+      0.4261649309787696
+    ],
+    "averageColorRGB": [
+      31.061095339752907,
+      16.51700694949128,
+      12.497815225290697
+    ]
+  },
+  {
+    "framenumber": 33128,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_33128.png",
+    "palette": [
+      {
+        "#733927": "saddlebrown"
+      },
+      {
+        "#7a2219": "saddlebrown"
+      },
+      {
+        "#4f170e": "maroon"
+      },
+      {
+        "#9a523e": "sienna"
+      },
+      {
+        "#3b190d": "black"
+      },
+      {
+        "#30170e": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.032770717320251795,
+      0.13909953634433425,
+      0.3958200429835004
+    ],
+    "averageColorRGB": [
+      49.51026980377907,
+      26.95166015625,
+      21.430493731831394
+    ]
+  },
+  {
+    "framenumber": 33846,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_33846.png",
+    "palette": [
+      {
+        "#090705": "black"
+      },
+      {
+        "#060b16": "black"
+      },
+      {
+        "#0a070b": "black"
+      },
+      {
+        "#09080b": "black"
       },
       {
         "#0a0809": "black"
       },
       {
-        "#160b09": "black"
-      },
-      {
-        "#833212": "saddlebrown"
-      },
-      {
-        "#672e14": "saddlebrown"
+        "#0c0b0f": "black"
       }
     ],
+    "averageColorHSV": [
+      0.7371968647266414,
+      0.05055568989041838,
+      0.10148919476638117
+    ],
     "averageColorRGB": [
-      28.602658293968023,
-      17.067835892078488,
-      12.068038017805232
+      12.690686319040697,
+      11.58333257630814,
+      14.200069267805233
     ]
   },
   {
-    "framenumber": 57480,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_57480.png",
-    "averageColorHSV": [
-      0.048105552565174646,
-      31.557350336119185,
-      -0.2132577357323154
-    ],
+    "framenumber": 34564,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_34564.png",
     "palette": [
       {
-        "#523425": "darkolivegreen"
+        "#030b13": "black"
       },
       {
-        "#0c0c0d": "black"
+        "#2f1912": "black"
       },
       {
-        "#6c4839": "darkolivegreen"
+        "#221516": "black"
       },
       {
-        "#ac8c7b": "rosybrown"
+        "#391e18": "black"
       },
       {
-        "#9b6e59": "gray"
+        "#412419": "darkslategrey"
       },
       {
-        "#1e1615": "black"
+        "#4e291a": "saddlebrown"
       }
     ],
+    "averageColorHSV": [
+      0.03348161647737058,
+      0.09385133450182398,
+      0.28967145635446107
+    ],
     "averageColorRGB": [
-      38.07394167877907,
-      28.802569722020348,
-      25.040758993459303
+      30.86453374818314,
+      19.78495980196221,
+      16.999646847747094
     ]
   },
   {
-    "framenumber": 60354,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_60354.png",
-    "averageColorHSV": [
-      0.2354565772040332,
-      91.42732785247094,
-      -0.012750797329811296
-    ],
+    "framenumber": 35282,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_35282.png",
     "palette": [
       {
-        "#84847d": "gray"
+        "#2d1d11": "black"
       },
       {
-        "#7d7972": "gray"
+        "#4e362b": "darkolivegreen"
       },
       {
-        "#8a9393": "lightslategray"
+        "#331715": "black"
       },
       {
-        "#6f6a65": "dimgray"
+        "#020a0f": "black"
       },
       {
-        "#454d4f": "darkslategrey"
+        "#020a11": "black"
       },
       {
-        "#d6d5ca": "lightgray"
+        "#735243": "darkolivegreen"
       }
     ],
+    "averageColorHSV": [
+      0.033756700542018736,
+      0.10858302250769494,
+      0.1875970190148349
+    ],
     "averageColorRGB": [
-      91.62855423328489,
-      92.58034838299419,
-      90.27430732194767
+      32.8829828306686,
+      24.59847270167151,
+      22.494358648255815
     ]
   },
   {
-    "framenumber": 63228,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_63228.png",
-    "averageColorHSV": [
-      0.9982912092530526,
-      54.093619980922966,
-      -0.08570530359122971
-    ],
+    "framenumber": 36000,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_36000.png",
     "palette": [
       {
-        "#283038": "darkslategrey"
+        "#48352a": "darkslategrey"
       },
       {
-        "#613636": "darkolivegreen"
+        "#3c2a20": "darkslategrey"
       },
       {
-        "#bb867d": "rosybrown"
+        "#0b0b13": "black"
       },
       {
-        "#0f1925": "black"
+        "#07080d": "black"
       },
       {
-        "#8f5957": "dimgray"
+        "#070a11": "black"
       },
       {
-        "#d1a194": "tan"
+        "#57331f": "saddlebrown"
       }
     ],
+    "averageColorHSV": [
+      0.04076376068343159,
+      0.08781712675986092,
+      0.21072777331400647
+    ],
     "averageColorRGB": [
-      58.644024800145345,
-      49.54321516170058,
-      49.6365234375
+      27.112271756904068,
+      19.982786382630813,
+      17.674462890625
     ]
   },
   {
-    "framenumber": 66102,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_66102.png",
-    "averageColorHSV": [
-      0.041205403976066625,
-      34.034619140625,
-      -0.4174127266328051
-    ],
+    "framenumber": 36718,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_36718.png",
     "palette": [
       {
-        "#2d1e16": "black"
+        "#0f0910": "black"
       },
       {
-        "#5c3526": "saddlebrown"
+        "#060405": "black"
       },
+      {
+        "#0c090e": "black"
+      },
+      {
+        "#130c13": "black"
+      },
+      {
+        "#0c0c09": "black"
+      },
+      {
+        "#170b16": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.015911674676972704,
+      0.06096616453630871,
+      0.17689891070303854
+    ],
+    "averageColorRGB": [
+      18.296508221293603,
+      13.321346974927325,
+      12.796235692223837
+    ]
+  },
+  {
+    "framenumber": 37436,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_37436.png",
+    "palette": [
+      {
+        "#3b2719": "darkslategrey"
+      },
+      {
+        "#441d0b": "maroon"
+      },
+      {
+        "#26140d": "black"
+      },
+      {
+        "#51321f": "darkolivegreen"
+      },
+      {
+        "#371e0f": "black"
+      },
+      {
+        "#2d1911": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.0616195767572155,
+      0.11289962246708275,
+      0.4654708997031744
+    ],
+    "averageColorRGB": [
+      42.190033384811045,
+      25.297667605377907,
+      15.388774073401162
+    ]
+  },
+  {
+    "framenumber": 38154,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_38154.png",
+    "palette": [
+      {
+        "#411d12": "maroon"
+      },
+      {
+        "#894418": "saddlebrown"
+      },
+      {
+        "#422a1d": "darkslategrey"
+      },
+      {
+        "#341911": "black"
+      },
+      {
+        "#5e3d2a": "darkolivegreen"
+      },
+      {
+        "#562814": "saddlebrown"
+      }
+    ],
+    "averageColorHSV": [
+      0.052233683858677625,
+      0.09696859057940037,
+      0.3794673730115166
+    ],
+    "averageColorRGB": [
+      34.11007676235465,
+      21.225262309229652,
+      15.343904433139535
+    ]
+  },
+  {
+    "framenumber": 38872,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_38872.png",
+    "palette": [
+      {
+        "#251917": "black"
+      },
+      {
+        "#553627": "darkolivegreen"
+      },
+      {
+        "#3c2a21": "darkslategrey"
+      },
+      {
+        "#29110c": "black"
+      },
+      {
+        "#1b0b09": "black"
+      },
+      {
+        "#3e1d0e": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.04224028769690521,
+      0.09318281445935933,
+      0.34437498563350977
+    ],
+    "averageColorRGB": [
+      31.944524436773257,
+      19.726490961119186,
+      15.5787109375
+    ]
+  },
+  {
+    "framenumber": 39590,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_39590.png",
+    "palette": [
+      {
+        "#3f261a": "darkslategrey"
+      },
+      {
+        "#573727": "darkolivegreen"
+      },
+      {
+        "#1e1314": "black"
+      },
+      {
+        "#33160c": "black"
+      },
+      {
+        "#3f1d0e": "black"
+      },
+      {
+        "#130d0d": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.038430652012579614,
+      0.09149387789272687,
+      0.33997908514088127
+    ],
+    "averageColorRGB": [
+      31.26297011264535,
+      19.05690520530523,
+      15.398907612645349
+    ]
+  },
+  {
+    "framenumber": 40308,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_40308.png",
+    "palette": [
+      {
+        "#0b0d0d": "black"
+      },
+      {
+        "#130b13": "black"
+      },
+      {
+        "#0a0b0e": "black"
+      },
+      {
+        "#0c0b0e": "black"
+      },
+      {
+        "#dea081": "darksalmon"
+      },
+      {
+        "#100913": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.019058495023660676,
+      0.09670447784855221,
+      0.23712183129816924
+    ],
+    "averageColorRGB": [
+      30.506981286337208,
+      20.149600290697673,
+      18.81230241642442
+    ]
+  },
+  {
+    "framenumber": 41026,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_41026.png",
+    "palette": [
+      {
+        "#271c12": "black"
+      },
+      {
+        "#482d1b": "darkolivegreen"
+      },
+      {
+        "#22170f": "black"
+      },
+      {
+        "#05090b": "black"
+      },
+      {
+        "#07080b": "black"
+      },
+      {
+        "#2b1d14": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.058846374257454204,
+      0.0825563783380358,
+      0.3406529526245967
+    ],
+    "averageColorRGB": [
+      28.22326035610465,
+      18.94461187318314,
+      13.880492596293605
+    ]
+  },
+  {
+    "framenumber": 41744,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_41744.png",
+    "palette": [
+      {
+        "#0a0b0e": "black"
+      },
+      {
+        "#563a25": "darkolivegreen"
+      },
+      {
+        "#07080b": "black"
+      },
+      {
+        "#c36844": "indianred"
+      },
+      {
+        "#3f2a1b": "darkslategrey"
+      },
+      {
+        "#672d16": "saddlebrown"
+      }
+    ],
+    "averageColorHSV": [
+      0.05178508741981458,
+      0.11197170551541838,
+      0.320628746598516
+    ],
+    "averageColorRGB": [
+      37.707628542877906,
+      25.086953806322676,
+      19.397941269985466
+    ]
+  },
+  {
+    "framenumber": 42462,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_42462.png",
+    "palette": [
+      {
+        "#09151c": "black"
+      },
+      {
+        "#695d55": "dimgray"
+      },
+      {
+        "#786152": "dimgray"
+      },
+      {
+        "#333637": "darkslategrey"
+      },
+      {
+        "#050f15": "black"
+      },
+      {
+        "#0d1e1f": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.490564098316614,
+      0.13778908342952007,
+      0.025362563275923674
+    ],
+    "averageColorRGB": [
+      34.24507176598837,
+      36.02736078306686,
+      35.92645575944768
+    ]
+  },
+  {
+    "framenumber": 43180,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_43180.png",
+    "palette": [
+      {
+        "#3a1b11": "black"
+      },
+      {
+        "#130705": "black"
+      },
+      {
+        "#492313": "maroon"
+      },
+      {
+        "#2e1106": "black"
+      },
+      {
+        "#0e0b0f": "black"
+      },
+      {
+        "#140d11": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.02625971330625489,
+      0.060975141964489284,
+      0.3949342474311084
+    ],
+    "averageColorRGB": [
+      21.68936001090116,
+      11.342998273982557,
+      9.407962390988372
+    ]
+  },
+  {
+    "framenumber": 43898,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_43898.png",
+    "palette": [
+      {
+        "#100a0d": "black"
+      },
+      {
+        "#0c0b0e": "black"
+      },
+      {
+        "#3c1e13": "black"
+      },
+      {
+        "#090a0d": "black"
+      },
+      {
+        "#4e2512": "maroon"
+      },
+      {
+        "#1f0d05": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.03307462978188406,
+      0.08969760405979252,
+      0.30710943042075467
+    ],
+    "averageColorRGB": [
+      29.89736895893895,
+      18.63639398619186,
+      15.848409111555233
+    ]
+  },
+  {
+    "framenumber": 44616,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_44616.png",
+    "palette": [
+      {
+        "#3f1e0d": "black"
+      },
+      {
+        "#30190f": "black"
+      },
+      {
+        "#2a130b": "black"
+      },
+      {
+        "#09080b": "black"
+      },
+      {
+        "#512812": "maroon"
+      },
+      {
+        "#8f4d24": "saddlebrown"
+      }
+    ],
+    "averageColorHSV": [
+      0.04921474894631719,
+      0.08632991068883948,
+      0.45000358754415
+    ],
+    "averageColorRGB": [
+      31.920563453851745,
+      17.95820426053779,
+      12.107690997456395
+    ]
+  },
+  {
+    "framenumber": 45334,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_45334.png",
+    "palette": [
+      {
+        "#07080d": "black"
+      },
+      {
+        "#090a0f": "black"
+      },
+      {
+        "#33180c": "black"
+      },
+      {
+        "#05090d": "black"
+      },
+      {
+        "#461e13": "maroon"
+      },
+      {
+        "#6f4d38": "darkolivegreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.03398376102074565,
+      0.10259631364355334,
+      0.2523728256038748
+    ],
+    "averageColorRGB": [
+      32.76465297965116,
+      22.2520382903343,
+      19.559466978561048
+    ]
+  },
+  {
+    "framenumber": 46052,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_46052.png",
+    "palette": [
+      {
+        "#06050a": "black"
+      },
+      {
+        "#6e513f": "darkolivegreen"
+      },
+      {
+        "#a67869": "grey"
+      },
+      {
+        "#845e4a": "sienna"
+      },
+      {
+        "#0a0806": "black"
+      },
+      {
+        "#09070f": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.04057922876998147,
+      0.07791295724321705,
+      0.19848913915521849
+    ],
+    "averageColorRGB": [
+      23.81134742914244,
+      17.844572129360465,
+      15.924260764898255
+    ]
+  },
+  {
+    "framenumber": 46770,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_46770.png",
+    "palette": [
+      {
+        "#8d5e46": "sienna"
+      },
+      {
+        "#0e090d": "black"
+      },
+      {
+        "#02050c": "black"
+      },
+      {
+        "#1f0d0b": "black"
+      },
+      {
+        "#060810": "black"
+      },
+      {
+        "#180e0f": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.994488466597818,
+      0.06829417063882239,
+      0.18382621166727492
+    ],
+    "averageColorRGB": [
+      20.616349473110464,
+      14.213677552688953,
+      14.425408793604651
+    ]
+  },
+  {
+    "framenumber": 47488,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_47488.png",
+    "palette": [
+      {
+        "#8a5b40": "sienna"
+      },
+      {
+        "#1a0c06": "black"
+      },
+      {
+        "#36190b": "black"
+      },
+      {
+        "#4c2413": "maroon"
+      },
+      {
+        "#04050a": "black"
+      },
+      {
+        "#040306": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.035320883718105954,
+      0.08649005714204286,
+      0.27952845784298236
+    ],
+    "averageColorRGB": [
+      28.21995480559593,
+      18.503009175145348,
+      15.88997433684593
+    ]
+  },
+  {
+    "framenumber": 48206,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_48206.png",
+    "palette": [
+      {
+        "#1a0c06": "black"
+      },
+      {
+        "#211510": "black"
+      },
+      {
+        "#04050a": "black"
+      },
+      {
+        "#381a0c": "black"
+      },
+      {
+        "#8b5b41": "sienna"
+      },
+      {
+        "#040306": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.03453133469623413,
+      0.08712170115139078,
+      0.2799004903209556
+    ],
+    "averageColorRGB": [
+      28.434312545421513,
+      18.57446061954942,
+      15.99775504178779
+    ]
+  },
+  {
+    "framenumber": 48924,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_48924.png",
+    "palette": [
+      {
+        "#35170a": "black"
+      },
+      {
+        "#23120e": "black"
+      },
+      {
+        "#29130a": "black"
+      },
+      {
+        "#04050a": "black"
+      },
+      {
+        "#1c0b05": "black"
+      },
+      {
+        "#040306": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.03614458456378731,
+      0.0875618712237802,
+      0.3022536951562347
+    ],
+    "averageColorRGB": [
+      29.07708144077035,
+      18.506665606831394,
+      15.579472883357559
+    ]
+  },
+  {
+    "framenumber": 49642,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_49642.png",
+    "palette": [
+      {
+        "#64362d": "saddlebrown"
+      },
+      {
+        "#be7c64": "indianred"
+      },
+      {
+        "#f3b998": "burlywood"
+      },
+      {
+        "#2f2125": "darkslategrey"
+      },
+      {
+        "#482c28": "darkslategrey"
+      },
+      {
+        "#995342": "sienna"
+      }
+    ],
+    "averageColorHSV": [
+      0.03287732785253613,
+      0.2317946284164102,
+      0.28280519087410205
+    ],
+    "averageColorRGB": [
+      75.82357490007267,
+      48.986592705305235,
+      42.39168559229651
+    ]
+  },
+  {
+    "framenumber": 50360,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_50360.png",
+    "palette": [
+      {
+        "#0e0a17": "black"
+      },
+      {
+        "#b7684e": "indianred"
+      },
+      {
+        "#ecae89": "burlywood"
+      },
+      {
+        "#984e3c": "sienna"
+      },
+      {
+        "#ce835d": "peru"
+      },
+      {
+        "#281535": "midnightblue"
+      }
+    ],
+    "averageColorHSV": [
+      0.02306603249254739,
+      0.23719540200709643,
+      0.2864162173995318
+    ],
+    "averageColorRGB": [
+      77.80866301780523,
+      47.95609783793605,
+      43.16099200581395
+    ]
+  },
+  {
+    "framenumber": 51078,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_51078.png",
+    "palette": [
+      {
+        "#d4825e": "peru"
+      },
+      {
+        "#c16f53": "indianred"
+      },
+      {
+        "#623834": "darkolivegreen"
+      },
+      {
+        "#a45844": "sienna"
+      },
+      {
+        "#371e1e": "black"
+      },
+      {
+        "#4d2b2a": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.024599909714386765,
+      0.22494999180631556,
+      0.34180973004518017
+    ],
+    "averageColorRGB": [
+      76.96922238372093,
+      43.54323105922965,
+      37.7552734375
+    ]
+  },
+  {
+    "framenumber": 51796,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_51796.png",
+    "palette": [
+      {
+        "#90949c": "lightslategray"
+      },
+      {
+        "#354457": "darkslategrey"
+      },
+      {
+        "#4a5565": "darkslategrey"
+      },
+      {
+        "#223044": "darkslategrey"
+      },
+      {
+        "#e4e0d0": "gainsboro"
+      },
+      {
+        "#f3f0d8": "beige"
+      }
+    ],
+    "averageColorHSV": [
+      0.7436066320833242,
+      0.3907779168626026,
+      0.002859021006020998
+    ],
+    "averageColorRGB": [
+      99.62651140079942,
+      99.36347202034884,
+      99.93326557957849
+    ]
+  },
+  {
+    "framenumber": 52514,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_52514.png",
+    "palette": [
+      {
+        "#3a535f": "darkslategrey"
+      },
+      {
+        "#030810": "black"
+      },
+      {
+        "#394d5c": "darkslategrey"
+      },
+      {
+        "#40555b": "darkslategrey"
+      },
+      {
+        "#496470": "dimgray"
+      },
+      {
+        "#6b787d": "slategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.560193913101843,
+      0.22043603315235977,
+      0.12119287490454145
+    ],
+    "averageColorRGB": [
+      49.398792923328486,
+      58.1028070494186,
+      63.023583984375
+    ]
+  },
+  {
+    "framenumber": 53232,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_53232.png",
+    "palette": [
+      {
+        "#0e232f": "black"
+      },
+      {
+        "#3f6879": "dimgray"
+      },
+      {
+        "#1f323f": "darkslategrey"
+      },
+      {
+        "#294456": "darkslategrey"
+      },
+      {
+        "#5b7b88": "slategray"
+      },
+      {
+        "#325263": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.5468788153685091,
+      0.28100885853069424,
+      0.15818655220971375
+    ],
+    "averageColorRGB": [
+      60.322044195130815,
+      76.61589639353197,
+      82.99247365552326
+    ]
+  },
+  {
+    "framenumber": 53950,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_53950.png",
+    "palette": [
+      {
+        "#9a431a": "saddlebrown"
+      },
+      {
+        "#32180f": "black"
+      },
+      {
+        "#0a0809": "black"
+      },
+      {
+        "#0f0a09": "black"
+      },
+      {
+        "#5c1f0c": "maroon"
+      },
+      {
+        "#481c0c": "maroon"
+      }
+    ],
+    "averageColorHSV": [
+      0.050415167106074854,
+      0.07570540052867078,
+      0.384035795814124
+    ],
+    "averageColorRGB": [
+      26.718640988372094,
+      16.37630700399709,
+      11.89111328125
+    ]
+  },
+  {
+    "framenumber": 54668,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_54668.png",
+    "palette": [
+      {
+        "#8a3111": "saddlebrown"
+      },
+      {
+        "#27130f": "black"
+      },
+      {
+        "#1a0d0b": "black"
+      },
+      {
+        "#0b090a": "black"
+      },
+      {
+        "#0f0a09": "black"
+      },
+      {
+        "#4a1b0c": "maroon"
+      }
+    ],
+    "averageColorHSV": [
+      0.04930712381471516,
+      0.07952693718294004,
+      0.39775148122159326
+    ],
+    "averageColorRGB": [
+      28.345518032340117,
+      16.985843250363374,
+      12.213219930959303
+    ]
+  },
+  {
+    "framenumber": 55386,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_55386.png",
+    "palette": [
+      {
+        "#31485a": "darkslategrey"
+      },
+      {
+        "#263849": "darkslategrey"
+      },
+      {
+        "#467a90": "steelblue"
+      },
+      {
+        "#456878": "dimgray"
+      },
+      {
+        "#13212e": "black"
+      },
+      {
+        "#102b41": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.5543786096747566,
+      0.29478699982900136,
+      0.1345035353771558
+    ],
+    "averageColorRGB": [
+      65.0599620730378,
+      78.68372320130814,
+      85.2814078397529
+    ]
+  },
+  {
+    "framenumber": 56104,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_56104.png",
+    "palette": [
+      {
+        "#283f56": "darkslategrey"
+      },
+      {
+        "#576d77": "dimgray"
+      },
+      {
+        "#8dacae": "darkgrey"
+      },
+      {
+        "#344f63": "darkslategrey"
+      },
+      {
+        "#6f858a": "slategray"
+      },
+      {
+        "#436176": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.5734940333851802,
+      0.24843104970003993,
+      0.1456489357303866
+    ],
+    "averageColorRGB": [
+      54.123069585755815,
+      64.43934638444767,
+      72.57676576126454
+    ]
+  },
+  {
+    "framenumber": 56822,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_56822.png",
+    "palette": [
+      {
+        "#876658": "dimgray"
+      },
+      {
+        "#2e1a12": "black"
+      },
+      {
+        "#2c221c": "black"
+      },
+      {
+        "#29110c": "black"
+      },
+      {
+        "#4b372f": "darkslategrey"
+      },
+      {
+        "#1f1410": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.042228233002910974,
+      0.1001025546483128,
+      0.2898033528549536
+    ],
+    "averageColorRGB": [
+      32.92371570675872,
+      21.877219976380815,
+      18.128587163880812
+    ]
+  },
+  {
+    "framenumber": 57540,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_57540.png",
+    "palette": [
+      {
+        "#4c3d36": "darkslategrey"
+      },
+      {
+        "#5c433a": "darkolivegreen"
+      },
+      {
+        "#835041": "sienna"
+      },
+      {
+        "#3c2e28": "darkslategrey"
+      },
+      {
+        "#413632": "darkslategrey"
+      },
+      {
+        "#b17f6a": "rosybrown"
+      }
+    ],
+    "averageColorHSV": [
+      0.04452339978093184,
+      0.15498440973409713,
+      0.20744792342329338
+    ],
+    "averageColorRGB": [
+      47.71957894258721,
+      35.70280023619186,
+      31.322470021802324
+    ]
+  },
+  {
+    "framenumber": 58258,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_58258.png",
+    "palette": [
+      {
+        "#29100b": "black"
+      },
+      {
+        "#62372b": "saddlebrown"
+      },
+      {
+        "#bd906e": "rosybrown"
+      },
+      {
+        "#a06f56": "indianred"
+      },
+      {
+        "#8d5944": "sienna"
+      },
+      {
+        "#764433": "saddlebrown"
+      }
+    ],
+    "averageColorHSV": [
+      0.047902747190662454,
+      0.26314556659327976,
+      0.2992543483779639
+    ],
+    "averageColorRGB": [
+      87.18272052143895,
+      58.56450990188954,
+      47.02151844113372
+    ]
+  },
+  {
+    "framenumber": 58976,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_58976.png",
+    "palette": [
+      {
+        "#384355": "darkslategrey"
+      },
+      {
+        "#978d90": "grey"
+      },
+      {
+        "#17171b": "black"
+      },
+      {
+        "#65656e": "dimgray"
+      },
+      {
+        "#898085": "grey"
+      },
+      {
+        "#1d202a": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.7134494337889357,
+      0.18589176009248176,
+      0.06024629837905265
+    ],
+    "averageColorRGB": [
+      46.149817178415695,
+      44.54657976017442,
+      50.258217886991275
+    ]
+  },
+  {
+    "framenumber": 59694,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_59694.png",
+    "palette": [
+      {
+        "#2f0f0c": "black"
+      },
+      {
+        "#b1866f": "rosybrown"
+      },
+      {
+        "#210b08": "black"
+      },
+      {
+        "#92634a": "sienna"
+      },
+      {
+        "#815340": "sienna"
+      },
+      {
+        "#ba8d6d": "rosybrown"
+      }
+    ],
+    "averageColorHSV": [
+      0.049946037608000704,
+      0.27133154942572957,
+      0.2863555629351135
+    ],
+    "averageColorRGB": [
+      89.0023562409157,
+      61.25159088844477,
+      49.376733966206395
+    ]
+  },
+  {
+    "framenumber": 60412,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_60412.png",
+    "palette": [
+      {
+        "#737a7a": "grey"
+      },
+      {
+        "#d5d4ca": "lightgray"
+      },
+      {
+        "#4c5152": "darkslategrey"
+      },
+      {
+        "#444c4f": "darkslategrey"
+      },
+      {
+        "#7d7771": "grey"
+      },
+      {
+        "#77746f": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.19448362633451466,
+      0.3358230734154127,
+      0.011139901416064666
+    ],
+    "averageColorRGB": [
+      86.2704112917878,
+      86.58884788335756,
+      84.68091955850291
+    ]
+  },
+  {
+    "framenumber": 61130,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_61130.png",
+    "palette": [
+      {
+        "#495251": "darkslategrey"
+      },
+      {
+        "#7c7c75": "grey"
+      },
+      {
+        "#647070": "dimgray"
+      },
+      {
+        "#b4b5aa": "darkgrey"
+      },
+      {
+        "#343e3d": "darkslategrey"
+      },
+      {
+        "#798788": "grey"
+      }
+    ],
+    "averageColorHSV": [
+      0.2878280806136038,
+      0.31122770115495324,
+      0.015643410886764336
+    ],
+    "averageColorRGB": [
+      78.79949695675872,
+      80.60457281068314,
+      78.12155477834303
+    ]
+  },
+  {
+    "framenumber": 61848,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_61848.png",
+    "palette": [
+      {
+        "#5c514b": "darkolivegreen"
+      },
+      {
+        "#3c322d": "darkslategrey"
+      },
+      {
+        "#928986": "grey"
+      },
+      {
+        "#4c423b": "darkslategrey"
+      },
+      {
+        "#6f6561": "dimgray"
+      },
+      {
+        "#090a0d": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.046923270811515504,
+      0.19998539164030438,
+      0.08223180070069802
+    ],
+    "averageColorRGB": [
+      55.18979037972384,
+      49.16404092478198,
+      46.802759356831395
+    ]
+  },
+  {
+    "framenumber": 62566,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_62566.png",
+    "palette": [
+      {
+        "#685b52": "dimgray"
+      },
+      {
+        "#807874": "grey"
+      },
+      {
+        "#7f7065": "dimgray"
+      },
+      {
+        "#3c332c": "darkslategrey"
+      },
+      {
+        "#776a5d": "dimgray"
+      },
+      {
+        "#887a75": "grey"
+      }
+    ],
+    "averageColorHSV": [
+      0.048978770141181106,
+      0.2545831997406521,
+      0.09979692502458196
+    ],
+    "averageColorRGB": [
+      71.39740416061046,
+      62.24784588481105,
+      58.44002770712209
+    ]
+  },
+  {
+    "framenumber": 63284,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_63284.png",
+    "palette": [
+      {
+        "#2b2521": "darkslategrey"
+      },
+      {
+        "#665b52": "dimgray"
+      },
+      {
+        "#4e4a48": "darkslategrey"
+      },
+      {
+        "#7d6f67": "dimgray"
+      },
+      {
+        "#594f42": "darkolivegreen"
+      },
+      {
+        "#968c89": "grey"
+      }
+    ],
+    "averageColorHSV": [
+      0.0352666956015138,
+      0.23524086760430915,
+      0.09394677763836524
+    ],
+    "averageColorRGB": [
+      65.62195221656977,
+      56.73584892805233,
+      54.3508902616279
+    ]
+  },
+  {
+    "framenumber": 64002,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_64002.png",
+    "palette": [
+      {
+        "#1d161b": "black"
+      },
+      {
+        "#af958c": "rosybrown"
+      },
+      {
+        "#9d8074": "grey"
+      },
+      {
+        "#886456": "dimgray"
+      },
+      {
+        "#704f44": "darkolivegreen"
+      },
+      {
+        "#0b090f": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.019282631034223858,
+      0.1856012160496466,
+      0.1599480920976343
+    ],
+    "averageColorRGB": [
+      54.89838299418604,
+      41.50988826308139,
+      39.75823719113372
+    ]
+  },
+  {
+    "framenumber": 64720,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_64720.png",
+    "palette": [
+      {
+        "#080b11": "black"
+      },
+      {
+        "#be817a": "rosybrown"
+      },
+      {
+        "#a36763": "indianred"
+      },
+      {
+        "#cd9b8f": "rosybrown"
+      },
+      {
+        "#0b0f16": "black"
+      },
+      {
+        "#6d3e3e": "saddlebrown"
+      }
+    ],
+    "averageColorHSV": [
+      0.9883832622313167,
+      0.2108888321862175,
+      0.09206847579782457
+    ],
+    "averageColorRGB": [
+      58.727786609738374,
+      48.82551780523256,
+      49.515710165334305
+    ]
+  },
+  {
+    "framenumber": 65438,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_65438.png",
+    "palette": [
+      {
+        "#3f1f12": "black"
+      },
+      {
+        "#824e37": "sienna"
+      },
+      {
+        "#551907": "maroon"
+      },
+      {
+        "#542b1a": "saddlebrown"
+      },
+      {
+        "#6b1f07": "maroon"
+      },
+      {
+        "#653624": "saddlebrown"
+      }
+    ],
+    "averageColorHSV": [
+      0.0475257325859695,
+      0.17419492374529752,
+      0.5203520487025725
+    ],
+    "averageColorRGB": [
+      67.53359034338662,
+      34.48787245639535,
+      21.305820766715115
+    ]
+  },
+  {
+    "framenumber": 66156,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_66156.png",
+    "palette": [
       {
         "#3c2618": "darkslategrey"
       },
       {
-        "#21140d": "black"
+        "#c16d59": "indianred"
       },
       {
-        "#341f17": "black"
+        "#180e0a": "black"
       },
       {
-        "#1a0f0a": "black"
+        "#20130c": "black"
+      },
+      {
+        "#603828": "saddlebrown"
+      },
+      {
+        "#2a1a11": "black"
       }
     ],
+    "averageColorHSV": [
+      0.04205200754178947,
+      0.13436295216669517,
+      0.40696105383975323
+    ],
     "averageColorRGB": [
-      47.82368958938953,
-      27.063759311409882,
-      20.245548691860463
+      48.206077398255815,
+      27.355266624273256,
+      20.31902820675872
     ]
   },
   {
-    "framenumber": 68976,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_68976.png",
-    "averageColorHSV": [
-      0.013631011451036438,
-      44.75555732194768,
-      -0.2710571129176023
-    ],
+    "framenumber": 66874,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_66874.png",
     "palette": [
       {
-        "#3e2322": "darkslategrey"
+        "#bf9f70": "darkkhaki"
       },
       {
-        "#ae705a": "indianred"
+        "#9c622d": "sienna"
       },
       {
-        "#764b40": "sienna"
+        "#1a0d16": "black"
       },
       {
-        "#4e2924": "darkslategrey"
+        "#243848": "darkslategrey"
       },
       {
-        "#8e5545": "sienna"
+        "#74441d": "saddlebrown"
       },
       {
-        "#5c3730": "darkolivegreen"
+        "#446471": "dimgray"
       }
     ],
+    "averageColorHSV": [
+      0.07449142939212731,
+      0.18086341840515274,
+      0.21497423087298115
+    ],
     "averageColorRGB": [
-      56.615812363735465,
-      34.835309547601746,
-      32.89530228015988
+      56.034820130813955,
+      45.06819926417151,
+      36.20552325581395
     ]
   },
   {
-    "framenumber": 71850,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_71850.png",
-    "averageColorHSV": [
-      0.051730357132868575,
-      38.15763819494913,
-      -0.38152670322204113
-    ],
+    "framenumber": 67592,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_67592.png",
     "palette": [
       {
-        "#311a11": "black"
+        "#137898": "darkcyan"
       },
       {
-        "#4f3123": "darkolivegreen"
+        "#a5692f": "sienna"
       },
       {
-        "#764f3b": "sienna"
+        "#b78f5a": "peru"
       },
       {
-        "#3b2015": "black"
+        "#291219": "black"
       },
       {
-        "#614031": "darkolivegreen"
+        "#6b3e1c": "saddlebrown"
       },
       {
-        "#27110a": "black"
+        "#864c21": "saddlebrown"
       }
     ],
+    "averageColorHSV": [
+      0.0751679194048835,
+      0.17134721984724122,
+      0.2627729461919815
+    ],
     "averageColorRGB": [
-      52.33426939498546,
-      32.78135333393895,
-      23.98100699491279
+      55.175021575218025,
+      42.568528570130816,
+      32.212060546875
     ]
   },
   {
-    "framenumber": 74724,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_74724.png",
-    "averageColorHSV": [
-      0.5112506978335434,
-      30.236631313590117,
-      -0.4420352051837447
-    ],
+    "framenumber": 68310,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_68310.png",
     "palette": [
       {
-        "#40766e": "seagreen"
+        "#693b29": "saddlebrown"
       },
       {
-        "#0f3a3e": "darkslategrey"
+        "#b06a48": "indianred"
       },
       {
-        "#144a4e": "darkslategrey"
+        "#8b4f35": "sienna"
       },
       {
-        "#03131a": "black"
+        "#3c1f17": "black"
       },
       {
-        "#2a5e5c": "darkslategrey"
+        "#d08e6e": "darksalmon"
       },
       {
-        "#60a49a": "cadetblue"
+        "#deb0a3": "tan"
       }
     ],
+    "averageColorHSV": [
+      0.039195605125676436,
+      0.24971266440805973,
+      0.30249063440822344
+    ],
     "averageColorRGB": [
-      17.313010992005815,
-      41.415454669331396,
-      43.16025163517442
+      82.93834370457849,
+      53.47476267260174,
+      44.41511514353198
     ]
   },
   {
-    "framenumber": 77598,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_77598.png",
-    "averageColorHSV": [
-      0.026134844396552448,
-      9.556357876090116,
-      -0.3660294640886595
-    ],
+    "framenumber": 69028,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_69028.png",
     "palette": [
       {
-        "#0b0605": "black"
+        "#5b3831": "darkolivegreen"
       },
+      {
+        "#a86b5a": "indianred"
+      },
+      {
+        "#cc8365": "peru"
+      },
+      {
+        "#815043": "sienna"
+      },
+      {
+        "#51302d": "darkslategrey"
+      },
+      {
+        "#c26d62": "indianred"
+      }
+    ],
+    "averageColorHSV": [
+      0.02703775803227861,
+      0.2418050575517271,
+      0.27190951725275914
+    ],
+    "averageColorRGB": [
+      78.42630927507267,
+      50.334057049418604,
+      44.89427007630814
+    ]
+  },
+  {
+    "framenumber": 69746,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_69746.png",
+    "palette": [
+      {
+        "#3a1f0e": "black"
+      },
+      {
+        "#482d1c": "darkolivegreen"
+      },
+      {
+        "#a68770": "rosybrown"
+      },
+      {
+        "#1c0b05": "black"
+      },
+      {
+        "#684733": "darkolivegreen"
+      },
+      {
+        "#251107": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.0580049684780248,
+      0.12572850983598383,
+      0.32691048537885875
+    ],
+    "averageColorRGB": [
+      42.5417718931686,
+      28.875170330668603,
+      21.57976812318314
+    ]
+  },
+  {
+    "framenumber": 70464,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_70464.png",
+    "palette": [
+      {
+        "#422814": "darkslategrey"
+      },
+      {
+        "#553521": "darkolivegreen"
+      },
+      {
+        "#d5a986": "tan"
+      },
+      {
+        "#9c6d52": "sienna"
+      },
+      {
+        "#654431": "darkolivegreen"
+      },
+      {
+        "#825841": "sienna"
+      }
+    ],
+    "averageColorHSV": [
+      0.057949020860107614,
+      0.1651602911786081,
+      0.3346558306012845
+    ],
+    "averageColorRGB": [
+      56.210197129360466,
+      37.822577897892444,
+      28.02155137172965
+    ]
+  },
+  {
+    "framenumber": 71182,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_71182.png",
+    "palette": [
+      {
+        "#593b2b": "darkolivegreen"
+      },
+      {
+        "#4e2c1a": "saddlebrown"
+      },
+      {
+        "#83553d": "sienna"
+      },
+      {
+        "#2f170e": "black"
+      },
+      {
+        "#d9a680": "tan"
+      },
+      {
+        "#a57152": "indianred"
+      }
+    ],
+    "averageColorHSV": [
+      0.05336812953056295,
+      0.16614780605192658,
+      0.3418934732446468
+    ],
+    "averageColorRGB": [
+      56.852927416424414,
+      37.15905364280523,
+      27.88245367005814
+    ]
+  },
+  {
+    "framenumber": 71900,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_71900.png",
+    "palette": [
+      {
+        "#422613": "darkslategrey"
+      },
+      {
+        "#82553b": "sienna"
+      },
+      {
+        "#2e190e": "black"
+      },
+      {
+        "#65422d": "darkolivegreen"
+      },
+      {
+        "#553320": "darkolivegreen"
+      },
+      {
+        "#d8a87f": "tan"
+      }
+    ],
+    "averageColorHSV": [
+      0.05812649993234881,
+      0.1609253052147458,
+      0.3644172448696281
+    ],
+    "averageColorRGB": [
+      55.990161700581396,
+      36.51257380995639,
+      26.081743958938954
+    ]
+  },
+  {
+    "framenumber": 72618,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_72618.png",
+    "palette": [
+      {
+        "#1a150f": "black"
+      },
+      {
+        "#1b1710": "black"
+      },
+      {
+        "#100c06": "black"
+      },
+      {
+        "#0a0806": "black"
+      },
+      {
+        "#16120b": "black"
+      },
+      {
+        "#221c15": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.08436317375989177,
+      0.061042465996209536,
+      0.1997098167869216
+    ],
+    "averageColorRGB": [
+      18.67447765261628,
+      15.604245775799418,
+      12.457180005450581
+    ]
+  },
+  {
+    "framenumber": 73336,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_73336.png",
+    "palette": [
+      {
+        "#5f4637": "darkolivegreen"
+      },
+      {
+        "#1b1009": "black"
+      },
+      {
+        "#683e25": "saddlebrown"
+      },
+      {
+        "#291a11": "black"
+      },
+      {
+        "#401d0d": "black"
+      },
+      {
+        "#322014": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.05878200020986446,
+      0.10746738557341542,
+      0.3894928650217418
+    ],
+    "averageColorRGB": [
+      38.0779171965843,
+      24.259530568677324,
+      16.73044944585756
+    ]
+  },
+  {
+    "framenumber": 74054,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_74054.png",
+    "palette": [
+      {
+        "#5c442e": "darkolivegreen"
+      },
+      {
+        "#0e0906": "black"
+      },
+      {
+        "#997656": "grey"
+      },
+      {
+        "#0a0806": "black"
+      },
+      {
+        "#18100a": "black"
+      },
+      {
+        "#523520": "darkolivegreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.0692716438931486,
+      0.1215046632751938,
+      0.2483532997555183
+    ],
+    "averageColorRGB": [
+      38.67859057049419,
+      29.685249364098837,
+      23.28878769985465
+    ]
+  },
+  {
+    "framenumber": 74772,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_74772.png",
+    "palette": [
+      {
+        "#020d19": "black"
+      },
+      {
+        "#3d716a": "seagreen"
+      },
+      {
+        "#15494e": "darkslategrey"
+      },
+      {
+        "#0b3a3e": "darkslategrey"
+      },
+      {
+        "#072b30": "darkslategrey"
+      },
+      {
+        "#03181c": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.5161805788608094,
+      0.11077496891743616,
+      0.44590069742574784
+    ],
+    "averageColorRGB": [
+      15.651984920058139,
+      38.397593795421514,
+      40.8432492278343
+    ]
+  },
+  {
+    "framenumber": 75490,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_75490.png",
+    "palette": [
+      {
+        "#08151b": "black"
+      },
+      {
+        "#081b27": "black"
+      },
+      {
+        "#05262a": "black"
+      },
+      {
+        "#062736": "darkslategrey"
+      },
+      {
+        "#031418": "black"
+      },
+      {
+        "#2b2c17": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.5257695192421026,
+      0.05741937013722641,
+      0.3751559945875214
+    ],
+    "averageColorRGB": [
+      9.148928052325582,
+      18.436323582848836,
+      20.134950717659883
+    ]
+  },
+  {
+    "framenumber": 76208,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_76208.png",
+    "palette": [
+      {
+        "#01060f": "black"
+      },
+      {
+        "#051320": "black"
+      },
+      {
+        "#020c19": "black"
+      },
+      {
+        "#314a5b": "darkslategrey"
+      },
+      {
+        "#083a57": "midnightblue"
+      },
+      {
+        "#073453": "midnightblue"
+      }
+    ],
+    "averageColorHSV": [
+      0.5685490092081474,
+      0.11959319024666552,
+      0.5951926535331403
+    ],
+    "averageColorRGB": [
+      12.345111509811046,
+      33.71649368640988,
+      48.64741551598837
+    ]
+  },
+  {
+    "framenumber": 76926,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_76926.png",
+    "palette": [
+      {
+        "#07161f": "black"
+      },
+      {
+        "#2a4254": "darkslategrey"
+      },
+      {
+        "#083657": "midnightblue"
+      },
+      {
+        "#0c1b24": "black"
+      },
+      {
+        "#082f4f": "midnightblue"
+      },
+      {
+        "#020a0f": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.5703395729519666,
+      0.12471906572403671,
+      0.5682957798967679
+    ],
+    "averageColorRGB": [
+      13.729645485101743,
+      34.6215082212936,
+      49.87707803415697
+    ]
+  },
+  {
+    "framenumber": 77644,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_77644.png",
+    "palette": [
       {
         "#0d080a": "black"
       },
@@ -921,694 +3667,2742 @@
         "#0b0608": "black"
       },
       {
-        "#0d0807": "black"
+        "#100607": "black"
       },
       {
-        "#100607": "black"
+        "#251008": "black"
+      },
+      {
+        "#0b0605": "black"
       },
       {
         "#0d0606": "black"
       }
     ],
+    "averageColorHSV": [
+      0.03236309999860609,
+      0.04389761100661195,
+      0.3105053588086901
+    ],
     "averageColorRGB": [
-      12.688236964026162,
-      7.406692859738372,
-      6.42447878815407
+      14.669653888081395,
+      9.067965343386629,
+      7.718127725290698
     ]
   },
   {
-    "framenumber": 80472,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_80472.png",
-    "averageColorHSV": [
-      0.9606603615397257,
-      19.529845907521803,
-      -0.15319270625694179
-    ],
+    "framenumber": 78362,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_78362.png",
     "palette": [
       {
-        "#382725": "darkslategrey"
+        "#060508": "black"
       },
       {
-        "#151114": "black"
+        "#06050a": "black"
+      },
+      {
+        "#0a070b": "black"
+      },
+      {
+        "#3a4a5c": "darkslategrey"
+      },
+      {
+        "#060912": "black"
+      },
+      {
+        "#07070f": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.6299775082229861,
+      0.08246443540170428,
+      0.21469894055815333
+    ],
+    "averageColorRGB": [
+      16.513649164244185,
+      18.50137172965116,
+      25.543212890625
+    ]
+  },
+  {
+    "framenumber": 79080,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_79080.png",
+    "palette": [
+      {
+        "#1b181e": "black"
+      },
+      {
+        "#16151a": "black"
+      },
+      {
+        "#293445": "darkslategrey"
+      },
+      {
+        "#121524": "black"
+      },
+      {
+        "#252d3c": "darkslategrey"
+      },
+      {
+        "#161e31": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.6301755995311877,
+      0.09925954697831167,
+      0.20276541432190703
+    ],
+    "averageColorRGB": [
+      20.178951671511626,
+      22.42631949491279,
+      30.443417287427327
+    ]
+  },
+  {
+    "framenumber": 79798,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_79798.png",
+    "palette": [
+      {
+        "#13110f": "black"
+      },
+      {
+        "#583d2b": "darkolivegreen"
+      },
+      {
+        "#352a22": "darkslategrey"
+      },
+      {
+        "#3e2e23": "darkslategrey"
+      },
+      {
+        "#110f10": "black"
+      },
+      {
+        "#674d3f": "darkolivegreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.049580806329340386,
+      0.08372738275906293,
+      0.1915530237092273
+    ],
+    "averageColorRGB": [
+      25.44023210392442,
+      19.69401003815407,
+      17.260733103197673
+    ]
+  },
+  {
+    "framenumber": 80516,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_80516.png",
+    "palette": [
+      {
+        "#0a090e": "black"
       },
       {
         "#0c0b0e": "black"
       },
       {
-        "#3f2e2e": "darkslategrey"
+        "#171214": "black"
+      },
+      {
+        "#271b1a": "black"
       },
       {
         "#0e0b0f": "black"
       },
       {
-        "#0a090e": "black"
+        "#372826": "darkslategrey"
       }
     ],
+    "averageColorHSV": [
+      0.9614221848156573,
+      0.0729896505749829,
+      0.15063133475053175
+    ],
     "averageColorRGB": [
-      22.368483148619184,
-      16.69120866642442,
-      18.031260219840117
+      21.41596566133721,
+      15.808756131904069,
+      17.10663948946221
     ]
   },
   {
-    "framenumber": 83346,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_83346.png",
-    "averageColorHSV": [
-      0.5844813722138963,
-      19.816898505632267,
-      -0.5551371383357955
-    ],
+    "framenumber": 81234,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_81234.png",
     "palette": [
       {
-        "#071b2f": "black"
+        "#1a1514": "black"
       },
       {
-        "#0e2133": "black"
+        "#07080d": "black"
       },
       {
-        "#203145": "darkslategrey"
+        "#2c211c": "black"
       },
       {
-        "#17283a": "darkslategrey"
+        "#392a24": "darkslategrey"
       },
       {
-        "#041725": "black"
+        "#58453d": "darkolivegreen"
       },
       {
-        "#031424": "black"
+        "#46342d": "darkslategrey"
       }
     ],
+    "averageColorHSV": [
+      0.000453591315024926,
+      0.0900933857372891,
+      0.09784526320851893
+    ],
     "averageColorRGB": [
-      9.370939316860465,
-      19.672990098110464,
-      30.26285769440407
+      25.221692178415697,
+      20.73816996729651,
+      20.725934547601742
     ]
   },
   {
-    "framenumber": 86220,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_86220.png",
-    "averageColorHSV": [
-      0.9915161136496707,
-      21.401820834847385,
-      -0.11526001814638943
+    "framenumber": 81952,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_81952.png",
+    "palette": [
+      {
+        "#3d3129": "darkslategrey"
+      },
+      {
+        "#635147": "darkolivegreen"
+      },
+      {
+        "#1e1916": "black"
+      },
+      {
+        "#1c1616": "black"
+      },
+      {
+        "#523e34": "darkolivegreen"
+      },
+      {
+        "#4d3d33": "darkslategrey"
+      }
     ],
+    "averageColorHSV": [
+      0.04248028398728274,
+      0.10233220536579457,
+      0.15772502210885345
+    ],
+    "averageColorRGB": [
+      30.210501453488373,
+      24.077001953125,
+      21.97892328306686
+    ]
+  },
+  {
+    "framenumber": 82670,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_82670.png",
+    "palette": [
+      {
+        "#986d54": "sienna"
+      },
+      {
+        "#171214": "black"
+      },
+      {
+        "#553e30": "darkolivegreen"
+      },
+      {
+        "#342821": "darkslategrey"
+      },
+      {
+        "#403128": "darkslategrey"
+      },
+      {
+        "#71513f": "darkolivegreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.054000385691563756,
+      0.15699829936516757,
+      0.25579822271874236
+    ],
+    "averageColorRGB": [
+      50.27533725472384,
+      36.42986237281977,
+      29.79379542151163
+    ]
+  },
+  {
+    "framenumber": 83388,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_83388.png",
+    "palette": [
+      {
+        "#061e32": "black"
+      },
+      {
+        "#010f1b": "black"
+      },
+      {
+        "#101822": "black"
+      },
+      {
+        "#26364b": "darkslategrey"
+      },
+      {
+        "#182739": "darkslategrey"
+      },
+      {
+        "#03121f": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.5840905330022003,
+      0.07805231222212722,
+      0.5215259272520826
+    ],
+    "averageColorRGB": [
+      9.523231967659884,
+      19.809021847747093,
+      30.283447265625
+    ]
+  },
+  {
+    "framenumber": 84106,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_84106.png",
+    "palette": [
+      {
+        "#052436": "midnightblue"
+      },
+      {
+        "#20313f": "darkslategrey"
+      },
+      {
+        "#091a25": "black"
+      },
+      {
+        "#03111c": "black"
+      },
+      {
+        "#020c14": "black"
+      },
+      {
+        "#03131d": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.5703686807007702,
+      0.08262180090059279,
+      0.5253146306937613
+    ],
+    "averageColorRGB": [
+      10.000936818677326,
+      22.79041378997093,
+      32.136181640625
+    ]
+  },
+  {
+    "framenumber": 84824,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_84824.png",
+    "palette": [
+      {
+        "#10131a": "black"
+      },
+      {
+        "#080d15": "black"
+      },
+      {
+        "#0c0f17": "black"
+      },
+      {
+        "#121219": "black"
+      },
+      {
+        "#2d2422": "darkslategrey"
+      },
+      {
+        "#050d14": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.9358527505545494,
+      0.09749969496337779,
+      0.0654798697236634
+    ],
+    "averageColorRGB": [
+      26.490410383357556,
+      23.234434047965117,
+      24.487605605014533
+    ]
+  },
+  {
+    "framenumber": 85542,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_85542.png",
+    "palette": [
+      {
+        "#482b21": "darkslategrey"
+      },
+      {
+        "#6c4f4a": "dimgray"
+      },
+      {
+        "#8e6964": "dimgray"
+      },
+      {
+        "#111013": "black"
+      },
+      {
+        "#5b3325": "saddlebrown"
+      },
+      {
+        "#533c36": "darkolivegreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.02392495843396031,
+      0.13517319623161764,
+      0.19046208826966146
+    ],
+    "averageColorRGB": [
+      41.03423419331395,
+      29.788923964389536,
+      27.904095884811046
+    ]
+  },
+  {
+    "framenumber": 86260,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_86260.png",
     "palette": [
       {
         "#151314": "black"
       },
       {
-        "#1a1514": "black"
+        "#1b1615": "black"
       },
       {
-        "#594440": "darkolivegreen"
+        "#5a4541": "darkolivegreen"
       },
       {
-        "#171116": "black"
+        "#483733": "darkslategrey"
       },
       {
-        "#151311": "black"
+        "#171211": "black"
       },
       {
         "#171214": "black"
       }
     ],
+    "averageColorHSV": [
+      0.9941345069970219,
+      0.08154663586910055,
+      0.11435270802007172
+    ],
     "averageColorRGB": [
-      23.75333507449128,
-      19.050306595203487,
-      19.289706349927325
+      23.172287200218022,
+      18.416497093023256,
+      18.583867414607557
     ]
   },
   {
-    "framenumber": 89094,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_89094.png",
-    "averageColorHSV": [
-      0.04557504500349659,
-      23.246160178960757,
-      -0.2908112730230786
-    ],
+    "framenumber": 86978,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_86978.png",
     "palette": [
       {
-        "#493933": "darkslategrey"
+        "#15100f": "black"
       },
       {
-        "#341d12": "black"
+        "#382821": "darkslategrey"
       },
       {
-        "#130e0d": "black"
+        "#2b221f": "black"
+      },
+      {
+        "#4a362f": "darkslategrey"
+      },
+      {
+        "#0c0a0b": "black"
+      },
+      {
+        "#382119": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.03571312738088411,
+      0.0852774185619015,
+      0.22594180626072766
+    ],
+    "averageColorRGB": [
+      26.659013898982558,
+      18.938089344113372,
+      16.83246956758721
+    ]
+  },
+  {
+    "framenumber": 87696,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_87696.png",
+    "palette": [
+      {
+        "#1e1614": "black"
+      },
+      {
+        "#55413b": "darkolivegreen"
       },
       {
         "#3a2922": "darkslategrey"
       },
       {
-        "#332116": "black"
+        "#161110": "black"
       },
       {
-        "#462616": "maroon"
+        "#17110e": "black"
+      },
+      {
+        "#0c0a0b": "black"
       }
     ],
+    "averageColorHSV": [
+      0.03921128308637543,
+      0.08516056059051527,
+      0.22854713738725638
+    ],
     "averageColorRGB": [
-      29.71559434047965,
-      20.314863054142442,
-      16.77672601744186
+      26.679059547601742,
+      19.088148392078487,
+      16.752826353561048
     ]
   },
   {
-    "framenumber": 91968,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_91968.png",
-    "averageColorHSV": [
-      0.006440887589646653,
-      27.411012445494187,
-      -0.026767955105110822
-    ],
+    "framenumber": 88414,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_88414.png",
     "palette": [
       {
-        "#0b1015": "black"
+        "#463530": "darkslategrey"
+      },
+      {
+        "#100b08": "black"
+      },
+      {
+        "#0c0a08": "black"
+      },
+      {
+        "#0a0809": "black"
+      },
+      {
+        "#3b2b24": "darkslategrey"
+      },
+      {
+        "#614841": "darkolivegreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.04054330683376006,
+      0.07108060002707478,
+      0.23085734340377925
+    ],
+    "averageColorRGB": [
+      22.309970021802325,
+      15.97693722747093,
+      13.941135992005814
+    ]
+  },
+  {
+    "framenumber": 89132,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_89132.png",
+    "palette": [
+      {
+        "#100b08": "black"
+      },
+      {
+        "#624944": "darkolivegreen"
+      },
+      {
+        "#0c0a08": "black"
+      },
+      {
+        "#130e0b": "black"
+      },
+      {
+        "#1f1712": "black"
+      },
+      {
+        "#3b2b25": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.03876177386289812,
+      0.07298419999358755,
+      0.22957438987629059
+    ],
+    "averageColorRGB": [
+      22.88357331031977,
+      16.325732421875,
+      14.338368686409883
+    ]
+  },
+  {
+    "framenumber": 89850,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_89850.png",
+    "palette": [
+      {
+        "#201715": "black"
+      },
+      {
+        "#3e2e29": "darkslategrey"
+      },
+      {
+        "#100b0a": "black"
+      },
+      {
+        "#342018": "black"
+      },
+      {
+        "#150e0e": "black"
+      },
+      {
+        "#130e0d": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.034377866880783224,
+      0.07462554416752165,
+      0.23633036842787725
+    ],
+    "averageColorRGB": [
+      23.526765761264535,
+      16.38753293059593,
+      14.532261764171512
+    ]
+  },
+  {
+    "framenumber": 90568,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_90568.png",
+    "palette": [
+      {
+        "#402d27": "darkslategrey"
+      },
+      {
+        "#060a0c": "black"
+      },
+      {
+        "#282222": "black"
+      },
+      {
+        "#56413a": "darkolivegreen"
+      },
+      {
+        "#684e44": "darkolivegreen"
+      },
+      {
+        "#090a0d": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.03487091718628673,
+      0.12560061042949155,
+      0.16777510589774425
+    ],
+    "averageColorRGB": [
+      37.40168286700581,
+      28.903186319040696,
+      26.654628452034885
+    ]
+  },
+  {
+    "framenumber": 91286,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_91286.png",
+    "palette": [
+      {
+        "#4e3c36": "darkslategrey"
+      },
+      {
+        "#08090c": "black"
+      },
+      {
+        "#2b2524": "darkslategrey"
+      },
+      {
+        "#815c4c": "dimgray"
+      },
+      {
+        "#61483e": "darkolivegreen"
+      },
+      {
+        "#070b0d": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.034676748005464386,
+      0.12985951616293318,
+      0.16161847872319104
+    ],
+    "averageColorRGB": [
+      38.466039471293605,
+      29.989336164607558,
+      27.762313771802326
+    ]
+  },
+  {
+    "framenumber": 92004,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_92004.png",
+    "palette": [
+      {
+        "#172026": "black"
       },
       {
         "#080c10": "black"
       },
       {
-        "#090a0d": "black"
-      },
-      {
-        "#5d4b40": "darkolivegreen"
+        "#241f1c": "black"
       },
       {
         "#070b0d": "black"
       },
       {
-        "#172026": "black"
+        "#313539": "darkslategrey"
+      },
+      {
+        "#090a0d": "black"
       }
     ],
+    "averageColorHSV": [
+      0.008110852764849649,
+      0.10715032338335043,
+      0.026498295373752756
+    ],
     "averageColorRGB": [
-      28.117981240915697,
-      26.758685728561048,
-      26.704043650072673
+      28.047354196947673,
+      26.669779932776162,
+      26.599310728561047
     ]
   },
   {
-    "framenumber": 94842,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_94842.png",
-    "averageColorHSV": [
-      0.9892830739818042,
-      88.25806402162064,
-      -0.10813164277424232
-    ],
+    "framenumber": 92722,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_92722.png",
     "palette": [
       {
-        "#e8bdaf": "lightpink"
+        "#03132e": "black"
       },
       {
-        "#c3a099": "rosybrown"
+        "#061933": "black"
       },
       {
-        "#77676b": "dimgray"
+        "#145985": "teal"
       },
       {
-        "#6e6167": "dimgray"
+        "#414c54": "darkslategrey"
       },
       {
-        "#a88d8b": "rosybrown"
+        "#517ea6": "steelblue"
       },
       {
-        "#997676": "gray"
+        "#010a23": "black"
       }
     ],
+    "averageColorHSV": [
+      0.5890708803232924,
+      0.16624726580312357,
+      0.40840424420013394
+    ],
     "averageColorRGB": [
-      97.69342182957848,
-      78.82270621366278,
-      80.03612259265988
+      25.079550099927324,
+      41.20100835755814,
+      59.706555459665694
     ]
   },
   {
-    "framenumber": 97716,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_97716.png",
-    "averageColorHSV": [
-      0.04145528130653146,
-      9.523118413880814,
-      -0.28094384088889135
-    ],
+    "framenumber": 93440,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_93440.png",
     "palette": [
       {
-        "#0c0a08": "black"
+        "#03132e": "black"
       },
+      {
+        "#4e7fa7": "steelblue"
+      },
+      {
+        "#105884": "teal"
+      },
+      {
+        "#061933": "black"
+      },
+      {
+        "#05213c": "midnightblue"
+      },
+      {
+        "#010a23": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.5883772987709969,
+      0.16348269885715913,
+      0.4268820951554032
+    ],
+    "averageColorRGB": [
+      23.892189771075582,
+      40.61094544876453,
+      59.48398664607558
+    ]
+  },
+  {
+    "framenumber": 94158,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_94158.png",
+    "palette": [
+      {
+        "#2f1916": "black"
+      },
+      {
+        "#231511": "black"
+      },
+      {
+        "#9b5e4b": "sienna"
+      },
+      {
+        "#352118": "black"
+      },
+      {
+        "#2a1910": "black"
+      },
+      {
+        "#533326": "darkolivegreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.03325345483736947,
+      0.11125283884447676,
+      0.35189425685608666
+    ],
+    "averageColorRGB": [
+      38.352528842659886,
+      22.37007176598837,
+      18.386418968023257
+    ]
+  },
+  {
+    "framenumber": 94876,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_94876.png",
+    "palette": [
+      {
+        "#6e6267": "dimgray"
+      },
+      {
+        "#7b676a": "dimgray"
+      },
+      {
+        "#5f565d": "dimgray"
+      },
+      {
+        "#8a6d6e": "grey"
+      },
+      {
+        "#b79793": "rosybrown"
+      },
+      {
+        "#a58a89": "rosybrown"
+      }
+    ],
+    "averageColorHSV": [
+      0.9960160714917744,
+      0.36987676743117304,
+      0.107999828631372
+    ],
+    "averageColorRGB": [
+      104.50496570675872,
+      84.13218568313954,
+      84.61916787790697
+    ]
+  },
+  {
+    "framenumber": 95594,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_95594.png",
+    "palette": [
+      {
+        "#8a5e50": "dimgray"
+      },
+      {
+        "#05121f": "black"
+      },
+      {
+        "#0e0c0a": "black"
+      },
+      {
+        "#020c18": "black"
+      },
+      {
+        "#131724": "black"
+      },
+      {
+        "#b07055": "indianred"
+      }
+    ],
+    "averageColorHSV": [
+      0.9924108780597891,
+      0.09356877039514934,
+      0.1146156363933595
+    ],
+    "averageColorRGB": [
+      26.594769712936046,
+      21.125303188590117,
+      21.37435387899709
+    ]
+  },
+  {
+    "framenumber": 96312,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_96312.png",
+    "palette": [
+      {
+        "#0e4f7e": "teal"
+      },
+      {
+        "#093466": "midnightblue"
+      },
+      {
+        "#0d6292": "teal"
+      },
+      {
+        "#092143": "midnightblue"
+      },
+      {
+        "#1172a0": "darkcyan"
+      },
+      {
+        "#1588b0": "darkcyan"
+      }
+    ],
+    "averageColorHSV": [
+      0.5626186465435473,
+      0.21990610438397742,
+      0.7373518483964215
+    ],
+    "averageColorRGB": [
+      14.72827261991279,
+      66.35413335755814,
+      97.4238406159157
+    ]
+  },
+  {
+    "framenumber": 97030,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_97030.png",
+    "palette": [
       {
         "#070909": "black"
       },
       {
-        "#170b09": "black"
+        "#0c0a08": "black"
       },
       {
-        "#372a23": "darkslategrey"
+        "#130908": "black"
       },
       {
-        "#0f0504": "black"
+        "#120704": "black"
       },
       {
         "#0a0a07": "black"
+      },
+      {
+        "#0e0908": "black"
       }
     ],
+    "averageColorHSV": [
+      0.0508035138628958,
+      0.03762804858498632,
+      0.21892087161052678
+    ],
     "averageColorRGB": [
-      11.917636037427325,
-      8.319785610465116,
-      7.1286007903343025
+      11.695731513444768,
+      8.775174872819766,
+      7.494573264898256
     ]
   },
   {
-    "framenumber": 100590,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_100590.png",
-    "averageColorHSV": [
-      0.05649065432184427,
-      14.544758925327034,
-      -0.48027249870924077
-    ],
+    "framenumber": 97748,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_97748.png",
     "palette": [
       {
-        "#170e09": "black"
+        "#080a0a": "black"
       },
       {
-        "#1e140d": "black"
+        "#090202": "black"
       },
       {
-        "#2c1c10": "black"
+        "#2d241f": "darkslategrey"
+      },
+      {
+        "#140807": "black"
+      },
+      {
+        "#0c0203": "black"
+      },
+      {
+        "#0f0504": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.03734391843233067,
+      0.03931672687243502,
+      0.2506969574440853
+    ],
+    "averageColorRGB": [
+      12.53919422238372,
+      8.638671875,
+      7.51233648255814
+    ]
+  },
+  {
+    "framenumber": 98466,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_98466.png",
+    "palette": [
+      {
+        "#04162f": "black"
+      },
+      {
+        "#051324": "black"
+      },
+      {
+        "#031020": "black"
+      },
+      {
+        "#051b35": "black"
+      },
+      {
+        "#000d1e": "black"
+      },
+      {
+        "#031127": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.592641802482726,
+      0.051145252205169855,
+      0.844173375254014
+    ],
+    "averageColorRGB": [
+      2.0322969658430234,
+      11.812233148619185,
+      24.051781658793605
+    ]
+  },
+  {
+    "framenumber": 99184,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_99184.png",
+    "palette": [
+      {
+        "#241206": "black"
+      },
+      {
+        "#441f08": "maroon"
+      },
+      {
+        "#30180c": "black"
+      },
+      {
+        "#25110b": "black"
+      },
+      {
+        "#58280b": "maroon"
+      },
+      {
+        "#381e0f": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.06072054475832872,
+      0.07756413116663817,
+      0.6069258501073843
+    ],
+    "averageColorRGB": [
+      31.783150890261627,
+      16.521445766715114,
+      7.774556004723837
+    ]
+  },
+  {
+    "framenumber": 99902,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_99902.png",
+    "palette": [
+      {
+        "#090705": "black"
+      },
+      {
+        "#6f360d": "saddlebrown"
+      },
+      {
+        "#d99f7b": "darksalmon"
+      },
+      {
+        "#a15523": "sienna"
+      },
+      {
+        "#57290a": "maroon"
+      },
+      {
+        "#844721": "saddlebrown"
+      }
+    ],
+    "averageColorHSV": [
+      0.06604515690346831,
+      0.16347644671967626,
+      0.5698537601774561
+    ],
+    "averageColorRGB": [
+      65.44169921875,
+      36.75828374818314,
+      17.931288608284884
+    ]
+  },
+  {
+    "framenumber": 100620,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_100620.png",
+    "palette": [
+      {
+        "#060405": "black"
+      },
+      {
+        "#342115": "black"
+      },
+      {
+        "#432616": "darkslategrey"
+      },
+      {
+        "#070503": "black"
+      },
+      {
+        "#070506": "black"
+      },
+      {
+        "#281b12": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.056468483547128946,
+      0.056791909805346555,
+      0.4477712680402274
+    ],
+    "averageColorRGB": [
+      20.966532294694765,
+      12.391444858284883,
+      7.9973417060319765
+    ]
+  },
+  {
+    "framenumber": 101338,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_101338.png",
+    "palette": [
+      {
+        "#060405": "black"
+      },
+      {
+        "#281911": "black"
+      },
+      {
+        "#070506": "black"
+      },
+      {
+        "#341f14": "black"
+      },
+      {
+        "#4b2d1c": "darkolivegreen"
+      },
+      {
+        "#3b2619": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.0553213716672579,
+      0.058753571377678976,
+      0.4403472364859795
+    ],
+    "averageColorRGB": [
+      21.579513762718022,
+      12.76450308866279,
+      8.384807639898256
+    ]
+  },
+  {
+    "framenumber": 102056,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_102056.png",
+    "palette": [
+      {
+        "#3d2719": "darkslategrey"
       },
       {
         "#060405": "black"
       },
       {
-        "#3e2618": "darkslategrey"
+        "#352015": "black"
+      },
+      {
+        "#291b12": "black"
+      },
+      {
+        "#23150d": "black"
       },
       {
         "#070506": "black"
       }
     ],
+    "averageColorHSV": [
+      0.05560634595243191,
+      0.05912045695821934,
+      0.44782570477767153
+    ],
     "averageColorRGB": [
-      21.04993413880814,
-      12.449362963299418,
-      8.03958371184593
+      21.827009901889536,
+      12.829400208938953,
+      8.324423146802326
     ]
   },
   {
-    "framenumber": 103464,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_103464.png",
-    "averageColorHSV": [
-      0.053936473413242,
-      48.95995355650436,
-      -0.2072377771437922
-    ],
+    "framenumber": 102774,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_102774.png",
     "palette": [
       {
-        "#82675c": "dimgray"
+        "#071b30": "black"
       },
       {
-        "#735b4f": "dimgray"
+        "#031526": "black"
       },
       {
-        "#5b3724": "saddlebrown"
+        "#010912": "black"
       },
       {
-        "#62544d": "dimgray"
+        "#010b13": "black"
       },
       {
-        "#b07e6b": "rosybrown"
+        "#031222": "black"
       },
       {
-        "#53453c": "darkolivegreen"
+        "#010c19": "black"
       }
     ],
+    "averageColorHSV": [
+      0.5861175133932931,
+      0.037663279201578886,
+      0.8456326605075689
+    ],
     "averageColorRGB": [
-      58.899067723473834,
-      45.45380859375,
-      39.020839389534885
+      1.4825649527616278,
+      9.332793195857558,
+      17.725707440043603
     ]
   },
   {
-    "framenumber": 106338,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_106338.png",
-    "averageColorHSV": [
-      0.8876959669057892,
-      126.02476948582847,
-      -0.023050356128104788
-    ],
+    "framenumber": 103492,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_103492.png",
     "palette": [
       {
-        "#2d3141": "darkslategrey"
+        "#bf8a76": "rosybrown"
       },
       {
-        "#4e596e": "dimgray"
+        "#6c5a53": "dimgray"
       },
       {
-        "#151010": "black"
+        "#54463d": "darkolivegreen"
       },
       {
-        "#42485a": "darkslategrey"
+        "#83685d": "dimgray"
       },
       {
-        "#2a2a36": "darkslategrey"
+        "#5c4e47": "darkolivegreen"
+      },
+      {
+        "#392a1f": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.05283583941325217,
+      0.19369953759119926,
+      0.20271580246793233
+    ],
+    "averageColorRGB": [
+      59.406201171875,
+      45.7289914153343,
+      39.38056299963663
+    ]
+  },
+  {
+    "framenumber": 104210,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_104210.png",
+    "palette": [
+      {
+        "#131a27": "black"
+      },
+      {
+        "#75717f": "grey"
+      },
+      {
+        "#2a2c3c": "darkslategrey"
+      },
+      {
+        "#1e2636": "darkslategrey"
+      },
+      {
+        "#161a25": "black"
+      },
+      {
+        "#5f5d6b": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.6547640180929607,
+      0.19953005657204742,
+      0.10899971495593969
+    ],
+    "averageColorRGB": [
+      45.334241006540694,
+      46.126375136264535,
+      56.42608784520349
+    ]
+  },
+  {
+    "framenumber": 104928,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_104928.png",
+    "palette": [
+      {
+        "#5e5a68": "dimgray"
+      },
+      {
+        "#9f949f": "darkgrey"
+      },
+      {
+        "#7f7682": "grey"
+      },
+      {
+        "#f6dddc": "mistyrose"
+      },
+      {
+        "#ab9ba5": "darkgrey"
+      },
+      {
+        "#dfc9cc": "thistle"
+      }
+    ],
+    "averageColorHSV": [
+      0.8022178394302341,
+      0.372868862752223,
+      0.0411614946981538
+    ],
+    "averageColorRGB": [
+      97.53393895348837,
+      91.16786087390989,
+      98.99525912972383
+    ]
+  },
+  {
+    "framenumber": 105646,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_105646.png",
+    "palette": [
+      {
+        "#272634": "darkslategrey"
+      },
+      {
+        "#393949": "darkslategrey"
+      },
+      {
+        "#7f808e": "grey"
+      },
+      {
+        "#51586a": "dimgray"
+      },
+      {
+        "#201e28": "black"
+      },
+      {
+        "#4b4e60": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.6906798312090879,
+      0.17603764107387143,
+      0.09513174987002791
+    ],
+    "averageColorRGB": [
+      41.84972974200581,
+      40.61917242005814,
+      49.16002452761628
+    ]
+  },
+  {
+    "framenumber": 106364,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_106364.png",
+    "palette": [
+      {
+        "#2a2b38": "darkslategrey"
+      },
+      {
+        "#474e61": "darkslategrey"
       },
       {
         "#fbeded": "linen"
+      },
+      {
+        "#3b3e50": "darkslategrey"
+      },
+      {
+        "#4a556a": "dimgray"
+      },
+      {
+        "#2e3140": "darkslategrey"
       }
     ],
+    "averageColorHSV": [
+      0.8949270845661723,
+      0.49793576151390784,
+      0.024104668684611655
+    ],
     "averageColorRGB": [
-      128.90663494731103,
-      123.14290402434592,
-      127.02664539425872
+      130.03427620821222,
+      123.9129621638808,
+      127.77206804142442
     ]
   },
   {
-    "framenumber": 109212,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_109212.png",
-    "averageColorHSV": [
-      0.9841727472966284,
-      57.34073174055233,
-      -0.1358735552162289
-    ],
+    "framenumber": 107082,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_107082.png",
     "palette": [
       {
-        "#ba8b85": "rosybrown"
+        "#0f1319": "black"
       },
       {
-        "#766767": "dimgray"
+        "#4f4c52": "darkslategrey"
       },
       {
-        "#966e6a": "gray"
+        "#0f0f16": "black"
       },
       {
-        "#615456": "dimgray"
+        "#0c0f16": "black"
       },
       {
-        "#4e464c": "darkslategrey"
+        "#d7d4e3": "gainsboro"
+      },
+      {
+        "#090c13": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.7310369327831904,
+      0.1905498652495155,
+      0.046152325326978376
+    ],
+    "averageColorRGB": [
+      48.0799077943314,
+      46.347664198764534,
+      50.832767078488374
+    ]
+  },
+  {
+    "framenumber": 107800,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_107800.png",
+    "palette": [
+      {
+        "#1b273b": "darkslategrey"
+      },
+      {
+        "#253751": "darkslategrey"
+      },
+      {
+        "#132234": "darkslategrey"
+      },
+      {
+        "#3c3132": "darkslategrey"
+      },
+      {
+        "#1c2e43": "darkslategrey"
+      },
+      {
+        "#504444": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.6269033960749262,
+      0.1930809233213634,
+      0.11467166925706318
+    ],
+    "averageColorRGB": [
+      43.58970294331395,
+      46.283711845930235,
+      54.88156795058139
+    ]
+  },
+  {
+    "framenumber": 108518,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_108518.png",
+    "palette": [
+      {
+        "#564b53": "darkslategrey"
+      },
+      {
+        "#cdb2b6": "silver"
+      },
+      {
+        "#e8c9ca": "thistle"
+      },
+      {
+        "#cba9a8": "tan"
+      },
+      {
+        "#886c6b": "grey"
+      },
+      {
+        "#a68786": "rosybrown"
+      }
+    ],
+    "averageColorHSV": [
+      0.9886715314581387,
+      0.3825950467396261,
+      0.09446675182194934
+    ],
+    "averageColorRGB": [
+      106.77807730741279,
+      88.34539652979652,
+      89.59828079578489
+    ]
+  },
+  {
+    "framenumber": 109236,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_109236.png",
+    "palette": [
+      {
+        "#463d43": "darkslategrey"
+      },
+      {
+        "#7c5e5d": "dimgray"
+      },
+      {
+        "#64585a": "dimgray"
+      },
+      {
+        "#2e2b31": "darkslategrey"
       },
       {
         "#402128": "darkslategrey"
+      },
+      {
+        "#a67b76": "rosybrown"
       }
     ],
+    "averageColorHSV": [
+      0.9851269351337977,
+      0.22673165059992018,
+      0.13007577149511296
+    ],
     "averageColorRGB": [
-      64.995947265625,
-      49.68551621547965,
-      51.139448582848836
+      65.33710596838662,
+      50.296035837572674,
+      51.63827670784884
     ]
   },
   {
-    "framenumber": 112086,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_112086.png",
-    "averageColorHSV": [
-      0.9547895211776656,
-      88.44045580486917,
-      -0.07654763975012434
-    ],
+    "framenumber": 109954,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_109954.png",
     "palette": [
       {
-        "#b9a5b1": "darkgray"
+        "#070909": "black"
       },
       {
-        "#948188": "gray"
+        "#382a1d": "darkslategrey"
       },
       {
-        "#8f7c7f": "gray"
+        "#07080b": "black"
       },
       {
-        "#8b7d86": "gray"
+        "#0f0a0c": "black"
+      },
+      {
+        "#0a090c": "black"
+      },
+      {
+        "#0c0a0b": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.015413736062073172,
+      0.042868646777388275,
+      0.12420050005606788
+    ],
+    "averageColorRGB": [
+      12.289203306686046,
+      9.824933003270349,
+      9.573806549781976
+    ]
+  },
+  {
+    "framenumber": 110672,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_110672.png",
+    "palette": [
+      {
+        "#070909": "black"
+      },
+      {
+        "#453020": "darkslategrey"
+      },
+      {
+        "#07080b": "black"
+      },
+      {
+        "#0f0a0c": "black"
+      },
+      {
+        "#0a090c": "black"
+      },
+      {
+        "#0c0a0b": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.02984456017495063,
+      0.045313838153357267,
+      0.15836585364295688
+    ],
+    "averageColorRGB": [
+      13.384950717659883,
+      10.380465343386629,
+      9.725106740552325
+    ]
+  },
+  {
+    "framenumber": 111390,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_111390.png",
+    "palette": [
+      {
+        "#b28368": "rosybrown"
+      },
+      {
+        "#0c0a08": "black"
+      },
+      {
+        "#8d654f": "sienna"
+      },
+      {
+        "#100b0a": "black"
+      },
+      {
+        "#0c0a0b": "black"
+      },
+      {
+        "#dfa88a": "burlywood"
+      }
+    ],
+    "averageColorHSV": [
+      0.05224911252321154,
+      0.09617424627009234,
+      0.2708973129915264
+    ],
+    "averageColorRGB": [
+      31.16803574672965,
+      22.046298146802325,
+      17.88082985101744
+    ]
+  },
+  {
+    "framenumber": 112108,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_112108.png",
+    "palette": [
+      {
+        "#8f7d84": "grey"
       },
       {
         "#d3b9c1": "silver"
       },
       {
-        "#74686e": "dimgray"
+        "#8f797c": "grey"
+      },
+      {
+        "#b9a5b1": "darkgrey"
+      },
+      {
+        "#726264": "dimgray"
+      },
+      {
+        "#6c6267": "dimgray"
       }
     ],
+    "averageColorHSV": [
+      0.9553683922900316,
+      0.3445924198622036,
+      0.07596956022894834
+    ],
     "averageColorRGB": [
-      95.13381631540697,
-      81.74709529433139,
-      85.37841569767441
+      94.5465933866279,
+      81.19554074309593,
+      84.77081440770348
     ]
   },
   {
-    "framenumber": 114960,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_114960.png",
-    "averageColorHSV": [
-      0.8945386662363226,
-      94.05239655250726,
-      -0.030247330052399057
-    ],
+    "framenumber": 112826,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_112826.png",
     "palette": [
       {
-        "#d2c4ca": "thistle"
+        "#9e8e99": "rosybrown"
       },
       {
-        "#c9bec6": "silver"
+        "#726a78": "dimgray"
       },
       {
-        "#060910": "black"
+        "#b39fa7": "darkgrey"
       },
       {
-        "#e8d2d5": "gainsboro"
+        "#d3bcbf": "silver"
       },
+      {
+        "#e0c7c6": "thistle"
+      },
+      {
+        "#8a7d8a": "grey"
+      }
+    ],
+    "averageColorHSV": [
+      0.9463112685277,
+      0.48397590077091884,
+      0.05709431000531024
+    ],
+    "averageColorRGB": [
+      130.4600835755814,
+      116.36762581758721,
+      120.9072628997093
+    ]
+  },
+  {
+    "framenumber": 113544,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_113544.png",
+    "palette": [
+      {
+        "#fadfda": "mistyrose"
+      },
+      {
+        "#928997": "lightslategray"
+      },
+      {
+        "#cabdc5": "silver"
+      },
+      {
+        "#afa5b3": "darkgrey"
+      },
+      {
+        "#bcafbb": "silver"
+      },
+      {
+        "#f8e0d9": "mistyrose"
+      }
+    ],
+    "averageColorHSV": [
+      0.9020813194277854,
+      0.5445808173378363,
+      0.04116841679364298
+    ],
+    "averageColorRGB": [
+      143.64907453670057,
+      134.08714230559593,
+      139.70489303234012
+    ]
+  },
+  {
+    "framenumber": 114262,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_114262.png",
+    "palette": [
+      {
+        "#efdbd4": "antiquewhite"
+      },
+      {
+        "#9e9da6": "darkgrey"
+      },
+      {
+        "#efdad6": "gainsboro"
+      },
+      {
+        "#9196a0": "lightslategray"
+      },
+      {
+        "#a7a4ad": "darkgrey"
+      },
+      {
+        "#9c9ea8": "darkgrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.9609054332970063,
+      0.5146055364369584,
+      0.02859696709045013
+    ],
+    "averageColorRGB": [
+      134.76401821402615,
+      127.68480536882267,
+      129.34535792151163
+    ]
+  },
+  {
+    "framenumber": 114980,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_114980.png",
+    "palette": [
       {
         "#060a0e": "black"
       },
       {
+        "#ebd6d6": "gainsboro"
+      },
+      {
         "#07080d": "black"
+      },
+      {
+        "#daccd0": "lightgray"
+      },
+      {
+        "#d0c4ca": "thistle"
+      },
+      {
+        "#ead4d7": "gainsboro"
       }
     ],
+    "averageColorHSV": [
+      0.9142081254747536,
+      0.37568871257623687,
+      0.03241277355800539
+    ],
     "averageColorRGB": [
-      96.86698310319767,
-      91.23781000181685,
-      94.79977062136628
+      98.9057855650436,
+      92.69545784883721,
+      95.89223178597383
     ]
   },
   {
-    "framenumber": 117834,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_117834.png",
-    "averageColorHSV": [
-      0.03206161271075262,
-      58.31057469567587,
-      -0.30783818647695443
-    ],
+    "framenumber": 115698,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_115698.png",
     "palette": [
       {
-        "#efaa8e": "burlywood"
+        "#626675": "dimgray"
       },
       {
-        "#c2714f": "indianred"
+        "#fadfda": "mistyrose"
       },
       {
-        "#563028": "darkolivegreen"
+        "#1e2532": "darkslategrey"
       },
       {
-        "#a25a3f": "sienna"
+        "#efd7d5": "gainsboro"
       },
       {
-        "#8c4233": "sienna"
+        "#414958": "darkslategrey"
       },
       {
-        "#723f33": "saddlebrown"
+        "#505868": "dimgray"
       }
     ],
+    "averageColorHSV": [
+      0.9238275420627489,
+      0.416674697813355,
+      0.038069210009615974
+    ],
     "averageColorRGB": [
-      75.95295807594476,
-      47.45591047420058,
-      40.66819131540698
+      110.29697946947674,
+      102.2071164153343,
+      105.90446493459302
     ]
   },
   {
-    "framenumber": 120708,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_120708.png",
-    "averageColorHSV": [
-      0.00839585084375418,
-      87.31798578306686,
-      -0.289666650446199
+    "framenumber": 116416,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_116416.png",
+    "palette": [
+      {
+        "#f5a98a": "lightsalmon"
+      },
+      {
+        "#140e13": "black"
+      },
+      {
+        "#f8b28b": "lightsalmon"
+      },
+      {
+        "#f1905b": "sandybrown"
+      },
+      {
+        "#f1957c": "darksalmon"
+      },
+      {
+        "#b5554c": "indianred"
+      }
     ],
+    "averageColorHSV": [
+      0.03571383429247941,
+      0.4046856430617305,
+      0.3148556799585482
+    ],
+    "averageColorRGB": [
+      135.68632017623545,
+      84.62810228924418,
+      70.70335778524709
+    ]
+  },
+  {
+    "framenumber": 117134,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_117134.png",
+    "palette": [
+      {
+        "#d4867c": "darksalmon"
+      },
+      {
+        "#914135": "sienna"
+      },
+      {
+        "#5f0a18": "maroon"
+      },
+      {
+        "#b76e69": "indianred"
+      },
+      {
+        "#833b38": "sienna"
+      },
+      {
+        "#b05c50": "indianred"
+      }
+    ],
+    "averageColorHSV": [
+      0.9970556061122909,
+      0.244776523936246,
+      0.3712676455239945
+    ],
+    "averageColorRGB": [
+      85.59180255268895,
+      39.24422465479651,
+      40.063017805232555
+    ]
+  },
+  {
+    "framenumber": 117852,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_117852.png",
+    "palette": [
+      {
+        "#efaa8f": "burlywood"
+      },
+      {
+        "#62352e": "saddlebrown"
+      },
+      {
+        "#492b29": "darkslategrey"
+      },
+      {
+        "#773f33": "saddlebrown"
+      },
+      {
+        "#974837": "sienna"
+      },
+      {
+        "#a86c56": "indianred"
+      }
+    ],
+    "averageColorHSV": [
+      0.031230519569641253,
+      0.23018552015646376,
+      0.3011726348685638
+    ],
+    "averageColorRGB": [
+      76.3753304414971,
+      47.64441088299419,
+      41.01928483829942
+    ]
+  },
+  {
+    "framenumber": 118570,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_118570.png",
+    "palette": [
+      {
+        "#d78389": "palevioletred"
+      },
+      {
+        "#f89693": "lightsalmon"
+      },
+      {
+        "#533141": "darkslategrey"
+      },
+      {
+        "#f7aab1": "lightpink"
+      },
+      {
+        "#d4746d": "indianred"
+      },
+      {
+        "#f8a497": "lightsalmon"
+      }
+    ],
+    "averageColorHSV": [
+      0.986911535620051,
+      0.36837074151063043,
+      0.2337287265059799
+    ],
+    "averageColorRGB": [
+      115.88973928052326,
+      71.97933888989826,
+      75.42765715843024
+    ]
+  },
+  {
+    "framenumber": 119288,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_119288.png",
+    "palette": [
+      {
+        "#3a2a2b": "darkslategrey"
+      },
+      {
+        "#4c3137": "darkslategrey"
+      },
+      {
+        "#cf959b": "rosybrown"
+      },
+      {
+        "#462e30": "darkslategrey"
+      },
+      {
+        "#efaca8": "lightpink"
+      },
+      {
+        "#3b272b": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.9835701201238434,
+      0.26487404882010945,
+      0.17899118111132153
+    ],
+    "averageColorRGB": [
+      79.63246275436046,
+      55.45330214389535,
+      57.83686636991279
+    ]
+  },
+  {
+    "framenumber": 120006,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_120006.png",
+    "palette": [
+      {
+        "#bf6949": "indianred"
+      },
+      {
+        "#9a493f": "sienna"
+      },
+      {
+        "#ac5e49": "sienna"
+      },
+      {
+        "#bf695b": "indianred"
+      },
+      {
+        "#ce7980": "palevioletred"
+      },
+      {
+        "#9c7d91": "grey"
+      }
+    ],
+    "averageColorHSV": [
+      0.01433267364311173,
+      0.354725037316889,
+      0.29135259846697875
+    ],
+    "averageColorRGB": [
+      116.80915016351744,
+      68.63334393168604,
+      64.10061886809594
+    ]
+  },
+  {
+    "framenumber": 120724,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_120724.png",
     "palette": [
       {
         "#3a1927": "darkslategrey"
       },
       {
-        "#2b1621": "black"
+        "#de857e": "lightcoral"
       },
       {
-        "#4e1a21": "maroon"
+        "#db8771": "darksalmon"
       },
       {
-        "#d6816a": "darksalmon"
+        "#c2614f": "indianred"
       },
       {
-        "#af5042": "sienna"
+        "#2c1523": "black"
       },
       {
-        "#e38e86": "darksalmon"
+        "#ac453f": "sienna"
       }
     ],
+    "averageColorHSV": [
+      0.008639251434271447,
+      0.34374411301584584,
+      0.28627414001177676
+    ],
     "averageColorRGB": [
-      112.32142759811046,
-      64.83364598473837,
-      62.31454396802326
+      112.74803665515988,
+      65.16290765806686,
+      62.56146098292151
     ]
   },
   {
-    "framenumber": 123582,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_123582.png",
-    "averageColorHSV": [
-      0.9936826576777502,
-      89.60858920784884,
-      -0.2554112870332053
-    ],
+    "framenumber": 121442,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_121442.png",
     "palette": [
       {
-        "#ba6868": "indianred"
+        "#82332c": "saddlebrown"
       },
       {
-        "#a26873": "gray"
+        "#6e0c15": "maroon"
       },
       {
-        "#6f3c3c": "saddlebrown"
+        "#b05949": "sienna"
       },
       {
-        "#b88797": "rosybrown"
+        "#910b0f": "darkred"
       },
       {
-        "#c7685c": "indianred"
+        "#c2190a": "firebrick"
       },
       {
-        "#a34b45": "sienna"
+        "#db7a64": "indianred"
       }
     ],
+    "averageColorHSV": [
+      0.003982830521320165,
+      0.22061380048022117,
+      0.5470453692775956
+    ],
     "averageColorRGB": [
-      112.24022301962209,
-      66.97695539607558,
-      68.69261673328488
+      87.03138740007267,
+      26.95250386082849,
+      25.481650844840114
     ]
   },
   {
-    "framenumber": 126456,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_126456.png",
-    "averageColorHSV": [
-      0.019833257434019924,
-      73.57676178688226,
-      -0.3041794701018515
-    ],
+    "framenumber": 122160,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_122160.png",
     "palette": [
       {
-        "#d68572": "darksalmon"
+        "#c98c95": "rosybrown"
+      },
+      {
+        "#c46054": "indianred"
+      },
+      {
+        "#7a4743": "sienna"
+      },
+      {
+        "#e5897a": "darksalmon"
+      },
+      {
+        "#a46164": "indianred"
+      },
+      {
+        "#99504a": "sienna"
+      }
+    ],
+    "averageColorHSV": [
+      0.005957196795647268,
+      0.33014207804306317,
+      0.27272338806722674
+    ],
+    "averageColorRGB": [
+      107.14578374818313,
+      62.86797102107558,
+      61.226676053779066
+    ]
+  },
+  {
+    "framenumber": 122878,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_122878.png",
+    "palette": [
+      {
+        "#a5574e": "sienna"
+      },
+      {
+        "#d2736d": "indianred"
+      },
+      {
+        "#ac5d5d": "indianred"
+      },
+      {
+        "#804643": "sienna"
+      },
+      {
+        "#80464b": "sienna"
+      },
+      {
+        "#d3929e": "rosybrown"
+      }
+    ],
+    "averageColorHSV": [
+      0.9949279052521813,
+      0.3090788183460157,
+      0.25826303334505474
+    ],
+    "averageColorRGB": [
+      99.17012513626453,
+      58.460072220203486,
+      59.69898369367733
+    ]
+  },
+  {
+    "framenumber": 123596,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_123596.png",
+    "palette": [
+      {
+        "#8d403c": "sienna"
+      },
+      {
+        "#9e5a53": "sienna"
+      },
+      {
+        "#be8d9a": "rosybrown"
+      },
+      {
+        "#673332": "saddlebrown"
+      },
+      {
+        "#c6665a": "indianred"
+      },
+      {
+        "#ac646c": "indianred"
+      }
+    ],
+    "averageColorHSV": [
+      0.9980361189997606,
+      0.34448774554334816,
+      0.25631827151213893
+    ],
+    "averageColorRGB": [
+      110.36049350472383,
+      65.32825672238371,
+      65.85888444767441
+    ]
+  },
+  {
+    "framenumber": 124314,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_124314.png",
+    "palette": [
+      {
+        "#b1625c": "indianred"
+      },
+      {
+        "#74242f": "saddlebrown"
+      },
+      {
+        "#8a4d49": "sienna"
+      },
+      {
+        "#8d283b": "brown"
+      },
+      {
+        "#ce9797": "rosybrown"
+      },
+      {
+        "#cf7c79": "palevioletred"
+      }
+    ],
+    "averageColorHSV": [
+      0.9891830217176265,
+      0.3150930005450582,
+      0.28427423541912067
+    ],
+    "averageColorRGB": [
+      103.18978470203488,
+      57.507645575944764,
+      60.472501816860465
+    ]
+  },
+  {
+    "framenumber": 125032,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_125032.png",
+    "palette": [
+      {
+        "#a8818b": "rosybrown"
+      },
+      {
+        "#c69298": "rosybrown"
+      },
+      {
+        "#c08d8d": "rosybrown"
+      },
+      {
+        "#87606b": "dimgray"
+      },
+      {
+        "#704d58": "dimgray"
+      },
+      {
+        "#6d4044": "darkolivegreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.9794485309298379,
+      0.3536422797680119,
+      0.17819532224134568
+    ],
+    "averageColorRGB": [
+      106.2482183412064,
+      74.10934434047965,
+      78.0723507903343
+    ]
+  },
+  {
+    "framenumber": 125750,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_125750.png",
+    "palette": [
+      {
+        "#36211d": "darkslategrey"
+      },
+      {
+        "#3a1e17": "black"
+      },
+      {
+        "#341714": "black"
+      },
+      {
+        "#442b27": "darkslategrey"
+      },
+      {
+        "#2a1415": "black"
+      },
+      {
+        "#522f29": "darkolivegreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.013735576822220466,
+      0.1294895779896261,
+      0.30327136862256815
+    ],
+    "averageColorRGB": [
+      43.03381517986919,
+      24.656441905886627,
+      23.005869594840117
+    ]
+  },
+  {
+    "framenumber": 126468,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_126468.png",
+    "palette": [
+      {
+        "#14141c": "black"
+      },
+      {
+        "#b7634d": "indianred"
+      },
+      {
+        "#a55144": "sienna"
+      },
+      {
+        "#c98478": "rosybrown"
       },
       {
         "#f9b9ac": "lightpink"
       },
       {
-        "#a04d41": "sienna"
-      },
-      {
-        "#991a1e": "brown"
-      },
-      {
-        "#bf6b54": "indianred"
-      },
-      {
-        "#d59187": "darksalmon"
+        "#17151d": "black"
       }
     ],
+    "averageColorHSV": [
+      0.021044034666320488,
+      0.2807896284876596,
+      0.29398216406806954
+    ],
     "averageColorRGB": [
-      95.65312272892442,
-      56.75455464207849,
-      51.500400844840115
+      92.65087663517441,
+      55.86743618277616,
+      50.55183389353198
     ]
   },
   {
-    "framenumber": 129330,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_129330.png",
-    "averageColorHSV": [
-      0.8287110387705172,
-      37.895033157703494,
-      -0.021329378544532096
-    ],
+    "framenumber": 127186,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_127186.png",
     "palette": [
+      {
+        "#5c4a54": "dimgray"
+      },
+      {
+        "#c49393": "rosybrown"
+      },
+      {
+        "#a47b80": "rosybrown"
+      },
+      {
+        "#d9a6a0": "tan"
+      },
+      {
+        "#8f6e75": "grey"
+      },
+      {
+        "#edb8ac": "lightpink"
+      }
+    ],
+    "averageColorHSV": [
+      0.0035317112564323683,
+      0.4264878150115424,
+      0.13596462260317946
+    ],
+    "averageColorRGB": [
+      123.54114280523255,
+      94.59431322674419,
+      93.96764285065407
+    ]
+  },
+  {
+    "framenumber": 127904,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_127904.png",
+    "palette": [
+      {
+        "#564d50": "darkslategrey"
+      },
+      {
+        "#857779": "grey"
+      },
       {
         "#141518": "black"
       },
       {
-        "#080c0e": "black"
+        "#beafaf": "darkgrey"
       },
       {
-        "#695d60": "dimgray"
+        "#a79799": "darkgrey"
+      },
+      {
+        "#1d1c1f": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.9358951941960995,
+      0.2173918901226915,
+      0.040651370758234474
+    ],
+    "averageColorRGB": [
+      57.68843795421512,
+      53.181426008357555,
+      54.91495276162791
+    ]
+  },
+  {
+    "framenumber": 128622,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_128622.png",
+    "palette": [
+      {
+        "#282528": "darkslategrey"
+      },
+      {
+        "#cabcbc": "silver"
+      },
+      {
+        "#121215": "black"
+      },
+      {
+        "#070a0c": "black"
+      },
+      {
+        "#736769": "dimgray"
+      },
+      {
+        "#1a181c": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.9773300195233519,
+      0.33943545736790354,
+      0.0350443499540914
+    ],
+    "averageColorRGB": [
+      89.5893418422965,
+      83.5227414153343,
+      84.34791969476744
+    ]
+  },
+  {
+    "framenumber": 129340,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_129340.png",
+    "palette": [
+      {
+        "#b8a9aa": "darkgrey"
       },
       {
         "#0b0f11": "black"
       },
       {
-        "#2e2b2d": "darkslategrey"
+        "#080c0e": "black"
       },
       {
-        "#020608": "black"
+        "#121316": "black"
+      },
+      {
+        "#685c5f": "dimgray"
+      },
+      {
+        "#2e2b2d": "darkslategrey"
       }
     ],
+    "averageColorHSV": [
+      0.8329864514849326,
+      0.1487341247363771,
+      0.020829868410112785
+    ],
     "averageColorRGB": [
-      38.63833121366279,
-      37.10808502906977,
-      38.68198128633721
+      38.71393191315407,
+      37.13718318495639,
+      38.71722043059593
     ]
   },
   {
-    "framenumber": 132204,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_132204.png",
-    "averageColorHSV": [
-      0.11496847627515995,
-      61.12292253361192,
-      -0.8562508878630576
-    ],
+    "framenumber": 130058,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_130058.png",
     "palette": [
       {
-        "#110e08": "black"
+        "#837678": "grey"
       },
       {
-        "#a87a0b": "darkgoldenrod"
+        "#5f5557": "dimgray"
       },
       {
-        "#5f4212": "saddlebrown"
+        "#4e4649": "darkslategrey"
+      },
+      {
+        "#141518": "black"
+      },
+      {
+        "#403b3d": "darkslategrey"
+      },
+      {
+        "#988b8c": "grey"
+      }
+    ],
+    "averageColorHSV": [
+      0.9254123448214688,
+      0.19355359426655838,
+      0.034712044096982864
+    ],
+    "averageColorRGB": [
+      51.06941996729651,
+      47.64291310864826,
+      49.176363780886625
+    ]
+  },
+  {
+    "framenumber": 130776,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_130776.png",
+    "palette": [
+      {
+        "#956350": "sienna"
+      },
+      {
+        "#835c48": "sienna"
+      },
+      {
+        "#6e4e41": "darkolivegreen"
+      },
+      {
+        "#cfa19c": "tan"
+      },
+      {
+        "#cfa9aa": "tan"
+      },
+      {
+        "#d8a499": "tan"
+      }
+    ],
+    "averageColorHSV": [
+      0.01584867253395326,
+      0.30510035259561674,
+      0.2330131201858462
+    ],
+    "averageColorRGB": [
+      95.92914811954942,
+      63.11979469476744,
+      59.672031704215115
+    ]
+  },
+  {
+    "framenumber": 131494,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_131494.png",
+    "palette": [
+      {
+        "#643210": "saddlebrown"
+      },
+      {
+        "#672609": "maroon"
+      },
+      {
+        "#050914": "black"
+      },
+      {
+        "#8f570f": "saddlebrown"
+      },
+      {
+        "#832805": "saddlebrown"
+      },
+      {
+        "#9a3a0a": "saddlebrown"
+      }
+    ],
+    "averageColorHSV": [
+      0.05674962074415132,
+      0.17485734528186275,
+      0.620554428995181
+    ],
+    "averageColorRGB": [
+      72.25829056140988,
+      35.761873183139535,
+      16.918955532340117
+    ]
+  },
+  {
+    "framenumber": 132212,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_132212.png",
+    "palette": [
+      {
+        "#1f170d": "black"
+      },
+      {
+        "#835c0a": "saddlebrown"
       },
       {
         "#140f09": "black"
       },
       {
-        "#16130d": "black"
+        "#16130c": "black"
       },
       {
-        "#35270e": "black"
+        "#5e4212": "saddlebrown"
+      },
+      {
+        "#34270e": "black"
       }
     ],
+    "averageColorHSV": [
+      0.11490264971058406,
+      0.23984851035254218,
+      0.8424590236647197
+    ],
     "averageColorRGB": [
-      112.60322833393896,
-      80.66596452579942,
-      9.642616733284884
+      112.68731831395348,
+      80.68103765443314,
+      9.635421965843022
     ]
   },
   {
-    "framenumber": 135078,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_135078.png",
-    "averageColorHSV": [
-      0.046827187849948805,
-      1.369484125181686,
-      -0.15048596651633095
-    ],
+    "framenumber": 132930,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_132930.png",
     "palette": [
       {
+        "#2b0f06": "black"
+      },
+      {
+        "#561f06": "maroon"
+      },
+      {
+        "#391904": "black"
+      },
+      {
+        "#170b07": "black"
+      },
+      {
+        "#622906": "maroon"
+      },
+      {
+        "#211409": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.056995305611806824,
+      0.09963695298250115,
+      0.6236371885094089
+    ],
+    "averageColorRGB": [
+      41.25243686409884,
+      20.399506041061045,
+      9.562409156976743
+    ]
+  },
+  {
+    "framenumber": 133648,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_133648.png",
+    "palette": [
+      {
+        "#331508": "black"
+      },
+      {
+        "#3c1d0f": "black"
+      },
+      {
+        "#280f06": "black"
+      },
+      {
+        "#421403": "maroon"
+      },
+      {
+        "#892006": "darkred"
+      },
+      {
+        "#561d06": "maroon"
+      }
+    ],
+    "averageColorHSV": [
+      0.04299581825168145,
+      0.1519382049240481,
+      0.6222649127391235
+    ],
+    "averageColorRGB": [
+      62.85342478197674,
+      27.07418809047965,
+      14.635059729287791
+    ]
+  },
+  {
+    "framenumber": 134366,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_134366.png",
+    "palette": [
+      {
+        "#703926": "saddlebrown"
+      },
+      {
+        "#b5796e": "rosybrown"
+      },
+      {
+        "#e6a582": "darksalmon"
+      },
+      {
+        "#dead99": "tan"
+      },
+      {
+        "#823916": "saddlebrown"
+      },
+      {
+        "#b78266": "rosybrown"
+      }
+    ],
+    "averageColorHSV": [
+      0.04355065312390368,
+      0.2621696765097754,
+      0.31826016970254184
+    ],
+    "averageColorRGB": [
+      88.12999977289245,
+      56.69592228379361,
+      45.57653524709302
+    ]
+  },
+  {
+    "framenumber": 135084,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_135084.png",
+    "palette": [
+      {
+        "#e9dbd6": "gainsboro"
+      },
+      {
         "#ede2df": "antiquewhite"
-      },
-      {
-        "#e7ddd8": "gainsboro"
-      },
-      {
-        "#000002": "black"
-      },
-      {
-        "#d3cbc6": "lightgray"
       },
       {
         "#010000": "black"
       },
       {
-        "#e9dbd6": "gainsboro"
+        "#e7ddd8": "gainsboro"
+      },
+      {
+        "#d3cbc6": "lightgray"
+      },
+      {
+        "#000002": "black"
       }
+    ],
+    "averageColorHSV": [
+      0.046827187849948805,
+      0.005370525981104652,
+      0.04060081797810569
     ],
     "averageColorRGB": [
       1.425086300872093,
@@ -1617,85 +6411,391 @@
     ]
   },
   {
-    "framenumber": 137952,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_137952.png",
-    "averageColorHSV": [
-      0.051462850919537395,
-      10.371406022892442,
-      -0.042797777975689566
-    ],
+    "framenumber": 135802,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_135802.png",
     "palette": [
       {
-        "#e9ddd9": "gainsboro"
+        "#e6d9d4": "gainsboro"
       },
       {
-        "#837c79": "gray"
+        "#010000": "black"
       },
       {
-        "#080201": "black"
+        "#e3d9d4": "gainsboro"
+      },
+      {
+        "#b0a8a5": "darkgrey"
       },
       {
         "#000002": "black"
       },
       {
-        "#bdb5b1": "silver"
-      },
-      {
-        "#010000": "black"
+        "#e6dbd8": "gainsboro"
       }
     ],
+    "averageColorHSV": [
+      0.04894637789977655,
+      0.005734476975746694,
+      0.039817822135852964
+    ],
     "averageColorRGB": [
-      10.772481377180233,
-      10.21801644258721,
-      9.970330668604651
+      1.5205168968023255,
+      1.4382653524709301,
+      1.4040663608284885
     ]
   },
   {
-    "framenumber": 140826,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_140826.png",
-    "averageColorHSV": [
-      0.020544690994157882,
-      14.164313453851744,
-      -0.03570553352745589
-    ],
+    "framenumber": 136520,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_136520.png",
     "palette": [
       {
-        "#736d6c": "dimgray"
+        "#f8efea": "linen"
       },
       {
-        "#030000": "black"
+        "#010000": "black"
+      },
+      {
+        "#ebdbd6": "gainsboro"
+      },
+      {
+        "#978f8b": "grey"
+      },
+      {
+        "#e2d6d1": "gainsboro"
+      },
+      {
+        "#000002": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.04765828765828758,
+      0.007314682459102827,
+      0.04026370251949868
+    ],
+    "averageColorRGB": [
+      1.9403456577034883,
+      1.8330929778343024,
+      1.7901423964389536
+    ]
+  },
+  {
+    "framenumber": 137238,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_137238.png",
+    "palette": [
+      {
+        "#010000": "black"
+      },
+      {
+        "#e8dcd8": "gainsboro"
+      },
+      {
+        "#afa9a6": "darkgrey"
+      },
+      {
+        "#7e7875": "grey"
+      },
+      {
+        "#5a5553": "dimgray"
+      },
+      {
+        "#000002": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.04638487697148578,
+      0.012499269693342453,
+      0.03645832591108409
+    ],
+    "averageColorRGB": [
+      3.3035178960755816,
+      3.135791015625,
+      3.07110964752907
+    ]
+  },
+  {
+    "framenumber": 137956,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_137956.png",
+    "palette": [
+      {
+        "#e9ddd9": "gainsboro"
+      },
+      {
+        "#080201": "black"
+      },
+      {
+        "#010000": "black"
+      },
+      {
+        "#bdb5b1": "silver"
+      },
+      {
+        "#837c79": "grey"
+      },
+      {
+        "#000002": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.05146285091953764,
+      0.04067219829428864,
+      0.038671244549858826
+    ],
+    "averageColorRGB": [
+      10.772485919331395,
+      10.218020984738372,
+      9.970335210755813
+    ]
+  },
+  {
+    "framenumber": 138674,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_138674.png",
+    "palette": [
+      {
+        "#e6dcd9": "gainsboro"
+      },
+      {
+        "#837c78": "grey"
+      },
+      {
+        "#010000": "black"
+      },
+      {
+        "#d6ceca": "lightgray"
+      },
+      {
+        "#a8a39f": "darkgrey"
+      },
+      {
+        "#000002": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.052464441815811926,
+      0.059075567590771774,
+      0.038139524295524425
+    ],
+    "averageColorRGB": [
+      15.638813817223838,
+      14.851443268531977,
+      14.489725654069767
+    ]
+  },
+  {
+    "framenumber": 139392,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_139392.png",
+    "palette": [
+      {
+        "#060100": "black"
+      },
+      {
+        "#7a7473": "grey"
+      },
+      {
+        "#9e9796": "darkgrey"
       },
       {
         "#020001": "black"
       },
       {
-        "#090302": "black"
+        "#010000": "black"
       },
       {
-        "#484241": "darkslategrey"
+        "#020000": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.02079425293962948,
+      0.047390667749658,
+      0.03596605964932071
+    ],
+    "averageColorRGB": [
+      12.519256449854652,
+      11.758439316860464,
+      11.64998410247093
+    ]
+  },
+  {
+    "framenumber": 140110,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_140110.png",
+    "palette": [
+      {
+        "#817a79": "grey"
+      },
+      {
+        "#010000": "black"
+      },
+      {
+        "#020001": "black"
+      },
+      {
+        "#6a6463": "dimgray"
+      },
+      {
+        "#e6dad7": "gainsboro"
+      },
+      {
+        "#030000": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.01974696792464457,
+      0.05307872349521204,
+      0.03406804363394258
+    ],
+    "averageColorRGB": [
+      13.996187999636629,
+      13.183228106831395,
+      13.07396098292151
+    ]
+  },
+  {
+    "framenumber": 140828,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_140828.png",
+    "palette": [
+      {
+        "#6e6968": "dimgray"
+      },
+      {
+        "#020001": "black"
+      },
+      {
+        "#86807f": "grey"
+      },
+      {
+        "#777070": "dimgray"
+      },
+      {
+        "#010000": "black"
+      },
+      {
+        "#090404": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.009075928574571476,
+      0.057099201917322165,
+      0.03219835288762117
+    ],
+    "averageColorRGB": [
+      15.029114053415697,
+      14.142538381177326,
+      14.091478924418604
+    ]
+  },
+  {
+    "framenumber": 141546,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_141546.png",
+    "palette": [
+      {
+        "#020001": "black"
+      },
+      {
+        "#090201": "black"
+      },
+      {
+        "#504a48": "darkslategrey"
+      },
+      {
+        "#010000": "black"
+      },
+      {
+        "#020000": "black"
+      },
+      {
+        "#e6dbd7": "gainsboro"
+      }
+    ],
+    "averageColorHSV": [
+      0.03667918411424135,
+      0.03647201545043889,
+      0.035878720762953786
+    ],
+    "averageColorRGB": [
+      9.63404910065407,
+      9.113550372456395,
+      8.966678779069767
+    ]
+  },
+  {
+    "framenumber": 142264,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_142264.png",
+    "palette": [
+      {
+        "#030000": "black"
+      },
+      {
+        "#635d5c": "dimgray"
+      },
+      {
+        "#040000": "black"
+      },
+      {
+        "#070201": "black"
+      },
+      {
+        "#898382": "grey"
       },
       {
         "#010000": "black"
       }
     ],
+    "averageColorHSV": [
+      0.03248073425234518,
+      0.03515912669573644,
+      0.035281097483283376
+    ],
     "averageColorRGB": [
-      14.634352289244186,
-      13.81015625,
-      13.694274618459302
+      9.281892714389535,
+      8.772551780523255,
+      8.649261900436047
+    ]
+  },
+  {
+    "framenumber": 142982,
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_142982.png",
+    "palette": [
+      {
+        "#878180": "grey"
+      },
+      {
+        "#010000": "black"
+      },
+      {
+        "#020001": "black"
+      },
+      {
+        "#060101": "black"
+      },
+      {
+        "#020000": "black"
+      },
+      {
+        "#56514f": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.03459751450140014,
+      0.043156358655380755,
+      0.03450434563677017
+    ],
+    "averageColorRGB": [
+      11.38458734556686,
+      10.782802280159883,
+      10.625155568677325
     ]
   },
   {
     "framenumber": 143700,
-    "file": "../data/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_143700.png",
-    "averageColorHSV": [
-      0.0,
-      0.0,
-      0.0
-    ],
+    "file": "http://128.54.253.204/chromatography/budapest/The.Grand.Budapest.Hotel.2014.720p.BluRay.x264.YIFY.mp4_143700.png",
     "palette": [
       {
         "#ffffff": "white"
       }
+    ],
+    "averageColorHSV": [
+      0.0,
+      0.0,
+      0.0
     ],
     "averageColorRGB": [
       0.0,
