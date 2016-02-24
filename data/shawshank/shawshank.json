@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "framenumber": 0,
     "averageColorHSV": [
       0.0,
@@ -712,5 +713,6839 @@
       17.239631204044116
     ],
     "file": "../data/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_199950.png"
+=======
+    "averageColorRGB": [
+      106.71521714154412,
+      118.04551068474265,
+      176.26027544806985
+    ],
+    "framenumber": 100,
+    "averageColorHSV": [
+      0.6395133030318768,
+      0.5548539070384587,
+      0.30633282327009315
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_100.png",
+    "palette": [
+      {
+        "#2e3b94": "darkslateblue"
+      },
+      {
+        "#5367a1": "steelblue"
+      },
+      {
+        "#4453ad": "darkslateblue"
+      },
+      {
+        "#5f6cb3": "steelblue"
+      },
+      {
+        "#8087ae": "lightslategrey"
+      },
+      {
+        "#96a1cb": "darkgray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      4.840130974264706,
+      6.801951688878677,
+      4.611859489889706
+    ],
+    "framenumber": 1099,
+    "averageColorHSV": [
+      0.31596180558970843,
+      0.02238002191915369,
+      0.19188088576959403
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_1099.png",
+    "palette": [
+      {
+        "#020401": "black"
+      },
+      {
+        "#010602": "black"
+      },
+      {
+        "#050502": "black"
+      },
+      {
+        "#020404": "black"
+      },
+      {
+        "#040401": "black"
+      },
+      {
+        "#030505": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      12.158145680147058,
+      12.121065027573529,
+      7.752096737132353
+    ],
+    "framenumber": 2098,
+    "averageColorHSV": [
+      0.1652640247890605,
+      0.039039691014273355,
+      0.22129559503458615
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_2098.png",
+    "palette": [
+      {
+        "#040603": "black"
+      },
+      {
+        "#020703": "black"
+      },
+      {
+        "#231e15": "black"
+      },
+      {
+        "#1b160f": "black"
+      },
+      {
+        "#030502": "black"
+      },
+      {
+        "#060805": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      58.95637781479779,
+      54.8184814453125,
+      63.535666073069855
+    ],
+    "framenumber": 3097,
+    "averageColorHSV": [
+      0.7457804430020015,
+      0.23206695591839677,
+      0.07365339373851205
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_3097.png",
+    "palette": [
+      {
+        "#64718f": "slategrey"
+      },
+      {
+        "#171c18": "black"
+      },
+      {
+        "#7989af": "lightslategrey"
+      },
+      {
+        "#242a2c": "darkslategray"
+      },
+      {
+        "#495468": "darkslategray"
+      },
+      {
+        "#202627": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      49.70899873621323,
+      47.25105554917279,
+      54.21561207490809
+    ],
+    "framenumber": 4096,
+    "averageColorHSV": [
+      0.7254869513935285,
+      0.19895425024329583,
+      0.06863886130111184
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_4096.png",
+    "palette": [
+      {
+        "#848aa7": "lightslategrey"
+      },
+      {
+        "#716b7b": "dimgrey"
+      },
+      {
+        "#6c6a80": "dimgrey"
+      },
+      {
+        "#25292b": "darkslategray"
+      },
+      {
+        "#121927": "black"
+      },
+      {
+        "#222625": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      50.87619198069853,
+      45.084357766544116,
+      41.293995576746326
+    ],
+    "framenumber": 5095,
+    "averageColorHSV": [
+      0.06592716377347546,
+      0.18072585795577423,
+      0.10396199311171112
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_5095.png",
+    "palette": [
+      {
+        "#312d25": "darkslategray"
+      },
+      {
+        "#292a22": "darkslategray"
+      },
+      {
+        "#28271f": "darkslategray"
+      },
+      {
+        "#060905": "black"
+      },
+      {
+        "#a87377": "rosybrown"
+      },
+      {
+        "#1f2017": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      44.082296932444855,
+      42.1809512867647,
+      43.890675264246326
+    ],
+    "framenumber": 6094,
+    "averageColorHSV": [
+      0.8501303553647112,
+      0.16914362395923443,
+      0.022041201611704978
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_6094.png",
+    "palette": [
+      {
+        "#151a21": "black"
+      },
+      {
+        "#797a89": "slategrey"
+      },
+      {
+        "#060808": "black"
+      },
+      {
+        "#08090d": "black"
+      },
+      {
+        "#060a0e": "black"
+      },
+      {
+        "#666570": "dimgrey"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      9.986916934742647,
+      13.781494140625,
+      14.316054400275736
+    ],
+    "framenumber": 7093,
+    "averageColorHSV": [
+      0.5205799370700936,
+      0.04765288497062428,
+      0.1781320236877864
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_7093.png",
+    "palette": [
+      {
+        "#020703": "black"
+      },
+      {
+        "#070909": "black"
+      },
+      {
+        "#040905": "black"
+      },
+      {
+        "#060b07": "black"
+      },
+      {
+        "#060805": "black"
+      },
+      {
+        "#050a09": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      47.38735782398897,
+      47.16946231617647,
+      50.37971765854779
+    ],
+    "framenumber": 8092,
+    "averageColorHSV": [
+      0.6779791368896504,
+      0.19127290191122404,
+      0.03290909614210104
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_8092.png",
+    "palette": [
+      {
+        "#2b3033": "darkslategray"
+      },
+      {
+        "#7b5554": "dimgrey"
+      },
+      {
+        "#111b28": "black"
+      },
+      {
+        "#151d2c": "black"
+      },
+      {
+        "#313735": "darkslategray"
+      },
+      {
+        "#393e42": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      46.228400735294116,
+      44.618401022518384,
+      41.88462919347426
+    ],
+    "framenumber": 9091,
+    "averageColorHSV": [
+      0.104892403706649,
+      0.17277064691915367,
+      0.04929772072679162
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_9091.png",
+    "palette": [
+      {
+        "#262925": "darkslategray"
+      },
+      {
+        "#4e534f": "darkslategray"
+      },
+      {
+        "#5a605a": "dimgrey"
+      },
+      {
+        "#292e2a": "darkslategray"
+      },
+      {
+        "#030502": "black"
+      },
+      {
+        "#404540": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      40.640431123621326,
+      39.985085880055145,
+      46.14493336397059
+    ],
+    "framenumber": 10090,
+    "averageColorHSV": [
+      0.684398308163674,
+      0.16888239067456023,
+      0.07151800891235387
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_10090.png",
+    "palette": [
+      {
+        "#141612": "black"
+      },
+      {
+        "#4b4352": "darkslategray"
+      },
+      {
+        "#0b182a": "black"
+      },
+      {
+        "#463942": "darkslategray"
+      },
+      {
+        "#10100b": "black"
+      },
+      {
+        "#6f729a": "slategrey"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      14.273365693933822,
+      12.369700712316176,
+      8.861012178308824
+    ],
+    "framenumber": 11089,
+    "averageColorHSV": [
+      0.10804568117111069,
+      0.04536152523969146,
+      0.23395284478857373
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_11089.png",
+    "palette": [
+      {
+        "#020401": "black"
+      },
+      {
+        "#010300": "black"
+      },
+      {
+        "#030300": "black"
+      },
+      {
+        "#050502": "black"
+      },
+      {
+        "#22150f": "black"
+      },
+      {
+        "#040401": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      50.38934685202206,
+      56.51003848805147,
+      65.36274988511029
+    ],
+    "framenumber": 12088,
+    "averageColorHSV": [
+      0.5985381810834417,
+      0.22696489556300461,
+      0.1293575101891427
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_12088.png",
+    "palette": [
+      {
+        "#41454f": "darkslategray"
+      },
+      {
+        "#2b323d": "darkslategray"
+      },
+      {
+        "#030c11": "black"
+      },
+      {
+        "#474e60": "darkslategray"
+      },
+      {
+        "#040e11": "black"
+      },
+      {
+        "#343c48": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      44.315013212316174,
+      56.777350930606616,
+      61.66026395909926
+    ],
+    "framenumber": 13087,
+    "averageColorHSV": [
+      0.546918828096679,
+      0.20779466112042244,
+      0.16367261506405004
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_13087.png",
+    "palette": [
+      {
+        "#95bcf7": "lightskyblue"
+      },
+      {
+        "#182719": "black"
+      },
+      {
+        "#2d3a2f": "darkslategray"
+      },
+      {
+        "#363a45": "darkslategray"
+      },
+      {
+        "#233424": "darkslategray"
+      },
+      {
+        "#121e14": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      27.194831399356616,
+      30.152056525735293,
+      26.963170668658087
+    ],
+    "framenumber": 14086,
+    "averageColorHSV": [
+      0.3212256181269708,
+      0.11199064155763408,
+      0.055832498857506754
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_14086.png",
+    "palette": [
+      {
+        "#131812": "black"
+      },
+      {
+        "#000400": "black"
+      },
+      {
+        "#030500": "black"
+      },
+      {
+        "#161c18": "black"
+      },
+      {
+        "#010300": "black"
+      },
+      {
+        "#040601": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      20.57277544806985,
+      22.19125545726103,
+      26.025160845588236
+    ],
+    "framenumber": 15085,
+    "averageColorHSV": [
+      0.6171935189465324,
+      0.09136850253658449,
+      0.11700916030181457
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_15085.png",
+    "palette": [
+      {
+        "#0d120e": "black"
+      },
+      {
+        "#050301": "black"
+      },
+      {
+        "#333f56": "darkslategray"
+      },
+      {
+        "#44516c": "darkslategray"
+      },
+      {
+        "#030100": "black"
+      },
+      {
+        "#040200": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      47.67379222196691,
+      52.43360811121323,
+      63.37640739889706
+    ],
+    "framenumber": 16084,
+    "averageColorHSV": [
+      0.616146250846172,
+      0.21774548945267444,
+      0.14140105313219048
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_16084.png",
+    "palette": [
+      {
+        "#0a141d": "black"
+      },
+      {
+        "#0f1b2f": "black"
+      },
+      {
+        "#363c4e": "darkslategray"
+      },
+      {
+        "#0a1423": "black"
+      },
+      {
+        "#3d404a": "darkslategray"
+      },
+      {
+        "#404250": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      44.039938534007355,
+      49.46271110983456,
+      65.1319939108456
+    ],
+    "framenumber": 17083,
+    "averageColorHSV": [
+      0.6238166260633684,
+      0.21406261263696658,
+      0.19320034833580202
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_17083.png",
+    "palette": [
+      {
+        "#45516b": "darkslategray"
+      },
+      {
+        "#323d52": "darkslategray"
+      },
+      {
+        "#55638b": "dimgrey"
+      },
+      {
+        "#283143": "darkslategray"
+      },
+      {
+        "#4a5476": "darkslateblue"
+      },
+      {
+        "#2b3542": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      76.73265165441177,
+      79.93818215762867,
+      90.83604520909927
+    ],
+    "framenumber": 18082,
+    "averageColorHSV": [
+      0.6287853523717879,
+      0.3285660722813942,
+      0.08416484593285983
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_18082.png",
+    "palette": [
+      {
+        "#434558": "darkslategray"
+      },
+      {
+        "#353849": "darkslategray"
+      },
+      {
+        "#52556d": "dimgrey"
+      },
+      {
+        "#d0e3f5": "lavender"
+      },
+      {
+        "#3f4355": "darkslategray"
+      },
+      {
+        "#333446": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      12.539601045496322,
+      14.522475298713236,
+      14.586598115808822
+    ],
+    "framenumber": 19081,
+    "averageColorHSV": [
+      0.5052208849429211,
+      0.05318862580648068,
+      0.07546199370358124
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_19081.png",
+    "palette": [
+      {
+        "#070c16": "black"
+      },
+      {
+        "#050a04": "black"
+      },
+      {
+        "#080a07": "black"
+      },
+      {
+        "#060b07": "black"
+      },
+      {
+        "#070904": "black"
+      },
+      {
+        "#040601": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      23.33580824908088,
+      23.700087603400736,
+      23.699620863970587
+    ],
+    "framenumber": 20080,
+    "averageColorHSV": [
+      0.49978645535602667,
+      0.09222724676957181,
+      0.007744709603540689
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_20080.png",
+    "palette": [
+      {
+        "#12171b": "black"
+      },
+      {
+        "#080a07": "black"
+      },
+      {
+        "#1d1713": "black"
+      },
+      {
+        "#080d09": "black"
+      },
+      {
+        "#0a0c09": "black"
+      },
+      {
+        "#090b0b": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      52.18936695772059,
+      52.6782657398897,
+      58.9605712890625
+    ],
+    "framenumber": 21079,
+    "averageColorHSV": [
+      0.6546328944787033,
+      0.21794105538584918,
+      0.06091955099703252
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_21079.png",
+    "palette": [
+      {
+        "#080d07": "black"
+      },
+      {
+        "#161a21": "black"
+      },
+      {
+        "#2e3144": "darkslategray"
+      },
+      {
+        "#0f1516": "black"
+      },
+      {
+        "#0b150e": "black"
+      },
+      {
+        "#2c1f1b": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      30.416432100183822,
+      24.493365119485293,
+      16.548892750459558
+    ],
+    "framenumber": 22078,
+    "averageColorHSV": [
+      0.09548043778922348,
+      0.0920888722561635,
+      0.29527187119060866
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_22078.png",
+    "palette": [
+      {
+        "#1a170e": "black"
+      },
+      {
+        "#332a1f": "darkslategray"
+      },
+      {
+        "#111006": "black"
+      },
+      {
+        "#060602": "black"
+      },
+      {
+        "#141006": "black"
+      },
+      {
+        "#0a0903": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      24.115162568933822,
+      22.968333524816178,
+      17.218469956341913
+    ],
+    "framenumber": 23077,
+    "averageColorHSV": [
+      0.13895219760788488,
+      0.08104633828485439,
+      0.16685425865666526
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_23077.png",
+    "palette": [
+      {
+        "#040603": "black"
+      },
+      {
+        "#0b0d0a": "black"
+      },
+      {
+        "#171912": "black"
+      },
+      {
+        "#13130c": "black"
+      },
+      {
+        "#030502": "black"
+      },
+      {
+        "#0f110d": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      11.047758214613971,
+      12.005170036764707,
+      5.917624080882353
+    ],
+    "framenumber": 24076,
+    "averageColorHSV": [
+      0.19287897589300318,
+      0.035142733564013845,
+      0.3396538461538461
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_24076.png",
+    "palette": [
+      {
+        "#090b06": "black"
+      },
+      {
+        "#060601": "black"
+      },
+      {
+        "#020703": "black"
+      },
+      {
+        "#030500": "black"
+      },
+      {
+        "#060803": "black"
+      },
+      {
+        "#040601": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      8.236040900735293,
+      10.099063648897058,
+      4.314812155330882
+    ],
+    "framenumber": 25075,
+    "averageColorHSV": [
+      0.22034756067787406,
+      0.02826250157691753,
+      0.4012974422791623
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_25075.png",
+    "palette": [
+      {
+        "#020400": "black"
+      },
+      {
+        "#10130c": "black"
+      },
+      {
+        "#010600": "black"
+      },
+      {
+        "#2a1c11": "black"
+      },
+      {
+        "#14170f": "black"
+      },
+      {
+        "#040601": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      12.587538775275736,
+      13.464994542738971,
+      8.327823414522058
+    ],
+    "framenumber": 26074,
+    "averageColorHSV": [
+      0.19513420731511286,
+      0.042731015602472604,
+      0.23572771260199915
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_26074.png",
+    "palette": [
+      {
+        "#000400": "black"
+      },
+      {
+        "#030500": "black"
+      },
+      {
+        "#0a0b06": "black"
+      },
+      {
+        "#0d0d06": "black"
+      },
+      {
+        "#040601": "black"
+      },
+      {
+        "#010300": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      21.331191119025736,
+      18.736019358915442,
+      12.159459731158089
+    ],
+    "framenumber": 27073,
+    "averageColorHSV": [
+      0.11950778156704445,
+      0.0656679428434977,
+      0.2738594549534502
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_27073.png",
+    "palette": [
+      {
+        "#0d0d07": "black"
+      },
+      {
+        "#10120a": "black"
+      },
+      {
+        "#15140c": "black"
+      },
+      {
+        "#090904": "black"
+      },
+      {
+        "#010300": "black"
+      },
+      {
+        "#020400": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      24.718225815716913,
+      22.857134650735293,
+      17.58840762867647
+    ],
+    "framenumber": 28072,
+    "averageColorHSV": [
+      0.1231617900073889,
+      0.08295418322430076,
+      0.16852719317436748
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_28072.png",
+    "palette": [
+      {
+        "#171710": "black"
+      },
+      {
+        "#0b0b06": "black"
+      },
+      {
+        "#020401": "black"
+      },
+      {
+        "#060603": "black"
+      },
+      {
+        "#0f0f0a": "black"
+      },
+      {
+        "#090904": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      26.780115464154413,
+      30.928904813878678,
+      35.6479923023897
+    ],
+    "framenumber": 29071,
+    "averageColorHSV": [
+      0.5886925467917324,
+      0.12240805444420413,
+      0.14204942541903662
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_29071.png",
+    "palette": [
+      {
+        "#4e586b": "dimgrey"
+      },
+      {
+        "#2c323c": "darkslategray"
+      },
+      {
+        "#20252d": "darkslategray"
+      },
+      {
+        "#31343d": "darkslategray"
+      },
+      {
+        "#3d404b": "darkslategray"
+      },
+      {
+        "#434959": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      35.263865751378674,
+      38.07888614430147,
+      36.35187126608456
+    ],
+    "framenumber": 30070,
+    "averageColorHSV": [
+      0.3977500078650244,
+      0.14380931744251008,
+      0.03838171216873307
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_30070.png",
+    "palette": [
+      {
+        "#1b211a": "black"
+      },
+      {
+        "#131814": "black"
+      },
+      {
+        "#16130a": "black"
+      },
+      {
+        "#1b2322": "black"
+      },
+      {
+        "#21292a": "darkslategray"
+      },
+      {
+        "#1a211c": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      48.1422119140625,
+      45.42107795266544,
+      45.89644129136029
+    ],
+    "framenumber": 31069,
+    "averageColorHSV": [
+      0.9708844826312292,
+      0.18345743111123125,
+      0.029083350588388405
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_31069.png",
+    "palette": [
+      {
+        "#494750": "darkslategray"
+      },
+      {
+        "#6b4b4b": "dimgrey"
+      },
+      {
+        "#636073": "dimgrey"
+      },
+      {
+        "#141711": "black"
+      },
+      {
+        "#111410": "black"
+      },
+      {
+        "#4f4d5b": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      39.697926240808826,
+      39.04116641773897,
+      37.382618623621326
+    ],
+    "framenumber": 32068,
+    "averageColorHSV": [
+      0.11939002415960852,
+      0.15113832326358853,
+      0.03003750974074825
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_32068.png",
+    "palette": [
+      {
+        "#2a2f2b": "darkslategray"
+      },
+      {
+        "#0d120d": "black"
+      },
+      {
+        "#000400": "black"
+      },
+      {
+        "#4c4f63": "darkslategray"
+      },
+      {
+        "#010300": "black"
+      },
+      {
+        "#2a2f31": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      62.30938361672794,
+      56.13133329503676,
+      57.48688103170956
+    ],
+    "framenumber": 33067,
+    "averageColorHSV": [
+      0.9634310808402488,
+      0.2322366998269896,
+      0.05216154108805056
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_33067.png",
+    "palette": [
+      {
+        "#161b18": "black"
+      },
+      {
+        "#674344": "darkolivegreen"
+      },
+      {
+        "#1b1d1a": "black"
+      },
+      {
+        "#7b5659": "dimgrey"
+      },
+      {
+        "#242622": "darkslategray"
+      },
+      {
+        "#8c606a": "dimgrey"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      57.809441061580884,
+      53.822509765625,
+      56.610847024356616
+    ],
+    "framenumber": 34066,
+    "averageColorHSV": [
+      0.883438453798625,
+      0.21888617809256056,
+      0.0357149657101955
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_34066.png",
+    "palette": [
+      {
+        "#482e22": "darkslategray"
+      },
+      {
+        "#30342f": "darkslategray"
+      },
+      {
+        "#24140d": "black"
+      },
+      {
+        "#192536": "darkslategray"
+      },
+      {
+        "#666478": "dimgrey"
+      },
+      {
+        "#2d2d27": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      57.071798885569855,
+      50.628733915441174,
+      51.61709415211397
+    ],
+    "framenumber": 35065,
+    "averageColorHSV": [
+      0.9744334867216397,
+      0.21117751529610007,
+      0.05982389132682361
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_35065.png",
+    "palette": [
+      {
+        "#805157": "dimgrey"
+      },
+      {
+        "#4e4c51": "darkslategray"
+      },
+      {
+        "#472c28": "darkslategray"
+      },
+      {
+        "#39231d": "darkslategray"
+      },
+      {
+        "#5a5868": "dimgrey"
+      },
+      {
+        "#5f3b3c": "darkolivegreen"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      96.95074821920956,
+      92.5867919921875,
+      90.2876335592831
+    ],
+    "framenumber": 36064,
+    "averageColorHSV": [
+      0.05750960199669817,
+      0.367134081918613,
+      0.03558626493476687
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_36064.png",
+    "palette": [
+      {
+        "#312e27": "darkslategray"
+      },
+      {
+        "#4e4444": "darkslategray"
+      },
+      {
+        "#251c15": "black"
+      },
+      {
+        "#2b221a": "black"
+      },
+      {
+        "#322a24": "darkslategray"
+      },
+      {
+        "#49464b": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      65.4041748046875,
+      59.18059943704044,
+      60.377297794117645
+    ],
+    "framenumber": 37063,
+    "averageColorHSV": [
+      0.9679525490739032,
+      0.24428387106221164,
+      0.04995454224263109
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_37063.png",
+    "palette": [
+      {
+        "#525262": "dimgrey"
+      },
+      {
+        "#bbb3cd": "silver"
+      },
+      {
+        "#784c3d": "sienna"
+      },
+      {
+        "#423f44": "darkslategray"
+      },
+      {
+        "#241910": "black"
+      },
+      {
+        "#272a25": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      55.314891142003674,
+      49.0218936695772,
+      46.592335420496326
+    ],
+    "framenumber": 38062,
+    "averageColorHSV": [
+      0.04642290491173121,
+      0.19981809129901962,
+      0.08559310282237712
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_38062.png",
+    "palette": [
+      {
+        "#514544": "darkslategray"
+      },
+      {
+        "#331f15": "black"
+      },
+      {
+        "#4c4e5f": "darkslategray"
+      },
+      {
+        "#917f74": "gray"
+      },
+      {
+        "#2a1e15": "black"
+      },
+      {
+        "#211810": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      84.8570197610294,
+      78.16157801011029,
+      80.40983312270221
+    ],
+    "framenumber": 39061,
+    "averageColorHSV": [
+      0.9440351810423042,
+      0.31964430935517585,
+      0.04107164361896175
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_39061.png",
+    "palette": [
+      {
+        "#a9a2bd": "darkgray"
+      },
+      {
+        "#4a291b": "darkslategray"
+      },
+      {
+        "#6c6975": "dimgrey"
+      },
+      {
+        "#9794ac": "darkgray"
+      },
+      {
+        "#a7b8de": "lightsteelblue"
+      },
+      {
+        "#583426": "darkolivegreen"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      67.14789177389706,
+      55.34311092601103,
+      50.07999195772059
+    ],
+    "framenumber": 40060,
+    "averageColorHSV": [
+      0.05139393271360201,
+      0.22985859555219146,
+      0.14559590494060143
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_40060.png",
+    "palette": [
+      {
+        "#22211b": "black"
+      },
+      {
+        "#221810": "black"
+      },
+      {
+        "#443e3d": "darkslategray"
+      },
+      {
+        "#673f30": "saddlebrown"
+      },
+      {
+        "#321b0e": "black"
+      },
+      {
+        "#543122": "darkolivegreen"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      68.0493523092831,
+      59.522956399356616,
+      53.53682933134191
+    ],
+    "framenumber": 41059,
+    "averageColorHSV": [
+      0.0687466849276027,
+      0.2384042777267157,
+      0.11935996987582169
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_41059.png",
+    "palette": [
+      {
+        "#9b8979": "gray"
+      },
+      {
+        "#2e2217": "black"
+      },
+      {
+        "#a38c7c": "rosybrown"
+      },
+      {
+        "#1e180f": "black"
+      },
+      {
+        "#2e1d12": "black"
+      },
+      {
+        "#261d11": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      41.26299689797794,
+      41.31239229090073,
+      39.068064970128674
+    ],
+    "framenumber": 42058,
+    "averageColorHSV": [
+      0.17033483280755735,
+      0.15760873972750866,
+      0.027921305715937605
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_42058.png",
+    "palette": [
+      {
+        "#5a5b68": "dimgrey"
+      },
+      {
+        "#4f5054": "darkslategray"
+      },
+      {
+        "#11120b": "black"
+      },
+      {
+        "#534534": "darkolivegreen"
+      },
+      {
+        "#3a3b35": "darkslategray"
+      },
+      {
+        "#090904": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      39.88039981617647,
+      37.7582217945772,
+      39.924876493566174
+    ],
+    "framenumber": 43057,
+    "averageColorHSV": [
+      0.8299120315594927,
+      0.152319800564987,
+      0.02789094084471734
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_43057.png",
+    "palette": [
+      {
+        "#3b373e": "darkslategray"
+      },
+      {
+        "#504c56": "darkslategray"
+      },
+      {
+        "#0f110c": "black"
+      },
+      {
+        "#39221a": "darkslategray"
+      },
+      {
+        "#030603": "black"
+      },
+      {
+        "#060b04": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      18.087811638327207,
+      18.1195068359375,
+      15.040749942555147
+    ],
+    "framenumber": 44056,
+    "averageColorHSV": [
+      0.16838246726995676,
+      0.06502011133037774,
+      0.09284478446437118
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_44056.png",
+    "palette": [
+      {
+        "#060601": "black"
+      },
+      {
+        "#080806": "black"
+      },
+      {
+        "#080803": "black"
+      },
+      {
+        "#050502": "black"
+      },
+      {
+        "#040401": "black"
+      },
+      {
+        "#252828": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      15.710061465992647,
+      15.928007238051471,
+      13.896448471966911
+    ],
+    "framenumber": 45055,
+    "averageColorHSV": [
+      0.18454667877832484,
+      0.05847932492160467,
+      0.06811721178878498
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_45055.png",
+    "palette": [
+      {
+        "#040603": "black"
+      },
+      {
+        "#020401": "black"
+      },
+      {
+        "#050502": "black"
+      },
+      {
+        "#030502": "black"
+      },
+      {
+        "#010300": "black"
+      },
+      {
+        "#040401": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      18.109655043658087,
+      20.883875229779413,
+      17.681777056525736
+    ],
+    "framenumber": 46054,
+    "averageColorHSV": [
+      0.31106262394314294,
+      0.07561892605157872,
+      0.08302979421900662
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_46054.png",
+    "palette": [
+      {
+        "#050500": "black"
+      },
+      {
+        "#080a06": "black"
+      },
+      {
+        "#070c05": "black"
+      },
+      {
+        "#050a04": "black"
+      },
+      {
+        "#030500": "black"
+      },
+      {
+        "#000600": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      50.799323586856616,
+      63.46406824448529,
+      90.63206571691177
+    ],
+    "framenumber": 47053,
+    "averageColorHSV": [
+      0.6136753167520751,
+      0.2773164496152321,
+      0.28164003992424774
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_47053.png",
+    "palette": [
+      {
+        "#162540": "midnightblue"
+      },
+      {
+        "#18283e": "darkslategray"
+      },
+      {
+        "#35486e": "darkslategray"
+      },
+      {
+        "#212f48": "darkslategray"
+      },
+      {
+        "#27374c": "darkslategray"
+      },
+      {
+        "#536183": "dimgrey"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      74.29796645220588,
+      68.648681640625,
+      69.2267707375919
+    ],
+    "framenumber": 48052,
+    "averageColorHSV": [
+      0.982945065430175,
+      0.28028754528006056,
+      0.03952023280680341
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_48052.png",
+    "palette": [
+      {
+        "#452e26": "darkslategray"
+      },
+      {
+        "#3b2b21": "darkslategray"
+      },
+      {
+        "#362b22": "darkslategray"
+      },
+      {
+        "#727488": "slategrey"
+      },
+      {
+        "#2c1e13": "black"
+      },
+      {
+        "#31393f": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      49.623757755055145,
+      45.77479463465073,
+      39.17929256663603
+    ],
+    "framenumber": 49051,
+    "averageColorHSV": [
+      0.10524716439171745,
+      0.17412362808174742,
+      0.1176138111313045
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_49051.png",
+    "palette": [
+      {
+        "#060601": "black"
+      },
+      {
+        "#a89d98": "darkgray"
+      },
+      {
+        "#020600": "black"
+      },
+      {
+        "#534843": "darkslategray"
+      },
+      {
+        "#0c0c07": "black"
+      },
+      {
+        "#000500": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      85.41037884880515,
+      87.13502412683823,
+      85.14009363511029
+    ],
+    "framenumber": 50050,
+    "averageColorHSV": [
+      0.3107523282293459,
+      0.33779434855284024,
+      0.011579910770889988
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_50050.png",
+    "palette": [
+      {
+        "#000501": "black"
+      },
+      {
+        "#020401": "black"
+      },
+      {
+        "#010602": "black"
+      },
+      {
+        "#251913": "black"
+      },
+      {
+        "#e5fefa": "lightcyan"
+      },
+      {
+        "#d1f7fa": "lightcyan"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      70.66536218979779,
+      65.89694393382352,
+      59.21693330652573
+    ],
+    "framenumber": 51049,
+    "averageColorHSV": [
+      0.09724785085370001,
+      0.25467116763985004,
+      0.08814464542317944
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_51049.png",
+    "palette": [
+      {
+        "#573a30": "darkolivegreen"
+      },
+      {
+        "#151c12": "black"
+      },
+      {
+        "#222919": "black"
+      },
+      {
+        "#333c2b": "darkslategray"
+      },
+      {
+        "#877e80": "gray"
+      },
+      {
+        "#252724": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      99.60637350643383,
+      97.2476806640625,
+      86.56255744485294
+    ],
+    "framenumber": 52048,
+    "averageColorHSV": [
+      0.13652859419825517,
+      0.365037119512327,
+      0.07006440867941575
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_52048.png",
+    "palette": [
+      {
+        "#605d40": "darkolivegreen"
+      },
+      {
+        "#32372b": "darkslategray"
+      },
+      {
+        "#697543": "darkolivegreen"
+      },
+      {
+        "#262721": "darkslategray"
+      },
+      {
+        "#d6e2ea": "gainsboro"
+      },
+      {
+        "#525645": "darkolivegreen"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      66.08801987591912,
+      60.1797305836397,
+      54.965676700367645
+    ],
+    "framenumber": 53047,
+    "averageColorHSV": [
+      0.07813182589578348,
+      0.23736018936526815,
+      0.09187941789569636
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_53047.png",
+    "palette": [
+      {
+        "#262720": "darkslategray"
+      },
+      {
+        "#030502": "black"
+      },
+      {
+        "#171812": "black"
+      },
+      {
+        "#21211a": "black"
+      },
+      {
+        "#62544f": "dimgrey"
+      },
+      {
+        "#523931": "darkolivegreen"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      106.24482996323529,
+      95.46959731158088,
+      85.99224494485294
+    ],
+    "framenumber": 54046,
+    "averageColorHSV": [
+      0.0779929439305796,
+      0.3769354409962514,
+      0.10535212850104723
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_54046.png",
+    "palette": [
+      {
+        "#241b11": "black"
+      },
+      {
+        "#1c180e": "black"
+      },
+      {
+        "#3a291a": "darkslategray"
+      },
+      {
+        "#574939": "darkolivegreen"
+      },
+      {
+        "#806a57": "dimgrey"
+      },
+      {
+        "#e8d7d4": "gainsboro"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      78.54445513556985,
+      63.322028664981616,
+      52.254954618566174
+    ],
+    "framenumber": 55045,
+    "averageColorHSV": [
+      0.07016155897964803,
+      0.2564694308904628,
+      0.2009909721031625
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_55045.png",
+    "palette": [
+      {
+        "#5c3826": "darkolivegreen"
+      },
+      {
+        "#6f4c38": "darkolivegreen"
+      },
+      {
+        "#4a2818": "saddlebrown"
+      },
+      {
+        "#4a2f1e": "darkolivegreen"
+      },
+      {
+        "#1d130b": "black"
+      },
+      {
+        "#3b2113": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      61.17127900965073,
+      64.17526424632352,
+      77.85656020220588
+    ],
+    "framenumber": 56044,
+    "averageColorHSV": [
+      0.6366603275265433,
+      0.2726036062977581,
+      0.12001395754363554
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_56044.png",
+    "palette": [
+      {
+        "#303138": "darkslategray"
+      },
+      {
+        "#3c3c46": "darkslategray"
+      },
+      {
+        "#595f74": "dimgrey"
+      },
+      {
+        "#505161": "dimgrey"
+      },
+      {
+        "#4a4d5e": "darkslategray"
+      },
+      {
+        "#3b4558": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      70.24655330882352,
+      72.39850212545956,
+      86.43829704733456
+    ],
+    "framenumber": 57043,
+    "averageColorHSV": [
+      0.6445159865485667,
+      0.30722519677678056,
+      0.10333956155752014
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_57043.png",
+    "palette": [
+      {
+        "#525366": "dimgrey"
+      },
+      {
+        "#3e4253": "darkslategray"
+      },
+      {
+        "#525162": "dimgrey"
+      },
+      {
+        "#43424e": "darkslategray"
+      },
+      {
+        "#455167": "darkslategray"
+      },
+      {
+        "#3f404a": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      36.39590274586397,
+      31.878037396599264,
+      26.996617934283087
+    ],
+    "framenumber": 58042,
+    "averageColorHSV": [
+      0.0865565760262555,
+      0.1242990601571511,
+      0.14827119525670643
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_58042.png",
+    "palette": [
+      {
+        "#030300": "black"
+      },
+      {
+        "#91796e": "gray"
+      },
+      {
+        "#020401": "black"
+      },
+      {
+        "#050502": "black"
+      },
+      {
+        "#040401": "black"
+      },
+      {
+        "#010300": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      22.832533892463236,
+      25.092543658088236,
+      23.101813821231616
+    ],
+    "framenumber": 59041,
+    "averageColorHSV": [
+      0.3531916493506766,
+      0.09397074029519897,
+      0.04715714363197717
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_59041.png",
+    "palette": [
+      {
+        "#282f2d": "darkslategray"
+      },
+      {
+        "#0f100c": "black"
+      },
+      {
+        "#1f2521": "black"
+      },
+      {
+        "#2f3433": "darkslategray"
+      },
+      {
+        "#050502": "black"
+      },
+      {
+        "#262d28": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      24.648868336397058,
+      32.259837431066174,
+      44.640754250919116
+    ],
+    "framenumber": 60040,
+    "averageColorHSV": [
+      0.6032161820783123,
+      0.13586200507316898,
+      0.28852640796721085
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_60040.png",
+    "palette": [
+      {
+        "#1c2a3a": "darkslategray"
+      },
+      {
+        "#273654": "darkslategray"
+      },
+      {
+        "#0e191f": "black"
+      },
+      {
+        "#3f517a": "darkslateblue"
+      },
+      {
+        "#000200": "black"
+      },
+      {
+        "#172630": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      24.41946231617647,
+      32.68057789522059,
+      48.09329044117647
+    ],
+    "framenumber": 61039,
+    "averageColorHSV": [
+      0.6085073952029455,
+      0.14218186815167244,
+      0.3264781328081553
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_61039.png",
+    "palette": [
+      {
+        "#3c4e7c": "darkslateblue"
+      },
+      {
+        "#263557": "darkslategray"
+      },
+      {
+        "#1a2a3b": "darkslategray"
+      },
+      {
+        "#2d3d5b": "darkslategray"
+      },
+      {
+        "#0e1922": "black"
+      },
+      {
+        "#152430": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      29.116928998161764,
+      26.88278377757353,
+      21.510706284466913
+    ],
+    "framenumber": 62038,
+    "averageColorHSV": [
+      0.11771233666863969,
+      0.09926987310319349,
+      0.15023855392876095
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_62038.png",
+    "palette": [
+      {
+        "#060601": "black"
+      },
+      {
+        "#0c0d05": "black"
+      },
+      {
+        "#111009": "black"
+      },
+      {
+        "#191912": "black"
+      },
+      {
+        "#12130b": "black"
+      },
+      {
+        "#090904": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      39.35824046415441,
+      37.544972139246326,
+      38.00926298253676
+    ],
+    "framenumber": 63037,
+    "averageColorHSV": [
+      0.9573246793361404,
+      0.15079061294784457,
+      0.023578577064905407
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_63037.png",
+    "palette": [
+      {
+        "#020402": "black"
+      },
+      {
+        "#11181d": "black"
+      },
+      {
+        "#0c1115": "black"
+      },
+      {
+        "#010300": "black"
+      },
+      {
+        "#885957": "dimgrey"
+      },
+      {
+        "#5c433b": "darkolivegreen"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      37.75741756663603,
+      38.62584013097426,
+      36.697437959558826
+    ],
+    "framenumber": 64036,
+    "averageColorHSV": [
+      0.24172211734070123,
+      0.14769270213830016,
+      0.02560167613918291
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_64036.png",
+    "palette": [
+      {
+        "#030500": "black"
+      },
+      {
+        "#020400": "black"
+      },
+      {
+        "#222318": "black"
+      },
+      {
+        "#181911": "black"
+      },
+      {
+        "#38352a": "darkslategray"
+      },
+      {
+        "#010600": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      10.27630256204044,
+      12.602646771599264,
+      9.016910328584558
+    ],
+    "framenumber": 65035,
+    "averageColorHSV": [
+      0.27479620744253364,
+      0.04239128843173298,
+      0.16585614711710342
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_65035.png",
+    "palette": [
+      {
+        "#000504": "black"
+      },
+      {
+        "#000403": "black"
+      },
+      {
+        "#000400": "black"
+      },
+      {
+        "#000300": "black"
+      },
+      {
+        "#000501": "black"
+      },
+      {
+        "#010602": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      73.24224494485294,
+      76.18207864200367,
+      86.22329532398896
+    ],
+    "framenumber": 66034,
+    "averageColorHSV": [
+      0.6289214712820183,
+      0.31267752993890574,
+      0.08140348289198626
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_66034.png",
+    "palette": [
+      {
+        "#656f79": "dimgrey"
+      },
+      {
+        "#4f5a69": "dimgrey"
+      },
+      {
+        "#788292": "slategrey"
+      },
+      {
+        "#656f84": "slategrey"
+      },
+      {
+        "#424851": "darkslategray"
+      },
+      {
+        "#565e73": "dimgrey"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      186.9014892578125,
+      194.24144071691177,
+      207.18258128446692
+    ],
+    "framenumber": 67033,
+    "averageColorHSV": [
+      0.606348157112277,
+      0.772713863808391,
+      0.17496380455674826
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_67033.png",
+    "palette": [
+      {
+        "#e0e5f5": "lavender"
+      },
+      {
+        "#aac6ec": "lightsteelblue"
+      },
+      {
+        "#d7e6f9": "lavender"
+      },
+      {
+        "#82594b": "dimgrey"
+      },
+      {
+        "#e7eefb": "lavender"
+      },
+      {
+        "#534e43": "darkolivegreen"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      127.6254523782169,
+      130.03061092601104,
+      135.30712890625
+    ],
+    "framenumber": 68032,
+    "averageColorHSV": [
+      0.6144827773161047,
+      0.515554080949935,
+      0.031091418560848728
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_68032.png",
+    "palette": [
+      {
+        "#565047": "darkolivegreen"
+      },
+      {
+        "#35342a": "darkslategray"
+      },
+      {
+        "#d4d7e8": "gainsboro"
+      },
+      {
+        "#afbbcc": "lightsteelblue"
+      },
+      {
+        "#c6d1eb": "lightblue"
+      },
+      {
+        "#d1e0f4": "lavender"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      38.161082548253674,
+      37.464973000919116,
+      33.882913028492645
+    ],
+    "framenumber": 69031,
+    "averageColorHSV": [
+      0.13954799889223643,
+      0.14126273642499276,
+      0.05938273530656171
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_69031.png",
+    "palette": [
+      {
+        "#090b06": "black"
+      },
+      {
+        "#1c1f17": "black"
+      },
+      {
+        "#141811": "black"
+      },
+      {
+        "#171915": "black"
+      },
+      {
+        "#191e19": "black"
+      },
+      {
+        "#746469": "dimgrey"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      27.534064797794116,
+      32.081155215992645,
+      40.26357852711397
+    ],
+    "framenumber": 70030,
+    "averageColorHSV": [
+      0.6071319178028873,
+      0.13293655553903547,
+      0.18775746626347967
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_70030.png",
+    "palette": [
+      {
+        "#101a2b": "black"
+      },
+      {
+        "#323b4a": "darkslategray"
+      },
+      {
+        "#1c1e19": "black"
+      },
+      {
+        "#161710": "black"
+      },
+      {
+        "#5d5e6c": "dimgrey"
+      },
+      {
+        "#0e1e3f": "midnightblue"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      31.75050982306985,
+      35.519753848805145,
+      39.67530732996323
+    ],
+    "framenumber": 71029,
+    "averageColorHSV": [
+      0.5873955765124887,
+      0.14005062186869233,
+      0.11095144336835708
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_71029.png",
+    "palette": [
+      {
+        "#3f4d65": "darkslategray"
+      },
+      {
+        "#212118": "black"
+      },
+      {
+        "#070c0c": "black"
+      },
+      {
+        "#2e3c4e": "darkslategray"
+      },
+      {
+        "#54658d": "slategrey"
+      },
+      {
+        "#25323f": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      55.81831629136029,
+      46.23574649586397,
+      43.83656221277573
+    ],
+    "framenumber": 72028,
+    "averageColorHSV": [
+      0.03337274697500803,
+      0.19540172255712945,
+      0.12023248895022508
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_72028.png",
+    "palette": [
+      {
+        "#27271e": "black"
+      },
+      {
+        "#11110b": "black"
+      },
+      {
+        "#2d2721": "darkslategray"
+      },
+      {
+        "#ad6b64": "indianred"
+      },
+      {
+        "#191912": "black"
+      },
+      {
+        "#020404": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      38.6850155101103,
+      32.970020967371326,
+      28.984015969669116
+    ],
+    "framenumber": 73027,
+    "averageColorHSV": [
+      0.06848100172711574,
+      0.13268437545054787,
+      0.14335951510315306
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_73027.png",
+    "palette": [
+      {
+        "#161b15": "black"
+      },
+      {
+        "#0d0f0a": "black"
+      },
+      {
+        "#10150f": "black"
+      },
+      {
+        "#1a2017": "black"
+      },
+      {
+        "#7c5751": "dimgrey"
+      },
+      {
+        "#050300": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      96.25883214613971,
+      86.67102768841912,
+      88.30338781020221
+    ],
+    "framenumber": 74026,
+    "averageColorHSV": [
+      0.9716243670282507,
+      0.35868599967560555,
+      0.05241246271325951
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_74026.png",
+    "palette": [
+      {
+        "#706a71": "dimgrey"
+      },
+      {
+        "#89635e": "dimgrey"
+      },
+      {
+        "#78707e": "gray"
+      },
+      {
+        "#645d5c": "dimgrey"
+      },
+      {
+        "#958c9a": "lightslategrey"
+      },
+      {
+        "#5a545c": "dimgrey"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      57.23944450827206,
+      45.898415958180145,
+      38.22830020680147
+    ],
+    "framenumber": 75025,
+    "averageColorHSV": [
+      0.0672422766856224,
+      0.18719165630406576,
+      0.19913683263609025
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_75025.png",
+    "palette": [
+      {
+        "#5a5c66": "dimgrey"
+      },
+      {
+        "#020401": "black"
+      },
+      {
+        "#676671": "dimgrey"
+      },
+      {
+        "#785338": "sienna"
+      },
+      {
+        "#030502": "black"
+      },
+      {
+        "#966c52": "sienna"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      34.73660098805147,
+      27.883185891544116,
+      20.581011603860293
+    ],
+    "framenumber": 76024,
+    "averageColorHSV": [
+      0.08597515899313031,
+      0.10846590704296424,
+      0.2558966072635775
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_76024.png",
+    "palette": [
+      {
+        "#191109": "black"
+      },
+      {
+        "#0a0801": "black"
+      },
+      {
+        "#0f0b04": "black"
+      },
+      {
+        "#271508": "black"
+      },
+      {
+        "#342b1e": "darkslategray"
+      },
+      {
+        "#4a3c2e": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      38.070944393382355,
+      36.39044548483456,
+      29.433837890625
+    ],
+    "framenumber": 77023,
+    "averageColorHSV": [
+      0.13423877529642395,
+      0.13236231820393599,
+      0.12794806842601406
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_77023.png",
+    "palette": [
+      {
+        "#1f201a": "black"
+      },
+      {
+        "#343228": "darkslategray"
+      },
+      {
+        "#1e1a0f": "black"
+      },
+      {
+        "#181913": "black"
+      },
+      {
+        "#232014": "black"
+      },
+      {
+        "#3b3b31": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      44.52200855928309,
+      40.93992704503676,
+      37.40225040211397
+    ],
+    "framenumber": 78022,
+    "averageColorHSV": [
+      0.08281359574366508,
+      0.16063580188509227,
+      0.0869065921063011
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_78022.png",
+    "palette": [
+      {
+        "#483a2f": "darkslategray"
+      },
+      {
+        "#53433a": "darkolivegreen"
+      },
+      {
+        "#010607": "black"
+      },
+      {
+        "#1e170f": "black"
+      },
+      {
+        "#4f473f": "darkslategray"
+      },
+      {
+        "#483f32": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      58.410026999080884,
+      55.24398265165441,
+      59.66068043428309
+    ],
+    "framenumber": 79021,
+    "averageColorHSV": [
+      0.7861391965689409,
+      0.2253032609528186,
+      0.03843793336155048
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_79021.png",
+    "palette": [
+      {
+        "#605f71": "dimgrey"
+      },
+      {
+        "#30353d": "darkslategray"
+      },
+      {
+        "#4e4f5e": "darkslategray"
+      },
+      {
+        "#55535c": "dimgrey"
+      },
+      {
+        "#393b43": "darkslategray"
+      },
+      {
+        "#737087": "slategrey"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      31.11203182444853,
+      31.175242704503678,
+      30.071210075827207
+    ],
+    "framenumber": 80020,
+    "averageColorHSV": [
+      0.1762090899630578,
+      0.12009108388300174,
+      0.01802606646684078
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_80020.png",
+    "palette": [
+      {
+        "#040400": "black"
+      },
+      {
+        "#060400": "black"
+      },
+      {
+        "#030300": "black"
+      },
+      {
+        "#0c1416": "black"
+      },
+      {
+        "#1f262d": "darkslategray"
+      },
+      {
+        "#0b0701": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      47.97337431066176,
+      44.763420553768384,
+      38.938591452205884
+    ],
+    "framenumber": 81019,
+    "averageColorHSV": [
+      0.10745192944530103,
+      0.17041561914287773,
+      0.10395326787460497
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_81019.png",
+    "palette": [
+      {
+        "#191a12": "black"
+      },
+      {
+        "#232117": "black"
+      },
+      {
+        "#312217": "black"
+      },
+      {
+        "#312f27": "darkslategray"
+      },
+      {
+        "#2e2b24": "darkslategray"
+      },
+      {
+        "#21211a": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      38.65943818933823,
+      33.42306698069853,
+      25.982723460477942
+    ],
+    "framenumber": 82018,
+    "averageColorHSV": [
+      0.09782165804732797,
+      0.126749336568267,
+      0.196105984164537
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_82018.png",
+    "palette": [
+      {
+        "#1d1f17": "black"
+      },
+      {
+        "#10120b": "black"
+      },
+      {
+        "#26251d": "black"
+      },
+      {
+        "#4c3f34": "darkslategray"
+      },
+      {
+        "#40362b": "darkslategray"
+      },
+      {
+        "#0a0d06": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      52.44732306985294,
+      44.76520134420956,
+      40.52066578584559
+    ],
+    "framenumber": 83017,
+    "averageColorHSV": [
+      0.059314406058205094,
+      0.18229017422685986,
+      0.12828778411587957
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_83017.png",
+    "palette": [
+      {
+        "#7d5f5d": "dimgrey"
+      },
+      {
+        "#785f5a": "dimgrey"
+      },
+      {
+        "#030500": "black"
+      },
+      {
+        "#614540": "darkolivegreen"
+      },
+      {
+        "#624e48": "darkolivegreen"
+      },
+      {
+        "#020400": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      55.22291475183823,
+      44.78573787913603,
+      41.900031594669116
+    ],
+    "framenumber": 84016,
+    "averageColorHSV": [
+      0.03609962211162602,
+      0.19043714969903403,
+      0.1371754426563298
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_84016.png",
+    "palette": [
+      {
+        "#8f686d": "gray"
+      },
+      {
+        "#7d5d5d": "dimgrey"
+      },
+      {
+        "#1f1610": "black"
+      },
+      {
+        "#1e130d": "black"
+      },
+      {
+        "#222827": "darkslategray"
+      },
+      {
+        "#604440": "darkolivegreen"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      75.44778262867646,
+      74.07971909466912,
+      74.12541647518383
+    ],
+    "framenumber": 85015,
+    "averageColorHSV": [
+      0.994432838902243,
+      0.2931911798496972,
+      0.009149243572185953
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_85015.png",
+    "palette": [
+      {
+        "#2d3638": "darkslategray"
+      },
+      {
+        "#4a4845": "darkslategray"
+      },
+      {
+        "#3c3c37": "darkslategray"
+      },
+      {
+        "#68676d": "dimgrey"
+      },
+      {
+        "#404445": "darkslategray"
+      },
+      {
+        "#2c3231": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      79.7428337545956,
+      79.7816521139706,
+      82.43119542738971
+    ],
+    "framenumber": 86014,
+    "averageColorHSV": [
+      0.6642600981502458,
+      0.31798829251369665,
+      0.016577017210180674
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_86014.png",
+    "palette": [
+      {
+        "#888894": "lightslategrey"
+      },
+      {
+        "#64666b": "dimgrey"
+      },
+      {
+        "#393d41": "darkslategray"
+      },
+      {
+        "#2b3538": "darkslategray"
+      },
+      {
+        "#6c6c73": "dimgrey"
+      },
+      {
+        "#4b4a45": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      8.131778492647058,
+      8.622307272518382,
+      4.933026482077206
+    ],
+    "framenumber": 87013,
+    "averageColorHSV": [
+      0.1888267572884065,
+      0.02657908579332468,
+      0.2721645115665574
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_87013.png",
+    "palette": [
+      {
+        "#060601": "black"
+      },
+      {
+        "#020401": "black"
+      },
+      {
+        "#050502": "black"
+      },
+      {
+        "#030502": "black"
+      },
+      {
+        "#040601": "black"
+      },
+      {
+        "#010300": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      65.32439826516544,
+      65.6354118795956,
+      64.35431985294117
+    ],
+    "framenumber": 88012,
+    "averageColorHSV": [
+      0.2071287110214298,
+      0.2548818269265427,
+      0.009855332491110494
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_88012.png",
+    "palette": [
+      {
+        "#252923": "darkslategray"
+      },
+      {
+        "#858791": "lightslategrey"
+      },
+      {
+        "#3b3a32": "darkslategray"
+      },
+      {
+        "#8e8e96": "lightslategrey"
+      },
+      {
+        "#2a3131": "darkslategray"
+      },
+      {
+        "#35362c": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      75.70469755284927,
+      79.52295639935662,
+      88.7750603170956
+    ],
+    "framenumber": 89011,
+    "averageColorHSV": [
+      0.6179781577173448,
+      0.3225093291567546,
+      0.07946487113983436
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_89011.png",
+    "palette": [
+      {
+        "#506872": "dimgrey"
+      },
+      {
+        "#656472": "dimgrey"
+      },
+      {
+        "#a5acce": "lightsteelblue"
+      },
+      {
+        "#8d9dc6": "darkgray"
+      },
+      {
+        "#3d3f48": "darkslategray"
+      },
+      {
+        "#646877": "dimgrey"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      57.74507410386029,
+      54.79305491727941,
+      51.29888556985294
+    ],
+    "framenumber": 90010,
+    "averageColorHSV": [
+      0.09034199897072809,
+      0.21381168563473185,
+      0.05911550308055533
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_90010.png",
+    "palette": [
+      {
+        "#11130f": "black"
+      },
+      {
+        "#2d2f2a": "darkslategray"
+      },
+      {
+        "#6a6f74": "dimgrey"
+      },
+      {
+        "#232925": "darkslategray"
+      },
+      {
+        "#6d7680": "slategrey"
+      },
+      {
+        "#403221": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      53.24522489659926,
+      56.8939639820772,
+      51.933586569393384
+    ],
+    "framenumber": 91009,
+    "averageColorHSV": [
+      0.28926281819296057,
+      0.21338735402249137,
+      0.045580162261740706
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_91009.png",
+    "palette": [
+      {
+        "#33363a": "darkslategray"
+      },
+      {
+        "#161d14": "black"
+      },
+      {
+        "#171910": "black"
+      },
+      {
+        "#0b1705": "black"
+      },
+      {
+        "#172312": "black"
+      },
+      {
+        "#0e1d0a": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      62.85016228170956,
+      52.72544950597426,
+      43.79874195772059
+    ],
+    "framenumber": 92008,
+    "averageColorHSV": [
+      0.078093106239551,
+      0.20911549850868655,
+      0.17863681263164163
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_92008.png",
+    "palette": [
+      {
+        "#4b3e2c": "darkolivegreen"
+      },
+      {
+        "#433323": "darkslategray"
+      },
+      {
+        "#352d23": "darkslategray"
+      },
+      {
+        "#30271e": "darkslategray"
+      },
+      {
+        "#494138": "darkslategray"
+      },
+      {
+        "#43372d": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      25.555233226102942,
+      16.086468864889707,
+      8.443043428308824
+    ],
+    "framenumber": 93007,
+    "averageColorHSV": [
+      0.07444425608196342,
+      0.06666328755767013,
+      0.5033252117963916
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_93007.png",
+    "palette": [
+      {
+        "#291c10": "black"
+      },
+      {
+        "#1e1409": "black"
+      },
+      {
+        "#30190d": "black"
+      },
+      {
+        "#150c04": "black"
+      },
+      {
+        "#0e0804": "black"
+      },
+      {
+        "#120903": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      47.892233455882355,
+      39.791360294117645,
+      35.0850399241728
+    ],
+    "framenumber": 94006,
+    "averageColorHSV": [
+      0.06124579334122371,
+      0.16270053603932383,
+      0.15434579867489306
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_94006.png",
+    "palette": [
+      {
+        "#5f381e": "saddlebrown"
+      },
+      {
+        "#5f432c": "darkolivegreen"
+      },
+      {
+        "#422c20": "darkslategray"
+      },
+      {
+        "#23211b": "black"
+      },
+      {
+        "#352516": "black"
+      },
+      {
+        "#513825": "darkolivegreen"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      36.79745662913603,
+      29.976239372702207,
+      24.300766888786764
+    ],
+    "framenumber": 95005,
+    "averageColorHSV": [
+      0.07569301153395974,
+      0.11980043827043685,
+      0.20453442049233128
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_95005.png",
+    "palette": [
+      {
+        "#040400": "black"
+      },
+      {
+        "#050500": "black"
+      },
+      {
+        "#110701": "black"
+      },
+      {
+        "#514645": "darkslategray"
+      },
+      {
+        "#030502": "black"
+      },
+      {
+        "#2b2921": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      50.08108340992647,
+      36.69310087316176,
+      30.717263614430145
+    ],
+    "framenumber": 96004,
+    "averageColorHSV": [
+      0.05143473173030222,
+      0.1584281314203071,
+      0.23965613788681978
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_96004.png",
+    "palette": [
+      {
+        "#63392a": "saddlebrown"
+      },
+      {
+        "#3c1d0f": "black"
+      },
+      {
+        "#110501": "black"
+      },
+      {
+        "#1c1811": "black"
+      },
+      {
+        "#794639": "saddlebrown"
+      },
+      {
+        "#140804": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      63.542365579044116,
+      51.24349437040441,
+      48.213766659007355
+    ],
+    "framenumber": 97003,
+    "averageColorHSV": [
+      0.03294199432057197,
+      0.21912967105500286,
+      0.13716114376064262
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_97003.png",
+    "palette": [
+      {
+        "#170900": "black"
+      },
+      {
+        "#1f0d05": "black"
+      },
+      {
+        "#260f04": "black"
+      },
+      {
+        "#645955": "dimgrey"
+      },
+      {
+        "#625650": "dimgrey"
+      },
+      {
+        "#7a7286": "gray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      57.183421415441174,
+      45.429314108455884,
+      38.47980095358456
+    ],
+    "framenumber": 98002,
+    "averageColorHSV": [
+      0.06192663045321336,
+      0.1875749458216191,
+      0.1955152669821894
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_98002.png",
+    "palette": [
+      {
+        "#4c3020": "darkolivegreen"
+      },
+      {
+        "#6b4835": "darkolivegreen"
+      },
+      {
+        "#774a37": "saddlebrown"
+      },
+      {
+        "#895545": "sienna"
+      },
+      {
+        "#222319": "black"
+      },
+      {
+        "#5f5558": "dimgrey"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      56.504875631893384,
+      48.83047305836397,
+      44.656257180606616
+    ],
+    "framenumber": 99001,
+    "averageColorHSV": [
+      0.05871592955357082,
+      0.198355162377451,
+      0.11712619384411137
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_99001.png",
+    "palette": [
+      {
+        "#2e271e": "darkslategray"
+      },
+      {
+        "#272417": "black"
+      },
+      {
+        "#312c1e": "darkslategray"
+      },
+      {
+        "#241f14": "black"
+      },
+      {
+        "#211d0f": "black"
+      },
+      {
+        "#1b160a": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      67.44277774586396,
+      59.85057157628676,
+      52.576545266544116
+    ],
+    "framenumber": 100000,
+    "averageColorHSV": [
+      0.08154976184967526,
+      0.23533200590668252,
+      0.12386532523419512
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_100000.png",
+    "palette": [
+      {
+        "#020702": "black"
+      },
+      {
+        "#1a160d": "black"
+      },
+      {
+        "#29241c": "black"
+      },
+      {
+        "#242118": "black"
+      },
+      {
+        "#2d1c0d": "black"
+      },
+      {
+        "#524b47": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      46.70289522058823,
+      38.90199190027573,
+      32.4966610179228
+    ],
+    "framenumber": 100999,
+    "averageColorHSV": [
+      0.0751469482924985,
+      0.1552932475264922,
+      0.17937264900680858
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_100999.png",
+    "palette": [
+      {
+        "#050500": "black"
+      },
+      {
+        "#795e5d": "dimgrey"
+      },
+      {
+        "#211f14": "black"
+      },
+      {
+        "#140f07": "black"
+      },
+      {
+        "#121107": "black"
+      },
+      {
+        "#542f21": "saddlebrown"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      34.997975068933826,
+      27.455501780790442,
+      21.73202694163603
+    ],
+    "framenumber": 101998,
+    "averageColorHSV": [
+      0.07190684480587584,
+      0.1112352980599409,
+      0.23384360403911325
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_101998.png",
+    "palette": [
+      {
+        "#29150a": "black"
+      },
+      {
+        "#1e140e": "black"
+      },
+      {
+        "#281a12": "black"
+      },
+      {
+        "#030500": "black"
+      },
+      {
+        "#402e27": "darkslategray"
+      },
+      {
+        "#2f211a": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      53.771017635569855,
+      52.218943876378674,
+      55.68110926011029
+    ],
+    "framenumber": 102997,
+    "averageColorHSV": [
+      0.7413826120922392,
+      0.21156873164017442,
+      0.03208678108204561
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_102997.png",
+    "palette": [
+      {
+        "#8484ae": "lightslategrey"
+      },
+      {
+        "#070904": "black"
+      },
+      {
+        "#6f708a": "slategrey"
+      },
+      {
+        "#525565": "dimgrey"
+      },
+      {
+        "#2b2c27": "darkslategray"
+      },
+      {
+        "#232520": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      42.76874138327206,
+      40.00533519071691,
+      38.216574276194855
+    ],
+    "framenumber": 103996,
+    "averageColorHSV": [
+      0.0654911852035298,
+      0.15879473658719,
+      0.05620978408256739
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_103996.png",
+    "palette": [
+      {
+        "#0b0f0a": "black"
+      },
+      {
+        "#131914": "black"
+      },
+      {
+        "#2a2923": "darkslategray"
+      },
+      {
+        "#2c2d27": "darkslategray"
+      },
+      {
+        "#1f211d": "black"
+      },
+      {
+        "#34332e": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      54.336009306066174,
+      56.045144473805145,
+      67.35910931755515
+    ],
+    "framenumber": 104995,
+    "averageColorHSV": [
+      0.6447935442120646,
+      0.23861787965415945,
+      0.10701415273497382
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_104995.png",
+    "palette": [
+      {
+        "#5b5b76": "dimgrey"
+      },
+      {
+        "#8f96dd": "mediumpurple"
+      },
+      {
+        "#2c2f33": "darkslategray"
+      },
+      {
+        "#3e4047": "darkslategray"
+      },
+      {
+        "#32323d": "darkslategray"
+      },
+      {
+        "#484959": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      82.7270148782169,
+      70.78700884650735,
+      68.58442239200367
+    ],
+    "framenumber": 105994,
+    "averageColorHSV": [
+      0.025956891763313006,
+      0.296689092686707,
+      0.09346677780184316
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_105994.png",
+    "palette": [
+      {
+        "#332926": "darkslategray"
+      },
+      {
+        "#998d97": "lightslategrey"
+      },
+      {
+        "#3d3d38": "darkslategray"
+      },
+      {
+        "#744539": "saddlebrown"
+      },
+      {
+        "#583428": "darkolivegreen"
+      },
+      {
+        "#bfb2bd": "silver"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      64.06727510340073,
+      60.592601102941174,
+      67.88554113051471
+    ],
+    "framenumber": 106993,
+    "averageColorHSV": [
+      0.74607391960175,
+      0.2519179259479527,
+      0.056764052630225915
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_106993.png",
+    "palette": [
+      {
+        "#49474e": "darkslategray"
+      },
+      {
+        "#4c4a55": "darkslategray"
+      },
+      {
+        "#454754": "darkslategray"
+      },
+      {
+        "#55515b": "dimgrey"
+      },
+      {
+        "#66627a": "dimgrey"
+      },
+      {
+        "#524e60": "dimgrey"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      77.13749425551471,
+      74.9710334329044,
+      82.31585334329044
+    ],
+    "framenumber": 107992,
+    "averageColorHSV": [
+      0.7158274096357077,
+      0.3084056603454801,
+      0.04669696286148162
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_107992.png",
+    "palette": [
+      {
+        "#454651": "darkslategray"
+      },
+      {
+        "#484753": "darkslategray"
+      },
+      {
+        "#626076": "dimgrey"
+      },
+      {
+        "#4f4c53": "darkslategray"
+      },
+      {
+        "#534f5d": "dimgrey"
+      },
+      {
+        "#444047": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      25.105188706341913,
+      24.431532915900736,
+      16.01133099724265
+    ],
+    "framenumber": 108991,
+    "averageColorHSV": [
+      0.15432031502305266,
+      0.08062062686977364,
+      0.22117284669661522
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_108991.png",
+    "palette": [
+      {
+        "#201f13": "black"
+      },
+      {
+        "#191a0f": "black"
+      },
+      {
+        "#14130c": "black"
+      },
+      {
+        "#18170e": "black"
+      },
+      {
+        "#0f0f0a": "black"
+      },
+      {
+        "#101109": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      10.877312155330882,
+      8.922880284926471,
+      3.1416518267463234
+    ],
+    "framenumber": 109990,
+    "averageColorHSV": [
+      0.12455796085085631,
+      0.02748816467073962,
+      0.551799714905777
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_109990.png",
+    "palette": [
+      {
+        "#040601": "black"
+      },
+      {
+        "#000400": "black"
+      },
+      {
+        "#080803": "black"
+      },
+      {
+        "#060803": "black"
+      },
+      {
+        "#000500": "black"
+      },
+      {
+        "#010300": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      46.47227567784926,
+      41.47791963465073,
+      33.73194795496323
+    ],
+    "framenumber": 110989,
+    "averageColorHSV": [
+      0.10133140277301056,
+      0.15726318359375,
+      0.15884858858821754
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_110989.png",
+    "palette": [
+      {
+        "#11130c": "black"
+      },
+      {
+        "#0a0c05": "black"
+      },
+      {
+        "#575149": "darkolivegreen"
+      },
+      {
+        "#191912": "black"
+      },
+      {
+        "#847a73": "gray"
+      },
+      {
+        "#43392f": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      212.76270249310662,
+      150.42904842601104,
+      244.4321719898897
+    ],
+    "framenumber": 111988,
+    "averageColorHSV": [
+      0.7771836574925753,
+      0.7742376870900014,
+      0.8164332113249231
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_111988.png",
+    "palette": [
+      {
+        "#ffb1ff": "plum"
+      },
+      {
+        "#cbafff": "plum"
+      },
+      {
+        "#ff7fff": "violet"
+      },
+      {
+        "#d499fe": "plum"
+      },
+      {
+        "#e8bbff": "thistle"
+      },
+      {
+        "#ffd8ff": "lavenderblush"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      94.09698845358456,
+      95.8804572610294,
+      91.26514389935662
+    ],
+    "framenumber": 112987,
+    "averageColorHSV": [
+      0.2310707012245874,
+      0.3669521591380118,
+      0.02466161818955827
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_112987.png",
+    "palette": [
+      {
+        "#73746d": "dimgrey"
+      },
+      {
+        "#3f413b": "darkslategray"
+      },
+      {
+        "#161b17": "black"
+      },
+      {
+        "#2d3636": "darkslategray"
+      },
+      {
+        "#7f7e75": "gray"
+      },
+      {
+        "#454c49": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      28.588019875919116,
+      34.037087833180145,
+      25.330623851102942
+    ],
+    "framenumber": 113986,
+    "averageColorHSV": [
+      0.2709774402190961,
+      0.11640727781231977,
+      0.14665318461958066
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_113986.png",
+    "palette": [
+      {
+        "#161c10": "black"
+      },
+      {
+        "#263220": "darkslategray"
+      },
+      {
+        "#070f05": "black"
+      },
+      {
+        "#0d160b": "black"
+      },
+      {
+        "#112110": "black"
+      },
+      {
+        "#0a1208": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      51.45114315257353,
+      48.43757898667279,
+      41.084250057444855
+    ],
+    "framenumber": 114985,
+    "averageColorHSV": [
+      0.11821814021732978,
+      0.18144194747062428,
+      0.11203165335451669
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_114985.png",
+    "palette": [
+      {
+        "#383e3a": "darkslategray"
+      },
+      {
+        "#091307": "black"
+      },
+      {
+        "#714b43": "darkolivegreen"
+      },
+      {
+        "#0e1c0d": "black"
+      },
+      {
+        "#172417": "black"
+      },
+      {
+        "#20301f": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      35.559914981617645,
+      31.97958553538603,
+      29.304306927849264
+    ],
+    "framenumber": 115984,
+    "averageColorHSV": [
+      0.07127680700107099,
+      0.127184748842092,
+      0.09644158011329473
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_115984.png",
+    "palette": [
+      {
+        "#020401": "black"
+      },
+      {
+        "#785245": "dimgrey"
+      },
+      {
+        "#000202": "black"
+      },
+      {
+        "#5c5f6b": "dimgrey"
+      },
+      {
+        "#010300": "black"
+      },
+      {
+        "#3b372a": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      52.12571806066176,
+      41.0982666015625,
+      38.954001034007355
+    ],
+    "framenumber": 116983,
+    "averageColorHSV": [
+      0.02713219498029999,
+      0.1785876844993512,
+      0.1446174533428633
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_116983.png",
+    "palette": [
+      {
+        "#53403c": "darkslategray"
+      },
+      {
+        "#67453f": "darkolivegreen"
+      },
+      {
+        "#0f0904": "black"
+      },
+      {
+        "#2e1b13": "black"
+      },
+      {
+        "#170e09": "black"
+      },
+      {
+        "#493530": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      39.2078067555147,
+      35.29000315946691,
+      34.849903779871326
+    ],
+    "framenumber": 117982,
+    "averageColorHSV": [
+      0.016831466191244242,
+      0.1452111971282079,
+      0.05884468942043647
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_117982.png",
+    "palette": [
+      {
+        "#26150c": "black"
+      },
+      {
+        "#3a4253": "darkslategray"
+      },
+      {
+        "#3a271e": "darkslategray"
+      },
+      {
+        "#202943": "darkslategray"
+      },
+      {
+        "#242b4b": "darkslategray"
+      },
+      {
+        "#261d15": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      42.08612419577206,
+      36.38670438878676,
+      35.27793974034926
+    ],
+    "framenumber": 118981,
+    "averageColorHSV": [
+      0.02714293498991886,
+      0.15169424301200257,
+      0.08800189789724915
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_118981.png",
+    "palette": [
+      {
+        "#3f3228": "darkslategray"
+      },
+      {
+        "#1f262d": "darkslategray"
+      },
+      {
+        "#4a526d": "darkslateblue"
+      },
+      {
+        "#0d0903": "black"
+      },
+      {
+        "#604841": "darkolivegreen"
+      },
+      {
+        "#100c07": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      41.687643612132355,
+      41.34901338465073,
+      39.55894559972426
+    ],
+    "framenumber": 119980,
+    "averageColorHSV": [
+      0.14015357231605383,
+      0.1593070376703071,
+      0.02620046002001821
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_119980.png",
+    "palette": [
+      {
+        "#373d42": "darkslategray"
+      },
+      {
+        "#2b3032": "darkslategray"
+      },
+      {
+        "#303739": "darkslategray"
+      },
+      {
+        "#1f2527": "darkslategray"
+      },
+      {
+        "#161b1d": "black"
+      },
+      {
+        "#44474e": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      90.97053079044117,
+      85.37593347886029,
+      77.92570944393383
+    ],
+    "framenumber": 120979,
+    "averageColorHSV": [
+      0.09518750566511473,
+      0.3311690984987745,
+      0.07723571186904596
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_120979.png",
+    "palette": [
+      {
+        "#5d534f": "dimgrey"
+      },
+      {
+        "#292f27": "darkslategray"
+      },
+      {
+        "#726761": "dimgrey"
+      },
+      {
+        "#5c524c": "darkolivegreen"
+      },
+      {
+        "#745f52": "dimgrey"
+      },
+      {
+        "#f1e1e3": "mistyrose"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      59.484762752757355,
+      60.03440946691176,
+      68.9189812155331
+    ],
+    "framenumber": 121978,
+    "averageColorHSV": [
+      0.6569565050826568,
+      0.2517720469966479,
+      0.07347307929826041
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_121978.png",
+    "palette": [
+      {
+        "#9f6863": "indianred"
+      },
+      {
+        "#475c82": "darkslateblue"
+      },
+      {
+        "#875850": "dimgrey"
+      },
+      {
+        "#634138": "darkolivegreen"
+      },
+      {
+        "#3a4c66": "darkslategray"
+      },
+      {
+        "#2d3f55": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      44.47337431066176,
+      43.61607450597426,
+      43.9976016773897
+    ],
+    "framenumber": 122977,
+    "averageColorHSV": [
+      0.9258277424596499,
+      0.17272440944438436,
+      0.00973215085579687
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_122977.png",
+    "palette": [
+      {
+        "#20261b": "black"
+      },
+      {
+        "#54688b": "slategrey"
+      },
+      {
+        "#2d3f50": "darkslategray"
+      },
+      {
+        "#1a2a33": "darkslategray"
+      },
+      {
+        "#394c63": "darkslategray"
+      },
+      {
+        "#263740": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      75.37749167049633,
+      73.49465044806985,
+      74.79054170496323
+    ],
+    "framenumber": 123976,
+    "averageColorHSV": [
+      0.885289384162434,
+      0.29190616101679645,
+      0.01264737106373411
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_123976.png",
+    "palette": [
+      {
+        "#4b463b": "darkslategray"
+      },
+      {
+        "#5d584c": "darkolivegreen"
+      },
+      {
+        "#3e3a2f": "darkslategray"
+      },
+      {
+        "#5a6575": "dimgrey"
+      },
+      {
+        "#312e23": "darkslategray"
+      },
+      {
+        "#c9cef4": "lightblue"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      89.62864056755515,
+      75.83742388556985,
+      73.73725442325367
+    ],
+    "framenumber": 124975,
+    "averageColorHSV": [
+      0.022026287734810374,
+      0.32032528429570356,
+      0.09727480846106558
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_124975.png",
+    "palette": [
+      {
+        "#ab7a72": "rosybrown"
+      },
+      {
+        "#c79491": "rosybrown"
+      },
+      {
+        "#1b1610": "black"
+      },
+      {
+        "#4e4941": "darkslategray"
+      },
+      {
+        "#997166": "gray"
+      },
+      {
+        "#2a1d15": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      33.285529641544116,
+      36.1667911305147,
+      27.770572437959558
+    ],
+    "framenumber": 125974,
+    "averageColorHSV": [
+      0.22386029938940202,
+      0.12536737954602795,
+      0.13131943864972073
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_125974.png",
+    "palette": [
+      {
+        "#32342a": "darkslategray"
+      },
+      {
+        "#292c22": "darkslategray"
+      },
+      {
+        "#1e2014": "black"
+      },
+      {
+        "#0d130d": "black"
+      },
+      {
+        "#3b3b32": "darkslategray"
+      },
+      {
+        "#1d231a": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      75.73288143382352,
+      62.623484892003674,
+      54.90170467601103
+    ],
+    "framenumber": 126973,
+    "averageColorHSV": [
+      0.06178063698919204,
+      0.2561462472741854,
+      0.1594614211913078
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_126973.png",
+    "palette": [
+      {
+        "#5c4431": "darkolivegreen"
+      },
+      {
+        "#78523d": "sienna"
+      },
+      {
+        "#675144": "darkolivegreen"
+      },
+      {
+        "#634331": "darkolivegreen"
+      },
+      {
+        "#332213": "black"
+      },
+      {
+        "#594e42": "darkolivegreen"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      70.47636862362133,
+      61.563742244944855,
+      52.98521513097426
+    ],
+    "framenumber": 127972,
+    "averageColorHSV": [
+      0.08174157979896181,
+      0.24208153677371683,
+      0.14167284235891708
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_127972.png",
+    "palette": [
+      {
+        "#665b51": "dimgrey"
+      },
+      {
+        "#433a2d": "darkslategray"
+      },
+      {
+        "#55483d": "darkolivegreen"
+      },
+      {
+        "#704e37": "darkolivegreen"
+      },
+      {
+        "#564c3f": "darkolivegreen"
+      },
+      {
+        "#342417": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      81.37781479779412,
+      79.12110093060662,
+      76.75164435891544
+    ],
+    "framenumber": 128971,
+    "averageColorHSV": [
+      0.08536421946246253,
+      0.31005776305237165,
+      0.029255588829239242
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_128971.png",
+    "palette": [
+      {
+        "#3c4449": "darkslategray"
+      },
+      {
+        "#444a50": "darkslategray"
+      },
+      {
+        "#5c626c": "dimgrey"
+      },
+      {
+        "#211e17": "black"
+      },
+      {
+        "#8d909c": "lightslategrey"
+      },
+      {
+        "#27201a": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      48.98702464384191,
+      48.851189108455884,
+      51.84469065946691
+    ],
+    "framenumber": 129970,
+    "averageColorHSV": [
+      0.6742294674576081,
+      0.19744290150573096,
+      0.02972814337498463
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_129970.png",
+    "palette": [
+      {
+        "#1c2d38": "darkslategray"
+      },
+      {
+        "#0f2832": "darkslategray"
+      },
+      {
+        "#333e4a": "darkslategray"
+      },
+      {
+        "#0d1110": "black"
+      },
+      {
+        "#12181f": "black"
+      },
+      {
+        "#694c43": "darkolivegreen"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      64.04640826056985,
+      61.188103170955884,
+      60.90774356617647
+    ],
+    "framenumber": 130969,
+    "averageColorHSV": [
+      0.014887414026747333,
+      0.24500814083675748,
+      0.025118530665113433
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_130969.png",
+    "palette": [
+      {
+        "#4a362c": "darkslategray"
+      },
+      {
+        "#6e4d45": "darkolivegreen"
+      },
+      {
+        "#5b6474": "dimgrey"
+      },
+      {
+        "#233036": "darkslategray"
+      },
+      {
+        "#5b4239": "darkolivegreen"
+      },
+      {
+        "#0e2730": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      55.536750344669116,
+      53.834343405330884,
+      55.62191951976103
+    ],
+    "framenumber": 131968,
+    "averageColorHSV": [
+      0.8253924896396124,
+      0.21462012338253317,
+      0.01633141920488827
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_131968.png",
+    "palette": [
+      {
+        "#040603": "black"
+      },
+      {
+        "#6a6a73": "dimgrey"
+      },
+      {
+        "#818190": "lightslategrey"
+      },
+      {
+        "#030502": "black"
+      },
+      {
+        "#9b9ab0": "darkgray"
+      },
+      {
+        "#090904": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      104.82670323988971,
+      96.61847282858456,
+      97.29963235294117
+    ],
+    "framenumber": 132967,
+    "averageColorHSV": [
+      0.9861691763383726,
+      0.39499054131073386,
+      0.040746721125330156
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_132967.png",
+    "palette": [
+      {
+        "#a69caf": "darkgray"
+      },
+      {
+        "#8b8596": "lightslategrey"
+      },
+      {
+        "#3e2820": "darkslategray"
+      },
+      {
+        "#2f201c": "black"
+      },
+      {
+        "#281c17": "black"
+      },
+      {
+        "#180d07": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      76.72111960018383,
+      70.70356301700367,
+      77.32570513556985
+    ],
+    "framenumber": 133966,
+    "averageColorHSV": [
+      0.8181170703638084,
+      0.29025346696583043,
+      0.04473535673864681
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_133966.png",
+    "palette": [
+      {
+        "#415985": "darkslateblue"
+      },
+      {
+        "#334465": "darkslategray"
+      },
+      {
+        "#5b6e9b": "slategrey"
+      },
+      {
+        "#e4abad": "lightpink"
+      },
+      {
+        "#3f3325": "darkslategray"
+      },
+      {
+        "#332a1c": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      44.27469410615809,
+      34.438548368566174,
+      32.092873965992645
+    ],
+    "framenumber": 134965,
+    "averageColorHSV": [
+      0.032092555075020644,
+      0.14974032955323674,
+      0.15951562224236698
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_134965.png",
+    "palette": [
+      {
+        "#744b45": "dimgrey"
+      },
+      {
+        "#11171b": "black"
+      },
+      {
+        "#413028": "darkslategray"
+      },
+      {
+        "#633e37": "darkolivegreen"
+      },
+      {
+        "#38281f": "darkslategray"
+      },
+      {
+        "#3c251d": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      83.5400749655331,
+      82.6374870749081,
+      93.04056324678308
+    ],
+    "framenumber": 135964,
+    "averageColorHSV": [
+      0.681126939053296,
+      0.3444667653366493,
+      0.059216710071778964
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_135964.png",
+    "palette": [
+      {
+        "#66789e": "slategrey"
+      },
+      {
+        "#724d45": "dimgrey"
+      },
+      {
+        "#46587c": "darkslateblue"
+      },
+      {
+        "#a0afe1": "lightsteelblue"
+      },
+      {
+        "#825852": "dimgrey"
+      },
+      {
+        "#7f7780": "gray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      19.769610236672793,
+      21.837201286764707,
+      16.212904986213236
+    ],
+    "framenumber": 136963,
+    "averageColorHSV": [
+      0.2279362886662871,
+      0.07460805151564304,
+      0.14781289335177702
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_136963.png",
+    "palette": [
+      {
+        "#171a13": "black"
+      },
+      {
+        "#020401": "black"
+      },
+      {
+        "#20221b": "black"
+      },
+      {
+        "#2d2f2a": "darkslategray"
+      },
+      {
+        "#030502": "black"
+      },
+      {
+        "#252823": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      39.96908748851103,
+      38.00717342601103,
+      31.08507582720588
+    ],
+    "framenumber": 137962,
+    "averageColorHSV": [
+      0.12986058293452354,
+      0.13932188885434688,
+      0.12503154279405942
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_137962.png",
+    "palette": [
+      {
+        "#231d13": "black"
+      },
+      {
+        "#312a1f": "darkslategray"
+      },
+      {
+        "#2c2c22": "darkslategray"
+      },
+      {
+        "#464337": "darkslategray"
+      },
+      {
+        "#29261d": "black"
+      },
+      {
+        "#1b1b13": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      42.019753848805145,
+      41.48641429227941,
+      43.2926025390625
+    ],
+    "framenumber": 138961,
+    "averageColorHSV": [
+      0.7158807650564332,
+      0.16623336633596453,
+      0.02130466139252702
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_138961.png",
+    "palette": [
+      {
+        "#010602": "black"
+      },
+      {
+        "#000400": "black"
+      },
+      {
+        "#c6cef7": "lightblue"
+      },
+      {
+        "#3b3b35": "darkslategray"
+      },
+      {
+        "#000501": "black"
+      },
+      {
+        "#010300": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      52.78077607996323,
+      47.85561954273897,
+      48.574778837316174
+    ],
+    "framenumber": 139960,
+    "averageColorHSV": [
+      0.9756637415433125,
+      0.19732626592686706,
+      0.048940112637670945
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_139960.png",
+    "palette": [
+      {
+        "#060601": "black"
+      },
+      {
+        "#020400": "black"
+      },
+      {
+        "#302b23": "darkslategray"
+      },
+      {
+        "#413b33": "darkslategray"
+      },
+      {
+        "#030500": "black"
+      },
+      {
+        "#8e8db7": "lightslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      49.100269990808826,
+      43.669699276194855,
+      43.44842888327206
+    ],
+    "framenumber": 140959,
+    "averageColorHSV": [
+      0.006525023991082772,
+      0.18146803700800174,
+      0.061068833773951794
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_140959.png",
+    "palette": [
+      {
+        "#040603": "black"
+      },
+      {
+        "#37221a": "black"
+      },
+      {
+        "#554340": "darkslategray"
+      },
+      {
+        "#080904": "black"
+      },
+      {
+        "#0e0f0b": "black"
+      },
+      {
+        "#191a15": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      45.570068359375,
+      45.310525333180145,
+      43.097706514246326
+    ],
+    "framenumber": 141958,
+    "averageColorHSV": [
+      0.1491703721344946,
+      0.17385838210513987,
+      0.027883431705064708
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_141958.png",
+    "palette": [
+      {
+        "#4c483e": "darkslategray"
+      },
+      {
+        "#10150f": "black"
+      },
+      {
+        "#0f110c": "black"
+      },
+      {
+        "#615850": "dimgrey"
+      },
+      {
+        "#767485": "gray"
+      },
+      {
+        "#000500": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      51.79736328125,
+      50.5448428883272,
+      49.33975758272059
+    ],
+    "framenumber": 142957,
+    "averageColorHSV": [
+      0.08172488819285366,
+      0.19830808012543252,
+      0.02429973957667721
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_142957.png",
+    "palette": [
+      {
+        "#585046": "darkolivegreen"
+      },
+      {
+        "#655b52": "dimgrey"
+      },
+      {
+        "#767484": "gray"
+      },
+      {
+        "#000300": "black"
+      },
+      {
+        "#0d0f0a": "black"
+      },
+      {
+        "#101510": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      57.537913602941174,
+      55.052073759191174,
+      58.348122989430145
+    ],
+    "framenumber": 143956,
+    "averageColorHSV": [
+      0.7923646194836401,
+      0.22235332695808102,
+      0.029065639432226478
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_143956.png",
+    "palette": [
+      {
+        "#7f7e91": "lightslategrey"
+      },
+      {
+        "#020401": "black"
+      },
+      {
+        "#717283": "slategrey"
+      },
+      {
+        "#8e6262": "dimgrey"
+      },
+      {
+        "#a6a3bd": "darkgray"
+      },
+      {
+        "#030502": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      95.37407370174633,
+      100.92194680606617,
+      101.13587861902573
+    ],
+    "framenumber": 144955,
+    "averageColorHSV": [
+      0.5061882175241647,
+      0.3853136320015138,
+      0.02932067739690942
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_144955.png",
+    "palette": [
+      {
+        "#2f3730": "darkslategray"
+      },
+      {
+        "#3e4b52": "darkslategray"
+      },
+      {
+        "#818890": "lightslategrey"
+      },
+      {
+        "#d2c3c8": "thistle"
+      },
+      {
+        "#dbf6f9": "lightcyan"
+      },
+      {
+        "#262d27": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      55.376472024356616,
+      61.38958381204044,
+      67.48797248391544
+    ],
+    "framenumber": 145954,
+    "averageColorHSV": [
+      0.583920082022289,
+      0.24091067550641582,
+      0.09857612190435938
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_145954.png",
+    "palette": [
+      {
+        "#283735": "darkslategray"
+      },
+      {
+        "#2c373b": "darkslategray"
+      },
+      {
+        "#3a4647": "darkslategray"
+      },
+      {
+        "#283731": "darkslategray"
+      },
+      {
+        "#293737": "darkslategray"
+      },
+      {
+        "#433a38": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      67.85239545036765,
+      72.78547937729779,
+      86.63992130055146
+    ],
+    "framenumber": 146953,
+    "averageColorHSV": [
+      0.622904616195273,
+      0.30292611127631197,
+      0.12160815660803435
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_146953.png",
+    "palette": [
+      {
+        "#5a74ad": "steelblue"
+      },
+      {
+        "#182a42": "darkslategray"
+      },
+      {
+        "#706d77": "dimgrey"
+      },
+      {
+        "#7e767f": "gray"
+      },
+      {
+        "#2a3d59": "darkslategray"
+      },
+      {
+        "#354d78": "darkslateblue"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      74.98053337545956,
+      72.66272690716912,
+      84.25998822380515
+    ],
+    "framenumber": 147952,
+    "averageColorHSV": [
+      0.6999763479354906,
+      0.307691598296028,
+      0.07390428662259936
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_147952.png",
+    "palette": [
+      {
+        "#554d50": "darkslategray"
+      },
+      {
+        "#5a545b": "dimgrey"
+      },
+      {
+        "#5b6b9f": "slategrey"
+      },
+      {
+        "#7584c6": "mediumpurple"
+      },
+      {
+        "#6a6267": "dimgrey"
+      },
+      {
+        "#655a5c": "dimgrey"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      67.91906020220588,
+      66.53650620404412,
+      71.34397259880515
+    ],
+    "framenumber": 148951,
+    "averageColorHSV": [
+      0.7145974575321837,
+      0.2703538800055868,
+      0.03486691108489022
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_148951.png",
+    "palette": [
+      {
+        "#28312c": "darkslategray"
+      },
+      {
+        "#4f3f3d": "darkslategray"
+      },
+      {
+        "#454c47": "darkslategray"
+      },
+      {
+        "#293033": "darkslategray"
+      },
+      {
+        "#333a35": "darkslategray"
+      },
+      {
+        "#353b3e": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      65.62851131663602,
+      65.07471421185662,
+      68.96928136488971
+    ],
+    "framenumber": 149950,
+    "averageColorHSV": [
+      0.6903662239823881,
+      0.26283136387597317,
+      0.029054394687923698
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_149950.png",
+    "palette": [
+      {
+        "#2d3834": "darkslategray"
+      },
+      {
+        "#584040": "darkslategray"
+      },
+      {
+        "#73555a": "dimgrey"
+      },
+      {
+        "#32393d": "darkslategray"
+      },
+      {
+        "#424c46": "darkslategray"
+      },
+      {
+        "#28342b": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      77.41606588924633,
+      71.25990923713235,
+      73.25682875689338
+    ],
+    "framenumber": 150949,
+    "averageColorHSV": [
+      0.945937061259498,
+      0.29152151985564445,
+      0.04140653287715833
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_150949.png",
+    "palette": [
+      {
+        "#615b5e": "dimgrey"
+      },
+      {
+        "#5e5656": "dimgrey"
+      },
+      {
+        "#353731": "darkslategray"
+      },
+      {
+        "#796c6f": "dimgrey"
+      },
+      {
+        "#5d5251": "dimgrey"
+      },
+      {
+        "#39241e": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      64.86405675551471,
+      62.71834788602941,
+      71.36381979549633
+    ],
+    "framenumber": 151948,
+    "averageColorHSV": [
+      0.7080314583933761,
+      0.26290621114024654,
+      0.06447890915667308
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_151948.png",
+    "palette": [
+      {
+        "#776e78": "dimgrey"
+      },
+      {
+        "#596ea1": "steelblue"
+      },
+      {
+        "#40547a": "darkslateblue"
+      },
+      {
+        "#402c28": "darkslategray"
+      },
+      {
+        "#3a2721": "darkslategray"
+      },
+      {
+        "#7285bf": "lightslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      83.2528435202206,
+      85.6097412109375,
+      94.54619284237133
+    ],
+    "framenumber": 152947,
+    "averageColorHSV": [
+      0.6318836921406167,
+      0.34862556149527824,
+      0.06351749454434505
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_152947.png",
+    "palette": [
+      {
+        "#8198d1": "cornflowerblue"
+      },
+      {
+        "#667ca9": "lightslategrey"
+      },
+      {
+        "#593d34": "darkolivegreen"
+      },
+      {
+        "#4c4f56": "darkslategray"
+      },
+      {
+        "#273226": "darkslategray"
+      },
+      {
+        "#52575f": "dimgrey"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      74.02207318474265,
+      65.83908260569852,
+      64.37818818933823
+    ],
+    "framenumber": 153946,
+    "averageColorHSV": [
+      0.025247335782492313,
+      0.27137306151780566,
+      0.06968111837114278
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_153946.png",
+    "palette": [
+      {
+        "#61656d": "dimgrey"
+      },
+      {
+        "#322216": "black"
+      },
+      {
+        "#503228": "darkolivegreen"
+      },
+      {
+        "#4b352b": "darkslategray"
+      },
+      {
+        "#6b6e7b": "dimgrey"
+      },
+      {
+        "#412c21": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      61.64264275045956,
+      54.83157887178309,
+      59.166360294117645
+    ],
+    "framenumber": 154945,
+    "averageColorHSV": [
+      0.8939279408829327,
+      0.2283808267102797,
+      0.0584770070476761
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_154945.png",
+    "palette": [
+      {
+        "#29384a": "darkslategray"
+      },
+      {
+        "#98676b": "gray"
+      },
+      {
+        "#79524f": "dimgrey"
+      },
+      {
+        "#525f83": "dimgrey"
+      },
+      {
+        "#0c1416": "black"
+      },
+      {
+        "#303e58": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      47.05964929917279,
+      43.10891544117647,
+      38.267965877757355
+    ],
+    "framenumber": 155944,
+    "averageColorHSV": [
+      0.0917713808110054,
+      0.16730904936652968,
+      0.10303444439629002
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_155944.png",
+    "palette": [
+      {
+        "#191a11": "black"
+      },
+      {
+        "#080904": "black"
+      },
+      {
+        "#35382f": "darkslategray"
+      },
+      {
+        "#090b07": "black"
+      },
+      {
+        "#0e0904": "black"
+      },
+      {
+        "#4c312e": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      38.312248678768384,
+      32.87393727022059,
+      26.213845645680145
+    ],
+    "framenumber": 156943,
+    "averageColorHSV": [
+      0.09174890832458886,
+      0.12652175357735004,
+      0.18749628595611795
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_156943.png",
+    "palette": [
+      {
+        "#2c2c24": "darkslategray"
+      },
+      {
+        "#16170f": "black"
+      },
+      {
+        "#212119": "black"
+      },
+      {
+        "#11120a": "black"
+      },
+      {
+        "#27261f": "black"
+      },
+      {
+        "#030501": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      32.6055908203125,
+      33.925587373621326,
+      31.18679630055147
+    ],
+    "framenumber": 157942,
+    "averageColorHSV": [
+      0.24699386931994463,
+      0.1276713405375937,
+      0.04206252203536223
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_157942.png",
+    "palette": [
+      {
+        "#565b67": "dimgrey"
+      },
+      {
+        "#1a1b12": "black"
+      },
+      {
+        "#0f100b": "black"
+      },
+      {
+        "#3c444a": "darkslategray"
+      },
+      {
+        "#0a0a06": "black"
+      },
+      {
+        "#2e3638": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      8.48162482766544,
+      11.219532686121324,
+      7.09536563648897
+    ],
+    "framenumber": 158941,
+    "averageColorHSV": [
+      0.2773115486313757,
+      0.03591156533845156,
+      0.22518099620247115
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_158941.png",
+    "palette": [
+      {
+        "#040603": "black"
+      },
+      {
+        "#000400": "black"
+      },
+      {
+        "#010600": "black"
+      },
+      {
+        "#010300": "black"
+      },
+      {
+        "#000500": "black"
+      },
+      {
+        "#080a05": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      33.775505514705884,
+      37.4149600758272,
+      40.7781551585478
+    ],
+    "framenumber": 159940,
+    "averageColorHSV": [
+      0.5800457744276403,
+      0.14618364837892878,
+      0.09392764326533105
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_159940.png",
+    "palette": [
+      {
+        "#1b201d": "black"
+      },
+      {
+        "#131712": "black"
+      },
+      {
+        "#171d18": "black"
+      },
+      {
+        "#212625": "darkslategray"
+      },
+      {
+        "#111924": "black"
+      },
+      {
+        "#212621": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      42.56365607766544,
+      33.836526309742645,
+      28.801032571231616
+    ],
+    "framenumber": 160939,
+    "averageColorHSV": [
+      0.06098030335758061,
+      0.13993076205666088,
+      0.192849205496345
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_160939.png",
+    "palette": [
+      {
+        "#493325": "darkslategray"
+      },
+      {
+        "#020401": "black"
+      },
+      {
+        "#39281a": "darkslategray"
+      },
+      {
+        "#664538": "darkolivegreen"
+      },
+      {
+        "#030502": "black"
+      },
+      {
+        "#0f0b05": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      40.45094209558823,
+      40.27090992647059,
+      43.694529813878674
+    ],
+    "framenumber": 161938,
+    "averageColorHSV": [
+      0.6754308877269443,
+      0.16463811713793974,
+      0.040774155390540696
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_161938.png",
+    "palette": [
+      {
+        "#2c1e18": "black"
+      },
+      {
+        "#020401": "black"
+      },
+      {
+        "#191b16": "black"
+      },
+      {
+        "#030502": "black"
+      },
+      {
+        "#010300": "black"
+      },
+      {
+        "#1f211c": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      37.43927360983456,
+      35.29105152803309,
+      35.293751436121326
+    ],
+    "framenumber": 162937,
+    "averageColorHSV": [
+      0.9997905315818206,
+      0.14260848066248558,
+      0.029536813945617517
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_162937.png",
+    "palette": [
+      {
+        "#6a504d": "dimgrey"
+      },
+      {
+        "#0f120d": "black"
+      },
+      {
+        "#372219": "black"
+      },
+      {
+        "#0a0c08": "black"
+      },
+      {
+        "#49362f": "darkslategray"
+      },
+      {
+        "#563c35": "darkolivegreen"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      35.40432559742647,
+      33.0160701976103,
+      33.1411922679228
+    ],
+    "framenumber": 163936,
+    "averageColorHSV": [
+      0.9912682377324378,
+      0.13415763881379758,
+      0.03490560631906512
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_163936.png",
+    "palette": [
+      {
+        "#040400": "black"
+      },
+      {
+        "#4f352d": "darkslategray"
+      },
+      {
+        "#5b423d": "darkolivegreen"
+      },
+      {
+        "#3e2a22": "darkslategray"
+      },
+      {
+        "#010300": "black"
+      },
+      {
+        "#4f5365": "dimgrey"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      89.78656364889706,
+      85.99000459558823,
+      79.2042236328125
+    ],
+    "framenumber": 164935,
+    "averageColorHSV": [
+      0.10687272305340362,
+      0.3313544848660972,
+      0.06262081020099441
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_164935.png",
+    "palette": [
+      {
+        "#6c6d7b": "dimgrey"
+      },
+      {
+        "#56533b": "darkolivegreen"
+      },
+      {
+        "#464c29": "darkolivegreen"
+      },
+      {
+        "#645c48": "darkolivegreen"
+      },
+      {
+        "#5d5446": "darkolivegreen"
+      },
+      {
+        "#4e493c": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      34.36497587316176,
+      33.1880313648897,
+      28.70010196461397
+    ],
+    "framenumber": 165934,
+    "averageColorHSV": [
+      0.1320396968149001,
+      0.12365701536818771,
+      0.08982584502820594
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_165934.png",
+    "palette": [
+      {
+        "#020401": "black"
+      },
+      {
+        "#2d302c": "darkslategray"
+      },
+      {
+        "#1e221b": "black"
+      },
+      {
+        "#2d2216": "black"
+      },
+      {
+        "#242822": "darkslategray"
+      },
+      {
+        "#030502": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      24.615765739889707,
+      28.143870634191178,
+      30.529239430147058
+    ],
+    "framenumber": 166933,
+    "averageColorHSV": [
+      0.5672297682912909,
+      0.10812746111771915,
+      0.10723498296941782
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_166933.png",
+    "palette": [
+      {
+        "#191f21": "black"
+      },
+      {
+        "#030500": "black"
+      },
+      {
+        "#2b333e": "darkslategray"
+      },
+      {
+        "#3f4254": "darkslategray"
+      },
+      {
+        "#343a49": "darkslategray"
+      },
+      {
+        "#040601": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      0.31641343060661764,
+      4.872644761029412,
+      1.0836612477022058
+    ],
+    "framenumber": 167932,
+    "averageColorHSV": [
+      0.3613992121065983,
+      0.010174623905168687,
+      0.8780459116389837
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_167932.png",
+    "palette": [
+      {
+        "#000504": "black"
+      },
+      {
+        "#000403": "black"
+      },
+      {
+        "#000400": "black"
+      },
+      {
+        "#010602": "black"
+      },
+      {
+        "#010300": "black"
+      },
+      {
+        "#000200": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      23.520888384650736,
+      26.032520967371322,
+      23.19664809283088
+    ],
+    "framenumber": 168931,
+    "averageColorHSV": [
+      0.3142774549398423,
+      0.09652778247098472,
+      0.057605540143740024
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_168931.png",
+    "palette": [
+      {
+        "#1f2216": "black"
+      },
+      {
+        "#17170e": "black"
+      },
+      {
+        "#212f38": "darkslategray"
+      },
+      {
+        "#0b0b07": "black"
+      },
+      {
+        "#161e20": "black"
+      },
+      {
+        "#283744": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      7.379200654871323,
+      10.09161017922794,
+      7.007166245404411
+    ],
+    "framenumber": 169930,
+    "averageColorHSV": [
+      0.3132306061509045,
+      0.033527012597318336,
+      0.18038974586392653
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_169930.png",
+    "palette": [
+      {
+        "#040603": "black"
+      },
+      {
+        "#020401": "black"
+      },
+      {
+        "#010600": "black"
+      },
+      {
+        "#010300": "black"
+      },
+      {
+        "#000500": "black"
+      },
+      {
+        "#000200": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      15.113898782169118,
+      21.457483628216913,
+      20.72830020680147
+    ],
+    "framenumber": 170929,
+    "averageColorHSV": [
+      0.4808419729245644,
+      0.07170859296154124,
+      0.1734576170751002
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_170929.png",
+    "palette": [
+      {
+        "#060b05": "black"
+      },
+      {
+        "#4b5d78": "dimgrey"
+      },
+      {
+        "#020706": "black"
+      },
+      {
+        "#060b0a": "black"
+      },
+      {
+        "#020701": "black"
+      },
+      {
+        "#0b100a": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      9.157973345588236,
+      11.978379193474264,
+      6.63320743336397
+    ],
+    "framenumber": 171928,
+    "averageColorHSV": [
+      0.254609143056731,
+      0.03649330711144752,
+      0.2871959208680501
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_171928.png",
+    "palette": [
+      {
+        "#010801": "black"
+      },
+      {
+        "#020401": "black"
+      },
+      {
+        "#010600": "black"
+      },
+      {
+        "#040601": "black"
+      },
+      {
+        "#000500": "black"
+      },
+      {
+        "#010300": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      14.059929342830882,
+      22.710736443014707,
+      28.21694766773897
+    ],
+    "framenumber": 172927,
+    "averageColorHSV": [
+      0.5648231039704709,
+      0.08289583727562716,
+      0.33486433544674127
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_172927.png",
+    "palette": [
+      {
+        "#030a03": "black"
+      },
+      {
+        "#091115": "black"
+      },
+      {
+        "#050c05": "black"
+      },
+      {
+        "#5c72b3": "steelblue"
+      },
+      {
+        "#020701": "black"
+      },
+      {
+        "#09131a": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      67.670166015625,
+      57.12082088694853,
+      55.077830595128674
+    ],
+    "framenumber": 173926,
+    "averageColorHSV": [
+      0.027040129618510007,
+      0.24068234629559543,
+      0.10258689158429118
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_173926.png",
+    "palette": [
+      {
+        "#212b32": "darkslategray"
+      },
+      {
+        "#592f1a": "saddlebrown"
+      },
+      {
+        "#957b77": "gray"
+      },
+      {
+        "#6d3b26": "saddlebrown"
+      },
+      {
+        "#192126": "black"
+      },
+      {
+        "#182327": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      96.11544979319852,
+      75.44315831801471,
+      70.36094037224265
+    ],
+    "framenumber": 174925,
+    "averageColorHSV": [
+      0.03288885493606525,
+      0.3264242944420415,
+      0.15470367537019228
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_174925.png",
+    "palette": [
+      {
+        "#381709": "black"
+      },
+      {
+        "#4a3f40": "darkslategray"
+      },
+      {
+        "#633625": "saddlebrown"
+      },
+      {
+        "#502412": "maroon"
+      },
+      {
+        "#a27b79": "gray"
+      },
+      {
+        "#421e0e": "maroon"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      103.24409036075367,
+      85.14827234604779,
+      76.51466279871323
+    ],
+    "framenumber": 175924,
+    "averageColorHSV": [
+      0.0538333610480776,
+      0.3524681434499351,
+      0.14869611127269186
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_175924.png",
+    "palette": [
+      {
+        "#2f3531": "darkslategray"
+      },
+      {
+        "#75483b": "saddlebrown"
+      },
+      {
+        "#675d53": "dimgrey"
+      },
+      {
+        "#b7a8a8": "darkgray"
+      },
+      {
+        "#5a3929": "darkolivegreen"
+      },
+      {
+        "#88574b": "sienna"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      101.72148581112133,
+      92.55160701976102,
+      86.90939510569852
+    ],
+    "framenumber": 176923,
+    "averageColorHSV": [
+      0.0634865577753636,
+      0.36986447238592124,
+      0.07852420893880288
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_176923.png",
+    "palette": [
+      {
+        "#8b7e79": "gray"
+      },
+      {
+        "#93847c": "gray"
+      },
+      {
+        "#7a6c60": "dimgrey"
+      },
+      {
+        "#29241e": "black"
+      },
+      {
+        "#8a7d74": "gray"
+      },
+      {
+        "#aa948c": "rosybrown"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      89.49092371323529,
+      83.43918026194852,
+      74.44374712775735
+    ],
+    "framenumber": 177922,
+    "averageColorHSV": [
+      0.09963589163600613,
+      0.32144053106076986,
+      0.09178764021231885
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_177922.png",
+    "palette": [
+      {
+        "#231611": "black"
+      },
+      {
+        "#171912": "black"
+      },
+      {
+        "#2c312a": "darkslategray"
+      },
+      {
+        "#1d221a": "black"
+      },
+      {
+        "#170c08": "black"
+      },
+      {
+        "#33211d": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      118.72243365119485,
+      110.75956456801471,
+      107.43093692555146
+    ],
+    "framenumber": 178921,
+    "averageColorHSV": [
+      0.049131774752586156,
+      0.44343798152303193,
+      0.04992849187631965
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_178921.png",
+    "palette": [
+      {
+        "#bec3c9": "silver"
+      },
+      {
+        "#5e5449": "darkolivegreen"
+      },
+      {
+        "#553c33": "darkolivegreen"
+      },
+      {
+        "#70655b": "dimgrey"
+      },
+      {
+        "#bdc0c8": "silver"
+      },
+      {
+        "#6c6358": "dimgrey"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      59.45187557444853,
+      52.44233972886029,
+      50.80926154641544
+    ],
+    "framenumber": 179920,
+    "averageColorHSV": [
+      0.03149275163640323,
+      0.21619830808012544,
+      0.07838313891647414
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_179920.png",
+    "palette": [
+      {
+        "#2d383d": "darkslategray"
+      },
+      {
+        "#232a31": "darkslategray"
+      },
+      {
+        "#503027": "darkolivegreen"
+      },
+      {
+        "#42231b": "darkslategray"
+      },
+      {
+        "#2d1911": "black"
+      },
+      {
+        "#36231d": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      111.90611356847427,
+      85.2240851907169,
+      72.11406393612133
+    ],
+    "framenumber": 180919,
+    "averageColorHSV": [
+      0.05491055531495109,
+      0.36082387745999134,
+      0.2162374266341483
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_180919.png",
+    "palette": [
+      {
+        "#7b533a": "sienna"
+      },
+      {
+        "#a26748": "sienna"
+      },
+      {
+        "#ad8d83": "rosybrown"
+      },
+      {
+        "#c1a99c": "tan"
+      },
+      {
+        "#ceb3a8": "tan"
+      },
+      {
+        "#513627": "darkolivegreen"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      55.90121639476103,
+      60.74032054227941,
+      72.37106502757352
+    ],
+    "framenumber": 181918,
+    "averageColorHSV": [
+      0.617697342424492,
+      0.2515142772986952,
+      0.1283975653211138
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_181918.png",
+    "palette": [
+      {
+        "#04080c": "black"
+      },
+      {
+        "#496898": "steelblue"
+      },
+      {
+        "#739de1": "cornflowerblue"
+      },
+      {
+        "#5b7eb7": "steelblue"
+      },
+      {
+        "#101924": "black"
+      },
+      {
+        "#593a39": "darkolivegreen"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      58.517599666819855,
+      62.662375057444855,
+      73.59335506663602
+    ],
+    "framenumber": 182917,
+    "averageColorHSV": [
+      0.6208450225687581,
+      0.2590410877126586,
+      0.11411434752123836
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_182917.png",
+    "palette": [
+      {
+        "#82b5f7": "lightskyblue"
+      },
+      {
+        "#553a3b": "darkslategray"
+      },
+      {
+        "#564248": "darkslategray"
+      },
+      {
+        "#506fa2": "steelblue"
+      },
+      {
+        "#628bcf": "cornflowerblue"
+      },
+      {
+        "#335179": "darkslateblue"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      63.40913660386029,
+      62.30191578584559,
+      69.36168715533088
+    ],
+    "framenumber": 183916,
+    "averageColorHSV": [
+      0.6928058705224857,
+      0.25816392733564014,
+      0.05361976439790575
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_183916.png",
+    "palette": [
+      {
+        "#6990d3": "cornflowerblue"
+      },
+      {
+        "#6e4c4a": "dimgrey"
+      },
+      {
+        "#453334": "darkslategray"
+      },
+      {
+        "#251f1b": "black"
+      },
+      {
+        "#474b4d": "darkslategray"
+      },
+      {
+        "#4e3331": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      60.97292911305147,
+      64.33217486213235,
+      67.53400735294117
+    ],
+    "framenumber": 184915,
+    "averageColorHSV": [
+      0.5813340016620665,
+      0.25197438522743654,
+      0.05105621860051105
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_184915.png",
+    "palette": [
+      {
+        "#11181c": "black"
+      },
+      {
+        "#7f8387": "gray"
+      },
+      {
+        "#63666b": "dimgrey"
+      },
+      {
+        "#060c14": "black"
+      },
+      {
+        "#535a5f": "dimgrey"
+      },
+      {
+        "#22282b": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      45.5747501148897,
+      44.1995418772978,
+      38.1173095703125
+    ],
+    "framenumber": 185914,
+    "averageColorHSV": [
+      0.1359320772908718,
+      0.16410207781412195,
+      0.08910571173212233
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_185914.png",
+    "palette": [
+      {
+        "#212118": "black"
+      },
+      {
+        "#35362f": "darkslategray"
+      },
+      {
+        "#2d2c22": "darkslategray"
+      },
+      {
+        "#302e28": "darkslategray"
+      },
+      {
+        "#3f3a33": "darkslategray"
+      },
+      {
+        "#272923": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      69.81679400275735,
+      66.74103142233456,
+      63.7469913258272
+    ],
+    "framenumber": 186913,
+    "averageColorHSV": [
+      0.08221135172117361,
+      0.26188977515408735,
+      0.04544497344094904
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_186913.png",
+    "palette": [
+      {
+        "#a4a396": "darkgray"
+      },
+      {
+        "#373b3e": "darkslategray"
+      },
+      {
+        "#4c4c55": "darkslategray"
+      },
+      {
+        "#333539": "darkslategray"
+      },
+      {
+        "#252724": "darkslategray"
+      },
+      {
+        "#414246": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      45.70372099034926,
+      46.734382180606616,
+      50.88998592601103
+    ],
+    "framenumber": 187912,
+    "averageColorHSV": [
+      0.6335451684065757,
+      0.18939942532619664,
+      0.05369154059024276
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_187912.png",
+    "palette": [
+      {
+        "#474a56": "darkslategray"
+      },
+      {
+        "#393c49": "darkslategray"
+      },
+      {
+        "#21272e": "darkslategray"
+      },
+      {
+        "#2f333d": "darkslategray"
+      },
+      {
+        "#424753": "darkslategray"
+      },
+      {
+        "#494851": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      128.4154555376838,
+      110.79147518382352,
+      108.66702809053308
+    ],
+    "framenumber": 188911,
+    "averageColorHSV": [
+      0.017929251151564168,
+      0.464867614957288,
+      0.08329770780585974
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_188911.png",
+    "palette": [
+      {
+        "#957c6f": "gray"
+      },
+      {
+        "#a5abca": "darkgray"
+      },
+      {
+        "#7b5b43": "sienna"
+      },
+      {
+        "#ac978d": "rosybrown"
+      },
+      {
+        "#7d655f": "dimgrey"
+      },
+      {
+        "#a0abc9": "darkgray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      103.93374454273896,
+      93.7555793313419,
+      83.4490966796875
+    ],
+    "framenumber": 189910,
+    "averageColorHSV": [
+      0.08385533986685707,
+      0.367417335730248,
+      0.10931976337543016
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_189910.png",
+    "palette": [
+      {
+        "#77675d": "dimgrey"
+      },
+      {
+        "#e8ebf7": "lavender"
+      },
+      {
+        "#544933": "darkolivegreen"
+      },
+      {
+        "#ab9088": "rosybrown"
+      },
+      {
+        "#736352": "dimgrey"
+      },
+      {
+        "#635e4c": "dimgrey"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      98.92488367417279,
+      89.35671817555146,
+      78.06111414292279
+    ],
+    "framenumber": 190909,
+    "averageColorHSV": [
+      0.09023300747666892,
+      0.34703136826881487,
+      0.11788372972200574
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_190909.png",
+    "palette": [
+      {
+        "#271e16": "black"
+      },
+      {
+        "#8b809e": "lightslategrey"
+      },
+      {
+        "#8f6f4e": "dimgrey"
+      },
+      {
+        "#261e0b": "black"
+      },
+      {
+        "#b2916b": "rosybrown"
+      },
+      {
+        "#716880": "dimgrey"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      67.22533461626838,
+      59.63446403952206,
+      39.8708065257353
+    ],
+    "framenumber": 191908,
+    "averageColorHSV": [
+      0.12041673349519179,
+      0.20999243361177194,
+      0.25542029618287054
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_191908.png",
+    "palette": [
+      {
+        "#736c43": "darkolivegreen"
+      },
+      {
+        "#8e8558": "gray"
+      },
+      {
+        "#030500": "black"
+      },
+      {
+        "#524a28": "darkolivegreen"
+      },
+      {
+        "#6b5c3e": "darkolivegreen"
+      },
+      {
+        "#837551": "dimgrey"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      114.64629767922794,
+      101.07334271599265,
+      79.33029354319852
+    ],
+    "framenumber": 192907,
+    "averageColorHSV": [
+      0.1026118785930817,
+      0.3803462572988754,
+      0.18206322687428683
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_192907.png",
+    "palette": [
+      {
+        "#8a7c54": "dimgrey"
+      },
+      {
+        "#786665": "dimgrey"
+      },
+      {
+        "#83726c": "gray"
+      },
+      {
+        "#5f5334": "darkolivegreen"
+      },
+      {
+        "#716642": "darkolivegreen"
+      },
+      {
+        "#6b5a51": "dimgrey"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      72.81663602941177,
+      59.4725772633272,
+      48.73943732766544
+    ],
+    "framenumber": 193906,
+    "averageColorHSV": [
+      0.07429671026529677,
+      0.23834524187662198,
+      0.19807483111944824
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_193906.png",
+    "palette": [
+      {
+        "#72513f": "darkolivegreen"
+      },
+      {
+        "#060803": "black"
+      },
+      {
+        "#583e30": "darkolivegreen"
+      },
+      {
+        "#41281c": "darkslategray"
+      },
+      {
+        "#765d4d": "dimgrey"
+      },
+      {
+        "#8b6b59": "dimgrey"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      76.02618049172794,
+      65.82151884191177,
+      60.2902042164522
+    ],
+    "framenumber": 194905,
+    "averageColorHSV": [
+      0.05858459334095384,
+      0.2672870288395689,
+      0.11543715972927687
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_194905.png",
+    "palette": [
+      {
+        "#504d3d": "darkolivegreen"
+      },
+      {
+        "#443933": "darkslategray"
+      },
+      {
+        "#8a7369": "gray"
+      },
+      {
+        "#64554d": "dimgrey"
+      },
+      {
+        "#aba5af": "darkgray"
+      },
+      {
+        "#422c23": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      63.08990837545956,
+      54.99874339384191,
+      48.58843635110294
+    ],
+    "framenumber": 195904,
+    "averageColorHSV": [
+      0.07367421082002625,
+      0.21897714652267158,
+      0.12985034887347743
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_195904.png",
+    "palette": [
+      {
+        "#45352d": "darkslategray"
+      },
+      {
+        "#27130e": "black"
+      },
+      {
+        "#433935": "darkslategray"
+      },
+      {
+        "#635754": "dimgrey"
+      },
+      {
+        "#535440": "darkolivegreen"
+      },
+      {
+        "#4e4641": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      39.57261747472426,
+      24.348467658547793,
+      15.3321533203125
+    ],
+    "framenumber": 196903,
+    "averageColorHSV": [
+      0.06199217336764793,
+      0.10765641332360149,
+      0.4415001429457389
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_196903.png",
+    "palette": [
+      {
+        "#301b12": "black"
+      },
+      {
+        "#24150c": "black"
+      },
+      {
+        "#2b1a10": "black"
+      },
+      {
+        "#271b12": "black"
+      },
+      {
+        "#24140e": "black"
+      },
+      {
+        "#190d07": "black"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      81.54912252987133,
+      64.34921444163602,
+      51.55612362132353
+    ],
+    "framenumber": 197902,
+    "averageColorHSV": [
+      0.07108931687313734,
+      0.26099067872783305,
+      0.2253329585107308
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_197902.png",
+    "palette": [
+      {
+        "#322b1b": "darkslategray"
+      },
+      {
+        "#6b563e": "darkolivegreen"
+      },
+      {
+        "#715954": "dimgrey"
+      },
+      {
+        "#3a2315": "black"
+      },
+      {
+        "#433927": "darkslategray"
+      },
+      {
+        "#3f271c": "darkslategray"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      111.18255974264706,
+      134.06887637867646,
+      197.3653133616728
+    ],
+    "framenumber": 198901,
+    "averageColorHSV": [
+      0.6224073926723993,
+      0.6049958296163135,
+      0.427807613387247
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_198901.png",
+    "palette": [
+      {
+        "#6586c1": "steelblue"
+      },
+      {
+        "#4d70a5": "steelblue"
+      },
+      {
+        "#425597": "darkslateblue"
+      },
+      {
+        "#7388d8": "cornflowerblue"
+      },
+      {
+        "#a9a5cf": "lightsteelblue"
+      },
+      {
+        "#90a5f2": "skyblue"
+      }
+    ]
+  },
+  {
+    "averageColorRGB": [
+      16.550673540900736,
+      19.252118278952207,
+      17.75193158318015
+    ],
+    "framenumber": 199900,
+    "averageColorHSV": [
+      0.40744540784411726,
+      0.07020155258794694,
+      0.07545346607728783
+    ],
+    "file": "http://128.54.253.204/chromatography/shawshank/The Shawshank Redemption [1994] dvd rip nlx.avi_199900.png",
+    "palette": [
+      {
+        "#000100": "black"
+      },
+      {
+        "#000701": "black"
+      },
+      {
+        "#000400": "black"
+      },
+      {
+        "#000300": "black"
+      },
+      {
+        "#000705": "black"
+      },
+      {
+        "#666d6a": "dimgrey"
+      }
+    ]
+>>>>>>> dev_klim
   }
 ]

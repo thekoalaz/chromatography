@@ -1,12 +1,18 @@
 [
   {
+<<<<<<< HEAD
     "framenumber": 0,
     "file": "../data/magnolia/Magnolia.mkv_000.png",
     "averageColorHSV": [
+=======
+    "framenumber": 100,
+    "averageColorRGB": [
+>>>>>>> dev_klim
       0.0,
       0.0,
       0.0
     ],
+<<<<<<< HEAD
     "averageColorRGB": [
       0.0,
       0.0,
@@ -697,6 +703,6754 @@
       26.821434067234847,
       28.203311434659092,
       31.560724431818183
+=======
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_100.png",
+    "averageColorHSV": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "palette": [
+      {
+        "#ffffff": "white"
+      }
+    ]
+  },
+  {
+    "framenumber": 1407,
+    "averageColorRGB": [
+      23.284372040719695,
+      23.284372040719695,
+      23.284372040719695
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_1407.png",
+    "averageColorHSV": [
+      0.0,
+      0.09131126290478311,
+      0.0
+    ],
+    "palette": [
+      {
+        "#020202": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 2714,
+    "averageColorRGB": [
+      42.82698123816288,
+      40.788238340435605,
+      39.44122573390152
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_2714.png",
+    "averageColorHSV": [
+      0.06630783020405735,
+      0.1613102097491459,
+      0.041155090512803506
+    ],
+    "palette": [
+      {
+        "#090b08": "black"
+      },
+      {
+        "#0e110f": "black"
+      },
+      {
+        "#d9cad1": "lightgrey"
+      },
+      {
+        "#080a0a": "black"
+      },
+      {
+        "#0b0d0d": "black"
+      },
+      {
+        "#242624": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 4021,
+    "averageColorRGB": [
+      33.56082208806818,
+      23.036189038825757,
+      21.134386837121212
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_4021.png",
+    "averageColorHSV": [
+      0.025507478791495713,
+      0.10724550769644978,
+      0.22719421856388744
+    ],
+    "palette": [
+      {
+        "#0d0705": "black"
+      },
+      {
+        "#110504": "black"
+      },
+      {
+        "#2d0e0f": "black"
+      },
+      {
+        "#1e0e0c": "black"
+      },
+      {
+        "#130707": "black"
+      },
+      {
+        "#35221f": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 5328,
+    "averageColorRGB": [
+      140.55495087594696,
+      149.27939897017046,
+      160.3692604758523
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_5328.png",
+    "averageColorHSV": [
+      0.5932815873108089,
+      0.590047473238822,
+      0.0947709427668149
+    ],
+    "palette": [
+      {
+        "#959fa6": "darkgray"
+      },
+      {
+        "#95a0b2": "darkgray"
+      },
+      {
+        "#8c939b": "lightslategrey"
+      },
+      {
+        "#9399a6": "darkgray"
+      },
+      {
+        "#7d8c9f": "lightslategrey"
+      },
+      {
+        "#a1a5aa": "darkgray"
+      }
+    ]
+  },
+  {
+    "framenumber": 6635,
+    "averageColorRGB": [
+      17.919643702651516,
+      16.35355409564394,
+      13.087229225852273
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_6635.png",
+    "averageColorHSV": [
+      0.11265330838491878,
+      0.06079779005588978,
+      0.15584978491516738
+    ],
+    "palette": [
+      {
+        "#1a1714": "black"
+      },
+      {
+        "#2e2b2b": "darkslategray"
+      },
+      {
+        "#030300": "black"
+      },
+      {
+        "#090705": "black"
+      },
+      {
+        "#080805": "black"
+      },
+      {
+        "#050502": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 7942,
+    "averageColorRGB": [
+      108.27317856297348,
+      115.59823626893939,
+      125.8707489938447
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_7942.png",
+    "averageColorHSV": [
+      0.5972910130336739,
+      0.45910574030748663,
+      0.07515706520554936
+    ],
+    "palette": [
+      {
+        "#6a86ab": "lightslategrey"
+      },
+      {
+        "#b8aa9b": "darkgray"
+      },
+      {
+        "#bbb3aa": "darkgray"
+      },
+      {
+        "#a5adba": "darkgray"
+      },
+      {
+        "#9baab8": "darkgray"
+      },
+      {
+        "#88a1bb": "darkgray"
+      }
+    ]
+  },
+  {
+    "framenumber": 9249,
+    "averageColorRGB": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_9249.png",
+    "averageColorHSV": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "palette": [
+      {
+        "#ffffff": "white"
+      }
+    ]
+  },
+  {
+    "framenumber": 10556,
+    "averageColorRGB": [
+      48.70099431818182,
+      30.102596768465908,
+      27.172984730113637
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_10556.png",
+    "averageColorHSV": [
+      0.022680623169609355,
+      0.14877250793783423,
+      0.28373376298566244
+    ],
+    "palette": [
+      {
+        "#0d0807": "black"
+      },
+      {
+        "#460b10": "maroon"
+      },
+      {
+        "#20130f": "black"
+      },
+      {
+        "#620c16": "maroon"
+      },
+      {
+        "#43281a": "darkslategray"
+      },
+      {
+        "#701721": "maroon"
+      }
+    ]
+  },
+  {
+    "framenumber": 11863,
+    "averageColorRGB": [
+      51.605687736742425,
+      58.22025923295455,
+      98.27697088068182
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_11863.png",
+    "averageColorHSV": [
+      0.6430455337464079,
+      0.2938875659165181,
+      0.311385476975478
+    ],
+    "palette": [
+      {
+        "#434857": "darkslategray"
+      },
+      {
+        "#33509c": "darkslateblue"
+      },
+      {
+        "#1d1b28": "black"
+      },
+      {
+        "#293f8c": "darkslateblue"
+      },
+      {
+        "#666270": "dimgrey"
+      },
+      {
+        "#2c39a0": "darkslateblue"
+      }
+    ]
+  },
+  {
+    "framenumber": 13170,
+    "averageColorRGB": [
+      133.45388405539774,
+      117.45056078361742,
+      120.58655155066288
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_13170.png",
+    "averageColorHSV": [
+      0.9673402130942043,
+      0.49196949968434345,
+      0.06378254192367276
+    ],
+    "palette": [
+      {
+        "#5b556b": "dimgrey"
+      },
+      {
+        "#d4cdc8": "lightgrey"
+      },
+      {
+        "#d9d5cd": "lightgrey"
+      },
+      {
+        "#a29aa6": "darkgray"
+      },
+      {
+        "#80778a": "grey"
+      },
+      {
+        "#cc9c9b": "rosybrown"
+      }
+    ]
+  },
+  {
+    "framenumber": 14477,
+    "averageColorRGB": [
+      33.723350201231064,
+      31.254002426609848,
+      27.083130622632577
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_14477.png",
+    "averageColorHSV": [
+      0.10468709542427501,
+      0.11922839377228164,
+      0.10920249763891147
+    ],
+    "palette": [
+      {
+        "#23211a": "black"
+      },
+      {
+        "#2f2e24": "darkslategray"
+      },
+      {
+        "#27261e": "black"
+      },
+      {
+        "#1a0c0d": "black"
+      },
+      {
+        "#2f3024": "darkslategray"
+      },
+      {
+        "#1d1811": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 15784,
+    "averageColorRGB": [
+      65.12332504734849,
+      60.45906279592803,
+      59.97195046164773
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_15784.png",
+    "averageColorHSV": [
+      0.015759946728019152,
+      0.2452848539392083,
+      0.04117960941962431
+    ],
+    "palette": [
+      {
+        "#453f39": "darkslategray"
+      },
+      {
+        "#020404": "black"
+      },
+      {
+        "#544d44": "darkolivegreen"
+      },
+      {
+        "#575147": "darkolivegreen"
+      },
+      {
+        "#7c7267": "dimgrey"
+      },
+      {
+        "#a7a0aa": "darkgray"
+      }
+    ]
+  },
+  {
+    "framenumber": 17091,
+    "averageColorRGB": [
+      42.451635002367425,
+      46.56163145123106,
+      51.25818684895833
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_17091.png",
+    "averageColorHSV": [
+      0.5888837364033188,
+      0.1837447487280897,
+      0.09397682839012157
+    ],
+    "palette": [
+      {
+        "#333c43": "darkslategray"
+      },
+      {
+        "#434b55": "darkslategray"
+      },
+      {
+        "#505969": "dimgrey"
+      },
+      {
+        "#040606": "black"
+      },
+      {
+        "#161818": "black"
+      },
+      {
+        "#2e353d": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 18398,
+    "averageColorRGB": [
+      83.0623446377841,
+      76.08840997869318,
+      85.40145448626895
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_18398.png",
+    "averageColorHSV": [
+      0.7914725174533045,
+      0.3166467930685532,
+      0.05766952953011103
+    ],
+    "palette": [
+      {
+        "#2c3345": "darkslategray"
+      },
+      {
+        "#15161d": "black"
+      },
+      {
+        "#21242c": "darkslategray"
+      },
+      {
+        "#5d6679": "dimgrey"
+      },
+      {
+        "#7c7f90": "slategrey"
+      },
+      {
+        "#121216": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 19705,
+    "averageColorRGB": [
+      52.21312588778409,
+      46.56240974195076,
+      44.31083984375
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_19705.png",
+    "averageColorHSV": [
+      0.04748773299385106,
+      0.1892626779049688,
+      0.0818686425090845
+    ],
+    "palette": [
+      {
+        "#040401": "black"
+      },
+      {
+        "#453f37": "darkslategray"
+      },
+      {
+        "#55514b": "darkolivegreen"
+      },
+      {
+        "#020401": "black"
+      },
+      {
+        "#1b1713": "black"
+      },
+      {
+        "#564f4a": "darkolivegreen"
+      }
+    ]
+  },
+  {
+    "framenumber": 21012,
+    "averageColorRGB": [
+      46.181498579545455,
+      40.768479225852275,
+      39.522292258522725
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_21012.png",
+    "averageColorHSV": [
+      0.031189576936904422,
+      0.16804664870209446,
+      0.07770025404832878
+    ],
+    "palette": [
+      {
+        "#464038": "darkslategray"
+      },
+      {
+        "#030502": "black"
+      },
+      {
+        "#736686": "slategrey"
+      },
+      {
+        "#040606": "black"
+      },
+      {
+        "#020401": "black"
+      },
+      {
+        "#030505": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 22319,
+    "averageColorRGB": [
+      57.87779651988637,
+      50.377238695549245,
+      42.84108072916667
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_22319.png",
+    "averageColorHSV": [
+      0.08353062897588437,
+      0.19748799460598634,
+      0.149293917897214
+    ],
+    "palette": [
+      {
+        "#020404": "black"
+      },
+      {
+        "#2d1b12": "black"
+      },
+      {
+        "#543d2a": "darkolivegreen"
+      },
+      {
+        "#432d1e": "darkslategray"
+      },
+      {
+        "#8a7f71": "grey"
+      },
+      {
+        "#847364": "dimgrey"
+      }
+    ]
+  },
+  {
+    "framenumber": 23626,
+    "averageColorRGB": [
+      89.55411635890151,
+      77.20104758522727,
+      71.31504498106061
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_23626.png",
+    "averageColorHSV": [
+      0.05378565683007406,
+      0.31542972811757275,
+      0.11337829591401034
+    ],
+    "palette": [
+      {
+        "#706961": "dimgrey"
+      },
+      {
+        "#5c534f": "dimgrey"
+      },
+      {
+        "#5d5854": "dimgrey"
+      },
+      {
+        "#514251": "darkslategray"
+      },
+      {
+        "#755438": "darkolivegreen"
+      },
+      {
+        "#564c46": "darkolivegreen"
+      }
+    ]
+  },
+  {
+    "framenumber": 24933,
+    "averageColorRGB": [
+      30.27274502840909,
+      27.39439512310606,
+      27.422389914772726
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_24933.png",
+    "averageColorHSV": [
+      0.998379002287903,
+      0.1130728238265003,
+      0.049913172349806634
+    ],
+    "palette": [
+      {
+        "#08090c": "black"
+      },
+      {
+        "#0c0706": "black"
+      },
+      {
+        "#030505": "black"
+      },
+      {
+        "#06070a": "black"
+      },
+      {
+        "#0f1015": "black"
+      },
+      {
+        "#958c99": "lightslategrey"
+      }
+    ]
+  },
+  {
+    "framenumber": 26240,
+    "averageColorRGB": [
+      49.656288470643936,
+      34.43277254971591,
+      27.53853278882576
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_26240.png",
+    "averageColorHSV": [
+      0.05195101965489753,
+      0.15136239462641116,
+      0.28651864621170986
+    ],
+    "palette": [
+      {
+        "#140906": "black"
+      },
+      {
+        "#130c0a": "black"
+      },
+      {
+        "#2b1a11": "black"
+      },
+      {
+        "#1f120e": "black"
+      },
+      {
+        "#bf8157": "peru"
+      },
+      {
+        "#190e0b": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 27547,
+    "averageColorRGB": [
+      28.78935398910985,
+      22.97928503787879,
+      20.057975260416665
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_27547.png",
+    "averageColorHSV": [
+      0.05576266681805311,
+      0.09577907695985591,
+      0.17874833410217236
+    ],
+    "palette": [
+      {
+        "#110a08": "black"
+      },
+      {
+        "#171612": "black"
+      },
+      {
+        "#5f4139": "darkolivegreen"
+      },
+      {
+        "#0a0806": "black"
+      },
+      {
+        "#15130f": "black"
+      },
+      {
+        "#160d09": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 28854,
+    "averageColorRGB": [
+      70.16492808948864,
+      58.255483546401514,
+      55.050816761363635
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_28854.png",
+    "averageColorHSV": [
+      0.03533857328718685,
+      0.24552106833500445,
+      0.12070455952746047
+    ],
+    "palette": [
+      {
+        "#14120d": "black"
+      },
+      {
+        "#7a5039": "sienna"
+      },
+      {
+        "#66442f": "darkolivegreen"
+      },
+      {
+        "#272526": "darkslategray"
+      },
+      {
+        "#4c4039": "darkslategray"
+      },
+      {
+        "#7d696b": "dimgrey"
+      }
+    ]
+  },
+  {
+    "framenumber": 30161,
+    "averageColorRGB": [
+      84.49832652698863,
+      74.93496685606061,
+      79.17031989820076
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_30161.png",
+    "averageColorHSV": [
+      0.9261878463239348,
+      0.312614300751077,
+      0.059983454321246445
+    ],
+    "palette": [
+      {
+        "#6f6978": "dimgrey"
+      },
+      {
+        "#5c5660": "dimgrey"
+      },
+      {
+        "#83808f": "grey"
+      },
+      {
+        "#47423b": "darkslategray"
+      },
+      {
+        "#341e19": "black"
+      },
+      {
+        "#9392a1": "lightslategrey"
+      }
+    ]
+  },
+  {
+    "framenumber": 31468,
+    "averageColorRGB": [
+      81.12420543323864,
+      69.65164092092803,
+      69.22547644412879
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_31468.png",
+    "averageColorHSV": [
+      0.005969327721043379,
+      0.2948032977987597,
+      0.07914036691354659
+    ],
+    "palette": [
+      {
+        "#aba0a3": "darkgray"
+      },
+      {
+        "#a197a0": "darkgray"
+      },
+      {
+        "#7c757e": "grey"
+      },
+      {
+        "#100a08": "black"
+      },
+      {
+        "#655c60": "dimgrey"
+      },
+      {
+        "#090708": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 32775,
+    "averageColorRGB": [
+      82.04000355113637,
+      72.09899976325758,
+      73.37442441998105
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_32775.png",
+    "averageColorHSV": [
+      0.9786167694272714,
+      0.30223333983214495,
+      0.0644937593608435
+    ],
+    "palette": [
+      {
+        "#767283": "grey"
+      },
+      {
+        "#828192": "lightslategrey"
+      },
+      {
+        "#4d453d": "darkslategray"
+      },
+      {
+        "#2f1915": "black"
+      },
+      {
+        "#3b241f": "darkslategray"
+      },
+      {
+        "#474036": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 34082,
+    "averageColorRGB": [
+      45.13796904592803,
+      36.037609493371214,
+      36.52662464488636
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_34082.png",
+    "averageColorHSV": [
+      0.9910440324053322,
+      0.1591678010574495,
+      0.11210711049199472
+    ],
+    "palette": [
+      {
+        "#2b1d19": "black"
+      },
+      {
+        "#150c07": "black"
+      },
+      {
+        "#6b4341": "darkolivegreen"
+      },
+      {
+        "#180f08": "black"
+      },
+      {
+        "#0d0604": "black"
+      },
+      {
+        "#464f68": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 35389,
+    "averageColorRGB": [
+      3.9913071141098486,
+      3.990838068181818,
+      3.9982244318181817
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_35389.png",
+    "averageColorHSV": [
+      0.6772502670940215,
+      0.015664828431372547,
+      0.000924559500737804
+    ],
+    "palette": [
+      {
+        "#040306": "black"
+      },
+      {
+        "#020404": "black"
+      },
+      {
+        "#040401": "black"
+      },
+      {
+        "#010303": "black"
+      },
+      {
+        "#020306": "black"
+      },
+      {
+        "#050304": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 36696,
+    "averageColorRGB": [
+      4.7395803740530305,
+      4.57051816998106,
+      4.6341116240530305
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_36696.png",
+    "averageColorHSV": [
+      0.937307637326892,
+      0.018255095184380572,
+      0.018159013384482937
+    ],
+    "palette": [
+      {
+        "#040306": "black"
+      },
+      {
+        "#020404": "black"
+      },
+      {
+        "#1b191e": "black"
+      },
+      {
+        "#050407": "black"
+      },
+      {
+        "#0d0c10": "black"
+      },
+      {
+        "#050304": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 38003,
+    "averageColorRGB": [
+      13.234138257575758,
+      13.211739464962122,
+      16.606053207859848
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_38003.png",
+    "averageColorHSV": [
+      0.6677664860661207,
+      0.058466260142788176,
+      0.11383517821530573
+    ],
+    "palette": [
+      {
+        "#0d1023": "black"
+      },
+      {
+        "#080a18": "black"
+      },
+      {
+        "#0b0a0e": "black"
+      },
+      {
+        "#08090c": "black"
+      },
+      {
+        "#08070a": "black"
+      },
+      {
+        "#11152b": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 39310,
+    "averageColorRGB": [
+      63.45230379971591,
+      64.91905776515152,
+      63.899362275094695
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_39310.png",
+    "averageColorHSV": [
+      0.38413240915129854,
+      0.2517085520879753,
+      0.011425865921772966
+    ],
+    "palette": [
+      {
+        "#0e160e": "black"
+      },
+      {
+        "#090a0d": "black"
+      },
+      {
+        "#070809": "black"
+      },
+      {
+        "#a2a2b6": "darkgray"
+      },
+      {
+        "#325a2a": "darkslategray"
+      },
+      {
+        "#663245": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 40617,
+    "averageColorRGB": [
+      15.394156901041667,
+      16.434448982007577,
+      21.67679776278409
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_40617.png",
+    "averageColorHSV": [
+      0.6390696708634985,
+      0.07268814639965834,
+      0.16947610113405293
+    ],
+    "palette": [
+      {
+        "#040401": "black"
+      },
+      {
+        "#0b1129": "black"
+      },
+      {
+        "#19294e": "midnightblue"
+      },
+      {
+        "#0e1532": "black"
+      },
+      {
+        "#121e41": "midnightblue"
+      },
+      {
+        "#050502": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 41924,
+    "averageColorRGB": [
+      35.91739021070076,
+      28.42421875,
+      25.92143406723485
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_41924.png",
+    "averageColorHSV": [
+      0.0417299530404129,
+      0.12125259662340315,
+      0.16164531360652848
+    ],
+    "palette": [
+      {
+        "#070503": "black"
+      },
+      {
+        "#292c34": "darkslategray"
+      },
+      {
+        "#282f3f": "darkslategray"
+      },
+      {
+        "#894f3d": "sienna"
+      },
+      {
+        "#ab6659": "indianred"
+      },
+      {
+        "#050304": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 43231,
+    "averageColorRGB": [
+      25.805081084280303,
+      26.312350556344697,
+      34.044753196022725
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_43231.png",
+    "averageColorHSV": [
+      0.6564059535139859,
+      0.1173526162358883,
+      0.13767242985423195
+    ],
+    "palette": [
+      {
+        "#020404": "black"
+      },
+      {
+        "#030505": "black"
+      },
+      {
+        "#040508": "black"
+      },
+      {
+        "#0a1125": "black"
+      },
+      {
+        "#030407": "black"
+      },
+      {
+        "#020306": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 44538,
+    "averageColorRGB": [
+      18.76026574337121,
+      20.82404267282197,
+      24.91122159090909
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_44538.png",
+    "averageColorHSV": [
+      0.6107464438426304,
+      0.08563036732211823,
+      0.14084603531947115
+    ],
+    "palette": [
+      {
+        "#505155": "darkslategray"
+      },
+      {
+        "#040508": "black"
+      },
+      {
+        "#23355e": "darkslategray"
+      },
+      {
+        "#030407": "black"
+      },
+      {
+        "#918189": "grey"
+      },
+      {
+        "#ceafc3": "silver"
+      }
+    ]
+  },
+  {
+    "framenumber": 45845,
+    "averageColorRGB": [
+      32.976232540246215,
+      18.650577059659092,
+      16.528070253314393
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_45845.png",
+    "averageColorHSV": [
+      0.021507030890122052,
+      0.09706726037953062,
+      0.33225722530671326
+    ],
+    "palette": [
+      {
+        "#0d0706": "black"
+      },
+      {
+        "#3a1d1d": "black"
+      },
+      {
+        "#221414": "black"
+      },
+      {
+        "#190e0b": "black"
+      },
+      {
+        "#1a0e0f": "black"
+      },
+      {
+        "#060402": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 47152,
+    "averageColorRGB": [
+      39.56888760653409,
+      21.983707682291666,
+      26.77939453125
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_47152.png",
+    "averageColorHSV": [
+      0.9545480259550152,
+      0.12069136331142305,
+      0.28569355754581544
+    ],
+    "palette": [
+      {
+        "#371d31": "darkslategray"
+      },
+      {
+        "#26121c": "black"
+      },
+      {
+        "#120709": "black"
+      },
+      {
+        "#0d070c": "black"
+      },
+      {
+        "#2c1726": "black"
+      },
+      {
+        "#221318": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 48459,
+    "averageColorRGB": [
+      103.61293205492424,
+      90.09337565104167,
+      80.84488340435605
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_48459.png",
+    "averageColorHSV": [
+      0.06770081169907965,
+      0.361681991096628,
+      0.12343227959128851
+    ],
+    "palette": [
+      {
+        "#bdb690": "tan"
+      },
+      {
+        "#291724": "black"
+      },
+      {
+        "#e4dfbb": "wheat"
+      },
+      {
+        "#311c2d": "darkslategray"
+      },
+      {
+        "#5a433b": "darkolivegreen"
+      },
+      {
+        "#fdffdd": "lightyellow"
+      }
+    ]
+  },
+  {
+    "framenumber": 49766,
+    "averageColorRGB": [
+      55.05918856534091,
+      48.48141424005682,
+      46.504870975378786
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_49766.png",
+    "averageColorHSV": [
+      0.038509661814858744,
+      0.1991452147857249,
+      0.08422583371170263
+    ],
+    "palette": [
+      {
+        "#2d2615": "black"
+      },
+      {
+        "#17161d": "black"
+      },
+      {
+        "#332d28": "darkslategray"
+      },
+      {
+        "#28211f": "black"
+      },
+      {
+        "#241e1b": "black"
+      },
+      {
+        "#1e1c25": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 51073,
+    "averageColorRGB": [
+      32.22425870028409,
+      40.58291163589015,
+      68.85696022727272
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_51073.png",
+    "averageColorHSV": [
+      0.6286375624911349,
+      0.1981984684854055,
+      0.36240858505320034
+    ],
+    "palette": [
+      {
+        "#1646a6": "darkslateblue"
+      },
+      {
+        "#1a263e": "darkslategray"
+      },
+      {
+        "#0d1937": "midnightblue"
+      },
+      {
+        "#10327b": "midnightblue"
+      },
+      {
+        "#0d1322": "black"
+      },
+      {
+        "#122144": "midnightblue"
+      }
+    ]
+  },
+  {
+    "framenumber": 52380,
+    "averageColorRGB": [
+      43.69496034564394,
+      38.24114139441288,
+      46.43161251183712
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_52380.png",
+    "averageColorHSV": [
+      0.7776456094128846,
+      0.16602500765931372,
+      0.09673089322797712
+    ],
+    "palette": [
+      {
+        "#181758": "midnightblue"
+      },
+      {
+        "#0a0c27": "black"
+      },
+      {
+        "#010303": "black"
+      },
+      {
+        "#3f4c5b": "darkslategray"
+      },
+      {
+        "#525d6e": "dimgrey"
+      },
+      {
+        "#693d3c": "darkolivegreen"
+      }
+    ]
+  },
+  {
+    "framenumber": 53687,
+    "averageColorRGB": [
+      40.56517666903409,
+      39.49696673768939,
+      50.79749792850379
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_53687.png",
+    "averageColorHSV": [
+      0.6824212347972484,
+      0.17704796993371213,
+      0.1251519817143939
+    ],
+    "palette": [
+      {
+        "#1d2a39": "darkslategray"
+      },
+      {
+        "#4d5b69": "dimgrey"
+      },
+      {
+        "#010303": "black"
+      },
+      {
+        "#0f1827": "black"
+      },
+      {
+        "#19171c": "black"
+      },
+      {
+        "#0d0e40": "midnightblue"
+      }
+    ]
+  },
+  {
+    "framenumber": 54994,
+    "averageColorRGB": [
+      95.51886837121212,
+      97.77148585464015,
+      104.84374112215909
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_54994.png",
+    "averageColorHSV": [
+      0.6264048574961473,
+      0.3928678617517083,
+      0.046539984553632306
+    ],
+    "palette": [
+      {
+        "#787d87": "grey"
+      },
+      {
+        "#7e818b": "grey"
+      },
+      {
+        "#24282f": "darkslategray"
+      },
+      {
+        "#666d78": "dimgrey"
+      },
+      {
+        "#636671": "dimgrey"
+      },
+      {
+        "#8d9399": "lightslategrey"
+      }
+    ]
+  },
+  {
+    "framenumber": 56301,
+    "averageColorRGB": [
+      57.07582120028409,
+      59.06865678267045,
+      50.83870738636364
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_56301.png",
+    "averageColorHSV": [
+      0.20702405499764573,
+      0.21550463562555705,
+      0.07488078217988568
+    ],
+    "palette": [
+      {
+        "#121015": "black"
+      },
+      {
+        "#667652": "dimgrey"
+      },
+      {
+        "#4a5935": "darkolivegreen"
+      },
+      {
+        "#38322d": "darkslategray"
+      },
+      {
+        "#3c4a2a": "darkslategray"
+      },
+      {
+        "#12140c": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 57608,
+    "averageColorRGB": [
+      52.285759943181816,
+      51.075966205018936,
+      49.10965021306818
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_57608.png",
+    "averageColorHSV": [
+      0.10318262271753076,
+      0.19881452971813723,
+      0.03132399903722723
+    ],
+    "palette": [
+      {
+        "#2f221d": "black"
+      },
+      {
+        "#1e231a": "black"
+      },
+      {
+        "#586572": "dimgrey"
+      },
+      {
+        "#231710": "black"
+      },
+      {
+        "#17181c": "black"
+      },
+      {
+        "#271b12": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 58915,
+    "averageColorRGB": [
+      49.03497573390152,
+      48.587183357007575,
+      47.03198982007576
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_58915.png",
+    "averageColorHSV": [
+      0.12940626343541878,
+      0.18836659912544562,
+      0.020849892596017765
+    ],
+    "palette": [
+      {
+        "#261b13": "black"
+      },
+      {
+        "#151619": "black"
+      },
+      {
+        "#2c201b": "black"
+      },
+      {
+        "#0b0c08": "black"
+      },
+      {
+        "#62778c": "slategrey"
+      },
+      {
+        "#0e140d": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 60222,
+    "averageColorRGB": [
+      67.59908706202651,
+      70.07847863399621,
+      70.02806581439394
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_60222.png",
+    "averageColorHSV": [
+      0.4966112103084615,
+      0.269956011168672,
+      0.018008682528887297
+    ],
+    "palette": [
+      {
+        "#070c0c": "black"
+      },
+      {
+        "#31332d": "darkslategray"
+      },
+      {
+        "#252820": "darkslategray"
+      },
+      {
+        "#1c1f18": "black"
+      },
+      {
+        "#b4bbc1": "silver"
+      },
+      {
+        "#9ca7ad": "darkgray"
+      }
+    ]
+  },
+  {
+    "framenumber": 61529,
+    "averageColorRGB": [
+      54.48451260653409,
+      48.230841619318184,
+      45.92320667613637
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_61529.png",
+    "averageColorHSV": [
+      0.044923733247057174,
+      0.19687788094641268,
+      0.08526541576246448
+    ],
+    "palette": [
+      {
+        "#9493a3": "darkgray"
+      },
+      {
+        "#3c2819": "darkslategray"
+      },
+      {
+        "#797a8b": "slategrey"
+      },
+      {
+        "#372317": "black"
+      },
+      {
+        "#201f19": "black"
+      },
+      {
+        "#28281e": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 62836,
+    "averageColorRGB": [
+      55.78412937973485,
+      59.63013435132576,
+      62.91126745975379
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_62836.png",
+    "averageColorHSV": [
+      0.5767286268249044,
+      0.23273607223429144,
+      0.060045614824111054
+    ],
+    "palette": [
+      {
+        "#646e76": "dimgrey"
+      },
+      {
+        "#444c50": "darkslategray"
+      },
+      {
+        "#919faf": "darkgray"
+      },
+      {
+        "#06070a": "black"
+      },
+      {
+        "#08090e": "black"
+      },
+      {
+        "#0e1016": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 64143,
+    "averageColorRGB": [
+      41.354620916193184,
+      39.28475822679924,
+      37.813196910511365
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_64143.png",
+    "averageColorHSV": [
+      0.06925468935315854,
+      0.15523101534647948,
+      0.04473312645087509
+    ],
+    "palette": [
+      {
+        "#4f4136": "darkslategray"
+      },
+      {
+        "#3a2f27": "darkslategray"
+      },
+      {
+        "#2e3742": "darkslategray"
+      },
+      {
+        "#040606": "black"
+      },
+      {
+        "#030505": "black"
+      },
+      {
+        "#4c4034": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 65450,
+    "averageColorRGB": [
+      91.08775745738636,
+      98.10354521780303,
+      108.18073804450758
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_65450.png",
+    "averageColorHSV": [
+      0.5982585880340577,
+      0.390722540199792,
+      0.08577864024149648
+    ],
+    "palette": [
+      {
+        "#909da6": "darkgray"
+      },
+      {
+        "#758298": "lightslategrey"
+      },
+      {
+        "#6b7c78": "grey"
+      },
+      {
+        "#1c1b37": "midnightblue"
+      },
+      {
+        "#8d96ab": "lightslategrey"
+      },
+      {
+        "#939eac": "darkgray"
+      }
+    ]
+  },
+  {
+    "framenumber": 66757,
+    "averageColorRGB": [
+      27.555797230113637,
+      23.28711973248106,
+      20.10449070785985
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_66757.png",
+    "averageColorHSV": [
+      0.07118727020369049,
+      0.0934515449764186,
+      0.15634203746211398
+    ],
+    "palette": [
+      {
+        "#181611": "black"
+      },
+      {
+        "#0d0b09": "black"
+      },
+      {
+        "#0e0c08": "black"
+      },
+      {
+        "#12120f": "black"
+      },
+      {
+        "#0c0c09": "black"
+      },
+      {
+        "#050502": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 68064,
+    "averageColorRGB": [
+      49.56498431581439,
+      41.99924094460227,
+      38.49324248342803
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_68064.png",
+    "averageColorHSV": [
+      0.052776978158316466,
+      0.1726631898024361,
+      0.1257320551960242
+    ],
+    "palette": [
+      {
+        "#060603": "black"
+      },
+      {
+        "#3b2718": "darkslategray"
+      },
+      {
+        "#22150c": "black"
+      },
+      {
+        "#6d6972": "dimgrey"
+      },
+      {
+        "#312215": "black"
+      },
+      {
+        "#2d231b": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 69371,
+    "averageColorRGB": [
+      88.59235617897727,
+      84.86905628551136,
+      86.03923709753788
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_69371.png",
+    "averageColorHSV": [
+      0.9476190097714087,
+      0.3401204165970365,
+      0.021464715642322742
+    ],
+    "palette": [
+      {
+        "#4c5054": "darkslategray"
+      },
+      {
+        "#363c3c": "darkslategray"
+      },
+      {
+        "#79757c": "grey"
+      },
+      {
+        "#474c4c": "darkslategray"
+      },
+      {
+        "#807981": "grey"
+      },
+      {
+        "#5b5c60": "dimgrey"
+      }
+    ]
+  },
+  {
+    "framenumber": 70678,
+    "averageColorRGB": [
+      59.405807587594694,
+      47.004393051609846,
+      36.12613340435606
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_70678.png",
+    "averageColorHSV": [
+      0.07788095573294956,
+      0.1873175313567662,
+      0.24368471886486748
+    ],
+    "palette": [
+      {
+        "#010803": "black"
+      },
+      {
+        "#c6715a": "indianred"
+      },
+      {
+        "#d2729b": "palevioletred"
+      },
+      {
+        "#030a05": "black"
+      },
+      {
+        "#cf5977": "indianred"
+      },
+      {
+        "#010806": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 71985,
+    "averageColorRGB": [
+      51.262486683238635,
+      36.94064719460227,
+      27.948598780776514
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_71985.png",
+    "averageColorHSV": [
+      0.06428248869976576,
+      0.1553158538510101,
+      0.2943260752695202
+    ],
+    "palette": [
+      {
+        "#4c422c": "darkolivegreen"
+      },
+      {
+        "#281e14": "black"
+      },
+      {
+        "#1e0e09": "black"
+      },
+      {
+        "#302619": "black"
+      },
+      {
+        "#53231e": "maroon"
+      },
+      {
+        "#3d311e": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 73292,
+    "averageColorRGB": [
+      66.18864672111742,
+      59.23654415246212,
+      56.20379083806818
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_73292.png",
+    "averageColorHSV": [
+      0.05062255195795212,
+      0.23998517168467765,
+      0.08158066039187134
+    ],
+    "palette": [
+      {
+        "#2b1c16": "black"
+      },
+      {
+        "#4f4b44": "darkslategray"
+      },
+      {
+        "#55504a": "darkolivegreen"
+      },
+      {
+        "#867570": "grey"
+      },
+      {
+        "#74665e": "dimgrey"
+      },
+      {
+        "#46443f": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 74599,
+    "averageColorRGB": [
+      61.075377308238636,
+      58.97154651988637,
+      57.26668590198864
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_74599.png",
+    "averageColorHSV": [
+      0.07460395343398346,
+      0.23204326119652408,
+      0.03218375024849866
+    ],
+    "palette": [
+      {
+        "#4b4842": "darkslategray"
+      },
+      {
+        "#403931": "darkslategray"
+      },
+      {
+        "#55524e": "darkslategray"
+      },
+      {
+        "#050504": "black"
+      },
+      {
+        "#453c35": "darkslategray"
+      },
+      {
+        "#3e3c35": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 75906,
+    "averageColorRGB": [
+      50.95710079308712,
+      46.62977183948863,
+      43.403197502367426
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_75906.png",
+    "averageColorHSV": [
+      0.07119000188695379,
+      0.1850201927361854,
+      0.08005383012956814
+    ],
+    "palette": [
+      {
+        "#060603": "black"
+      },
+      {
+        "#3d332d": "darkslategray"
+      },
+      {
+        "#271916": "black"
+      },
+      {
+        "#1f1413": "black"
+      },
+      {
+        "#4f4943": "darkslategray"
+      },
+      {
+        "#658f8d": "slategrey"
+      }
+    ]
+  },
+  {
+    "framenumber": 77213,
+    "averageColorRGB": [
+      32.27038056344697,
+      41.51127337831439,
+      56.78737275094697
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_77213.png",
+    "averageColorHSV": [
+      0.6038470193502578,
+      0.17462304571449794,
+      0.2752931808300788
+    ],
+    "palette": [
+      {
+        "#282b33": "darkslategray"
+      },
+      {
+        "#233655": "darkslategray"
+      },
+      {
+        "#1e2226": "black"
+      },
+      {
+        "#152239": "midnightblue"
+      },
+      {
+        "#1b293f": "darkslategray"
+      },
+      {
+        "#222730": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 78520,
+    "averageColorRGB": [
+      33.9509306936553,
+      25.34931492660985,
+      25.787936493844697
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_78520.png",
+    "averageColorHSV": [
+      0.9915011787879184,
+      0.11627499141228462,
+      0.14505194164163712
+    ],
+    "palette": [
+      {
+        "#140807": "black"
+      },
+      {
+        "#20110f": "black"
+      },
+      {
+        "#090705": "black"
+      },
+      {
+        "#1b1312": "black"
+      },
+      {
+        "#030505": "black"
+      },
+      {
+        "#110808": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 79827,
+    "averageColorRGB": [
+      39.515994910037875,
+      22.241521661931817,
+      18.800119850852273
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_79827.png",
+    "averageColorHSV": [
+      0.027687315494738535,
+      0.11434532306056892,
+      0.3552341431545223
+    ],
+    "palette": [
+      {
+        "#1d0c08": "black"
+      },
+      {
+        "#30180d": "black"
+      },
+      {
+        "#170703": "black"
+      },
+      {
+        "#2a140d": "black"
+      },
+      {
+        "#120501": "black"
+      },
+      {
+        "#230e07": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 81134,
+    "averageColorRGB": [
+      26.003233013731062,
+      17.172415068655305,
+      16.577323035037878
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_81134.png",
+    "averageColorHSV": [
+      0.010522273799251266,
+      0.08349128637013517,
+      0.2213665309559925
+    ],
+    "palette": [
+      {
+        "#160603": "black"
+      },
+      {
+        "#000202": "black"
+      },
+      {
+        "#120604": "black"
+      },
+      {
+        "#351a11": "black"
+      },
+      {
+        "#23120f": "black"
+      },
+      {
+        "#1d0c0a": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 82441,
+    "averageColorRGB": [
+      20.522847123579545,
+      17.599712949810606,
+      12.678160511363636
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_82441.png",
+    "averageColorHSV": [
+      0.10456233375388609,
+      0.06510001497047682,
+      0.2362785701708518
+    ],
+    "palette": [
+      {
+        "#19150f": "black"
+      },
+      {
+        "#020401": "black"
+      },
+      {
+        "#15110b": "black"
+      },
+      {
+        "#100f0a": "black"
+      },
+      {
+        "#050502": "black"
+      },
+      {
+        "#1d1912": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 83748,
+    "averageColorRGB": [
+      43.113322679924245,
+      38.83600112452652,
+      30.60554717092803
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_83748.png",
+    "averageColorHSV": [
+      0.10967116611687844,
+      0.14454680362912212,
+      0.16966857378988442
+    ],
+    "palette": [
+      {
+        "#1d170f": "black"
+      },
+      {
+        "#2e2416": "black"
+      },
+      {
+        "#030505": "black"
+      },
+      {
+        "#372d1c": "darkslategray"
+      },
+      {
+        "#474b3f": "darkslategray"
+      },
+      {
+        "#291f13": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 85055,
+    "averageColorRGB": [
+      42.087042791193184,
+      36.425113932291666,
+      27.293400804924243
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_85055.png",
+    "averageColorHSV": [
+      0.1028788035635312,
+      0.1360400854825832,
+      0.21322495532583774
+    ],
+    "palette": [
+      {
+        "#382d1b": "darkslategray"
+      },
+      {
+        "#3d3525": "darkslategray"
+      },
+      {
+        "#030505": "black"
+      },
+      {
+        "#291f13": "black"
+      },
+      {
+        "#342716": "black"
+      },
+      {
+        "#292218": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 86362,
+    "averageColorRGB": [
+      39.38508670691288,
+      33.85654296875,
+      26.609157492897726
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_86362.png",
+    "averageColorHSV": [
+      0.09454479271720224,
+      0.12940047882315805,
+      0.19359156800604474
+    ],
+    "palette": [
+      {
+        "#312214": "black"
+      },
+      {
+        "#0d0706": "black"
+      },
+      {
+        "#040606": "black"
+      },
+      {
+        "#030505": "black"
+      },
+      {
+        "#362918": "darkslategray"
+      },
+      {
+        "#3e321f": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 87669,
+    "averageColorRGB": [
+      26.583999171401516,
+      39.47920365767045,
+      102.31679539535985
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_87669.png",
+    "averageColorHSV": [
+      0.6382879344017726,
+      0.2527466560132576,
+      0.5875277687658796
+    ],
+    "palette": [
+      {
+        "#151137": "midnightblue"
+      },
+      {
+        "#3755c1": "royalblue"
+      },
+      {
+        "#396acb": "royalblue"
+      },
+      {
+        "#08062b": "black"
+      },
+      {
+        "#345fc7": "royalblue"
+      },
+      {
+        "#100e5a": "midnightblue"
+      }
+    ]
+  },
+  {
+    "framenumber": 88976,
+    "averageColorRGB": [
+      25.530735085227274,
+      28.49515565814394,
+      90.00443152225378
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_88976.png",
+    "averageColorHSV": [
+      0.6590035401082464,
+      0.22653954236760993,
+      0.558043912777391
+    ],
+    "palette": [
+      {
+        "#2633af": "darkslateblue"
+      },
+      {
+        "#040712": "black"
+      },
+      {
+        "#12114a": "midnightblue"
+      },
+      {
+        "#14126b": "midnightblue"
+      },
+      {
+        "#1c1b43": "midnightblue"
+      },
+      {
+        "#1f238a": "midnightblue"
+      }
+    ]
+  },
+  {
+    "framenumber": 90283,
+    "averageColorRGB": [
+      30.805644827178032,
+      23.521056758996213,
+      27.498714192708334
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_90283.png",
+    "averageColorHSV": [
+      0.9089937688426969,
+      0.10652294428661617,
+      0.13408853943814053
+    ],
+    "palette": [
+      {
+        "#120403": "black"
+      },
+      {
+        "#08080b": "black"
+      },
+      {
+        "#0d0806": "black"
+      },
+      {
+        "#1c0b08": "black"
+      },
+      {
+        "#0d0504": "black"
+      },
+      {
+        "#2c0e0c": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 91590,
+    "averageColorRGB": [
+      62.12234108664773,
+      52.66128965435606,
+      54.611496803977275
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_91590.png",
+    "averageColorHSV": [
+      0.9656449891153229,
+      0.2250659426294192,
+      0.0824250929441277
+    ],
+    "palette": [
+      {
+        "#453728": "darkslategray"
+      },
+      {
+        "#262a1f": "darkslategray"
+      },
+      {
+        "#776e63": "dimgrey"
+      },
+      {
+        "#47463a": "darkslategray"
+      },
+      {
+        "#684136": "darkolivegreen"
+      },
+      {
+        "#040504": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 92897,
+    "averageColorRGB": [
+      27.98856238162879,
+      29.330378491950757,
+      34.04781753077651
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_92897.png",
+    "averageColorHSV": [
+      0.6297584967873292,
+      0.12163996061255941,
+      0.09767261013139912
+    ],
+    "palette": [
+      {
+        "#020404": "black"
+      },
+      {
+        "#3b4341": "darkslategray"
+      },
+      {
+        "#030505": "black"
+      },
+      {
+        "#040508": "black"
+      },
+      {
+        "#030407": "black"
+      },
+      {
+        "#020306": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 94204,
+    "averageColorRGB": [
+      34.3335020123106,
+      15.13458954782197,
+      20.97923768939394
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_94204.png",
+    "averageColorHSV": [
+      0.9492623331974094,
+      0.09699625796104426,
+      0.3881069970356702
+    ],
+    "palette": [
+      {
+        "#2e0407": "black"
+      },
+      {
+        "#160403": "black"
+      },
+      {
+        "#200404": "black"
+      },
+      {
+        "#1a0206": "black"
+      },
+      {
+        "#3c070c": "black"
+      },
+      {
+        "#130304": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 95511,
+    "averageColorRGB": [
+      29.87211766098485,
+      26.97382664535985,
+      32.707390802556816
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_95511.png",
+    "averageColorHSV": [
+      0.7509159205967596,
+      0.11702199499591504,
+      0.09606982569014456
+    ],
+    "palette": [
+      {
+        "#1b1613": "black"
+      },
+      {
+        "#010205": "black"
+      },
+      {
+        "#51393f": "darkslategray"
+      },
+      {
+        "#020306": "black"
+      },
+      {
+        "#3d4b64": "darkslategray"
+      },
+      {
+        "#2f3c50": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 96818,
+    "averageColorRGB": [
+      80.19138405539773,
+      81.28225467566288,
+      88.56390565814394
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_96818.png",
+    "averageColorHSV": [
+      0.6449513724374399,
+      0.33089272492851307,
+      0.04961338762748342
+    ],
+    "palette": [
+      {
+        "#404a4a": "darkslategray"
+      },
+      {
+        "#4b5557": "darkslategray"
+      },
+      {
+        "#3e4445": "darkslategray"
+      },
+      {
+        "#424c51": "darkslategray"
+      },
+      {
+        "#576165": "dimgrey"
+      },
+      {
+        "#3c444a": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 98125,
+    "averageColorRGB": [
+      37.75934540719697,
+      31.12053740530303,
+      26.211575224905303
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_98125.png",
+    "averageColorHSV": [
+      0.0708500732595335,
+      0.12543317771000445,
+      0.18051592924077275
+    ],
+    "palette": [
+      {
+        "#090705": "black"
+      },
+      {
+        "#251b15": "black"
+      },
+      {
+        "#3a3324": "darkslategray"
+      },
+      {
+        "#504a3b": "darkolivegreen"
+      },
+      {
+        "#535042": "darkolivegreen"
+      },
+      {
+        "#050502": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 99432,
+    "averageColorRGB": [
+      66.68548325047348,
+      58.97215021306818,
+      97.9772431344697
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_99432.png",
+    "averageColorHSV": [
+      0.6996253243687446,
+      0.3077439085245841,
+      0.24852018914804808
+    ],
+    "palette": [
+      {
+        "#1a1eaf": "mediumblue"
+      },
+      {
+        "#341a11": "black"
+      },
+      {
+        "#6f7dc2": "slateblue"
+      },
+      {
+        "#4f5aa2": "darkslateblue"
+      },
+      {
+        "#8d5150": "sienna"
+      },
+      {
+        "#5f535d": "dimgrey"
+      }
+    ]
+  },
+  {
+    "framenumber": 100739,
+    "averageColorRGB": [
+      44.015944602272725,
+      44.95730942234849,
+      56.2552216500947
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_100739.png",
+    "averageColorHSV": [
+      0.6538477611000824,
+      0.1966101299066028,
+      0.12206178012348587
+    ],
+    "palette": [
+      {
+        "#333959": "darkslategray"
+      },
+      {
+        "#2f241a": "black"
+      },
+      {
+        "#4f567d": "darkslateblue"
+      },
+      {
+        "#37271a": "darkslategray"
+      },
+      {
+        "#212834": "darkslategray"
+      },
+      {
+        "#394456": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 102046,
+    "averageColorRGB": [
+      44.39638819839015,
+      38.165244732481064,
+      38.813849431818184
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_102046.png",
+    "averageColorHSV": [
+      0.9826515335725652,
+      0.16188555476641414,
+      0.07547262868609221
+    ],
+    "palette": [
+      {
+        "#345068": "darkslategray"
+      },
+      {
+        "#4d2e2b": "darkslategray"
+      },
+      {
+        "#10050d": "black"
+      },
+      {
+        "#3e3834": "darkslategray"
+      },
+      {
+        "#39312d": "darkslategray"
+      },
+      {
+        "#342b29": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 103353,
+    "averageColorRGB": [
+      27.202173591382575,
+      20.772789417613637,
+      17.580727687026513
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_103353.png",
+    "averageColorHSV": [
+      0.05529421395908094,
+      0.08780961034982174,
+      0.21484641748735447
+    ],
+    "palette": [
+      {
+        "#0b0603": "black"
+      },
+      {
+        "#040401": "black"
+      },
+      {
+        "#1c0f09": "black"
+      },
+      {
+        "#060402": "black"
+      },
+      {
+        "#110604": "black"
+      },
+      {
+        "#050502": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 104660,
+    "averageColorRGB": [
+      56.2417998342803,
+      55.514214902935606,
+      60.05747958096591
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_104660.png",
+    "averageColorHSV": [
+      0.693357639748316,
+      0.22661116565470885,
+      0.03931122320494451
+    ],
+    "palette": [
+      {
+        "#717486": "slategrey"
+      },
+      {
+        "#333f30": "darkslategray"
+      },
+      {
+        "#412a25": "darkslategray"
+      },
+      {
+        "#3c474f": "darkslategray"
+      },
+      {
+        "#464d55": "darkslategray"
+      },
+      {
+        "#2f3941": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 105967,
+    "averageColorRGB": [
+      32.53218365293561,
+      21.524894945549242,
+      18.28415157433712
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_105967.png",
+    "averageColorHSV": [
+      0.03790866641950669,
+      0.0996398729946524,
+      0.280382912598382
+    ],
+    "palette": [
+      {
+        "#0b0603": "black"
+      },
+      {
+        "#2c211e": "black"
+      },
+      {
+        "#26110d": "black"
+      },
+      {
+        "#190d09": "black"
+      },
+      {
+        "#040401": "black"
+      },
+      {
+        "#050502": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 107274,
+    "averageColorRGB": [
+      35.523234789299245,
+      36.29792998342803,
+      37.302732895359846
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_107274.png",
+    "averageColorHSV": [
+      0.5941092049596896,
+      0.14279601506795903,
+      0.024434939385439197
+    ],
+    "palette": [
+      {
+        "#151a14": "black"
+      },
+      {
+        "#717e94": "slategrey"
+      },
+      {
+        "#222820": "black"
+      },
+      {
+        "#38423a": "darkslategray"
+      },
+      {
+        "#1c2119": "black"
+      },
+      {
+        "#1e1d25": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 108581,
+    "averageColorRGB": [
+      30.590514026988636,
+      26.741555693655304,
+      28.165187026515152
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_108581.png",
+    "averageColorHSV": [
+      0.9383542589289375,
+      0.11241582298165478,
+      0.06713447381348268
+    ],
+    "palette": [
+      {
+        "#040306": "black"
+      },
+      {
+        "#606977": "dimgrey"
+      },
+      {
+        "#060808": "black"
+      },
+      {
+        "#12120d": "black"
+      },
+      {
+        "#11110e": "black"
+      },
+      {
+        "#261213": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 109888,
+    "averageColorRGB": [
+      49.8284638375947,
+      44.00729018702651,
+      42.88358931107955
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_109888.png",
+    "averageColorHSV": [
+      0.026967150898040877,
+      0.1817883395072044,
+      0.07490800053126054
+    ],
+    "palette": [
+      {
+        "#1e130e": "black"
+      },
+      {
+        "#4d4847": "darkslategray"
+      },
+      {
+        "#3c3837": "darkslategray"
+      },
+      {
+        "#322d2b": "darkslategray"
+      },
+      {
+        "#170c08": "black"
+      },
+      {
+        "#45403d": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 111195,
+    "averageColorRGB": [
+      93.94689719460227,
+      101.377685546875,
+      114.06750414299242
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_111195.png",
+    "averageColorHSV": [
+      0.6051146106797135,
+      0.4078713751717543,
+      0.09672699014591603
+    ],
+    "palette": [
+      {
+        "#929cc9": "darkgray"
+      },
+      {
+        "#3e4b5d": "darkslategray"
+      },
+      {
+        "#b9d3fb": "lightblue"
+      },
+      {
+        "#c5e1fb": "paleturquoise"
+      },
+      {
+        "#a5aad2": "lightsteelblue"
+      },
+      {
+        "#293137": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 112502,
+    "averageColorRGB": [
+      56.998199277935605,
+      50.126379024621215,
+      72.64237541429924
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_112502.png",
+    "averageColorHSV": [
+      0.7175328755490521,
+      0.24072304791945187,
+      0.18340168467604778
+    ],
+    "palette": [
+      {
+        "#1a1ebc": "mediumblue"
+      },
+      {
+        "#4759a2": "darkslateblue"
+      },
+      {
+        "#502216": "maroon"
+      },
+      {
+        "#321e14": "black"
+      },
+      {
+        "#3e2516": "darkslategray"
+      },
+      {
+        "#12129f": "darkblue"
+      }
+    ]
+  },
+  {
+    "framenumber": 113809,
+    "averageColorRGB": [
+      45.1106963186553,
+      45.062488162878786,
+      45.9833984375
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_113809.png",
+    "averageColorHSV": [
+      0.6753913957209966,
+      0.1785213462752525,
+      0.010114792760086987
+    ],
+    "palette": [
+      {
+        "#4d5159": "darkslategray"
+      },
+      {
+        "#070909": "black"
+      },
+      {
+        "#2d2c30": "darkslategray"
+      },
+      {
+        "#29251c": "black"
+      },
+      {
+        "#35373b": "darkslategray"
+      },
+      {
+        "#2e2e34": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 115116,
+    "averageColorRGB": [
+      57.55057114109849,
+      58.23521691524621,
+      58.53399917140152
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_115116.png",
+    "averageColorHSV": [
+      0.5506361839993588,
+      0.22761680453431374,
+      0.00847165155244703
+    ],
+    "palette": [
+      {
+        "#535662": "dimgrey"
+      },
+      {
+        "#3c3a26": "darkslategray"
+      },
+      {
+        "#3b3d42": "darkslategray"
+      },
+      {
+        "#343020": "darkslategray"
+      },
+      {
+        "#3f4347": "darkslategray"
+      },
+      {
+        "#464a55": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 116423,
+    "averageColorRGB": [
+      38.56931522253788,
+      36.87593365293561,
+      37.92543797348485
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_116423.png",
+    "averageColorHSV": [
+      0.8967052731067047,
+      0.1479318605401441,
+      0.022445171761541864
+    ],
+    "palette": [
+      {
+        "#150f0a": "black"
+      },
+      {
+        "#1b1511": "black"
+      },
+      {
+        "#201b1b": "black"
+      },
+      {
+        "#16110c": "black"
+      },
+      {
+        "#47494b": "darkslategray"
+      },
+      {
+        "#050502": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 117730,
+    "averageColorRGB": [
+      28.052954841382576,
+      27.881146425189392,
+      29.640062736742426
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_117730.png",
+    "averageColorHSV": [
+      0.6829464270191729,
+      0.11278668463123886,
+      0.03057856983849892
+    ],
+    "palette": [
+      {
+        "#040401": "black"
+      },
+      {
+        "#4773a1": "steelblue"
+      },
+      {
+        "#201710": "black"
+      },
+      {
+        "#211b19": "black"
+      },
+      {
+        "#1a1512": "black"
+      },
+      {
+        "#050502": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 119037,
+    "averageColorRGB": [
+      38.63379794034091,
+      38.84440991950758,
+      50.104283558238635
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_119037.png",
+    "averageColorHSV": [
+      0.6636064652334329,
+      0.17399623823250893,
+      0.12926226738495952
+    ],
+    "palette": [
+      {
+        "#2e2c22": "darkslategray"
+      },
+      {
+        "#1539ab": "darkslateblue"
+      },
+      {
+        "#454b43": "darkslategray"
+      },
+      {
+        "#160d09": "black"
+      },
+      {
+        "#505244": "darkolivegreen"
+      },
+      {
+        "#0f1c51": "midnightblue"
+      }
+    ]
+  },
+  {
+    "framenumber": 120344,
+    "averageColorRGB": [
+      35.7915098248106,
+      29.250726503314393,
+      23.723217033617424
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_120344.png",
+    "averageColorHSV": [
+      0.07633652863933753,
+      0.1166955428596628,
+      0.2027782605791151
+    ],
+    "palette": [
+      {
+        "#3f3929": "darkslategray"
+      },
+      {
+        "#1b1613": "black"
+      },
+      {
+        "#181613": "black"
+      },
+      {
+        "#1b1710": "black"
+      },
+      {
+        "#211c15": "black"
+      },
+      {
+        "#050502": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 121651,
+    "averageColorRGB": [
+      40.135366358901514,
+      37.63359227035985,
+      38.020198567708334
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_121651.png",
+    "averageColorHSV": [
+      0.9742445238414896,
+      0.1524881541750223,
+      0.03216931450076467
+    ],
+    "palette": [
+      {
+        "#060603": "black"
+      },
+      {
+        "#020404": "black"
+      },
+      {
+        "#6f6d7b": "dimgrey"
+      },
+      {
+        "#010303": "black"
+      },
+      {
+        "#171618": "black"
+      },
+      {
+        "#656269": "dimgrey"
+      }
+    ]
+  },
+  {
+    "framenumber": 122958,
+    "averageColorRGB": [
+      31.15492276278409,
+      27.360535037878787,
+      26.779801432291666
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_122958.png",
+    "averageColorHSV": [
+      0.02212257145646433,
+      0.11359749842171717,
+      0.07551811786935701
+    ],
+    "palette": [
+      {
+        "#080300": "black"
+      },
+      {
+        "#12110e": "black"
+      },
+      {
+        "#020200": "black"
+      },
+      {
+        "#070200": "black"
+      },
+      {
+        "#2e1917": "black"
+      },
+      {
+        "#040200": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 124265,
+    "averageColorRGB": [
+      24.519603752367424,
+      20.936774976325758,
+      19.601645359848487
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_124265.png",
+    "averageColorHSV": [
+      0.04524674366597028,
+      0.08651225316120767,
+      0.11146462286257651
+    ],
+    "palette": [
+      {
+        "#1e110e": "black"
+      },
+      {
+        "#010100": "black"
+      },
+      {
+        "#090a0d": "black"
+      },
+      {
+        "#020200": "black"
+      },
+      {
+        "#000100": "black"
+      },
+      {
+        "#000200": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 125572,
+    "averageColorRGB": [
+      38.662097537878786,
+      28.662244022253788,
+      23.694482421875
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_125572.png",
+    "averageColorHSV": [
+      0.055316779614710966,
+      0.12226780384265448,
+      0.24003264973262145
+    ],
+    "palette": [
+      {
+        "#27120f": "black"
+      },
+      {
+        "#4f3229": "darkslategray"
+      },
+      {
+        "#22130f": "black"
+      },
+      {
+        "#180c09": "black"
+      },
+      {
+        "#1c100c": "black"
+      },
+      {
+        "#3d2720": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 126879,
+    "averageColorRGB": [
+      35.55887488162879,
+      30.35452917850379,
+      28.476343513257575
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_126879.png",
+    "averageColorHSV": [
+      0.044197607878677214,
+      0.12555925175467914,
+      0.11060368881223026
+    ],
+    "palette": [
+      {
+        "#1e1710": "black"
+      },
+      {
+        "#0b0806": "black"
+      },
+      {
+        "#140d11": "black"
+      },
+      {
+        "#2c251d": "black"
+      },
+      {
+        "#28231c": "black"
+      },
+      {
+        "#140e09": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 128186,
+    "averageColorRGB": [
+      25.822576349431817,
+      20.02865471117424,
+      19.99072413589015
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_128186.png",
+    "averageColorHSV": [
+      0.0010840059582904644,
+      0.0898300009516117,
+      0.12729605053035029
+    ],
+    "palette": [
+      {
+        "#875f5c": "dimgrey"
+      },
+      {
+        "#0f1111": "black"
+      },
+      {
+        "#2a1917": "black"
+      },
+      {
+        "#111216": "black"
+      },
+      {
+        "#000101": "black"
+      },
+      {
+        "#121113": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 129493,
+    "averageColorRGB": [
+      22.294655539772727,
+      17.353483072916667,
+      16.812239583333334
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_129493.png",
+    "averageColorHSV": [
+      0.01645392268310747,
+      0.07668018651589424,
+      0.14019051983495723
+    ],
+    "palette": [
+      {
+        "#6a433a": "darkolivegreen"
+      },
+      {
+        "#020200": "black"
+      },
+      {
+        "#090708": "black"
+      },
+      {
+        "#0c090d": "black"
+      },
+      {
+        "#010100": "black"
+      },
+      {
+        "#050502": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 130800,
+    "averageColorRGB": [
+      24.228938802083334,
+      18.94547674005682,
+      17.140835108901516
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_130800.png",
+    "averageColorHSV": [
+      0.04243357860041893,
+      0.08111720374702912,
+      0.1713353258452236
+    ],
+    "palette": [
+      {
+        "#090703": "black"
+      },
+      {
+        "#050300": "black"
+      },
+      {
+        "#331a11": "black"
+      },
+      {
+        "#030300": "black"
+      },
+      {
+        "#020200": "black"
+      },
+      {
+        "#040200": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 132107,
+    "averageColorRGB": [
+      75.79056877367424,
+      60.42037760416667,
+      73.90141453598484
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_132107.png",
+    "averageColorHSV": [
+      0.8538183771524068,
+      0.26708028701537434,
+      0.11284108640484437
+    ],
+    "palette": [
+      {
+        "#225bd9": "royalblue"
+      },
+      {
+        "#663f2d": "saddlebrown"
+      },
+      {
+        "#5b351f": "saddlebrown"
+      },
+      {
+        "#120405": "black"
+      },
+      {
+        "#e4b749": "sandybrown"
+      },
+      {
+        "#b16579": "indianred"
+      }
+    ]
+  },
+  {
+    "framenumber": 133414,
+    "averageColorRGB": [
+      34.61641216856061,
+      27.288670395359848,
+      24.281770833333333
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_133414.png",
+    "averageColorHSV": [
+      0.04849224184453982,
+      0.11548663333704695,
+      0.17546621658761447
+    ],
+    "palette": [
+      {
+        "#170b0b": "black"
+      },
+      {
+        "#090b0b": "black"
+      },
+      {
+        "#0c0706": "black"
+      },
+      {
+        "#201411": "black"
+      },
+      {
+        "#030505": "black"
+      },
+      {
+        "#0e0707": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 134721,
+    "averageColorRGB": [
+      29.834493371212123,
+      21.29890506628788,
+      20.563395182291668
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_134721.png",
+    "averageColorHSV": [
+      0.013222271856912474,
+      0.09881938932059567,
+      0.18395806759003402
+    ],
+    "palette": [
+      {
+        "#090403": "black"
+      },
+      {
+        "#1d1d2f": "darkslategray"
+      },
+      {
+        "#140707": "black"
+      },
+      {
+        "#0b0605": "black"
+      },
+      {
+        "#060405": "black"
+      },
+      {
+        "#0c0505": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 136028,
+    "averageColorRGB": [
+      14.059617660984848,
+      12.488315281723485,
+      12.600639204545455
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_136028.png",
+    "averageColorHSV": [
+      0.9880858999192366,
+      0.052054770475898696,
+      0.05918737186252148
+    ],
+    "palette": [
+      {
+        "#020404": "black"
+      },
+      {
+        "#070503": "black"
+      },
+      {
+        "#010303": "black"
+      },
+      {
+        "#090e0d": "black"
+      },
+      {
+        "#1a100c": "black"
+      },
+      {
+        "#0e0807": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 137335,
+    "averageColorRGB": [
+      21.693603515625,
+      14.77763671875,
+      12.722527521306818
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_137335.png",
+    "averageColorHSV": [
+      0.03818028069217081,
+      0.06748260987633689,
+      0.2606648604600952
+    ],
+    "palette": [
+      {
+        "#050301": "black"
+      },
+      {
+        "#24120f": "black"
+      },
+      {
+        "#080300": "black"
+      },
+      {
+        "#030300": "black"
+      },
+      {
+        "#020200": "black"
+      },
+      {
+        "#040200": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 138642,
+    "averageColorRGB": [
+      18.60008877840909,
+      15.89192412405303,
+      12.937377189867425
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_138642.png",
+    "averageColorHSV": [
+      0.08695913279908889,
+      0.06183816856524807,
+      0.17955505982115932
+    ],
+    "palette": [
+      {
+        "#060603": "black"
+      },
+      {
+        "#171613": "black"
+      },
+      {
+        "#090705": "black"
+      },
+      {
+        "#0a0a07": "black"
+      },
+      {
+        "#080805": "black"
+      },
+      {
+        "#11110e": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 139949,
+    "averageColorRGB": [
+      62.173030598958334,
+      48.637048709753785,
+      63.20114376183712
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_139949.png",
+    "averageColorHSV": [
+      0.8215679477600896,
+      0.21929057347370767,
+      0.13022469990100116
+    ],
+    "palette": [
+      {
+        "#0b0605": "black"
+      },
+      {
+        "#40211c": "darkslategray"
+      },
+      {
+        "#51302b": "darkslategray"
+      },
+      {
+        "#0d0805": "black"
+      },
+      {
+        "#3150f4": "royalblue"
+      },
+      {
+        "#5569e4": "royalblue"
+      }
+    ]
+  },
+  {
+    "framenumber": 141256,
+    "averageColorRGB": [
+      66.5993104876894,
+      62.178813032670455,
+      96.16993667140152
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_141256.png",
+    "averageColorHSV": [
+      0.6883414304569699,
+      0.31048774451778816,
+      0.2146598801838028
+    ],
+    "palette": [
+      {
+        "#1b1fae": "mediumblue"
+      },
+      {
+        "#ca694c": "indianred"
+      },
+      {
+        "#47766e": "dimgrey"
+      },
+      {
+        "#4e8476": "dimgrey"
+      },
+      {
+        "#a94c36": "sienna"
+      },
+      {
+        "#110e12": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 142563,
+    "averageColorRGB": [
+      43.977685546875,
+      36.07012606534091,
+      31.55191613399621
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_142563.png",
+    "averageColorHSV": [
+      0.060602684915186056,
+      0.14809725819778669,
+      0.16451522497603432
+    ],
+    "palette": [
+      {
+        "#131814": "black"
+      },
+      {
+        "#502b1b": "saddlebrown"
+      },
+      {
+        "#3a1f16": "black"
+      },
+      {
+        "#121917": "black"
+      },
+      {
+        "#070909": "black"
+      },
+      {
+        "#131817": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 143870,
+    "averageColorRGB": [
+      39.9489686908144,
+      36.43532196969697,
+      41.8012665719697
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_143870.png",
+    "averageColorHSV": [
+      0.7758008136358456,
+      0.15340507557189542,
+      0.06858612705761025
+    ],
+    "palette": [
+      {
+        "#1e100c": "black"
+      },
+      {
+        "#040401": "black"
+      },
+      {
+        "#5d5d64": "dimgrey"
+      },
+      {
+        "#1b1d21": "black"
+      },
+      {
+        "#141159": "midnightblue"
+      },
+      {
+        "#251311": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 145177,
+    "averageColorRGB": [
+      31.154718572443183,
+      28.392982066761363,
+      41.072765743371214
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_145177.png",
+    "averageColorHSV": [
+      0.7029677132265322,
+      0.1362073486473188,
+      0.18253288960865865
+    ],
+    "palette": [
+      {
+        "#0f070f": "black"
+      },
+      {
+        "#212468": "midnightblue"
+      },
+      {
+        "#040401": "black"
+      },
+      {
+        "#1e1d57": "midnightblue"
+      },
+      {
+        "#0a0a24": "black"
+      },
+      {
+        "#130a15": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 146484,
+    "averageColorRGB": [
+      19.331609552556817,
+      16.298436020359848,
+      11.443314985795455
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_146484.png",
+    "averageColorHSV": [
+      0.10258070768600713,
+      0.06034298929088681,
+      0.2563221416491477
+    ],
+    "palette": [
+      {
+        "#050301": "black"
+      },
+      {
+        "#040401": "black"
+      },
+      {
+        "#0a0805": "black"
+      },
+      {
+        "#030300": "black"
+      },
+      {
+        "#040200": "black"
+      },
+      {
+        "#050502": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 147791,
+    "averageColorRGB": [
+      35.13288944128788,
+      68.5343291311553,
+      98.83324307528409
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_147791.png",
+    "averageColorHSV": [
+      0.5792745833045595,
+      0.26267869120896464,
+      0.4754959513824608
+    ],
+    "palette": [
+      {
+        "#4998df": "cornflowerblue"
+      },
+      {
+        "#5ab0ef": "cornflowerblue"
+      },
+      {
+        "#306aa9": "steelblue"
+      },
+      {
+        "#030407": "black"
+      },
+      {
+        "#3e7fbf": "steelblue"
+      },
+      {
+        "#223844": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 149098,
+    "averageColorRGB": [
+      32.26390861742424,
+      31.616176905776516,
+      29.279000946969695
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_149098.png",
+    "averageColorHSV": [
+      0.13049962326254644,
+      0.12067237169489006,
+      0.04850124395453483
+    ],
+    "palette": [
+      {
+        "#333634": "darkslategray"
+      },
+      {
+        "#1a1814": "black"
+      },
+      {
+        "#312f2e": "darkslategray"
+      },
+      {
+        "#030300": "black"
+      },
+      {
+        "#0e0c08": "black"
+      },
+      {
+        "#363431": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 150405,
+    "averageColorRGB": [
+      40.47156871448863,
+      34.23304480350379,
+      30.123323567708333
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_150405.png",
+    "averageColorHSV": [
+      0.06619030855800273,
+      0.13842135741607248,
+      0.14658631541520153
+    ],
+    "palette": [
+      {
+        "#3c322c": "darkslategray"
+      },
+      {
+        "#2c2620": "darkslategray"
+      },
+      {
+        "#3d352f": "darkslategray"
+      },
+      {
+        "#040606": "black"
+      },
+      {
+        "#060808": "black"
+      },
+      {
+        "#352a25": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 151712,
+    "averageColorRGB": [
+      35.56283143939394,
+      30.70108309659091,
+      27.88061375473485
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_151712.png",
+    "averageColorHSV": [
+      0.06119043262486479,
+      0.12439891214535057,
+      0.1210876499716006
+    ],
+    "palette": [
+      {
+        "#13130c": "black"
+      },
+      {
+        "#191912": "black"
+      },
+      {
+        "#35464c": "darkslategray"
+      },
+      {
+        "#392921": "darkslategray"
+      },
+      {
+        "#2f241d": "black"
+      },
+      {
+        "#100b06": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 153019,
+    "averageColorRGB": [
+      35.529526219223484,
+      32.21225733901515,
+      40.087865471117425
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_153019.png",
+    "averageColorHSV": [
+      0.7368679942883097,
+      0.14176494668653447,
+      0.10892938802862637
+    ],
+    "palette": [
+      {
+        "#161620": "black"
+      },
+      {
+        "#0b0a13": "black"
+      },
+      {
+        "#252633": "darkslategray"
+      },
+      {
+        "#0a090c": "black"
+      },
+      {
+        "#37252c": "darkslategray"
+      },
+      {
+        "#120e1e": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 154326,
+    "averageColorRGB": [
+      55.38520359848485,
+      54.75525716145833,
+      88.30544951467803
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_154326.png",
+    "averageColorHSV": [
+      0.6697960398676427,
+      0.2805111895610517,
+      0.2345171719944826
+    ],
+    "palette": [
+      {
+        "#5e7296": "slategrey"
+      },
+      {
+        "#283ba3": "darkslateblue"
+      },
+      {
+        "#915551": "sienna"
+      },
+      {
+        "#161e78": "midnightblue"
+      },
+      {
+        "#1d2b8d": "midnightblue"
+      },
+      {
+        "#08080e": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 155633,
+    "averageColorRGB": [
+      36.521185487689394,
+      24.87362393465909,
+      22.121142578125
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_155633.png",
+    "averageColorHSV": [
+      0.0318573281785838,
+      0.11498495699179292,
+      0.2455571493240037
+    ],
+    "palette": [
+      {
+        "#1e1310": "black"
+      },
+      {
+        "#221510": "black"
+      },
+      {
+        "#1a0f0c": "black"
+      },
+      {
+        "#241714": "black"
+      },
+      {
+        "#36201f": "darkslategray"
+      },
+      {
+        "#170c0b": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 156940,
+    "averageColorRGB": [
+      33.348185961174245,
+      23.50101651278409,
+      19.617452355587123
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_156940.png",
+    "averageColorHSV": [
+      0.047139556520329494,
+      0.10385419277796346,
+      0.25923851844228474
+    ],
+    "palette": [
+      {
+        "#3a1f16": "black"
+      },
+      {
+        "#1a100d": "black"
+      },
+      {
+        "#171110": "black"
+      },
+      {
+        "#130a08": "black"
+      },
+      {
+        "#0d0604": "black"
+      },
+      {
+        "#1e0c09": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 158247,
+    "averageColorRGB": [
+      38.19996892755682,
+      50.57805249763258,
+      71.29093720407197
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_158247.png",
+    "averageColorHSV": [
+      0.604322950668181,
+      0.21468805123848783,
+      0.3022257230818196
+    ],
+    "palette": [
+      {
+        "#344c64": "darkslategray"
+      },
+      {
+        "#233650": "darkslategray"
+      },
+      {
+        "#16273e": "darkslategray"
+      },
+      {
+        "#11172a": "black"
+      },
+      {
+        "#152037": "midnightblue"
+      },
+      {
+        "#4a6377": "dimgrey"
+      }
+    ]
+  },
+  {
+    "framenumber": 159554,
+    "averageColorRGB": [
+      34.698909505208334,
+      38.10818093039773,
+      48.68687115293561
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_159554.png",
+    "averageColorHSV": [
+      0.6260451723769282,
+      0.16350153070224302,
+      0.16774996333096187
+    ],
+    "palette": [
+      {
+        "#2e7feb": "royalblue"
+      },
+      {
+        "#160c07": "black"
+      },
+      {
+        "#160e08": "black"
+      },
+      {
+        "#050502": "black"
+      },
+      {
+        "#060405": "black"
+      },
+      {
+        "#1f120b": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 160861,
+    "averageColorRGB": [
+      64.5483516808712,
+      64.5216338186553,
+      94.89391719933712
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_160861.png",
+    "averageColorHSV": [
+      0.6668132798461951,
+      0.31257951179998517,
+      0.1905227136670867
+    ],
+    "palette": [
+      {
+        "#6f84b3": "lightslategrey"
+      },
+      {
+        "#8d5b55": "dimgrey"
+      },
+      {
+        "#101e7c": "midnightblue"
+      },
+      {
+        "#3c5190": "darkslateblue"
+      },
+      {
+        "#1c33a7": "darkslateblue"
+      },
+      {
+        "#596c97": "slategrey"
+      }
+    ]
+  },
+  {
+    "framenumber": 162168,
+    "averageColorRGB": [
+      35.465999348958334,
+      42.56247780539773,
+      59.69914920691288
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_162168.png",
+    "averageColorHSV": [
+      0.617859705279502,
+      0.18659833050170826,
+      0.2546431148975439
+    ],
+    "palette": [
+      {
+        "#345583": "darkslateblue"
+      },
+      {
+        "#557db5": "steelblue"
+      },
+      {
+        "#213b6c": "midnightblue"
+      },
+      {
+        "#0e0e1c": "black"
+      },
+      {
+        "#131110": "black"
+      },
+      {
+        "#212f59": "midnightblue"
+      }
+    ]
+  },
+  {
+    "framenumber": 163475,
+    "averageColorRGB": [
+      65.40002515388258,
+      61.641358901515154,
+      61.44838275331439
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_163475.png",
+    "averageColorHSV": [
+      0.008139069304998378,
+      0.24872236844548426,
+      0.031152479292126722
+    ],
+    "palette": [
+      {
+        "#91a8d6": "lightsteelblue"
+      },
+      {
+        "#5d5650": "dimgrey"
+      },
+      {
+        "#8b7d7d": "grey"
+      },
+      {
+        "#584e45": "darkolivegreen"
+      },
+      {
+        "#514d44": "darkslategray"
+      },
+      {
+        "#6f645d": "dimgrey"
+      }
+    ]
+  },
+  {
+    "framenumber": 164782,
+    "averageColorRGB": [
+      20.880073686079545,
+      19.870179332386364,
+      21.69252041903409
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_164782.png",
+    "averageColorHSV": [
+      0.7590290278342754,
+      0.08149548970866756,
+      0.04384558985693525
+    ],
+    "palette": [
+      {
+        "#3f4558": "darkslategray"
+      },
+      {
+        "#020404": "black"
+      },
+      {
+        "#272725": "darkslategray"
+      },
+      {
+        "#040606": "black"
+      },
+      {
+        "#030505": "black"
+      },
+      {
+        "#07080c": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 166089,
+    "averageColorRGB": [
+      23.966734730113636,
+      30.10655332623106,
+      42.856162701231064
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_166089.png",
+    "averageColorHSV": [
+      0.6124933427884862,
+      0.13102528908106803,
+      0.28267897228678
+    ],
+    "palette": [
+      {
+        "#111621": "black"
+      },
+      {
+        "#213050": "darkslategray"
+      },
+      {
+        "#07080e": "black"
+      },
+      {
+        "#06070a": "black"
+      },
+      {
+        "#181d27": "black"
+      },
+      {
+        "#455686": "darkslateblue"
+      }
+    ]
+  },
+  {
+    "framenumber": 167396,
+    "averageColorRGB": [
+      19.436348839962122,
+      18.89737215909091,
+      19.14871123342803
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_167396.png",
+    "averageColorHSV": [
+      0.9222789274386751,
+      0.07516415882167261,
+      0.014060119049870664
+    ],
+    "palette": [
+      {
+        "#040508": "black"
+      },
+      {
+        "#030505": "black"
+      },
+      {
+        "#06070a": "black"
+      },
+      {
+        "#030407": "black"
+      },
+      {
+        "#040606": "black"
+      },
+      {
+        "#08090c": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 168703,
+    "averageColorRGB": [
+      11.097456498579545,
+      12.356019176136364,
+      11.773218513257575
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_168703.png",
+    "averageColorHSV": [
+      0.42282192572110006,
+      0.045987207205325314,
+      0.053662096612555193
+    ],
+    "palette": [
+      {
+        "#050a06": "black"
+      },
+      {
+        "#090703": "black"
+      },
+      {
+        "#040603": "black"
+      },
+      {
+        "#1a1316": "black"
+      },
+      {
+        "#1f1215": "black"
+      },
+      {
+        "#0c0704": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 170010,
+    "averageColorRGB": [
+      33.85514766808712,
+      40.0274443655303,
+      55.217243726325755
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_170010.png",
+    "averageColorHSV": [
+      0.6185105253668625,
+      0.17465174783218212,
+      0.2398284779808728
+    ],
+    "palette": [
+      {
+        "#52668c": "slategrey"
+      },
+      {
+        "#090812": "black"
+      },
+      {
+        "#697ca8": "lightslategrey"
+      },
+      {
+        "#04040c": "black"
+      },
+      {
+        "#505d81": "darkslateblue"
+      },
+      {
+        "#08060e": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 171317,
+    "averageColorRGB": [
+      31.867993903882574,
+      33.183939985795455,
+      35.1281767874053
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_171317.png",
+    "averageColorHSV": [
+      0.5993930336155989,
+      0.1313650405711527,
+      0.04866222725691817
+    ],
+    "palette": [
+      {
+        "#0c1113": "black"
+      },
+      {
+        "#0d1311": "black"
+      },
+      {
+        "#33383f": "darkslategray"
+      },
+      {
+        "#44535e": "darkslategray"
+      },
+      {
+        "#343d46": "darkslategray"
+      },
+      {
+        "#23292f": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 172624,
+    "averageColorRGB": [
+      21.73928592566288,
+      19.242291074810606,
+      17.569173177083332
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_172624.png",
+    "averageColorHSV": [
+      0.06686941091689436,
+      0.07707541000538473,
+      0.10608690454335844
+    ],
+    "palette": [
+      {
+        "#1a0f0a": "black"
+      },
+      {
+        "#171610": "black"
+      },
+      {
+        "#000305": "black"
+      },
+      {
+        "#020404": "black"
+      },
+      {
+        "#010205": "black"
+      },
+      {
+        "#020306": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 173931,
+    "averageColorRGB": [
+      51.733556758996215,
+      36.099573863636365,
+      31.343619791666665
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_173931.png",
+    "averageColorHSV": [
+      0.03887501041641345,
+      0.1628964246091429,
+      0.24543367762257998
+    ],
+    "palette": [
+      {
+        "#513a22": "darkolivegreen"
+      },
+      {
+        "#3f2816": "darkslategray"
+      },
+      {
+        "#0f0907": "black"
+      },
+      {
+        "#24110d": "black"
+      },
+      {
+        "#4c2f1b": "darkolivegreen"
+      },
+      {
+        "#3d3d48": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 175238,
+    "averageColorRGB": [
+      50.86759588068182,
+      36.452033025568184,
+      51.60573064630682
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_175238.png",
+    "averageColorHSV": [
+      0.8252150202973693,
+      0.17266228170955883,
+      0.1720881497423107
+    ],
+    "palette": [
+      {
+        "#2433df": "royalblue"
+      },
+      {
+        "#1e141a": "black"
+      },
+      {
+        "#2e222b": "darkslategray"
+      },
+      {
+        "#382826": "darkslategray"
+      },
+      {
+        "#3b2e45": "darkslategray"
+      },
+      {
+        "#29080a": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 176545,
+    "averageColorRGB": [
+      31.83983487215909,
+      28.955110677083333,
+      26.862606534090908
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_176545.png",
+    "averageColorHSV": [
+      0.07006925678521282,
+      0.1151028262867647,
+      0.08478741631243746
+    ],
+    "palette": [
+      {
+        "#0f0f0d": "black"
+      },
+      {
+        "#040401": "black"
+      },
+      {
+        "#a1a2ac": "darkgray"
+      },
+      {
+        "#0a0a07": "black"
+      },
+      {
+        "#080805": "black"
+      },
+      {
+        "#050502": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 177852,
+    "averageColorRGB": [
+      37.73750443892045,
+      27.057612748579544,
+      22.830908203125
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_177852.png",
+    "averageColorHSV": [
+      0.04725765335242316,
+      0.11876159341577538,
+      0.2461117203763002
+    ],
+    "palette": [
+      {
+        "#040401": "black"
+      },
+      {
+        "#261511": "black"
+      },
+      {
+        "#392824": "darkslategray"
+      },
+      {
+        "#2b1916": "black"
+      },
+      {
+        "#1f0a06": "black"
+      },
+      {
+        "#20110d": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 179159,
+    "averageColorRGB": [
+      43.91761807528409,
+      34.50457504734848,
+      33.83927112926136
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_179159.png",
+    "averageColorHSV": [
+      0.011002199759714762,
+      0.15246448863636364,
+      0.12961355642084477
+    ],
+    "palette": [
+      {
+        "#291b17": "black"
+      },
+      {
+        "#2f1f1c": "black"
+      },
+      {
+        "#362d31": "darkslategray"
+      },
+      {
+        "#1f0e09": "black"
+      },
+      {
+        "#281913": "black"
+      },
+      {
+        "#150904": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 180466,
+    "averageColorRGB": [
+      51.78318388967803,
+      40.78622898910985,
+      38.83436464251894
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_180466.png",
+    "averageColorHSV": [
+      0.025122809904323123,
+      0.17768146771019014,
+      0.14289527201851301
+    ],
+    "palette": [
+      {
+        "#3d3038": "darkslategray"
+      },
+      {
+        "#251b19": "black"
+      },
+      {
+        "#201513": "black"
+      },
+      {
+        "#170f0c": "black"
+      },
+      {
+        "#5b656a": "dimgrey"
+      },
+      {
+        "#30201f": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 181773,
+    "averageColorRGB": [
+      26.381449751420455,
+      26.055872691761362,
+      29.205570845170456
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_181773.png",
+    "averageColorHSV": [
+      0.6838946169760586,
+      0.10835577164104278,
+      0.0569963061371011
+    ],
+    "palette": [
+      {
+        "#060603": "black"
+      },
+      {
+        "#3f4755": "darkslategray"
+      },
+      {
+        "#090906": "black"
+      },
+      {
+        "#736971": "dimgrey"
+      },
+      {
+        "#958e9e": "lightslategrey"
+      },
+      {
+        "#080a07": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 183080,
+    "averageColorRGB": [
+      29.760234670928032,
+      30.89909446022727,
+      34.54120058001894
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_183080.png",
+    "averageColorHSV": [
+      0.6269654915291726,
+      0.1260812455900921,
+      0.07435239805196257
+    ],
+    "palette": [
+      {
+        "#485259": "darkslategray"
+      },
+      {
+        "#877d8b": "grey"
+      },
+      {
+        "#74707a": "grey"
+      },
+      {
+        "#928da0": "lightslategrey"
+      },
+      {
+        "#586871": "dimgrey"
+      },
+      {
+        "#32373e": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 184387,
+    "averageColorRGB": [
+      27.673961292613637,
+      28.27513612689394,
+      31.435395951704546
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_184387.png",
+    "averageColorHSV": [
+      0.6400290098164477,
+      0.11590070047905526,
+      0.06363518120394505
+    ],
+    "palette": [
+      {
+        "#9b97af": "darkgray"
+      },
+      {
+        "#5b6570": "dimgrey"
+      },
+      {
+        "#51585e": "dimgrey"
+      },
+      {
+        "#8b8595": "lightslategrey"
+      },
+      {
+        "#080805": "black"
+      },
+      {
+        "#54636c": "dimgrey"
+      }
+    ]
+  },
+  {
+    "framenumber": 185694,
+    "averageColorRGB": [
+      72.471728515625,
+      64.75904208096591,
+      58.7082549124053
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_185694.png",
+    "averageColorHSV": [
+      0.0732710765585748,
+      0.2572156537804516,
+      0.10492053165085817
+    ],
+    "palette": [
+      {
+        "#665a4a": "dimgrey"
+      },
+      {
+        "#716356": "dimgrey"
+      },
+      {
+        "#303025": "darkslategray"
+      },
+      {
+        "#727183": "slategrey"
+      },
+      {
+        "#28241a": "black"
+      },
+      {
+        "#2c1d14": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 187001,
+    "averageColorRGB": [
+      85.7506258877841,
+      82.31424893465909,
+      90.7909697561553
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_187001.png",
+    "averageColorHSV": [
+      0.7342316489573549,
+      0.3394219974329694,
+      0.04896860352105617
+    ],
+    "palette": [
+      {
+        "#898797": "lightslategrey"
+      },
+      {
+        "#140f0c": "black"
+      },
+      {
+        "#6d6973": "dimgrey"
+      },
+      {
+        "#8f91b2": "lightslategrey"
+      },
+      {
+        "#6f718b": "slategrey"
+      },
+      {
+        "#757486": "slategrey"
+      }
+    ]
+  },
+  {
+    "framenumber": 188308,
+    "averageColorRGB": [
+      40.341537937973484,
+      36.325769412878785,
+      34.64016631155303
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_188308.png",
+    "averageColorHSV": [
+      0.049274783092387274,
+      0.1470229495088755,
+      0.07603683703223456
+    ],
+    "palette": [
+      {
+        "#1f1f1a": "black"
+      },
+      {
+        "#211313": "black"
+      },
+      {
+        "#272c27": "darkslategray"
+      },
+      {
+        "#1d1e16": "black"
+      },
+      {
+        "#17171f": "black"
+      },
+      {
+        "#1b0f10": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 189615,
+    "averageColorRGB": [
+      64.2779326467803,
+      60.69532285748106,
+      65.84515713778408
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_189615.png",
+    "averageColorHSV": [
+      0.7826124620165588,
+      0.24811858822601007,
+      0.04069712933359914
+    ],
+    "palette": [
+      {
+        "#070506": "black"
+      },
+      {
+        "#6c6d7d": "dimgrey"
+      },
+      {
+        "#9a9dbb": "darkgray"
+      },
+      {
+        "#060405": "black"
+      },
+      {
+        "#1b1411": "black"
+      },
+      {
+        "#7d81a0": "lightslategrey"
+      }
+    ]
+  },
+  {
+    "framenumber": 190922,
+    "averageColorRGB": [
+      67.32775804924242,
+      64.28502900094696,
+      70.59415690104167
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_190922.png",
+    "averageColorHSV": [
+      0.7470456851426798,
+      0.2644689919646836,
+      0.046776141610754454
+    ],
+    "palette": [
+      {
+        "#14100d": "black"
+      },
+      {
+        "#121116": "black"
+      },
+      {
+        "#707187": "slategrey"
+      },
+      {
+        "#888cae": "lightslategrey"
+      },
+      {
+        "#737178": "dimgrey"
+      },
+      {
+        "#0c0b0e": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 192229,
+    "averageColorRGB": [
+      96.11799242424243,
+      93.63540778882576,
+      99.35154326467803
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_192229.png",
+    "averageColorHSV": [
+      0.7390519534833837,
+      0.37840578637941924,
+      0.029619284851375906
+    ],
+    "palette": [
+      {
+        "#656972": "dimgrey"
+      },
+      {
+        "#858a9b": "lightslategrey"
+      },
+      {
+        "#adb3d0": "lightsteelblue"
+      },
+      {
+        "#747b88": "slategrey"
+      },
+      {
+        "#341f1d": "black"
+      },
+      {
+        "#3e2624": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 193536,
+    "averageColorRGB": [
+      96.92431344696969,
+      94.28507930871213,
+      100.53970910274622
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_193536.png",
+    "averageColorHSV": [
+      0.7369941474067464,
+      0.38200938904207515,
+      0.03210387058562935
+    ],
+    "palette": [
+      {
+        "#707480": "slategrey"
+      },
+      {
+        "#4a3632": "darkslategray"
+      },
+      {
+        "#bfc6e6": "lightsteelblue"
+      },
+      {
+        "#979cb4": "darkgray"
+      },
+      {
+        "#3e2624": "darkslategray"
+      },
+      {
+        "#818799": "lightslategrey"
+      }
+    ]
+  },
+  {
+    "framenumber": 194843,
+    "averageColorRGB": [
+      26.72778468276515,
+      24.839343631628786,
+      22.41340849905303
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_194843.png",
+    "averageColorHSV": [
+      0.09371517570080712,
+      0.0963552807486631,
+      0.08779551134929305
+    ],
+    "palette": [
+      {
+        "#020404": "black"
+      },
+      {
+        "#4a504a": "darkslategray"
+      },
+      {
+        "#090705": "black"
+      },
+      {
+        "#271c16": "black"
+      },
+      {
+        "#393d3b": "darkslategray"
+      },
+      {
+        "#050502": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 196150,
+    "averageColorRGB": [
+      21.664234138257576,
+      33.75267814867424,
+      41.47151544744318
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_196150.png",
+    "averageColorHSV": [
+      0.5649494932215435,
+      0.12379558742294267,
+      0.31372528938298433
+    ],
+    "palette": [
+      {
+        "#223a48": "darkslategray"
+      },
+      {
+        "#15212b": "black"
+      },
+      {
+        "#1a272f": "darkslategray"
+      },
+      {
+        "#192835": "darkslategray"
+      },
+      {
+        "#0f1a22": "black"
+      },
+      {
+        "#1d2f3b": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 197457,
+    "averageColorRGB": [
+      59.70358516808712,
+      52.483035925662875,
+      43.98819099195076
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_197457.png",
+    "averageColorHSV": [
+      0.09009048536001128,
+      0.20331720815693702,
+      0.1515587326026823
+    ],
+    "palette": [
+      {
+        "#0f0600": "black"
+      },
+      {
+        "#131209": "black"
+      },
+      {
+        "#120902": "black"
+      },
+      {
+        "#494331": "darkslategray"
+      },
+      {
+        "#3f3d2f": "darkslategray"
+      },
+      {
+        "#160b04": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 198764,
+    "averageColorRGB": [
+      62.821792140151516,
+      61.55457652698863,
+      63.20798561789773
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_198764.png",
+    "averageColorHSV": [
+      0.7944043229763271,
+      0.24463247479389483,
+      0.013252445785691673
+    ],
+    "palette": [
+      {
+        "#47413e": "darkslategray"
+      },
+      {
+        "#433c3a": "darkslategray"
+      },
+      {
+        "#606973": "dimgrey"
+      },
+      {
+        "#505763": "dimgrey"
+      },
+      {
+        "#6e7e8a": "slategrey"
+      },
+      {
+        "#312a28": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 200071,
+    "averageColorRGB": [
+      56.480701053503786,
+      52.03669507575758,
+      60.77090731534091
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_200071.png",
+    "averageColorHSV": [
+      0.7514674068640489,
+      0.22119137723744803,
+      0.07742574130156793
+    ],
+    "palette": [
+      {
+        "#0a0b0e": "black"
+      },
+      {
+        "#677696": "slategrey"
+      },
+      {
+        "#6d4d4f": "dimgrey"
+      },
+      {
+        "#14100a": "black"
+      },
+      {
+        "#4f596e": "dimgrey"
+      },
+      {
+        "#653d40": "darkolivegreen"
+      }
+    ]
+  },
+  {
+    "framenumber": 201378,
+    "averageColorRGB": [
+      44.09402077414773,
+      34.803053977272725,
+      25.258354048295455
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_201378.png",
+    "averageColorHSV": [
+      0.08445590722375836,
+      0.13598504867145722,
+      0.2715936804482266
+    ],
+    "palette": [
+      {
+        "#201711": "black"
+      },
+      {
+        "#302b1e": "darkslategray"
+      },
+      {
+        "#2b2419": "black"
+      },
+      {
+        "#444334": "darkslategray"
+      },
+      {
+        "#383226": "darkslategray"
+      },
+      {
+        "#383524": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 202685,
+    "averageColorRGB": [
+      37.999847597064395,
+      41.094122869318184,
+      40.63409090909091
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_202685.png",
+    "averageColorHSV": [
+      0.47522134049975223,
+      0.15508621660075017,
+      0.039121506405712075
+    ],
+    "palette": [
+      {
+        "#2f2f27": "darkslategray"
+      },
+      {
+        "#040401": "black"
+      },
+      {
+        "#495f74": "dimgrey"
+      },
+      {
+        "#25251e": "black"
+      },
+      {
+        "#4f5e5a": "dimgrey"
+      },
+      {
+        "#546465": "dimgrey"
+      }
+    ]
+  },
+  {
+    "framenumber": 203992,
+    "averageColorRGB": [
+      26.08879172585227,
+      38.39381510416667,
+      44.14655835700758
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_203992.png",
+    "averageColorHSV": [
+      0.5530957433288531,
+      0.1377163727114899,
+      0.2571036751415311
+    ],
+    "palette": [
+      {
+        "#010300": "black"
+      },
+      {
+        "#43626f": "dimgrey"
+      },
+      {
+        "#283842": "darkslategray"
+      },
+      {
+        "#4f93ac": "steelblue"
+      },
+      {
+        "#020401": "black"
+      },
+      {
+        "#364a5a": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 205299,
+    "averageColorRGB": [
+      24.008978456439394,
+      29.672073271780302,
+      37.63916015625
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_205299.png",
+    "averageColorHSV": [
+      0.5974196707954915,
+      0.12087870316213607,
+      0.22109640301459202
+    ],
+    "palette": [
+      {
+        "#0e0f13": "black"
+      },
+      {
+        "#1f2531": "darkslategray"
+      },
+      {
+        "#10131a": "black"
+      },
+      {
+        "#090a0f": "black"
+      },
+      {
+        "#0a0a12": "black"
+      },
+      {
+        "#0b0e17": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 206606,
+    "averageColorRGB": [
+      30.190912050189393,
+      26.579404888731062,
+      22.06855320785985
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_206606.png",
+    "averageColorHSV": [
+      0.09256037908107395,
+      0.10246953972166517,
+      0.15542368836387016
+    ],
+    "palette": [
+      {
+        "#211c18": "black"
+      },
+      {
+        "#030502": "black"
+      },
+      {
+        "#262521": "black"
+      },
+      {
+        "#0e0b07": "black"
+      },
+      {
+        "#2b2520": "darkslategray"
+      },
+      {
+        "#261b16": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 207913,
+    "averageColorRGB": [
+      26.962514796401514,
+      23.860092625473484,
+      19.859614701704544
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_207913.png",
+    "averageColorHSV": [
+      0.09386959013064955,
+      0.09180809705510992,
+      0.15169963798815
+    ],
+    "palette": [
+      {
+        "#030502": "black"
+      },
+      {
+        "#15120d": "black"
+      },
+      {
+        "#090906": "black"
+      },
+      {
+        "#221e18": "black"
+      },
+      {
+        "#1d1714": "black"
+      },
+      {
+        "#050502": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 209220,
+    "averageColorRGB": [
+      24.77502071496212,
+      31.519834576231062,
+      34.59126864346591
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_209220.png",
+    "averageColorHSV": [
+      0.552148813029267,
+      0.11640448893809419,
+      0.16535053874156624
+    ],
+    "palette": [
+      {
+        "#020404": "black"
+      },
+      {
+        "#1e232b": "darkslategray"
+      },
+      {
+        "#0f1317": "black"
+      },
+      {
+        "#030505": "black"
+      },
+      {
+        "#060808": "black"
+      },
+      {
+        "#15181f": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 210527,
+    "averageColorRGB": [
+      59.07984286221591,
+      48.69509647253788,
+      40.19427527225379
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_210527.png",
+    "averageColorHSV": [
+      0.07502043698881078,
+      0.19465513359699943,
+      0.19023656865308097
+    ],
+    "palette": [
+      {
+        "#3c3121": "darkslategray"
+      },
+      {
+        "#37332c": "darkslategray"
+      },
+      {
+        "#34291c": "darkslategray"
+      },
+      {
+        "#4d3e31": "darkslategray"
+      },
+      {
+        "#2c231e": "black"
+      },
+      {
+        "#1c1610": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 211834,
+    "averageColorRGB": [
+      41.62106711647727,
+      32.82803622159091,
+      26.65092625473485
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_211834.png",
+    "averageColorHSV": [
+      0.06877145227406457,
+      0.13386665366904338,
+      0.21927206344109468
+    ],
+    "palette": [
+      {
+        "#020404": "black"
+      },
+      {
+        "#24130f": "black"
+      },
+      {
+        "#483f33": "darkslategray"
+      },
+      {
+        "#3d2620": "darkslategray"
+      },
+      {
+        "#020401": "black"
+      },
+      {
+        "#2f1814": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 213141,
+    "averageColorRGB": [
+      19.958092151988637,
+      14.079796993371213,
+      12.812029474431819
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_213141.png",
+    "averageColorHSV": [
+      0.029567972745816833,
+      0.06425514044396169,
+      0.21806640692463602
+    ],
+    "palette": [
+      {
+        "#020404": "black"
+      },
+      {
+        "#150c0a": "black"
+      },
+      {
+        "#120807": "black"
+      },
+      {
+        "#030505": "black"
+      },
+      {
+        "#010303": "black"
+      },
+      {
+        "#0b0605": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 214448,
+    "averageColorRGB": [
+      35.03066554214015,
+      25.267826704545456,
+      19.022879675662878
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_214448.png",
+    "averageColorHSV": [
+      0.06501989178862065,
+      0.10598734356431966,
+      0.2961468262992852
+    ],
+    "palette": [
+      {
+        "#040401": "black"
+      },
+      {
+        "#190f0a": "black"
+      },
+      {
+        "#100a05": "black"
+      },
+      {
+        "#0c0704": "black"
+      },
+      {
+        "#1d0e0a": "black"
+      },
+      {
+        "#24110c": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 215755,
+    "averageColorRGB": [
+      27.211265980113637,
+      18.128318832859847,
+      14.882341974431819
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_215755.png",
+    "averageColorHSV": [
+      0.04388023989944447,
+      0.08253648618538326,
+      0.2928930211683241
+    ],
+    "palette": [
+      {
+        "#020404": "black"
+      },
+      {
+        "#030505": "black"
+      },
+      {
+        "#000403": "black"
+      },
+      {
+        "#663726": "saddlebrown"
+      },
+      {
+        "#000504": "black"
+      },
+      {
+        "#100505": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 217062,
+    "averageColorRGB": [
+      42.71739612926137,
+      44.762412701231064,
+      44.55583866003788
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_217062.png",
+    "averageColorHSV": [
+      0.48316443625081734,
+      0.17152903692253418,
+      0.023377012356443034
+    ],
+    "palette": [
+      {
+        "#414a50": "darkslategray"
+      },
+      {
+        "#2b2f35": "darkslategray"
+      },
+      {
+        "#2e3742": "darkslategray"
+      },
+      {
+        "#030505": "black"
+      },
+      {
+        "#1b212b": "black"
+      },
+      {
+        "#100f0b": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 218369,
+    "averageColorRGB": [
+      25.26602746212121,
+      22.48955078125,
+      20.50394767992424
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_218369.png",
+    "averageColorHSV": [
+      0.06949355436214143,
+      0.08974504929812835,
+      0.10404374849271884
+    ],
+    "palette": [
+      {
+        "#3d4348": "darkslategray"
+      },
+      {
+        "#050500": "black"
+      },
+      {
+        "#100b08": "black"
+      },
+      {
+        "#0c0a06": "black"
+      },
+      {
+        "#090703": "black"
+      },
+      {
+        "#130d0a": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 219676,
+    "averageColorRGB": [
+      38.24777166193182,
+      34.001155598958334,
+      30.695368726325757
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_219676.png",
+    "averageColorHSV": [
+      0.07295220918028032,
+      0.13518262821226976,
+      0.1095453861410176
+    ],
+    "palette": [
+      {
+        "#16120f": "black"
+      },
+      {
+        "#2b2720": "darkslategray"
+      },
+      {
+        "#434139": "darkslategray"
+      },
+      {
+        "#221f1b": "black"
+      },
+      {
+        "#322f27": "darkslategray"
+      },
+      {
+        "#0d0b07": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 220983,
+    "averageColorRGB": [
+      40.61665926846591,
+      36.40438417376894,
+      33.803832267992426
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_220983.png",
+    "averageColorHSV": [
+      0.06361901125616387,
+      0.1459225324244281,
+      0.09154504169239334
+    ],
+    "palette": [
+      {
+        "#2c1d19": "black"
+      },
+      {
+        "#433f38": "darkslategray"
+      },
+      {
+        "#1f1d1b": "black"
+      },
+      {
+        "#312e28": "darkslategray"
+      },
+      {
+        "#1c1a14": "black"
+      },
+      {
+        "#262420": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 222290,
+    "averageColorRGB": [
+      55.38115678267045,
+      57.018449633049244,
+      57.03615352746212
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_222290.png",
+    "averageColorHSV": [
+      0.5017828730347049,
+      0.22042609864731877,
+      0.014721903061245014
+    ],
+    "palette": [
+      {
+        "#565954": "dimgrey"
+      },
+      {
+        "#636058": "dimgrey"
+      },
+      {
+        "#292d2b": "darkslategray"
+      },
+      {
+        "#424a4d": "darkslategray"
+      },
+      {
+        "#4e5350": "darkslategray"
+      },
+      {
+        "#0c0c09": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 223597,
+    "averageColorRGB": [
+      11.26147608901515,
+      9.357674893465909,
+      7.233981415719697
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_223597.png",
+    "averageColorHSV": [
+      0.08788314862452377,
+      0.03626560295046048,
+      0.21775588261411824
+    ],
+    "palette": [
+      {
+        "#0e0906": "black"
+      },
+      {
+        "#040603": "black"
+      },
+      {
+        "#030505": "black"
+      },
+      {
+        "#030502": "black"
+      },
+      {
+        "#040606": "black"
+      },
+      {
+        "#080805": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 224904,
+    "averageColorRGB": [
+      80.91445756392045,
+      65.27518643465909,
+      51.44810901988637
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_224904.png",
+    "averageColorHSV": [
+      0.07820829577910848,
+      0.25953444428197414,
+      0.22261844345075574
+    ],
+    "palette": [
+      {
+        "#3e382d": "darkslategray"
+      },
+      {
+        "#4d4233": "darkolivegreen"
+      },
+      {
+        "#3c3024": "darkslategray"
+      },
+      {
+        "#6b5b4d": "dimgrey"
+      },
+      {
+        "#a28977": "rosybrown"
+      },
+      {
+        "#312e25": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 226211,
+    "averageColorRGB": [
+      26.656730883049242,
+      19.454350142045456,
+      16.09434481534091
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_226211.png",
+    "averageColorHSV": [
+      0.05301840741233116,
+      0.08382563862429442,
+      0.24706714147326284
+    ],
+    "palette": [
+      {
+        "#7d5742": "sienna"
+      },
+      {
+        "#090705": "black"
+      },
+      {
+        "#0e1411": "black"
+      },
+      {
+        "#512e21": "darkolivegreen"
+      },
+      {
+        "#0b0605": "black"
+      },
+      {
+        "#0e0807": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 227518,
+    "averageColorRGB": [
+      26.811538233901516,
+      17.883768347537877,
+      13.198098662405304
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_227518.png",
+    "averageColorHSV": [
+      0.05736573357678365,
+      0.07845026842413101,
+      0.3402540144710194
+    ],
+    "palette": [
+      {
+        "#090402": "black"
+      },
+      {
+        "#010303": "black"
+      },
+      {
+        "#130e09": "black"
+      },
+      {
+        "#120604": "black"
+      },
+      {
+        "#8e6156": "dimgrey"
+      },
+      {
+        "#0d0604": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 228825,
+    "averageColorRGB": [
+      25.94719756155303,
+      17.795306581439394,
+      13.04244051846591
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_228825.png",
+    "averageColorHSV": [
+      0.06138390216755407,
+      0.07645027074513518,
+      0.3309791441665224
+    ],
+    "palette": [
+      {
+        "#0f0403": "black"
+      },
+      {
+        "#160f0b": "black"
+      },
+      {
+        "#8d6156": "dimgrey"
+      },
+      {
+        "#010303": "black"
+      },
+      {
+        "#130906": "black"
+      },
+      {
+        "#0d0604": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 230132,
+    "averageColorRGB": [
+      58.555662582859846,
+      44.639516749526514,
+      35.23354344223485
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_230132.png",
+    "averageColorHSV": [
+      0.06721782906730889,
+      0.1839004039707739,
+      0.24866527960994597
+    ],
+    "palette": [
+      {
+        "#444134": "darkslategray"
+      },
+      {
+        "#3c3428": "darkslategray"
+      },
+      {
+        "#2e241b": "black"
+      },
+      {
+        "#383327": "darkslategray"
+      },
+      {
+        "#7d493b": "sienna"
+      },
+      {
+        "#1a0c09": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 231439,
+    "averageColorRGB": [
+      42.494136186079544,
+      34.45248875473485,
+      27.99478574810606
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_231439.png",
+    "averageColorHSV": [
+      0.0742297966410528,
+      0.1382135724199718,
+      0.20569686753772873
+    ],
+    "palette": [
+      {
+        "#1c0f0a": "black"
+      },
+      {
+        "#19100a": "black"
+      },
+      {
+        "#381f1b": "black"
+      },
+      {
+        "#2b241a": "black"
+      },
+      {
+        "#402823": "darkslategray"
+      },
+      {
+        "#372f25": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 232746,
+    "averageColorRGB": [
+      43.651682350852276,
+      38.189870383522724,
+      35.68429361979167
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_232746.png",
+    "averageColorHSV": [
+      0.05241317342287122,
+      0.15556073719734106,
+      0.10042592447603747
+    ],
+    "palette": [
+      {
+        "#302a23": "darkslategray"
+      },
+      {
+        "#2c1a17": "black"
+      },
+      {
+        "#211d18": "black"
+      },
+      {
+        "#120e0d": "black"
+      },
+      {
+        "#3f3832": "darkslategray"
+      },
+      {
+        "#1a1512": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 234053,
+    "averageColorRGB": [
+      8.369472064393939,
+      8.599220229640151,
+      9.19946141098485
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_234053.png",
+    "averageColorHSV": [
+      0.6205319047788831,
+      0.03444888916740939,
+      0.04724187428645363
+    ],
+    "palette": [
+      {
+        "#040306": "black"
+      },
+      {
+        "#060603": "black"
+      },
+      {
+        "#040401": "black"
+      },
+      {
+        "#030300": "black"
+      },
+      {
+        "#0a0806": "black"
+      },
+      {
+        "#050304": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 235360,
+    "averageColorRGB": [
+      27.218242483428032,
+      22.90785097064394,
+      21.642024739583334
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_235360.png",
+    "averageColorHSV": [
+      0.037834074672385344,
+      0.0958044455353164,
+      0.11412581348344544
+    ],
+    "palette": [
+      {
+        "#1a1513": "black"
+      },
+      {
+        "#190c09": "black"
+      },
+      {
+        "#0c0a08": "black"
+      },
+      {
+        "#140807": "black"
+      },
+      {
+        "#15110f": "black"
+      },
+      {
+        "#0a0806": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 236667,
+    "averageColorRGB": [
+      30.721170691287877,
+      28.789163115530304,
+      25.60582830255682
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_236667.png",
+    "averageColorHSV": [
+      0.10371853178998247,
+      0.11044509606636216,
+      0.09081510607888152
+    ],
+    "palette": [
+      {
+        "#2f3339": "darkslategray"
+      },
+      {
+        "#040401": "black"
+      },
+      {
+        "#050502": "black"
+      },
+      {
+        "#4d5965": "dimgrey"
+      },
+      {
+        "#a5b88e": "darkseagreen"
+      },
+      {
+        "#391711": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 237974,
+    "averageColorRGB": [
+      13.538445490056818,
+      12.784497810132576,
+      11.39794773910985
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_237974.png",
+    "averageColorHSV": [
+      0.10796165443367149,
+      0.04889488868464052,
+      0.0858383059360546
+    ],
+    "palette": [
+      {
+        "#241a19": "black"
+      },
+      {
+        "#10110d": "black"
+      },
+      {
+        "#130e0d": "black"
+      },
+      {
+        "#16110f": "black"
+      },
+      {
+        "#1f1514": "black"
+      },
+      {
+        "#0d0b09": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 239281,
+    "averageColorRGB": [
+      23.706127189867424,
+      30.98791873816288,
+      35.05354077888258
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_239281.png",
+    "averageColorHSV": [
+      0.5597143717498088,
+      0.11521503523284313,
+      0.1931156860016639
+    ],
+    "palette": [
+      {
+        "#151b1f": "black"
+      },
+      {
+        "#000202": "black"
+      },
+      {
+        "#050a09": "black"
+      },
+      {
+        "#080c0f": "black"
+      },
+      {
+        "#0e1216": "black"
+      },
+      {
+        "#0f1313": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 240588,
+    "averageColorRGB": [
+      33.58357599431818,
+      26.89299094460227,
+      18.490188506155302
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_240588.png",
+    "averageColorHSV": [
+      0.09278679648109635,
+      0.10210542058916369,
+      0.28984629079439106
+    ],
+    "palette": [
+      {
+        "#251f18": "black"
+      },
+      {
+        "#040401": "black"
+      },
+      {
+        "#3b3123": "darkslategray"
+      },
+      {
+        "#4b402f": "darkolivegreen"
+      },
+      {
+        "#080805": "black"
+      },
+      {
+        "#050502": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 241895,
+    "averageColorRGB": [
+      54.87163529829545,
+      74.97250532670455,
+      87.30707267992425
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_241895.png",
+    "averageColorHSV": [
+      0.5633800987897573,
+      0.2787817803494504,
+      0.22813146808590756
+    ],
+    "palette": [
+      {
+        "#7aa1c3": "cadetblue"
+      },
+      {
+        "#16222c": "black"
+      },
+      {
+        "#81bce1": "skyblue"
+      },
+      {
+        "#435f71": "dimgrey"
+      },
+      {
+        "#2a3f47": "darkslategray"
+      },
+      {
+        "#5f7b91": "slategrey"
+      }
+    ]
+  },
+  {
+    "framenumber": 243202,
+    "averageColorRGB": [
+      23.190496271306817,
+      21.987932054924244,
+      18.904857658617424
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_243202.png",
+    "averageColorHSV": [
+      0.11989945470351886,
+      0.08253990966651811,
+      0.10180787694109092
+    ],
+    "palette": [
+      {
+        "#0d0805": "black"
+      },
+      {
+        "#130f09": "black"
+      },
+      {
+        "#080805": "black"
+      },
+      {
+        "#0f0a07": "black"
+      },
+      {
+        "#16110e": "black"
+      },
+      {
+        "#050502": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 244509,
+    "averageColorRGB": [
+      22.260199159564394,
+      19.11742128314394,
+      19.580180220170455
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_244509.png",
+    "averageColorHSV": [
+      0.9754591343909217,
+      0.08113258910334967,
+      0.07595356723743839
+    ],
+    "palette": [
+      {
+        "#272022": "black"
+      },
+      {
+        "#0a0303": "black"
+      },
+      {
+        "#140e0d": "black"
+      },
+      {
+        "#2c2528": "darkslategray"
+      },
+      {
+        "#231f1f": "black"
+      },
+      {
+        "#211516": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 245816,
+    "averageColorRGB": [
+      26.12439630681818,
+      29.087593217329545,
+      28.996215080492423
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_245816.png",
+    "averageColorHSV": [
+      0.4948603856129745,
+      0.10825880298852494,
+      0.053669446365727624
+    ],
+    "palette": [
+      {
+        "#111007": "black"
+      },
+      {
+        "#3d5e6d": "darkslategray"
+      },
+      {
+        "#090401": "black"
+      },
+      {
+        "#030300": "black"
+      },
+      {
+        "#020200": "black"
+      },
+      {
+        "#497187": "slategrey"
+      }
+    ]
+  },
+  {
+    "framenumber": 247123,
+    "averageColorRGB": [
+      28.299770655776516,
+      19.570256273674243,
+      16.574486564867424
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_247123.png",
+    "averageColorHSV": [
+      0.04258275941091431,
+      0.08798873964832145,
+      0.2612919927177089
+    ],
+    "palette": [
+      {
+        "#0f0a09": "black"
+      },
+      {
+        "#0d0807": "black"
+      },
+      {
+        "#0b0907": "black"
+      },
+      {
+        "#100b08": "black"
+      },
+      {
+        "#140d0c": "black"
+      },
+      {
+        "#050502": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 248430,
+    "averageColorRGB": [
+      48.025580018939394,
+      44.16102183948863,
+      42.55015684185606
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_248430.png",
+    "averageColorHSV": [
+      0.04903319632519106,
+      0.1775994840407754,
+      0.060451323575743385
+    ],
+    "palette": [
+      {
+        "#0e0805": "black"
+      },
+      {
+        "#5c626d": "dimgrey"
+      },
+      {
+        "#14120b": "black"
+      },
+      {
+        "#291b12": "black"
+      },
+      {
+        "#808996": "lightslategrey"
+      },
+      {
+        "#0a0806": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 249737,
+    "averageColorRGB": [
+      28.57072236032197,
+      24.804606119791668,
+      25.22801698626894
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_249737.png",
+    "averageColorHSV": [
+      0.9812622677476691,
+      0.10465750682375223,
+      0.07055912062318198
+    ],
+    "palette": [
+      {
+        "#0c0604": "black"
+      },
+      {
+        "#302b26": "darkslategray"
+      },
+      {
+        "#170b09": "black"
+      },
+      {
+        "#2d2218": "black"
+      },
+      {
+        "#2f2519": "black"
+      },
+      {
+        "#32405a": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 251044,
+    "averageColorRGB": [
+      102.66843039772728,
+      94.81439245975379,
+      90.0344756155303
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_251044.png",
+    "averageColorHSV": [
+      0.06305648714946947,
+      0.37784883532011293,
+      0.06556182801585662
+    ],
+    "palette": [
+      {
+        "#35392f": "darkslategray"
+      },
+      {
+        "#412f25": "darkslategray"
+      },
+      {
+        "#5c5f68": "dimgrey"
+      },
+      {
+        "#4b352d": "darkslategray"
+      },
+      {
+        "#513a2f": "darkolivegreen"
+      },
+      {
+        "#b2aea8": "darkgray"
+      }
+    ]
+  },
+  {
+    "framenumber": 252351,
+    "averageColorRGB": [
+      53.57834694602273,
+      50.47259706439394,
+      56.88736683238636
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_252351.png",
+    "averageColorHSV": [
+      0.7473593491779303,
+      0.21050973313094176,
+      0.059750111076414064
+    ],
+    "palette": [
+      {
+        "#060603": "black"
+      },
+      {
+        "#29231c": "black"
+      },
+      {
+        "#54566b": "dimgrey"
+      },
+      {
+        "#696e87": "slategrey"
+      },
+      {
+        "#080909": "black"
+      },
+      {
+        "#271c15": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 253658,
+    "averageColorRGB": [
+      23.490872099905303,
+      30.210925662878786,
+      38.43068773674242
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_253658.png",
+    "averageColorHSV": [
+      0.591698611210839,
+      0.12141482320911318,
+      0.2412700144545635
+    ],
+    "palette": [
+      {
+        "#020404": "black"
+      },
+      {
+        "#5c84b6": "steelblue"
+      },
+      {
+        "#4a5a74": "dimgrey"
+      },
+      {
+        "#253557": "darkslategray"
+      },
+      {
+        "#7baad7": "cornflowerblue"
+      },
+      {
+        "#374358": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 254965,
+    "averageColorRGB": [
+      37.83693033854167,
+      33.094253077651516,
+      30.697052556818182
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_254965.png",
+    "averageColorHSV": [
+      0.05595801950022261,
+      0.13438035861835265,
+      0.10418010861304981
+    ],
+    "palette": [
+      {
+        "#101015": "black"
+      },
+      {
+        "#1c1e1d": "black"
+      },
+      {
+        "#414641": "darkslategray"
+      },
+      {
+        "#0f0907": "black"
+      },
+      {
+        "#786f4a": "dimgrey"
+      },
+      {
+        "#383d3a": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 256272,
+    "averageColorRGB": [
+      26.963383345170456,
+      28.39387576941288,
+      31.670183771306817
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_256272.png",
+    "averageColorHSV": [
+      0.6160132753062623,
+      0.11496777865975935,
+      0.08027484353435578
+    ],
+    "palette": [
+      {
+        "#090705": "black"
+      },
+      {
+        "#231f26": "black"
+      },
+      {
+        "#241d23": "black"
+      },
+      {
+        "#060405": "black"
+      },
+      {
+        "#0c0c09": "black"
+      },
+      {
+        "#0b090a": "black"
+      }
+    ]
+  },
+  {
+    "framenumber": 257579,
+    "averageColorRGB": [
+      107.93986002604167,
+      84.10311908143939,
+      85.76901633522728
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_257579.png",
+    "averageColorHSV": [
+      0.9883520342422963,
+      0.3765548609950609,
+      0.12412190779055518
+    ],
+    "palette": [
+      {
+        "#232730": "darkslategray"
+      },
+      {
+        "#17181d": "black"
+      },
+      {
+        "#e9bdc0": "lightpink"
+      },
+      {
+        "#cbb1ad": "silver"
+      },
+      {
+        "#292f39": "darkslategray"
+      },
+      {
+        "#ba8188": "rosybrown"
+      }
+    ]
+  },
+  {
+    "framenumber": 258886,
+    "averageColorRGB": [
+      108.87424538352273,
+      82.65901544744318,
+      86.78651308001893
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_258886.png",
+    "averageColorHSV": [
+      0.9737589075597162,
+      0.37555541339405085,
+      0.13687037866083904
+    ],
+    "palette": [
+      {
+        "#272c34": "darkslategray"
+      },
+      {
+        "#18191e": "black"
+      },
+      {
+        "#c6969c": "rosybrown"
+      },
+      {
+        "#ecb6c0": "lightpink"
+      },
+      {
+        "#ba818e": "rosybrown"
+      },
+      {
+        "#222630": "darkslategray"
+      }
+    ]
+  },
+  {
+    "framenumber": 260193,
+    "averageColorRGB": [
+      36.15798117897727,
+      30.27824337121212,
+      34.84257664535985
+    ],
+    "file": "http://128.54.253.204/chromatography/magnolia/Magnolia.mkv_260193.png",
+    "averageColorHSV": [
+      0.87061970495465,
+      0.13026710696115568,
+      0.08850198589059328
+    ],
+    "palette": [
+      {
+        "#21252e": "darkslategray"
+      },
+      {
+        "#18191d": "black"
+      },
+      {
+        "#1b1e25": "black"
+      },
+      {
+        "#0e131b": "black"
+      },
+      {
+        "#282d36": "darkslategray"
+      },
+      {
+        "#272f38": "darkslategray"
+      }
+>>>>>>> dev_klim
     ]
   }
 ]

@@ -69,12 +69,13 @@ tags
 *.swp
 
 # Data
-# Keep some for demo
-#*.png
-#*.jpg
-#*.mp4
-#*.avi
-#*.mkv
+*.png
+*.jpg
+*.mp4
+*.avi
+*.mkv
 
 # Visual studio 
 *.suo
+*.sln
+

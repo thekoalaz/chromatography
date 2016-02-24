@@ -1,4 +1,7 @@
 # Pulled from https://github.com/jyotiska/colorweave
+# Blog post http://blog.dataweave.in/post/83478334651/extract-dominant-colors-from-an-image-with
+# Updated to colormath2 and python3 by Kyung yul Kevin Lim as part of
+# the chromatography project.
 # Use under GNU license
 import sys
 from collections import Counter, namedtuple, OrderedDict
@@ -332,3 +335,4 @@ def palette(**kwargs):
     else:
         print("Unable to get image. Exiting.")
         sys.exit(0)
+

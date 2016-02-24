@@ -1,4 +1,4 @@
-﻿import json
+import json
 
 import cv2
 import colorsys
@@ -6,16 +6,19 @@ import colorweave
 
 import utils.logger as logger
 LOGGER = logger.Logger("Movie")
-LOGGER.level(logger.DEBUG)
+#LOGGER.level(logger.DEBUG)
 
 class Frame(object):
-    def __init__(self, frame_number, filename, frame):
-        self.filename = filename
+    def __init__(self, frame_number, filename, frame, remote_filename = None):
+        if not remote_filename == None:
+            self.filename = remote_filename
+        else:
+            self.filename = filename
         self.frame_number = frame_number
         b, g, r, a = cv2.mean(frame)
         self.frame_color_RGB = (r, g, b)
-        self.frame_color_HSV = colorsys.rgb_to_hls(r, g, b)
-        LOGGER.debug("Saving image to: " + self.filename)
+        self.frame_color_HSV = colorsys.rgb_to_hls(r/255, g/255, b/255)
+        LOGGER.debug("Saving image to: " + filename)
         cv2.imwrite(filename, frame)
 
         palette = colorweave.palette(path=filename, n=6, format="css3")
@@ -35,3 +38,4 @@ class FrameEncoder(json.JSONEncoder):
                      "palette": obj.palette
                    }
         return json.JSONEncoder(self, obj)
+
