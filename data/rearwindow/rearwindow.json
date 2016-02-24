@@ -1,0 +1,6806 @@
+[
+  {
+    "averageColorHSV": [
+      0.035219690739296004,
+      0.10356386847796653,
+      0.22205872377682548
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_100.png",
+    "averageColorRGB": [
+      32.27308788010157,
+      23.022951631882083,
+      20.54448504366136
+    ],
+    "framenumber": 100,
+    "palette": [
+      {
+        "#d19b85": "tan"
+      },
+      {
+        "#553e2e": "darkolivegreen"
+      },
+      {
+        "#030300": "black"
+      },
+      {
+        "#03030b": "black"
+      },
+      {
+        "#010109": "black"
+      },
+      {
+        "#01040b": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.03476263387198678,
+      0.2337815863324335,
+      0.2864766431329031
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_921.png",
+    "averageColorRGB": [
+      76.69241035486469,
+      49.66035796123119,
+      42.53619867467641
+    ],
+    "framenumber": 921,
+    "palette": [
+      {
+        "#600b07": "maroon"
+      },
+      {
+        "#563021": "saddlebrown"
+      },
+      {
+        "#2f1b10": "black"
+      },
+      {
+        "#392a20": "darkslategrey"
+      },
+      {
+        "#301c1e": "black"
+      },
+      {
+        "#46302a": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.00525188992773488,
+      0.25136838992734645,
+      0.15779067180386924
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_1742.png",
+    "averageColorRGB": [
+      74.21315414628104,
+      54.6221496253174,
+      53.98472471666564
+    ],
+    "framenumber": 1742,
+    "palette": [
+      {
+        "#653228": "saddlebrown"
+      },
+      {
+        "#2a1e1f": "black"
+      },
+      {
+        "#291a11": "black"
+      },
+      {
+        "#4a342b": "darkslategrey"
+      },
+      {
+        "#4b3e37": "darkslategrey"
+      },
+      {
+        "#535f84": "dimgray"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.05655533776003433,
+      0.3145612916622647,
+      0.18347239278771627
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_2563.png",
+    "averageColorRGB": [
+      94.93002415309346,
+      75.48406205487088,
+      65.49623459466154
+    ],
+    "framenumber": 2563,
+    "palette": [
+      {
+        "#9f847b": "grey"
+      },
+      {
+        "#91726a": "grey"
+      },
+      {
+        "#553d35": "darkolivegreen"
+      },
+      {
+        "#7d6860": "dimgray"
+      },
+      {
+        "#cfaa99": "tan"
+      },
+      {
+        "#49342a": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.03907401387631491,
+      0.20290067844813037,
+      0.35459832268126823
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_3384.png",
+    "averageColorRGB": [
+      70.08647426766582,
+      41.99546974670218,
+      33.39287174088066
+    ],
+    "framenumber": 3384,
+    "palette": [
+      {
+        "#160703": "black"
+      },
+      {
+        "#582c1e": "saddlebrown"
+      },
+      {
+        "#8a4935": "sienna"
+      },
+      {
+        "#b16853": "indianred"
+      },
+      {
+        "#070101": "black"
+      },
+      {
+        "#743b2a": "saddlebrown"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.04161923085054916,
+      0.339060694817346,
+      0.19282705204025855
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_4205.png",
+    "averageColorRGB": [
+      103.13239611073264,
+      78.11502755929895,
+      69.78855824611384
+    ],
+    "framenumber": 4205,
+    "palette": [
+      {
+        "#b4826f": "rosybrown"
+      },
+      {
+        "#736159": "dimgray"
+      },
+      {
+        "#9e8377": "grey"
+      },
+      {
+        "#5f4239": "darkolivegreen"
+      },
+      {
+        "#8f6658": "dimgray"
+      },
+      {
+        "#645046": "darkolivegreen"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.05165823270108255,
+      0.3859687466985308,
+      0.0914597896978457
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_5026.png",
+    "averageColorRGB": [
+      107.42368861088748,
+      95.00048925496996,
+      89.42037220536324
+    ],
+    "framenumber": 5026,
+    "palette": [
+      {
+        "#c8b8a5": "tan"
+      },
+      {
+        "#584346": "darkslategrey"
+      },
+      {
+        "#dacfb9": "lightgray"
+      },
+      {
+        "#fbf3d9": "papayawhip"
+      },
+      {
+        "#6c4f4e": "dimgray"
+      },
+      {
+        "#b2a092": "rosybrown"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.012537263098380583,
+      0.12787391453763647,
+      0.1845347249388994
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_5847.png",
+    "averageColorRGB": [
+      38.62512850684338,
+      27.49585062240664,
+      26.59056790735121
+    ],
+    "framenumber": 5847,
+    "palette": [
+      {
+        "#3e2521": "darkslategrey"
+      },
+      {
+        "#362d2c": "darkslategrey"
+      },
+      {
+        "#281918": "black"
+      },
+      {
+        "#563e38": "darkolivegreen"
+      },
+      {
+        "#070202": "black"
+      },
+      {
+        "#4a302d": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.02070798612286373,
+      0.2582578260758691,
+      0.14655846565934819
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_6668.png",
+    "averageColorRGB": [
+      75.50746268656717,
+      58.60244008174894,
+      56.204028612126095
+    ],
+    "framenumber": 6668,
+    "palette": [
+      {
+        "#65504a": "dimgray"
+      },
+      {
+        "#423636": "darkslategrey"
+      },
+      {
+        "#1f1314": "black"
+      },
+      {
+        "#806058": "dimgray"
+      },
+      {
+        "#9a756b": "grey"
+      },
+      {
+        "#271a19": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.05393702732431203,
+      0.29684579300228175,
+      0.21280423504659124
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_7489.png",
+    "averageColorRGB": [
+      91.80403790177742,
+      70.01336161516072,
+      59.587316529386264
+    ],
+    "framenumber": 7489,
+    "palette": [
+      {
+        "#7b5a4c": "dimgray"
+      },
+      {
+        "#866350": "dimgray"
+      },
+      {
+        "#bb9981": "rosybrown"
+      },
+      {
+        "#593a2d": "darkolivegreen"
+      },
+      {
+        "#957867": "grey"
+      },
+      {
+        "#5a4539": "darkolivegreen"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.02793263086594805,
+      0.25495865194408723,
+      0.16857141952198598
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_8310.png",
+    "averageColorRGB": [
+      75.97403542453706,
+      57.7284356227163,
+      54.05487706694743
+    ],
+    "framenumber": 8310,
+    "palette": [
+      {
+        "#3c2829": "darkslategrey"
+      },
+      {
+        "#452e2b": "darkslategrey"
+      },
+      {
+        "#8b756b": "grey"
+      },
+      {
+        "#362a21": "darkslategrey"
+      },
+      {
+        "#231113": "black"
+      },
+      {
+        "#5e5352": "dimgray"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.03263114289880074,
+      0.23609022255090184,
+      0.16062897776916402
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_9131.png",
+    "averageColorRGB": [
+      69.87335418343964,
+      54.31931318511179,
+      50.532659317520285
+    ],
+    "framenumber": 9131,
+    "palette": [
+      {
+        "#483431": "darkslategrey"
+      },
+      {
+        "#7d5c55": "dimgray"
+      },
+      {
+        "#977369": "grey"
+      },
+      {
+        "#a38479": "rosybrown"
+      },
+      {
+        "#684f4c": "dimgray"
+      },
+      {
+        "#473b39": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.044361264557093605,
+      0.2864554151381244,
+      0.24480507072685995
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_9952.png",
+    "averageColorRGB": [
+      90.92819409178176,
+      64.68331888276461,
+      55.16406762866168
+    ],
+    "framenumber": 9952,
+    "palette": [
+      {
+        "#4f301f": "darkolivegreen"
+      },
+      {
+        "#7d5848": "dimgray"
+      },
+      {
+        "#39231f": "darkslategrey"
+      },
+      {
+        "#8e7061": "grey"
+      },
+      {
+        "#663e2d": "saddlebrown"
+      },
+      {
+        "#5e4c4e": "dimgray"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.05954235335415525,
+      0.29438949990103186,
+      0.2291414384763663
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_10773.png",
+    "averageColorRGB": [
+      92.27081501207655,
+      70.15843809995665,
+      57.867829937449685
+    ],
+    "framenumber": 10773,
+    "palette": [
+      {
+        "#9a7d68": "grey"
+      },
+      {
+        "#56433d": "darkolivegreen"
+      },
+      {
+        "#b89d80": "rosybrown"
+      },
+      {
+        "#7c5647": "dimgray"
+      },
+      {
+        "#7b4837": "saddlebrown"
+      },
+      {
+        "#633c2f": "darkolivegreen"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.05099308777195508,
+      0.3198885120407239,
+      0.18675514296680726
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_11594.png",
+    "averageColorRGB": [
+      96.80548089428378,
+      75.65954976156561,
+      66.33766024648541
+    ],
+    "framenumber": 11594,
+    "palette": [
+      {
+        "#91736a": "grey"
+      },
+      {
+        "#9b7a6c": "grey"
+      },
+      {
+        "#4d3d36": "darkslategrey"
+      },
+      {
+        "#69544b": "dimgray"
+      },
+      {
+        "#714f44": "darkolivegreen"
+      },
+      {
+        "#82675c": "dimgray"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.027876392120679643,
+      0.21314155971424303,
+      0.1817863727014311
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_12415.png",
+    "averageColorRGB": [
+      64.23138663528829,
+      47.77593051340806,
+      44.47080881897566
+    ],
+    "framenumber": 12415,
+    "palette": [
+      {
+        "#7c4e45": "sienna"
+      },
+      {
+        "#797071": "dimgray"
+      },
+      {
+        "#0c0705": "black"
+      },
+      {
+        "#b28173": "rosybrown"
+      },
+      {
+        "#7a6358": "dimgray"
+      },
+      {
+        "#84665d": "dimgray"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.0231062252819418,
+      0.2867114391430691,
+      0.15392746673411664
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_13236.png",
+    "averageColorRGB": [
+      84.36527218678393,
+      64.97797114014988,
+      61.857561776181335
+    ],
+    "framenumber": 13236,
+    "palette": [
+      {
+        "#524645": "darkslategrey"
+      },
+      {
+        "#968886": "grey"
+      },
+      {
+        "#341c19": "black"
+      },
+      {
+        "#3a2e2f": "darkslategrey"
+      },
+      {
+        "#705751": "dimgray"
+      },
+      {
+        "#65453d": "darkolivegreen"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.007002948510459961,
+      0.2588743006956917,
+      0.12413892322440978
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_14057.png",
+    "averageColorRGB": [
+      74.20772279680436,
+      58.50682170062551,
+      57.81817055799839
+    ],
+    "framenumber": 14057,
+    "palette": [
+      {
+        "#271b1d": "black"
+      },
+      {
+        "#2b2020": "black"
+      },
+      {
+        "#786668": "dimgray"
+      },
+      {
+        "#5a423f": "darkolivegreen"
+      },
+      {
+        "#765f5d": "dimgray"
+      },
+      {
+        "#987b74": "grey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.021901498162523198,
+      0.23570321446222636,
+      0.15959828932263015
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_14878.png",
+    "averageColorRGB": [
+      69.69686629095189,
+      53.03286678639995,
+      50.511773084783556
+    ],
+    "framenumber": 14878,
+    "palette": [
+      {
+        "#403030": "darkslategrey"
+      },
+      {
+        "#8b6660": "dimgray"
+      },
+      {
+        "#7f665f": "dimgray"
+      },
+      {
+        "#554e4a": "darkslategrey"
+      },
+      {
+        "#312221": "darkslategrey"
+      },
+      {
+        "#593d37": "darkolivegreen"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.021194879230624224,
+      0.2633628477092206,
+      0.16279890610649012
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_15699.png",
+    "averageColorRGB": [
+      78.09069796246982,
+      59.00508143927665,
+      56.22435436923268
+    ],
+    "framenumber": 15699,
+    "palette": [
+      {
+        "#735b55": "dimgray"
+      },
+      {
+        "#5b4a49": "darkolivegreen"
+      },
+      {
+        "#5c3c35": "darkolivegreen"
+      },
+      {
+        "#2a1d1e": "black"
+      },
+      {
+        "#855148": "sienna"
+      },
+      {
+        "#312221": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.02858739043544119,
+      0.23163181529501628,
+      0.18479447017311132
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_16520.png",
+    "averageColorRGB": [
+      69.98120393881217,
+      51.89542949154642,
+      48.15102186164613
+    ],
+    "framenumber": 16520,
+    "palette": [
+      {
+        "#5a3f37": "darkolivegreen"
+      },
+      {
+        "#2b1a13": "black"
+      },
+      {
+        "#b9a5a4": "darkgrey"
+      },
+      {
+        "#6b534c": "dimgray"
+      },
+      {
+        "#463838": "darkslategrey"
+      },
+      {
+        "#2f231d": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.030948514406058614,
+      0.33088294189292733,
+      0.1424873085697574
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_17341.png",
+    "averageColorRGB": [
+      96.39753824239797,
+      76.81766272372577,
+      72.35276212299499
+    ],
+    "framenumber": 17341,
+    "palette": [
+      {
+        "#6a5c53": "dimgray"
+      },
+      {
+        "#9f6555": "sienna"
+      },
+      {
+        "#7d5044": "sienna"
+      },
+      {
+        "#5d3931": "darkolivegreen"
+      },
+      {
+        "#403a3d": "darkslategrey"
+      },
+      {
+        "#cebcb3": "silver"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.02415491312339446,
+      0.2437983987798377,
+      0.1505047262439466
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_18162.png",
+    "averageColorRGB": [
+      71.52525856196198,
+      55.52403852108751,
+      52.811924815755255
+    ],
+    "framenumber": 18162,
+    "palette": [
+      {
+        "#38261e": "darkslategrey"
+      },
+      {
+        "#7e625b": "dimgray"
+      },
+      {
+        "#3f322f": "darkslategrey"
+      },
+      {
+        "#79524b": "dimgray"
+      },
+      {
+        "#322726": "darkslategrey"
+      },
+      {
+        "#9e9296": "rosybrown"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.030640365492670518,
+      0.2908323163290213,
+      0.14133722344518906
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_18983.png",
+    "averageColorRGB": [
+      84.64412584381,
+      67.53438099956648,
+      63.68035548399084
+    ],
+    "framenumber": 18983,
+    "palette": [
+      {
+        "#392f30": "darkslategrey"
+      },
+      {
+        "#a28c81": "rosybrown"
+      },
+      {
+        "#4a4143": "darkslategrey"
+      },
+      {
+        "#886651": "dimgray"
+      },
+      {
+        "#6f503d": "darkolivegreen"
+      },
+      {
+        "#786259": "dimgray"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.02831160430284263,
+      0.28930573517572017,
+      0.16507537774394115
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_19804.png",
+    "averageColorRGB": [
+      85.9510621168019,
+      65.73224128321051,
+      61.59486282281539
+    ],
+    "framenumber": 19804,
+    "palette": [
+      {
+        "#7c6763": "dimgray"
+      },
+      {
+        "#825f48": "sienna"
+      },
+      {
+        "#403336": "darkslategrey"
+      },
+      {
+        "#5b4d4e": "dimgray"
+      },
+      {
+        "#715141": "darkolivegreen"
+      },
+      {
+        "#836c65": "dimgray"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.038730952980690826,
+      0.30975682364355916,
+      0.17859061344209548
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_20625.png",
+    "averageColorRGB": [
+      93.09450362296403,
+      71.4377810119527,
+      64.88147643525113
+    ],
+    "framenumber": 20625,
+    "palette": [
+      {
+        "#b19181": "rosybrown"
+      },
+      {
+        "#685148": "darkolivegreen"
+      },
+      {
+        "#79564a": "dimgray"
+      },
+      {
+        "#997061": "grey"
+      },
+      {
+        "#866352": "dimgray"
+      },
+      {
+        "#79635a": "dimgray"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.049515731264178096,
+      0.21214709950370192,
+      0.14942739800518015
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_21446.png",
+    "averageColorRGB": [
+      62.181160587105964,
+      50.81707437914164,
+      46.013860159782006
+    ],
+    "framenumber": 21446,
+    "palette": [
+      {
+        "#4e342b": "darkslategrey"
+      },
+      {
+        "#7d6e67": "dimgray"
+      },
+      {
+        "#634a42": "darkolivegreen"
+      },
+      {
+        "#4f4541": "darkslategrey"
+      },
+      {
+        "#4e3b36": "darkslategrey"
+      },
+      {
+        "#745b4f": "dimgray"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.04888852708504776,
+      0.20885920045853235,
+      0.1935521353319
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_22267.png",
+    "averageColorRGB": [
+      63.56750789620363,
+      48.99824115934849,
+      42.950684337647864
+    ],
+    "framenumber": 22267,
+    "palette": [
+      {
+        "#634036": "darkolivegreen"
+      },
+      {
+        "#3d241f": "darkslategrey"
+      },
+      {
+        "#4c3634": "darkslategrey"
+      },
+      {
+        "#c6a17a": "darkkhaki"
+      },
+      {
+        "#66554e": "dimgray"
+      },
+      {
+        "#4d352d": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.022859941357885976,
+      0.09525261779945768,
+      0.1546482293623637
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_23088.png",
+    "averageColorRGB": [
+      28.045732953489814,
+      21.563531925435065,
+      20.533102124233604
+    ],
+    "framenumber": 23088,
+    "palette": [
+      {
+        "#704a3b": "darkolivegreen"
+      },
+      {
+        "#25100a": "black"
+      },
+      {
+        "#0c0603": "black"
+      },
+      {
+        "#1f1314": "black"
+      },
+      {
+        "#160c0d": "black"
+      },
+      {
+        "#1b0a08": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.04313636384858527,
+      0.13763642126200826,
+      0.2834546375000243
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_23909.png",
+    "averageColorRGB": [
+      45.045776305196014,
+      30.29849817303524,
+      25.148798538428192
+    ],
+    "framenumber": 23909,
+    "palette": [
+      {
+        "#3d2927": "darkslategrey"
+      },
+      {
+        "#452d26": "darkslategrey"
+      },
+      {
+        "#422c22": "darkslategrey"
+      },
+      {
+        "#3c2b21": "darkslategrey"
+      },
+      {
+        "#311d14": "black"
+      },
+      {
+        "#1c0500": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.02198784653491076,
+      0.19712119169833042,
+      0.12837562745370182
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_24730.png",
+    "averageColorRGB": [
+      56.71882083359138,
+      45.515615903883074,
+      43.81298693255713
+    ],
+    "framenumber": 24730,
+    "palette": [
+      {
+        "#3e3231": "darkslategrey"
+      },
+      {
+        "#4f342e": "darkslategrey"
+      },
+      {
+        "#070001": "black"
+      },
+      {
+        "#4d3d3d": "darkslategrey"
+      },
+      {
+        "#362a2c": "darkslategrey"
+      },
+      {
+        "#8d867a": "grey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.040090123561871326,
+      0.16951968859631547,
+      0.13255274726089458
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_25551.png",
+    "averageColorRGB": [
+      48.95744720381495,
+      40.25415557069425,
+      37.49759398030594
+    ],
+    "framenumber": 25551,
+    "palette": [
+      {
+        "#817d6d": "grey"
+      },
+      {
+        "#423836": "darkslategrey"
+      },
+      {
+        "#3a2a24": "darkslategrey"
+      },
+      {
+        "#130707": "black"
+      },
+      {
+        "#61463b": "darkolivegreen"
+      },
+      {
+        "#3f3937": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.018944286052003895,
+      0.16893485950768491,
+      0.12122053791277652
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_26372.png",
+    "averageColorRGB": [
+      48.30037468260358,
+      39.043525113024096,
+      37.85640366631573
+    ],
+    "framenumber": 26372,
+    "palette": [
+      {
+        "#706a61": "dimgray"
+      },
+      {
+        "#44393b": "darkslategrey"
+      },
+      {
+        "#4a352f": "darkslategrey"
+      },
+      {
+        "#281d1d": "black"
+      },
+      {
+        "#030109": "black"
+      },
+      {
+        "#514341": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.01478843399432167,
+      0.1680149168727998,
+      0.12246933321229632
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_27193.png",
+    "averageColorRGB": [
+      48.09085588654239,
+      38.52789991948969,
+      37.596751718585494
+    ],
+    "framenumber": 27193,
+    "palette": [
+      {
+        "#1d1313": "black"
+      },
+      {
+        "#231c1c": "black"
+      },
+      {
+        "#130707": "black"
+      },
+      {
+        "#7a746b": "dimgray"
+      },
+      {
+        "#382f30": "darkslategrey"
+      },
+      {
+        "#190f10": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9970695420692404,
+      0.16900242502401344,
+      0.1571998992045799
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_28014.png",
+    "averageColorRGB": [
+      49.87024524679507,
+      36.32099151545179,
+      36.559224623769126
+    ],
+    "framenumber": 28014,
+    "palette": [
+      {
+        "#544543": "darkslategrey"
+      },
+      {
+        "#392e2d": "darkslategrey"
+      },
+      {
+        "#463938": "darkslategrey"
+      },
+      {
+        "#2f2929": "darkslategrey"
+      },
+      {
+        "#493b3c": "darkslategrey"
+      },
+      {
+        "#504545": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.01735639449273198,
+      0.17400311719411243,
+      0.20629910961986497
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_28835.png",
+    "averageColorRGB": [
+      53.524450362296406,
+      37.123632872979506,
+      35.21713940670094
+    ],
+    "framenumber": 28835,
+    "palette": [
+      {
+        "#160603": "black"
+      },
+      {
+        "#300e05": "black"
+      },
+      {
+        "#696c72": "dimgray"
+      },
+      {
+        "#290602": "black"
+      },
+      {
+        "#0d0101": "black"
+      },
+      {
+        "#120400": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.016479430345939333,
+      0.1562321356361954,
+      0.20310963996082756
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_29656.png",
+    "averageColorRGB": [
+      47.930919056171426,
+      33.3476342354617,
+      31.747470118288227
+    ],
+    "framenumber": 29656,
+    "palette": [
+      {
+        "#28130e": "black"
+      },
+      {
+        "#23110a": "black"
+      },
+      {
+        "#311f1d": "black"
+      },
+      {
+        "#2a1817": "black"
+      },
+      {
+        "#150705": "black"
+      },
+      {
+        "#1f0a06": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.011509739420625295,
+      0.15129520811854807,
+      0.29088791619629484
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_30477.png",
+    "averageColorRGB": [
+      49.80281476435251,
+      28.907763051960117,
+      27.35774137610702
+    ],
+    "framenumber": 30477,
+    "palette": [
+      {
+        "#916252": "sienna"
+      },
+      {
+        "#370c01": "black"
+      },
+      {
+        "#0c050f": "black"
+      },
+      {
+        "#6e483c": "darkolivegreen"
+      },
+      {
+        "#0b0001": "black"
+      },
+      {
+        "#481a01": "maroon"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.03963948288648291,
+      0.10591550424591711,
+      0.2639013954192277
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_31298.png",
+    "averageColorRGB": [
+      34.13602217130117,
+      23.271282591193412,
+      19.880884994116556
+    ],
+    "framenumber": 31298,
+    "palette": [
+      {
+        "#643f2f": "darkolivegreen"
+      },
+      {
+        "#130c12": "black"
+      },
+      {
+        "#19141c": "black"
+      },
+      {
+        "#160501": "black"
+      },
+      {
+        "#3b251d": "darkslategrey"
+      },
+      {
+        "#080803": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.044930438549464845,
+      0.09684579300228174,
+      0.20956507542987513
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_32119.png",
+    "averageColorRGB": [
+      29.8710286740571,
+      22.310695485229456,
+      19.520325757106583
+    ],
+    "framenumber": 32119,
+    "palette": [
+      {
+        "#5c3e2b": "darkolivegreen"
+      },
+      {
+        "#0d0b10": "black"
+      },
+      {
+        "#130c14": "black"
+      },
+      {
+        "#0a0a04": "black"
+      },
+      {
+        "#130f18": "black"
+      },
+      {
+        "#19171d": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.04367269452586575,
+      0.09584486039414837,
+      0.18765854252780276
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_32940.png",
+    "averageColorRGB": [
+      29.02689663714622,
+      22.257617514089304,
+      19.85398216386945
+    ],
+    "framenumber": 32940,
+    "palette": [
+      {
+        "#130d13": "black"
+      },
+      {
+        "#6a4a38": "darkolivegreen"
+      },
+      {
+        "#0d0b10": "black"
+      },
+      {
+        "#090905": "black"
+      },
+      {
+        "#100a0c": "black"
+      },
+      {
+        "#020502": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.03362919294912805,
+      0.09699479779525609,
+      0.2541212401764384
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_33761.png",
+    "averageColorRGB": [
+      31.019025205920606,
+      20.984777358023162,
+      18.44832166966
+    ],
+    "framenumber": 33761,
+    "palette": [
+      {
+        "#5d3a2b": "darkolivegreen"
+      },
+      {
+        "#150607": "black"
+      },
+      {
+        "#1c141b": "black"
+      },
+      {
+        "#070100": "black"
+      },
+      {
+        "#030401": "black"
+      },
+      {
+        "#0a0805": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9888385967077356,
+      0.12610488562799865,
+      0.2114597056949024
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_34582.png",
+    "averageColorRGB": [
+      38.956601845544064,
+      25.356889824735248,
+      26.267641047872672
+    ],
+    "framenumber": 34582,
+    "palette": [
+      {
+        "#170a0d": "black"
+      },
+      {
+        "#463737": "darkslategrey"
+      },
+      {
+        "#2c1f20": "black"
+      },
+      {
+        "#291e22": "black"
+      },
+      {
+        "#24161a": "black"
+      },
+      {
+        "#150203": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.0004039869046108165,
+      0.18324707922433237,
+      0.1390050669494435
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_35403.png",
+    "averageColorRGB": [
+      53.223434693751166,
+      40.26406453211123,
+      40.23257571065833
+    ],
+    "framenumber": 35403,
+    "palette": [
+      {
+        "#1f0d0f": "black"
+      },
+      {
+        "#825446": "sienna"
+      },
+      {
+        "#1a0a0b": "black"
+      },
+      {
+        "#221516": "black"
+      },
+      {
+        "#140708": "black"
+      },
+      {
+        "#685348": "darkolivegreen"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9969674458320964,
+      0.10445817046085172,
+      0.2553093146219313
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_36224.png",
+    "averageColorRGB": [
+      33.43746516380752,
+      19.836201771226854,
+      20.08368117916641
+    ],
+    "framenumber": 36224,
+    "palette": [
+      {
+        "#14080a": "black"
+      },
+      {
+        "#0f0304": "black"
+      },
+      {
+        "#110406": "black"
+      },
+      {
+        "#250f12": "black"
+      },
+      {
+        "#190a0b": "black"
+      },
+      {
+        "#170506": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.0026782870643817236,
+      0.13934341594444183,
+      0.16960299875680707
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_37045.png",
+    "averageColorRGB": [
+      41.55900167213724,
+      29.699826593175203,
+      29.506140459528087
+    ],
+    "framenumber": 37045,
+    "palette": [
+      {
+        "#221314": "black"
+      },
+      {
+        "#1d1318": "black"
+      },
+      {
+        "#1f0c0e": "black"
+      },
+      {
+        "#7c644d": "dimgray"
+      },
+      {
+        "#130708": "black"
+      },
+      {
+        "#5a4431": "darkolivegreen"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9912433704663874,
+      0.1871075365180444,
+      0.14533639918019237
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_37866.png",
+    "averageColorRGB": [
+      54.6467733944386,
+      40.77807022976405,
+      41.50672880411222
+    ],
+    "framenumber": 37866,
+    "palette": [
+      {
+        "#413331": "darkslategrey"
+      },
+      {
+        "#150707": "black"
+      },
+      {
+        "#392e2e": "darkslategrey"
+      },
+      {
+        "#1d0e0d": "black"
+      },
+      {
+        "#4a3e3f": "darkslategrey"
+      },
+      {
+        "#857d84": "grey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.01758246368905786,
+      0.1884820952596063,
+      0.1809385776220305
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_38687.png",
+    "averageColorRGB": [
+      56.75937325819038,
+      41.20135319254351,
+      39.366495324208834
+    ],
+    "framenumber": 38687,
+    "palette": [
+      {
+        "#7f7878": "grey"
+      },
+      {
+        "#6a3b23": "saddlebrown"
+      },
+      {
+        "#261616": "black"
+      },
+      {
+        "#2c1f20": "black"
+      },
+      {
+        "#0b0305": "black"
+      },
+      {
+        "#1f1315": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.02612100185929761,
+      0.15863859856198625,
+      0.16172923415096674
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_39508.png",
+    "averageColorRGB": [
+      46.99524989162074,
+      35.96116616089676,
+      33.91043537499226
+    ],
+    "framenumber": 39508,
+    "palette": [
+      {
+        "#05030c": "black"
+      },
+      {
+        "#35292a": "darkslategrey"
+      },
+      {
+        "#090301": "black"
+      },
+      {
+        "#281c1d": "black"
+      },
+      {
+        "#9f7c55": "peru"
+      },
+      {
+        "#040306": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.044182370913587045,
+      0.19316514207094865,
+      0.20290010276234352
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_40329.png",
+    "averageColorRGB": [
+      59.25138415804794,
+      44.56168638137115,
+      39.262838298135875
+    ],
+    "framenumber": 40329,
+    "palette": [
+      {
+        "#784f3e": "sienna"
+      },
+      {
+        "#3b261e": "darkslategrey"
+      },
+      {
+        "#433837": "darkslategrey"
+      },
+      {
+        "#a0735b": "indianred"
+      },
+      {
+        "#58443d": "darkolivegreen"
+      },
+      {
+        "#8b624f": "sienna"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.04349777131025615,
+      0.19108485519680096,
+      0.21344111275573519
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_41150.png",
+    "averageColorRGB": [
+      59.12690592679755,
+      43.75503189446956,
+      38.32637022357095
+    ],
+    "framenumber": 41150,
+    "palette": [
+      {
+        "#7a5547": "dimgray"
+      },
+      {
+        "#5e3826": "saddlebrown"
+      },
+      {
+        "#a17760": "grey"
+      },
+      {
+        "#634a3e": "darkolivegreen"
+      },
+      {
+        "#8d6959": "dimgray"
+      },
+      {
+        "#3e3332": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.04135133408669887,
+      0.19881411225541806,
+      0.2239011267976838
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_41971.png",
+    "averageColorRGB": [
+      62.04884808323528,
+      44.979020870749984,
+      39.34634916702793
+    ],
+    "framenumber": 41971,
+    "palette": [
+      {
+        "#a5765f": "indianred"
+      },
+      {
+        "#6b4f43": "darkolivegreen"
+      },
+      {
+        "#8e604d": "sienna"
+      },
+      {
+        "#53382c": "darkolivegreen"
+      },
+      {
+        "#301912": "black"
+      },
+      {
+        "#3d3130": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.05145460734562864,
+      0.18512661248310558,
+      0.21081216738128875
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_42792.png",
+    "averageColorRGB": [
+      57.15915649965938,
+      43.40025082058587,
+      37.25541586672447
+    ],
+    "framenumber": 42792,
+    "palette": [
+      {
+        "#402a1d": "darkslategrey"
+      },
+      {
+        "#090302": "black"
+      },
+      {
+        "#675046": "darkolivegreen"
+      },
+      {
+        "#301d15": "black"
+      },
+      {
+        "#2a2321": "darkslategrey"
+      },
+      {
+        "#301c0f": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9739393461283865,
+      0.20748804792245754,
+      0.1350219706069299
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_43613.png",
+    "averageColorRGB": [
+      60.053390722734875,
+      45.76551371771846,
+      47.99962222084598
+    ],
+    "framenumber": 43613,
+    "palette": [
+      {
+        "#322b32": "darkslategrey"
+      },
+      {
+        "#85766a": "grey"
+      },
+      {
+        "#423438": "darkslategrey"
+      },
+      {
+        "#2d2024": "darkslategrey"
+      },
+      {
+        "#413133": "darkslategrey"
+      },
+      {
+        "#291d24": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9333832802647188,
+      0.1534076323289581,
+      0.1316463987679956
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_44434.png",
+    "averageColorRGB": [
+      44.2688146404905,
+      33.969077847278136,
+      38.08588592308169
+    ],
+    "framenumber": 44434,
+    "palette": [
+      {
+        "#382827": "darkslategrey"
+      },
+      {
+        "#434556": "darkslategrey"
+      },
+      {
+        "#525465": "dimgray"
+      },
+      {
+        "#4f3833": "darkslategrey"
+      },
+      {
+        "#0e0711": "black"
+      },
+      {
+        "#686976": "dimgray"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9254322359100008,
+      0.1442368824658742,
+      0.1024648034360387
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_45255.png",
+    "averageColorRGB": [
+      40.54910200037159,
+      33.011708057224254,
+      36.38398773766025
+    ],
+    "framenumber": 45255,
+    "palette": [
+      {
+        "#000209": "black"
+      },
+      {
+        "#6d737e": "slategrey"
+      },
+      {
+        "#0c0604": "black"
+      },
+      {
+        "#2d2d3a": "darkslategrey"
+      },
+      {
+        "#110605": "black"
+      },
+      {
+        "#3e3434": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.7343773644075396,
+      0.14786041722070636,
+      0.11994330607729248
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_46076.png",
+    "averageColorRGB": [
+      36.85658636279185,
+      33.18201523502818,
+      42.22679754753205
+    ],
+    "framenumber": 46076,
+    "palette": [
+      {
+        "#2a3149": "darkslategrey"
+      },
+      {
+        "#2a1f28": "darkslategrey"
+      },
+      {
+        "#38313c": "darkslategrey"
+      },
+      {
+        "#373f5b": "darkslategrey"
+      },
+      {
+        "#222539": "darkslategrey"
+      },
+      {
+        "#050300": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.01410165158146709,
+      0.05555869663156029,
+      0.06172263674795785
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_46897.png",
+    "averageColorRGB": [
+      15.041921099894719,
+      13.440989038211432,
+      13.293014182201029
+    ],
+    "framenumber": 46897,
+    "palette": [
+      {
+        "#25222a": "darkslategrey"
+      },
+      {
+        "#221c1b": "black"
+      },
+      {
+        "#080200": "black"
+      },
+      {
+        "#545a56": "dimgray"
+      },
+      {
+        "#1d1c20": "black"
+      },
+      {
+        "#170d07": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.8792945232289773,
+      0.08670712218745182,
+      0.052296992054471594
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_47718.png",
+    "averageColorRGB": [
+      23.266619186226546,
+      20.95401312937388,
+      22.628878429429616
+    ],
+    "framenumber": 47718,
+    "palette": [
+      {
+        "#161112": "black"
+      },
+      {
+        "#050300": "black"
+      },
+      {
+        "#060500": "black"
+      },
+      {
+        "#13121e": "black"
+      },
+      {
+        "#444955": "darkslategrey"
+      },
+      {
+        "#040200": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.041788958466101554,
+      0.11416744080427738,
+      0.1222553434610897
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_48539.png",
+    "averageColorRGB": [
+      32.67188022542887,
+      27.338329101381063,
+      25.553514584752588
+    ],
+    "framenumber": 48539,
+    "palette": [
+      {
+        "#2e2123": "darkslategrey"
+      },
+      {
+        "#0b0700": "black"
+      },
+      {
+        "#221b1d": "black"
+      },
+      {
+        "#060500": "black"
+      },
+      {
+        "#020200": "black"
+      },
+      {
+        "#0a0806": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.8643145805945119,
+      0.07443148548203576,
+      0.05417021751112935
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_49360.png",
+    "averageColorRGB": [
+      20.008181086269897,
+      17.951876509568343,
+      19.625939803059392
+    ],
+    "framenumber": 49360,
+    "palette": [
+      {
+        "#160f13": "black"
+      },
+      {
+        "#050300": "black"
+      },
+      {
+        "#010100": "black"
+      },
+      {
+        "#030300": "black"
+      },
+      {
+        "#020200": "black"
+      },
+      {
+        "#040200": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.03144301060995373,
+      0.1032814691492501,
+      0.062001496026312386
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_50181.png",
+    "averageColorRGB": [
+      27.969694060816252,
+      25.31998204000743,
+      24.703855205301295
+    ],
+    "framenumber": 50181,
+    "palette": [
+      {
+        "#3c424a": "darkslategrey"
+      },
+      {
+        "#050300": "black"
+      },
+      {
+        "#0b0700": "black"
+      },
+      {
+        "#060500": "black"
+      },
+      {
+        "#040200": "black"
+      },
+      {
+        "#0c0601": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.010949417492593852,
+      0.08580263801811058,
+      0.07644553432322054
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_51002.png",
+    "averageColorRGB": [
+      23.552275964575465,
+      20.426837802687807,
+      20.20706942466093
+    ],
+    "framenumber": 51002,
+    "palette": [
+      {
+        "#040400": "black"
+      },
+      {
+        "#4f464c": "darkslategrey"
+      },
+      {
+        "#030300": "black"
+      },
+      {
+        "#020200": "black"
+      },
+      {
+        "#010100": "black"
+      },
+      {
+        "#4b4e5d": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.160917407501711,
+      0.0028980433444201984,
+      0.7734618881807478
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_51823.png",
+    "averageColorRGB": [
+      1.310590202514399,
+      1.2711556326252555,
+      0.16741190313990215
+    ],
+    "framenumber": 51823,
+    "palette": [
+      {
+        "#010100": "black"
+      },
+      {
+        "#030100": "black"
+      },
+      {
+        "#000101": "black"
+      },
+      {
+        "#030300": "black"
+      },
+      {
+        "#020200": "black"
+      },
+      {
+        "#040200": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.03842508042407574,
+      0.20230012374058437,
+      0.18430741119051164
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_52644.png",
+    "averageColorRGB": [
+      61.094311636836565,
+      46.462798042980126,
+      42.07875147086146
+    ],
+    "framenumber": 52644,
+    "palette": [
+      {
+        "#361f18": "black"
+      },
+      {
+        "#5a4c49": "darkolivegreen"
+      },
+      {
+        "#68544c": "dimgray"
+      },
+      {
+        "#635753": "dimgray"
+      },
+      {
+        "#4d3d3a": "darkslategrey"
+      },
+      {
+        "#6f6561": "dimgray"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.022313096255924408,
+      0.2581828652684831,
+      0.11907318474664855
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_53465.png",
+    "averageColorRGB": [
+      73.67600792716914,
+      60.09630271877129,
+      57.99725335975723
+    ],
+    "framenumber": 53465,
+    "palette": [
+      {
+        "#493e3f": "darkslategrey"
+      },
+      {
+        "#796759": "dimgray"
+      },
+      {
+        "#533631": "darkolivegreen"
+      },
+      {
+        "#6e5b4f": "dimgray"
+      },
+      {
+        "#655149": "darkolivegreen"
+      },
+      {
+        "#2f2223": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.028479077655403084,
+      0.23602010693420863,
+      0.13165644389575418
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_54286.png",
+    "averageColorRGB": [
+      68.10888709977085,
+      54.96930389546046,
+      52.26136743667555
+    ],
+    "framenumber": 54286,
+    "palette": [
+      {
+        "#84574a": "sienna"
+      },
+      {
+        "#615553": "dimgray"
+      },
+      {
+        "#0f0908": "black"
+      },
+      {
+        "#34211d": "black"
+      },
+      {
+        "#382925": "darkslategrey"
+      },
+      {
+        "#47372e": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.02418367967771549,
+      0.22019133038736025,
+      0.14412329334478227
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_55107.png",
+    "averageColorRGB": [
+      64.24113767263269,
+      50.40487397039698,
+      48.05644082492104
+    ],
+    "framenumber": 55107,
+    "palette": [
+      {
+        "#3b3738": "darkslategrey"
+      },
+      {
+        "#7e5448": "sienna"
+      },
+      {
+        "#5a4640": "darkolivegreen"
+      },
+      {
+        "#0f0807": "black"
+      },
+      {
+        "#2e2222": "darkslategrey"
+      },
+      {
+        "#966859": "dimgray"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.048107162905289214,
+      0.23732973526315215,
+      0.1432715843058488
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_55928.png",
+    "averageColorRGB": [
+      69.18974732148386,
+      56.85387068805351,
+      51.848417662723726
+    ],
+    "framenumber": 55928,
+    "palette": [
+      {
+        "#36221b": "darkslategrey"
+      },
+      {
+        "#926452": "sienna"
+      },
+      {
+        "#747982": "grey"
+      },
+      {
+        "#6a5146": "darkolivegreen"
+      },
+      {
+        "#281914": "black"
+      },
+      {
+        "#47332b": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.040083120964601905,
+      0.3368936923874647,
+      0.2585175745265187
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_56749.png",
+    "averageColorRGB": [
+      108.11659131727257,
+      74.38151978695733,
+      63.69919180033443
+    ],
+    "framenumber": 56749,
+    "palette": [
+      {
+        "#6b3c2c": "saddlebrown"
+      },
+      {
+        "#8e6253": "dimgray"
+      },
+      {
+        "#9c5b43": "sienna"
+      },
+      {
+        "#784b37": "saddlebrown"
+      },
+      {
+        "#764d40": "sienna"
+      },
+      {
+        "#a57964": "grey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.0361392822380609,
+      0.20789174095351898,
+      0.15906061526046777
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_57570.png",
+    "averageColorRGB": [
+      61.444577940174646,
+      48.237006874341986,
+      44.58020994612002
+    ],
+    "framenumber": 57570,
+    "palette": [
+      {
+        "#b47358": "indianred"
+      },
+      {
+        "#281b1a": "black"
+      },
+      {
+        "#2b201c": "black"
+      },
+      {
+        "#332d28": "darkslategrey"
+      },
+      {
+        "#8e5843": "sienna"
+      },
+      {
+        "#120605": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.043752316953700486,
+      0.20936993698823433,
+      0.12331172748577769
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_58391.png",
+    "averageColorRGB": [
+      59.97286492846969,
+      50.26233975351459,
+      46.80580293552982
+    ],
+    "framenumber": 58391,
+    "palette": [
+      {
+        "#201616": "black"
+      },
+      {
+        "#2f2323": "darkslategrey"
+      },
+      {
+        "#8b5943": "sienna"
+      },
+      {
+        "#3c3c35": "darkslategrey"
+      },
+      {
+        "#1b100e": "black"
+      },
+      {
+        "#a56d54": "indianred"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.05255644921515107,
+      0.19360802771594798,
+      0.21369683802798659
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_59212.png",
+    "averageColorRGB": [
+      59.92027001919862,
+      45.4736111971264,
+      38.81982411593485
+    ],
+    "framenumber": 59212,
+    "palette": [
+      {
+        "#4a372a": "darkslategrey"
+      },
+      {
+        "#492b1f": "darkslategrey"
+      },
+      {
+        "#a69886": "rosybrown"
+      },
+      {
+        "#3b2315": "black"
+      },
+      {
+        "#413736": "darkslategrey"
+      },
+      {
+        "#877a6c": "grey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.04639435899174249,
+      0.11924240161166344,
+      0.17424560897537736
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_60033.png",
+    "averageColorRGB": [
+      35.705065956524436,
+      28.058267789682294,
+      25.10855886542392
+    ],
+    "framenumber": 60033,
+    "palette": [
+      {
+        "#42382f": "darkslategrey"
+      },
+      {
+        "#25100a": "black"
+      },
+      {
+        "#1f0903": "black"
+      },
+      {
+        "#586c77": "dimgray"
+      },
+      {
+        "#20140c": "black"
+      },
+      {
+        "#3b2a21": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.03871199143948737,
+      0.1607414356093586,
+      0.10676966375107852
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_60854.png",
+    "averageColorRGB": [
+      45.36545488326005,
+      38.64570198798538,
+      36.61267727751285
+    ],
+    "framenumber": 60854,
+    "palette": [
+      {
+        "#5a594e": "dimgray"
+      },
+      {
+        "#515248": "darkslategrey"
+      },
+      {
+        "#010003": "black"
+      },
+      {
+        "#3a2f2e": "darkslategrey"
+      },
+      {
+        "#010005": "black"
+      },
+      {
+        "#423a37": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.021694112234023694,
+      0.1704035108810354,
+      0.16902739448592774
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_61675.png",
+    "averageColorRGB": [
+      50.79762494581037,
+      38.02021428129064,
+      36.10816560351768
+    ],
+    "framenumber": 61675,
+    "palette": [
+      {
+        "#1d1312": "black"
+      },
+      {
+        "#a27a62": "grey"
+      },
+      {
+        "#6b4638": "darkolivegreen"
+      },
+      {
+        "#170d0c": "black"
+      },
+      {
+        "#231a1a": "black"
+      },
+      {
+        "#211516": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.8903478768301398,
+      0.09275310656869423,
+      0.14975634608746663
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_62496.png",
+    "averageColorRGB": [
+      27.19408558865424,
+      20.109998761379824,
+      24.770709729361492
+    ],
+    "framenumber": 62496,
+    "palette": [
+      {
+        "#1d0d0f": "black"
+      },
+      {
+        "#130809": "black"
+      },
+      {
+        "#29191e": "black"
+      },
+      {
+        "#231418": "black"
+      },
+      {
+        "#1e1117": "black"
+      },
+      {
+        "#150b0f": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.032091200558957166,
+      0.124939568693025,
+      0.18807285948439145
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_63317.png",
+    "averageColorRGB": [
+      37.85151421316653,
+      28.17512231374249,
+      25.867665820276212
+    ],
+    "framenumber": 63317,
+    "palette": [
+      {
+        "#1e1012": "black"
+      },
+      {
+        "#331f18": "black"
+      },
+      {
+        "#180b0c": "black"
+      },
+      {
+        "#120707": "black"
+      },
+      {
+        "#27140e": "black"
+      },
+      {
+        "#563e33": "darkolivegreen"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.03514321327199086,
+      0.12954592427173384,
+      0.2209231324734714
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_64138.png",
+    "averageColorRGB": [
+      40.332231993559176,
+      28.81390041493776,
+      25.73618938502508
+    ],
+    "framenumber": 64138,
+    "palette": [
+      {
+        "#443126": "darkslategrey"
+      },
+      {
+        "#00020a": "black"
+      },
+      {
+        "#3f271e": "darkslategrey"
+      },
+      {
+        "#2e180f": "black"
+      },
+      {
+        "#26100d": "black"
+      },
+      {
+        "#42261f": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.039154426195915894,
+      0.14911204898135633,
+      0.1530085206178756
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_64959.png",
+    "averageColorRGB": [
+      43.84150306558494,
+      34.939214714807704,
+      32.20564191490679
+    ],
+    "framenumber": 64959,
+    "palette": [
+      {
+        "#321913": "black"
+      },
+      {
+        "#1b0a0a": "black"
+      },
+      {
+        "#432d25": "darkslategrey"
+      },
+      {
+        "#5a6160": "dimgray"
+      },
+      {
+        "#3b2019": "black"
+      },
+      {
+        "#3d4b54": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.010694749059857326,
+      0.12641365420881923,
+      0.13181170276845336
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_65780.png",
+    "averageColorRGB": [
+      36.48449557193287,
+      28.53177370409364,
+      27.986468074564936
+    ],
+    "framenumber": 65780,
+    "palette": [
+      {
+        "#302939": "darkslategrey"
+      },
+      {
+        "#060200": "black"
+      },
+      {
+        "#090200": "black"
+      },
+      {
+        "#8a765b": "dimgray"
+      },
+      {
+        "#100706": "black"
+      },
+      {
+        "#6b6052": "dimgray"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.038698197304267844,
+      0.17777883829570723,
+      0.22751115195497496
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_66601.png",
+    "averageColorRGB": [
+      55.6475041803431,
+      39.809255589273555,
+      35.01970335046758
+    ],
+    "framenumber": 66601,
+    "palette": [
+      {
+        "#99735a": "grey"
+      },
+      {
+        "#34170e": "black"
+      },
+      {
+        "#7c5842": "sienna"
+      },
+      {
+        "#05020b": "black"
+      },
+      {
+        "#412418": "darkslategrey"
+      },
+      {
+        "#5b3d2e": "darkolivegreen"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.044034372329061856,
+      0.09402234009352797,
+      0.08268233938459409
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_67422.png",
+    "averageColorRGB": [
+      25.95806341735307,
+      23.040837307239737,
+      21.993330030346197
+    ],
+    "framenumber": 67422,
+    "palette": [
+      {
+        "#77654a": "dimgray"
+      },
+      {
+        "#000200": "black"
+      },
+      {
+        "#0a0806": "black"
+      },
+      {
+        "#010300": "black"
+      },
+      {
+        "#000100": "black"
+      },
+      {
+        "#0c0706": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.017870651422078776,
+      0.1582106431474553,
+      0.11925211605637727
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_68243.png",
+    "averageColorRGB": [
+      45.154787266984584,
+      36.564364897504184,
+      35.53264073821763
+    ],
+    "framenumber": 68243,
+    "palette": [
+      {
+        "#a6745e": "indianred"
+      },
+      {
+        "#170d0e": "black"
+      },
+      {
+        "#0d0605": "black"
+      },
+      {
+        "#180d0c": "black"
+      },
+      {
+        "#130808": "black"
+      },
+      {
+        "#855b4a": "sienna"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9379778689486966,
+      0.127143207564812,
+      0.1339509589353791
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_69064.png",
+    "averageColorRGB": [
+      36.76441134576083,
+      28.078624512293306,
+      31.310890567907354
+    ],
+    "framenumber": 69064,
+    "palette": [
+      {
+        "#6d767a": "dimgray"
+      },
+      {
+        "#140809": "black"
+      },
+      {
+        "#1b0e0f": "black"
+      },
+      {
+        "#1d1116": "black"
+      },
+      {
+        "#000005": "black"
+      },
+      {
+        "#04000a": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9743510217483422,
+      0.1869118527450616,
+      0.09761413864938168
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_69885.png",
+    "averageColorRGB": [
+      52.31505852480337,
+      43.00998637517805,
+      44.441979934353135
+    ],
+    "framenumber": 69885,
+    "palette": [
+      {
+        "#43444d": "darkslategrey"
+      },
+      {
+        "#383633": "darkslategrey"
+      },
+      {
+        "#05010b": "black"
+      },
+      {
+        "#7d5a4c": "dimgray"
+      },
+      {
+        "#6d483d": "darkolivegreen"
+      },
+      {
+        "#59423b": "darkolivegreen"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.03954332878916805,
+      0.09418856413563134,
+      0.13590054664535095
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_70706.png",
+    "averageColorRGB": [
+      27.282154579798107,
+      22.30287979191181,
+      20.754013129373877
+    ],
+    "framenumber": 70706,
+    "palette": [
+      {
+        "#060400": "black"
+      },
+      {
+        "#040200": "black"
+      },
+      {
+        "#080301": "black"
+      },
+      {
+        "#010100": "black"
+      },
+      {
+        "#050300": "black"
+      },
+      {
+        "#050502": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.1009652071832446,
+      0.07772671302991996,
+      0.09380220806194997
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_71527.png",
+    "averageColorRGB": [
+      21.67950083606862,
+      20.213683656406765,
+      17.961122809190563
+    ],
+    "framenumber": 71527,
+    "palette": [
+      {
+        "#020400": "black"
+      },
+      {
+        "#2a1710": "black"
+      },
+      {
+        "#3b221b": "darkslategrey"
+      },
+      {
+        "#030602": "black"
+      },
+      {
+        "#000608": "black"
+      },
+      {
+        "#010300": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9853750269202278,
+      0.08693751161206417,
+      0.16127967093888515
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_72348.png",
+    "averageColorRGB": [
+      25.744485043661363,
+      18.593645878491362,
+      19.221130860221713
+    ],
+    "framenumber": 72348,
+    "palette": [
+      {
+        "#382627": "darkslategrey"
+      },
+      {
+        "#2d1a1b": "black"
+      },
+      {
+        "#2f1616": "black"
+      },
+      {
+        "#3e2725": "darkslategrey"
+      },
+      {
+        "#341e1c": "black"
+      },
+      {
+        "#483736": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9922663891861041,
+      0.20017065028773634,
+      0.118554466748439
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_73169.png",
+    "averageColorRGB": [
+      57.09495262277823,
+      44.9920790239673,
+      45.55367250882517
+    ],
+    "framenumber": 73169,
+    "palette": [
+      {
+        "#6b5a50": "dimgray"
+      },
+      {
+        "#353339": "darkslategrey"
+      },
+      {
+        "#2b171a": "black"
+      },
+      {
+        "#241114": "black"
+      },
+      {
+        "#200d0e": "black"
+      },
+      {
+        "#392f32": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.020942301028085957,
+      0.2306584784158291,
+      0.15619937638777515
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_73990.png",
+    "averageColorRGB": [
+      68.00523317024835,
+      51.939434569889144,
+      49.63059082182449
+    ],
+    "framenumber": 73990,
+    "palette": [
+      {
+        "#885645": "sienna"
+      },
+      {
+        "#655349": "darkolivegreen"
+      },
+      {
+        "#54433b": "darkolivegreen"
+      },
+      {
+        "#a58879": "rosybrown"
+      },
+      {
+        "#2e1f22": "black"
+      },
+      {
+        "#8b7a70": "grey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.052227312130217786,
+      0.24796829253779917,
+      0.21328727123444877
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_74811.png",
+    "averageColorRGB": [
+      76.71847711649224,
+      58.19775500092897,
+      49.74535207778535
+    ],
+    "framenumber": 74811,
+    "palette": [
+      {
+        "#6f584d": "dimgray"
+      },
+      {
+        "#ab8672": "rosybrown"
+      },
+      {
+        "#654a3f": "darkolivegreen"
+      },
+      {
+        "#8c6654": "dimgray"
+      },
+      {
+        "#665049": "dimgray"
+      },
+      {
+        "#785447": "dimgray"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.038951455717782614,
+      0.2552299461928823,
+      0.24775189700101247
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_75632.png",
+    "averageColorRGB": [
+      81.20823063107699,
+      56.49595900167214,
+      48.959041927293
+    ],
+    "framenumber": 75632,
+    "palette": [
+      {
+        "#ae9180": "rosybrown"
+      },
+      {
+        "#b08774": "rosybrown"
+      },
+      {
+        "#834831": "sienna"
+      },
+      {
+        "#947769": "grey"
+      },
+      {
+        "#6b3c29": "saddlebrown"
+      },
+      {
+        "#8c5c47": "sienna"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.044515163499472654,
+      0.2495094153348464,
+      0.21049740265324532
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_76453.png",
+    "averageColorRGB": [
+      77.01777729609216,
+      57.38625750913483,
+      50.23202452467951
+    ],
+    "framenumber": 76453,
+    "palette": [
+      {
+        "#89776a": "grey"
+      },
+      {
+        "#946c53": "sienna"
+      },
+      {
+        "#925c40": "sienna"
+      },
+      {
+        "#503f39": "darkslategrey"
+      },
+      {
+        "#423033": "darkslategrey"
+      },
+      {
+        "#3b2929": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.023720167631942107,
+      0.2754302869348644,
+      0.17850024831800348
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_77274.png",
+    "averageColorRGB": [
+      82.77163869449434,
+      61.266340496686695,
+      57.6978076422865
+    ],
+    "framenumber": 77274,
+    "palette": [
+      {
+        "#8e614e": "sienna"
+      },
+      {
+        "#846e67": "dimgray"
+      },
+      {
+        "#5d3f38": "darkolivegreen"
+      },
+      {
+        "#9d7767": "grey"
+      },
+      {
+        "#815a4f": "dimgray"
+      },
+      {
+        "#4a2a27": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.030101063646771453,
+      0.2797535813730955,
+      0.14108710041207156
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_78095.png",
+    "averageColorRGB": [
+      81.4019167647241,
+      64.90792716913359,
+      61.2724097355546
+    ],
+    "framenumber": 78095,
+    "palette": [
+      {
+        "#76605a": "dimgray"
+      },
+      {
+        "#85655b": "dimgray"
+      },
+      {
+        "#97796d": "grey"
+      },
+      {
+        "#534641": "darkslategrey"
+      },
+      {
+        "#5e4b47": "darkolivegreen"
+      },
+      {
+        "#786962": "dimgray"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.02834173265021439,
+      0.274720454355025,
+      0.14241559761778508
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_78916.png",
+    "averageColorRGB": [
+      80.03045767015546,
+      63.470071839970274,
+      60.07697405090729
+    ],
+    "framenumber": 78916,
+    "palette": [
+      {
+        "#76574d": "dimgray"
+      },
+      {
+        "#655453": "dimgray"
+      },
+      {
+        "#a78d7f": "rosybrown"
+      },
+      {
+        "#3d2828": "darkslategrey"
+      },
+      {
+        "#957a71": "grey"
+      },
+      {
+        "#483535": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.023407941571211493,
+      0.2662741637188721,
+      0.136569567185826
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_79737.png",
+    "averageColorRGB": [
+      77.17297330773519,
+      61.23160958692017,
+      58.62685018888958
+    ],
+    "framenumber": 79737,
+    "palette": [
+      {
+        "#a78a7e": "rosybrown"
+      },
+      {
+        "#2b2121": "black"
+      },
+      {
+        "#494041": "darkslategrey"
+      },
+      {
+        "#8a736d": "grey"
+      },
+      {
+        "#856f66": "dimgray"
+      },
+      {
+        "#67554f": "dimgray"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.019499129174298042,
+      0.24083843656989645,
+      0.10472237319135168
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_80558.png",
+    "averageColorRGB": [
+      67.84520034681366,
+      56.4872824673314,
+      54.98240230383353
+    ],
+    "framenumber": 80558,
+    "palette": [
+      {
+        "#524136": "darkolivegreen"
+      },
+      {
+        "#b16856": "indianred"
+      },
+      {
+        "#895545": "sienna"
+      },
+      {
+        "#473e3e": "darkslategrey"
+      },
+      {
+        "#65544f": "dimgray"
+      },
+      {
+        "#62514f": "dimgray"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9853396713380534,
+      0.20341077745274116,
+      0.11922753138630586
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_81379.png",
+    "averageColorRGB": [
+      58.054050287979194,
+      45.68544621291881,
+      46.773413017898065
+    ],
+    "framenumber": 81379,
+    "palette": [
+      {
+        "#352626": "darkslategrey"
+      },
+      {
+        "#2e1e20": "black"
+      },
+      {
+        "#3d2f32": "darkslategrey"
+      },
+      {
+        "#1b0e0e": "black"
+      },
+      {
+        "#4a4247": "darkslategrey"
+      },
+      {
+        "#554445": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.014539003315090782,
+      0.25278273630626463,
+      0.12853663659728976
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_82200.png",
+    "averageColorRGB": [
+      72.74501765033753,
+      57.6197188332198,
+      56.17417786585744
+    ],
+    "framenumber": 82200,
+    "palette": [
+      {
+        "#847773": "grey"
+      },
+      {
+        "#786f6d": "dimgray"
+      },
+      {
+        "#746a69": "dimgray"
+      },
+      {
+        "#2c1b1d": "black"
+      },
+      {
+        "#402b2b": "darkslategrey"
+      },
+      {
+        "#1c0f0e": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9957907176951502,
+      0.2396244187896252,
+      0.07827107273456003
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_83021.png",
+    "averageColorRGB": [
+      65.88692017092959,
+      56.32153341177928,
+      56.56311389112529
+    ],
+    "framenumber": 83021,
+    "palette": [
+      {
+        "#291e1f": "black"
+      },
+      {
+        "#767d82": "grey"
+      },
+      {
+        "#64504e": "dimgray"
+      },
+      {
+        "#7a4940": "sienna"
+      },
+      {
+        "#6c5954": "dimgray"
+      },
+      {
+        "#363136": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.026797772252846186,
+      0.27459104890485336,
+      0.12323991910577034
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_83842.png",
+    "averageColorRGB": [
+      78.65006502755931,
+      64.16633740013626,
+      61.3913699139159
+    ],
+    "framenumber": 83842,
+    "palette": [
+      {
+        "#7f8289": "grey"
+      },
+      {
+        "#83888e": "lightslategray"
+      },
+      {
+        "#81675d": "dimgray"
+      },
+      {
+        "#9e5f4f": "sienna"
+      },
+      {
+        "#4a3934": "darkslategrey"
+      },
+      {
+        "#6e5a54": "dimgray"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.032728799729889846,
+      0.2647611163125063,
+      0.1486333405013077
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_84663.png",
+    "averageColorRGB": [
+      77.54892859354679,
+      61.42038149501456,
+      57.479240725831424
+    ],
+    "framenumber": 84663,
+    "palette": [
+      {
+        "#463e3b": "darkslategrey"
+      },
+      {
+        "#311917": "black"
+      },
+      {
+        "#38292b": "darkslategrey"
+      },
+      {
+        "#655753": "dimgray"
+      },
+      {
+        "#7c6d68": "dimgray"
+      },
+      {
+        "#433637": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9940973040507888,
+      0.2510767798789796,
+      0.08178286545611428
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_85484.png",
+    "averageColorRGB": [
+      69.26069238867902,
+      58.78846534960055,
+      59.15935158233728
+    ],
+    "framenumber": 85484,
+    "palette": [
+      {
+        "#7a6865": "dimgray"
+      },
+      {
+        "#7c4c43": "sienna"
+      },
+      {
+        "#83898e": "lightslategray"
+      },
+      {
+        "#879094": "lightslategray"
+      },
+      {
+        "#66534f": "dimgray"
+      },
+      {
+        "#4e4343": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.03671822830151086,
+      0.3096061916436854,
+      0.1489917409323047
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_86305.png",
+    "averageColorRGB": [
+      90.71241407072522,
+      72.36966928841271,
+      67.18674366755435
+    ],
+    "framenumber": 86305,
+    "palette": [
+      {
+        "#856f65": "dimgray"
+      },
+      {
+        "#6a5b5c": "dimgray"
+      },
+      {
+        "#6f5449": "dimgray"
+      },
+      {
+        "#7b655f": "dimgray"
+      },
+      {
+        "#513c36": "darkslategrey"
+      },
+      {
+        "#735f54": "dimgray"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.038513063942755645,
+      0.2624954978585229,
+      0.15535910412200202
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_87126.png",
+    "averageColorRGB": [
+      77.33552362667989,
+      61.343227844181584,
+      56.53718028116678
+    ],
+    "framenumber": 87126,
+    "palette": [
+      {
+        "#615049": "darkolivegreen"
+      },
+      {
+        "#4c3831": "darkslategrey"
+      },
+      {
+        "#6e5e53": "dimgray"
+      },
+      {
+        "#7d685e": "dimgray"
+      },
+      {
+        "#3d2a25": "darkslategrey"
+      },
+      {
+        "#5d4e46": "darkolivegreen"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.04283640062691988,
+      0.10992432273584482,
+      0.27902368862496385
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_87947.png",
+    "averageColorRGB": [
+      35.85193224747631,
+      24.22987242212176,
+      20.209472347804546
+    ],
+    "framenumber": 87947,
+    "palette": [
+      {
+        "#291a1a": "black"
+      },
+      {
+        "#1e1414": "black"
+      },
+      {
+        "#180d0e": "black"
+      },
+      {
+        "#382e28": "darkslategrey"
+      },
+      {
+        "#130808": "black"
+      },
+      {
+        "#090905": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.008074594417993223,
+      0.1331017599335517,
+      0.18839856982416578
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_88768.png",
+    "averageColorRGB": [
+      40.33537499225863,
+      28.166111351953926,
+      27.54652257385273
+    ],
+    "framenumber": 88768,
+    "palette": [
+      {
+        "#472a2f": "darkslategrey"
+      },
+      {
+        "#32171c": "black"
+      },
+      {
+        "#503433": "darkslategrey"
+      },
+      {
+        "#030407": "black"
+      },
+      {
+        "#000305": "black"
+      },
+      {
+        "#000204": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9249889877004062,
+      0.06506694620623997,
+      0.1446872468561758
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_89589.png",
+    "averageColorRGB": [
+      18.992732396110732,
+      14.191410169071656,
+      16.352322412832105
+    ],
+    "framenumber": 89589,
+    "palette": [
+      {
+        "#040508": "black"
+      },
+      {
+        "#1a080b": "black"
+      },
+      {
+        "#030409": "black"
+      },
+      {
+        "#26191c": "black"
+      },
+      {
+        "#000206": "black"
+      },
+      {
+        "#302a28": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.022836812273740553,
+      0.10448102421745313,
+      0.23553364425142256
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_90410.png",
+    "averageColorRGB": [
+      32.91790425466031,
+      22.087096674304824,
+      20.36741809624079
+    ],
+    "framenumber": 90410,
+    "palette": [
+      {
+        "#070501": "black"
+      },
+      {
+        "#2e1813": "black"
+      },
+      {
+        "#100606": "black"
+      },
+      {
+        "#030300": "black"
+      },
+      {
+        "#170d0f": "black"
+      },
+      {
+        "#211823": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.8826597975846286,
+      0.12908909807807437,
+      0.02409338608808457
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_91231.png",
+    "averageColorRGB": [
+      33.71081934724717,
+      32.12462067257076,
+      33.2413699139159
+    ],
+    "framenumber": 91231,
+    "palette": [
+      {
+        "#202435": "darkslategrey"
+      },
+      {
+        "#000200": "black"
+      },
+      {
+        "#020200": "black"
+      },
+      {
+        "#1e1f30": "darkslategrey"
+      },
+      {
+        "#010300": "black"
+      },
+      {
+        "#4e3935": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9972008099828754,
+      0.11344173081383419,
+      0.10150518216731787
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_92052.png",
+    "averageColorRGB": [
+      31.863946863194403,
+      25.991335851861027,
+      26.089967176565306
+    ],
+    "framenumber": 92052,
+    "palette": [
+      {
+        "#1b191e": "black"
+      },
+      {
+        "#050301": "black"
+      },
+      {
+        "#080101": "black"
+      },
+      {
+        "#040200": "black"
+      },
+      {
+        "#010005": "black"
+      },
+      {
+        "#140506": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.714932557058564,
+      0.11161548858101487,
+      0.04899699744394334
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_92873.png",
+    "averageColorRGB": [
+      27.87510992754072,
+      27.06739951693813,
+      29.856499659379452
+    ],
+    "framenumber": 92873,
+    "palette": [
+      {
+        "#1d1516": "black"
+      },
+      {
+        "#000003": "black"
+      },
+      {
+        "#35474e": "darkslategrey"
+      },
+      {
+        "#000008": "black"
+      },
+      {
+        "#000106": "black"
+      },
+      {
+        "#000104": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.02165739358502226,
+      0.1436151072802937,
+      0.15938784412608095
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_93694.png",
+    "averageColorRGB": [
+      42.45893045147706,
+      32.3017650337524,
+      30.78477426147272
+    ],
+    "framenumber": 93694,
+    "palette": [
+      {
+        "#49372e": "darkslategrey"
+      },
+      {
+        "#020008": "black"
+      },
+      {
+        "#6e6d68": "dimgray"
+      },
+      {
+        "#010003": "black"
+      },
+      {
+        "#010005": "black"
+      },
+      {
+        "#48392e": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.7800920880434773,
+      0.11593660329060093,
+      0.057905158863807614
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_94515.png",
+    "averageColorRGB": [
+      30.182009041927294,
+      27.851935344026757,
+      31.275732334179725
+    ],
+    "framenumber": 94515,
+    "palette": [
+      {
+        "#180f0f": "black"
+      },
+      {
+        "#202e36": "darkslategrey"
+      },
+      {
+        "#2d3a48": "darkslategrey"
+      },
+      {
+        "#3c4d58": "darkslategrey"
+      },
+      {
+        "#000008": "black"
+      },
+      {
+        "#030109": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.8269935869102379,
+      0.10964639215443409,
+      0.05700328844360011
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_95336.png",
+    "averageColorRGB": [
+      29.432380627980432,
+      26.36602774509197,
+      29.553632253669413
+    ],
+    "framenumber": 95336,
+    "palette": [
+      {
+        "#09060c": "black"
+      },
+      {
+        "#03010c": "black"
+      },
+      {
+        "#01010a": "black"
+      },
+      {
+        "#000008": "black"
+      },
+      {
+        "#07030c": "black"
+      },
+      {
+        "#1c1315": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9729147437266573,
+      0.16183442684065638,
+      0.07922129457857278
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_96157.png",
+    "averageColorRGB": [
+      44.5370657088004,
+      37.99849197993436,
+      39.06108565058525
+    ],
+    "framenumber": 96157,
+    "palette": [
+      {
+        "#474e41": "darkslategrey"
+      },
+      {
+        "#423636": "darkslategrey"
+      },
+      {
+        "#180b0b": "black"
+      },
+      {
+        "#120608": "black"
+      },
+      {
+        "#573a35": "darkolivegreen"
+      },
+      {
+        "#221113": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.7286087958511379,
+      0.1319412396159306,
+      0.029432953272482458
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_96978.png",
+    "averageColorRGB": [
+      33.39081872793708,
+      32.65474391527838,
+      34.635288288846226
+    ],
+    "framenumber": 96978,
+    "palette": [
+      {
+        "#1f2f3d": "darkslategrey"
+      },
+      {
+        "#2c3d4b": "darkslategrey"
+      },
+      {
+        "#000003": "black"
+      },
+      {
+        "#594e42": "darkolivegreen"
+      },
+      {
+        "#3c5562": "darkslategrey"
+      },
+      {
+        "#44382c": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.02833871806492977,
+      0.23031521062007512,
+      0.11313316185630168
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_97799.png",
+    "averageColorRGB": [
+      65.3747321483867,
+      54.34553477426147,
+      52.08602526785162
+    ],
+    "framenumber": 97799,
+    "palette": [
+      {
+        "#271a1a": "black"
+      },
+      {
+        "#52423e": "darkslategrey"
+      },
+      {
+        "#56453f": "darkolivegreen"
+      },
+      {
+        "#685249": "dimgray"
+      },
+      {
+        "#5b6673": "dimgray"
+      },
+      {
+        "#574c47": "darkolivegreen"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.016401371478327393,
+      0.25605125458866274,
+      0.11808300432747361
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_98620.png",
+    "averageColorRGB": [
+      73.00307177803927,
+      59.10052331702484,
+      57.58306806217873
+    ],
+    "framenumber": 98620,
+    "palette": [
+      {
+        "#594d4c": "darkolivegreen"
+      },
+      {
+        "#392626": "darkslategrey"
+      },
+      {
+        "#57453b": "darkolivegreen"
+      },
+      {
+        "#4b352f": "darkslategrey"
+      },
+      {
+        "#3d2b27": "darkslategrey"
+      },
+      {
+        "#586574": "dimgray"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.049693928641080985,
+      0.22213156210648005,
+      0.1677636163628553
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_99441.png",
+    "averageColorRGB": [
+      66.1462748498173,
+      52.80755558308045,
+      47.140821824487524
+    ],
+    "framenumber": 99441,
+    "palette": [
+      {
+        "#221213": "black"
+      },
+      {
+        "#2f2323": "darkslategrey"
+      },
+      {
+        "#1c0a0c": "black"
+      },
+      {
+        "#51463b": "darkolivegreen"
+      },
+      {
+        "#646757": "dimgray"
+      },
+      {
+        "#35312e": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.011350089183673306,
+      0.20033507104458184,
+      0.11313042986487737
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_100262.png",
+    "averageColorRGB": [
+      56.864761255960865,
+      46.093274292438224,
+      45.30612497677588
+    ],
+    "framenumber": 100262,
+    "palette": [
+      {
+        "#61413b": "darkolivegreen"
+      },
+      {
+        "#684f49": "dimgray"
+      },
+      {
+        "#49342f": "darkslategrey"
+      },
+      {
+        "#3c2f30": "darkslategrey"
+      },
+      {
+        "#3e2824": "darkslategrey"
+      },
+      {
+        "#606a60": "dimgray"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.993048570813237,
+      0.1584459384794359,
+      0.09566668024476288
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_101083.png",
+    "averageColorRGB": [
+      44.26900353006751,
+      36.53842509444479,
+      36.86085650585248
+    ],
+    "framenumber": 101083,
+    "palette": [
+      {
+        "#1f1312": "black"
+      },
+      {
+        "#190c0c": "black"
+      },
+      {
+        "#2a1b1c": "black"
+      },
+      {
+        "#717b71": "dimgray"
+      },
+      {
+        "#342c2d": "darkslategrey"
+      },
+      {
+        "#221012": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.003176730718359851,
+      0.18300549364478558,
+      0.12554633828889294
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_101904.png",
+    "averageColorRGB": [
+      52.52519663095312,
+      41.03094692512541,
+      40.807605127887534
+    ],
+    "framenumber": 101904,
+    "palette": [
+      {
+        "#362929": "darkslategrey"
+      },
+      {
+        "#869382": "grey"
+      },
+      {
+        "#2a1819": "black"
+      },
+      {
+        "#1d0e10": "black"
+      },
+      {
+        "#261417": "black"
+      },
+      {
+        "#312023": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.8643638308234912,
+      0.24262323360012242,
+      0.04509618279584828
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_102725.png",
+    "averageColorRGB": [
+      64.6589768997337,
+      59.078872236328735,
+      63.62005635721806
+    ],
+    "framenumber": 102725,
+    "palette": [
+      {
+        "#52606b": "dimgray"
+      },
+      {
+        "#53667e": "dimgray"
+      },
+      {
+        "#555a5a": "dimgray"
+      },
+      {
+        "#3d2e2f": "darkslategrey"
+      },
+      {
+        "#4e4446": "darkslategrey"
+      },
+      {
+        "#483c3c": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9803593726824531,
+      0.2212693974598572,
+      0.10822659545798956
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_103546.png",
+    "averageColorRGB": [
+      62.53024091162445,
+      50.317151792902706,
+      51.756388183563516
+    ],
+    "framenumber": 103546,
+    "palette": [
+      {
+        "#67433a": "darkolivegreen"
+      },
+      {
+        "#332124": "darkslategrey"
+      },
+      {
+        "#211314": "black"
+      },
+      {
+        "#0f030d": "black"
+      },
+      {
+        "#3d3132": "darkslategrey"
+      },
+      {
+        "#3c241e": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9401985139442417,
+      0.2040867726294085,
+      0.07883632653812879
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_104367.png",
+    "averageColorRGB": [
+      56.144937140026016,
+      47.93931690097232,
+      50.88356660680003
+    ],
+    "framenumber": 104367,
+    "palette": [
+      {
+        "#3a3432": "darkslategrey"
+      },
+      {
+        "#3f3230": "darkslategrey"
+      },
+      {
+        "#2c2324": "darkslategrey"
+      },
+      {
+        "#4f4545": "darkslategrey"
+      },
+      {
+        "#30374f": "darkslategrey"
+      },
+      {
+        "#3a383c": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9348299486467516,
+      0.14625149818396427,
+      0.09281796966015697
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_105188.png",
+    "averageColorRGB": [
+      40.75569765281477,
+      33.832566421007,
+      36.53965132842014
+    ],
+    "framenumber": 105188,
+    "palette": [
+      {
+        "#050401": "black"
+      },
+      {
+        "#1b0d0d": "black"
+      },
+      {
+        "#020200": "black"
+      },
+      {
+        "#090704": "black"
+      },
+      {
+        "#1e1216": "black"
+      },
+      {
+        "#433539": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.029374249925916918,
+      0.1925079872786422,
+      0.15354871877360562
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_106009.png",
+    "averageColorRGB": [
+      56.627172230135635,
+      44.208849941165546,
+      41.55190128197189
+    ],
+    "framenumber": 106009,
+    "palette": [
+      {
+        "#25190d": "black"
+      },
+      {
+        "#463c31": "darkslategrey"
+      },
+      {
+        "#3d4966": "darkslategrey"
+      },
+      {
+        "#25140f": "black"
+      },
+      {
+        "#372d21": "darkslategrey"
+      },
+      {
+        "#2f2519": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9680953208847176,
+      0.17824143257352487,
+      0.11657940588270498
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_106830.png",
+    "averageColorRGB": [
+      50.7502817860903,
+      40.152848826407386,
+      42.18149501455379
+    ],
+    "framenumber": 106830,
+    "palette": [
+      {
+        "#251111": "black"
+      },
+      {
+        "#3d2823": "darkslategrey"
+      },
+      {
+        "#302323": "darkslategrey"
+      },
+      {
+        "#6e5e5a": "dimgray"
+      },
+      {
+        "#323446": "darkslategrey"
+      },
+      {
+        "#4e3c36": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.967828552707548,
+      0.22670090479989607,
+      0.11453157432622105
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_107651.png",
+    "averageColorRGB": [
+      64.42965566359076,
+      51.18780578435623,
+      53.74386263702236
+    ],
+    "framenumber": 107651,
+    "palette": [
+      {
+        "#3e4154": "darkslategrey"
+      },
+      {
+        "#372626": "darkslategrey"
+      },
+      {
+        "#3e302f": "darkslategrey"
+      },
+      {
+        "#321f21": "darkslategrey"
+      },
+      {
+        "#43302a": "darkslategrey"
+      },
+      {
+        "#303142": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.005517213048566338,
+      0.23781191066876992,
+      0.09053334783175608
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_108472.png",
+    "averageColorRGB": [
+      66.13216386944944,
+      55.5153929522512,
+      55.15191057162321
+    ],
+    "framenumber": 108472,
+    "palette": [
+      {
+        "#93584f": "sienna"
+      },
+      {
+        "#3a3231": "darkslategrey"
+      },
+      {
+        "#9b899c": "rosybrown"
+      },
+      {
+        "#373131": "darkslategrey"
+      },
+      {
+        "#5f535e": "dimgray"
+      },
+      {
+        "#302928": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9649837279301442,
+      0.22287095156387943,
+      0.07712001009515645
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_109293.png",
+    "averageColorRGB": [
+      61.21498420759274,
+      52.449201089985756,
+      54.29087136929461
+    ],
+    "framenumber": 109293,
+    "palette": [
+      {
+        "#22303e": "darkslategrey"
+      },
+      {
+        "#2c394a": "darkslategrey"
+      },
+      {
+        "#bfaacf": "silver"
+      },
+      {
+        "#995e56": "sienna"
+      },
+      {
+        "#151f25": "black"
+      },
+      {
+        "#744a43": "darkolivegreen"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9478418549115141,
+      0.2092003128123114,
+      0.09466789392336697
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_110114.png",
+    "averageColorRGB": [
+      58.39624078776244,
+      48.295918746516385,
+      51.45680312132285
+    ],
+    "framenumber": 110114,
+    "palette": [
+      {
+        "#a15f55": "sienna"
+      },
+      {
+        "#2d1812": "black"
+      },
+      {
+        "#7e483c": "sienna"
+      },
+      {
+        "#5c5f7c": "dimgray"
+      },
+      {
+        "#2e3240": "darkslategrey"
+      },
+      {
+        "#352b28": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.918189514677395,
+      0.18357098447231746,
+      0.08908745909534856
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_110935.png",
+    "averageColorRGB": [
+      50.98083854585992,
+      42.64036353502199,
+      46.73439338576826
+    ],
+    "framenumber": 110935,
+    "palette": [
+      {
+        "#788296": "lightslategray"
+      },
+      {
+        "#423839": "darkslategrey"
+      },
+      {
+        "#59616d": "dimgray"
+      },
+      {
+        "#010003": "black"
+      },
+      {
+        "#1e1314": "black"
+      },
+      {
+        "#2c2022": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.00958807921278367,
+      0.21005772941492198,
+      0.11848551099938713
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_111756.png",
+    "averageColorRGB": [
+      59.911364340125104,
+      47.94830309035734,
+      47.21807766148511
+    ],
+    "framenumber": 111756,
+    "palette": [
+      {
+        "#3f3437": "darkslategrey"
+      },
+      {
+        "#2f2424": "darkslategrey"
+      },
+      {
+        "#322829": "darkslategrey"
+      },
+      {
+        "#271b1a": "black"
+      },
+      {
+        "#1f1514": "black"
+      },
+      {
+        "#3a2f2f": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9717980499169023,
+      0.16639723641980483,
+      0.11602007259485088
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_112577.png",
+    "averageColorRGB": [
+      47.35417724654735,
+      37.50841332755311,
+      39.17443178299375
+    ],
+    "framenumber": 112577,
+    "palette": [
+      {
+        "#170c0e": "black"
+      },
+      {
+        "#241819": "black"
+      },
+      {
+        "#352b2e": "darkslategrey"
+      },
+      {
+        "#040009": "black"
+      },
+      {
+        "#614339": "darkolivegreen"
+      },
+      {
+        "#0d050c": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.01108071083460127,
+      0.2277048428834592,
+      0.11463936435125958
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_113398.png",
+    "averageColorRGB": [
+      64.72123923948722,
+      52.293336223447085,
+      51.40823063107698
+    ],
+    "framenumber": 113398,
+    "palette": [
+      {
+        "#272021": "black"
+      },
+      {
+        "#885e52": "dimgray"
+      },
+      {
+        "#211314": "black"
+      },
+      {
+        "#3c3029": "darkslategrey"
+      },
+      {
+        "#71483e": "darkolivegreen"
+      },
+      {
+        "#1b0f0f": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.007954298596581014,
+      0.10111616071461099,
+      0.08928122045151209
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_114219.png",
+    "averageColorRGB": [
+      28.086703412398588,
+      23.702275964575463,
+      23.482538552053015
+    ],
+    "framenumber": 114219,
+    "palette": [
+      {
+        "#07080b": "black"
+      },
+      {
+        "#0a0b0f": "black"
+      },
+      {
+        "#050a09": "black"
+      },
+      {
+        "#060a0c": "black"
+      },
+      {
+        "#0d0c0c": "black"
+      },
+      {
+        "#1c191c": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9928128729431286,
+      0.10131576071315379,
+      0.06753993987407293
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_115040.png",
+    "averageColorRGB": [
+      27.58044838050412,
+      24.090589583204313,
+      24.24108193472472
+    ],
+    "framenumber": 115040,
+    "palette": [
+      {
+        "#08090c": "black"
+      },
+      {
+        "#080c0f": "black"
+      },
+      {
+        "#433f3a": "darkslategrey"
+      },
+      {
+        "#0a0b0f": "black"
+      },
+      {
+        "#0f0e11": "black"
+      },
+      {
+        "#4c382e": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.0035527745686401526,
+      0.09911507267178873,
+      0.07683264955272212
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_115861.png",
+    "averageColorRGB": [
+      27.21623831052208,
+      23.415238124729054,
+      23.332448752090173
+    ],
+    "framenumber": 115861,
+    "palette": [
+      {
+        "#08090c": "black"
+      },
+      {
+        "#0d0c0f": "black"
+      },
+      {
+        "#0a0b0f": "black"
+      },
+      {
+        "#46433b": "darkslategrey"
+      },
+      {
+        "#070909": "black"
+      },
+      {
+        "#463128": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.0463735609210727,
+      0.26692529541698395,
+      0.15614639734704416
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_116682.png",
+    "averageColorRGB": [
+      78.69420325757108,
+      63.35213661980554,
+      57.43769740509073
+    ],
+    "framenumber": 116682,
+    "palette": [
+      {
+        "#775d4d": "dimgray"
+      },
+      {
+        "#5c402d": "darkolivegreen"
+      },
+      {
+        "#2d2325": "darkslategrey"
+      },
+      {
+        "#a58671": "rosybrown"
+      },
+      {
+        "#472c1e": "darkslategrey"
+      },
+      {
+        "#523e37": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.026544477032345748,
+      0.18617536554474395,
+      0.11961290378548113
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_117503.png",
+    "averageColorRGB": [
+      53.15330711587292,
+      43.60495138415805,
+      41.796129311946494
+    ],
+    "framenumber": 117503,
+    "palette": [
+      {
+        "#5b4133": "darkolivegreen"
+      },
+      {
+        "#3f251d": "darkslategrey"
+      },
+      {
+        "#514846": "darkslategrey"
+      },
+      {
+        "#795646": "dimgray"
+      },
+      {
+        "#4c332a": "darkslategrey"
+      },
+      {
+        "#302b2b": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.03499167118617802,
+      0.21010206473126194,
+      0.1193583897020907
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_118324.png",
+    "averageColorRGB": [
+      59.9707747569208,
+      49.866433393199976,
+      47.18127825602279
+    ],
+    "framenumber": 118324,
+    "palette": [
+      {
+        "#554b46": "darkslategrey"
+      },
+      {
+        "#748696": "lightslategray"
+      },
+      {
+        "#3d251c": "darkslategrey"
+      },
+      {
+        "#1a1415": "black"
+      },
+      {
+        "#685c55": "dimgray"
+      },
+      {
+        "#563a2a": "darkolivegreen"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.04263070638931995,
+      0.2081548384511419,
+      0.1054899345526498
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_119145.png",
+    "averageColorRGB": [
+      58.67883507772342,
+      50.34458413327553,
+      47.48013253235896
+    ],
+    "framenumber": 119145,
+    "palette": [
+      {
+        "#4d4036": "darkslategrey"
+      },
+      {
+        "#2b2221": "black"
+      },
+      {
+        "#423129": "darkslategrey"
+      },
+      {
+        "#56443c": "darkolivegreen"
+      },
+      {
+        "#475b6a": "dimgray"
+      },
+      {
+        "#35221b": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.017397530678457507,
+      0.07322872457337429,
+      0.09919924395934014
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_119966.png",
+    "averageColorRGB": [
+      20.52570446522574,
+      17.20766705889639,
+      16.820945067195144
+    ],
+    "framenumber": 119966,
+    "palette": [
+      {
+        "#030502": "black"
+      },
+      {
+        "#21181a": "black"
+      },
+      {
+        "#040603": "black"
+      },
+      {
+        "#2f2122": "darkslategrey"
+      },
+      {
+        "#000400": "black"
+      },
+      {
+        "#010300": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.7550399762899754,
+      0.22206786424237127,
+      0.07423287145527079
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_120787.png",
+    "averageColorRGB": [
+      56.88153836625999,
+      52.423697900538805,
+      60.830912863070544
+    ],
+    "framenumber": 120787,
+    "palette": [
+      {
+        "#404355": "darkslategrey"
+      },
+      {
+        "#53413d": "darkslategrey"
+      },
+      {
+        "#3c4152": "darkslategrey"
+      },
+      {
+        "#6d74a5": "slategrey"
+      },
+      {
+        "#202b45": "darkslategrey"
+      },
+      {
+        "#543b34": "darkolivegreen"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.7052633699535308,
+      0.19000692170098982,
+      0.06899981485284126
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_121608.png",
+    "averageColorRGB": [
+      46.657022976404285,
+      45.10860221713012,
+      51.794927850374684
+    ],
+    "framenumber": 121608,
+    "palette": [
+      {
+        "#121a1b": "black"
+      },
+      {
+        "#4a557a": "darkslateblue"
+      },
+      {
+        "#613f3a": "darkolivegreen"
+      },
+      {
+        "#45526f": "darkslateblue"
+      },
+      {
+        "#192226": "black"
+      },
+      {
+        "#0f1512": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.8436138552590126,
+      0.1429012734715488,
+      0.07552424281796957
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_122429.png",
+    "averageColorRGB": [
+      39.19191490679383,
+      33.68773456369605,
+      38.85239982659318
+    ],
+    "framenumber": 122429,
+    "palette": [
+      {
+        "#513c33": "darkolivegreen"
+      },
+      {
+        "#0d0405": "black"
+      },
+      {
+        "#291a13": "black"
+      },
+      {
+        "#0e0504": "black"
+      },
+      {
+        "#080302": "black"
+      },
+      {
+        "#4f5565": "dimgray"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.788751628515116,
+      0.14792614909343932,
+      0.08756325280088763
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_123250.png",
+    "averageColorRGB": [
+      39.25712206601846,
+      34.41817984764972,
+      41.02415619000434
+    ],
+    "framenumber": 123250,
+    "palette": [
+      {
+        "#110707": "black"
+      },
+      {
+        "#757ab5": "lightslategray"
+      },
+      {
+        "#0f0504": "black"
+      },
+      {
+        "#080302": "black"
+      },
+      {
+        "#606389": "dimgray"
+      },
+      {
+        "#0f0506": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.7935936529309755,
+      0.0575532212017773,
+      0.10749330545129271
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_124071.png",
+    "averageColorRGB": [
+      15.501340806341736,
+      13.098491979934353,
+      16.25365083297207
+    ],
+    "framenumber": 124071,
+    "palette": [
+      {
+        "#0a0306": "black"
+      },
+      {
+        "#0c0a08": "black"
+      },
+      {
+        "#0e0c0d": "black"
+      },
+      {
+        "#131922": "black"
+      },
+      {
+        "#0c0508": "black"
+      },
+      {
+        "#100e10": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9671887961555836,
+      0.14228964404241912,
+      0.07786240753634549
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_124892.png",
+    "averageColorRGB": [
+      39.10900786523813,
+      33.45871059639562,
+      34.571068929212856
+    ],
+    "framenumber": 124892,
+    "palette": [
+      {
+        "#2c1d10": "black"
+      },
+      {
+        "#000200": "black"
+      },
+      {
+        "#040401": "black"
+      },
+      {
+        "#0e0905": "black"
+      },
+      {
+        "#100d02": "black"
+      },
+      {
+        "#523c35": "darkolivegreen"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9534893683114937,
+      0.1446245887963162,
+      0.07595292495254853
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_125713.png",
+    "averageColorRGB": [
+      39.68035858054128,
+      34.078181705579986,
+      35.64154641729114
+    ],
+    "framenumber": 125713,
+    "palette": [
+      {
+        "#000200": "black"
+      },
+      {
+        "#100b08": "black"
+      },
+      {
+        "#010100": "black"
+      },
+      {
+        "#563d33": "darkolivegreen"
+      },
+      {
+        "#23160b": "black"
+      },
+      {
+        "#534c67": "dimgray"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.941232352761551,
+      0.1280082076801737,
+      0.08206570498568151
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_126534.png",
+    "averageColorRGB": [
+      35.320889329287176,
+      29.963296587601413,
+      31.852415309345393
+    ],
+    "framenumber": 126534,
+    "palette": [
+      {
+        "#090303": "black"
+      },
+      {
+        "#010303": "black"
+      },
+      {
+        "#000003": "black"
+      },
+      {
+        "#180f10": "black"
+      },
+      {
+        "#270906": "black"
+      },
+      {
+        "#241b1b": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9070522783070928,
+      0.11939869847734721,
+      0.12040949724926053
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_127355.png",
+    "averageColorRGB": [
+      34.112736111971266,
+      26.780600111475817,
+      30.869632129807396
+    ],
+    "framenumber": 127355,
+    "palette": [
+      {
+        "#17060a": "black"
+      },
+      {
+        "#402f31": "darkslategrey"
+      },
+      {
+        "#100506": "black"
+      },
+      {
+        "#534141": "darkslategrey"
+      },
+      {
+        "#1f080c": "black"
+      },
+      {
+        "#040306": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.7651229501770578,
+      0.12375651034551433,
+      0.05945019931929273
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_128176.png",
+    "averageColorRGB": [
+      31.898380504118414,
+      29.68178609029541,
+      33.43403418591689
+    ],
+    "framenumber": 128176,
+    "palette": [
+      {
+        "#020104": "black"
+      },
+      {
+        "#8791a1": "lightslategray"
+      },
+      {
+        "#010003": "black"
+      },
+      {
+        "#000106": "black"
+      },
+      {
+        "#000008": "black"
+      },
+      {
+        "#626d7a": "dimgray"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9744832469876075,
+      0.08870525332818456,
+      0.1269138822954773
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_128997.png",
+    "averageColorRGB": [
+      25.49061125905741,
+      19.749067938316717,
+      20.62810119526847
+    ],
+    "framenumber": 128997,
+    "palette": [
+      {
+        "#0e0707": "black"
+      },
+      {
+        "#1d1419": "black"
+      },
+      {
+        "#302b2f": "darkslategrey"
+      },
+      {
+        "#0f0807": "black"
+      },
+      {
+        "#10090e": "black"
+      },
+      {
+        "#010300": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.6094711801425584,
+      0.1034071465955553,
+      0.07439280915290523
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_129818.png",
+    "averageColorRGB": [
+      24.407171610825543,
+      25.753542453706572,
+      28.33047315290766
+    ],
+    "framenumber": 129818,
+    "palette": [
+      {
+        "#010205": "black"
+      },
+      {
+        "#2c5062": "darkslategrey"
+      },
+      {
+        "#000403": "black"
+      },
+      {
+        "#000104": "black"
+      },
+      {
+        "#000305": "black"
+      },
+      {
+        "#000204": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.7056955766767827,
+      0.06755918357929659,
+      0.1473853992605526
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_130639.png",
+    "averageColorRGB": [
+      15.877673871307364,
+      14.688496315104974,
+      19.766687310336287
+    ],
+    "framenumber": 130639,
+    "palette": [
+      {
+        "#475063": "darkslategrey"
+      },
+      {
+        "#1b2125": "black"
+      },
+      {
+        "#030004": "black"
+      },
+      {
+        "#353a45": "darkslategrey"
+      },
+      {
+        "#191d23": "black"
+      },
+      {
+        "#2a2021": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9111699408097852,
+      0.12125443079938361,
+      0.050928037370261386
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_131460.png",
+    "averageColorRGB": [
+      32.49456865052332,
+      29.34519105716232,
+      31.023747445345887
+    ],
+    "framenumber": 131460,
+    "palette": [
+      {
+        "#2c1a17": "black"
+      },
+      {
+        "#0a0805": "black"
+      },
+      {
+        "#2a1e1c": "black"
+      },
+      {
+        "#3b3948": "darkslategrey"
+      },
+      {
+        "#080805": "black"
+      },
+      {
+        "#343c43": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9099664979880406,
+      0.10821468080636602,
+      0.06001758524836564
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_132281.png",
+    "averageColorRGB": [
+      29.25091348238063,
+      25.938573728866043,
+      27.727903016040134
+    ],
+    "framenumber": 132281,
+    "palette": [
+      {
+        "#554545": "darkslategrey"
+      },
+      {
+        "#3e2f2b": "darkslategrey"
+      },
+      {
+        "#010605": "black"
+      },
+      {
+        "#060808": "black"
+      },
+      {
+        "#040603": "black"
+      },
+      {
+        "#040606": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9816509878352359,
+      0.11844355231409465,
+      0.08437519319411295
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_133102.png",
+    "averageColorRGB": [
+      32.75149873041432,
+      27.654712949773952,
+      28.215838855514956
+    ],
+    "framenumber": 133102,
+    "palette": [
+      {
+        "#2a1a15": "black"
+      },
+      {
+        "#402f2a": "darkslategrey"
+      },
+      {
+        "#503b36": "darkslategrey"
+      },
+      {
+        "#060808": "black"
+      },
+      {
+        "#040606": "black"
+      },
+      {
+        "#090906": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.992238196954973,
+      0.07353930251112026,
+      0.10594615418466446
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_133923.png",
+    "averageColorRGB": [
+      20.739279742367003,
+      16.765764538304328,
+      16.95081439276646
+    ],
+    "framenumber": 133923,
+    "palette": [
+      {
+        "#090707": "black"
+      },
+      {
+        "#0f090e": "black"
+      },
+      {
+        "#09070e": "black"
+      },
+      {
+        "#0d0808": "black"
+      },
+      {
+        "#0c070b": "black"
+      },
+      {
+        "#0b090d": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9194063056709456,
+      0.1226924081083477,
+      0.04855714495397367
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_134744.png",
+    "averageColorRGB": [
+      32.80575029417229,
+      29.767377841085032,
+      31.236619805536634
+    ],
+    "framenumber": 134744,
+    "palette": [
+      {
+        "#000101": "black"
+      },
+      {
+        "#050508": "black"
+      },
+      {
+        "#0d080a": "black"
+      },
+      {
+        "#08070c": "black"
+      },
+      {
+        "#040710": "black"
+      },
+      {
+        "#060610": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.7544829255324487,
+      0.07460591841864633,
+      0.10816476840379088
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_135565.png",
+    "averageColorRGB": [
+      19.135207778534713,
+      16.966727565492043,
+      21.08229082801759
+    ],
+    "framenumber": 135565,
+    "palette": [
+      {
+        "#0a080a": "black"
+      },
+      {
+        "#080811": "black"
+      },
+      {
+        "#16151d": "black"
+      },
+      {
+        "#0a080e": "black"
+      },
+      {
+        "#04050a": "black"
+      },
+      {
+        "#0d080d": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.6964045786710176,
+      0.1313082318454105,
+      0.08584249417158765
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_136386.png",
+    "averageColorRGB": [
+      31.634997213104604,
+      30.609283458227537,
+      36.357914782931815
+    ],
+    "framenumber": 136386,
+    "palette": [
+      {
+        "#020008": "black"
+      },
+      {
+        "#0e080a": "black"
+      },
+      {
+        "#1b1414": "black"
+      },
+      {
+        "#7d828f": "lightslategray"
+      },
+      {
+        "#838c9e": "lightslategray"
+      },
+      {
+        "#020106": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.04822324199440945,
+      0.04462727247336663,
+      0.16160996777588288
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_137207.png",
+    "averageColorRGB": [
+      13.219068557626805,
+      10.60509692202886,
+      9.540840403790178
+    ],
+    "framenumber": 137207,
+    "palette": [
+      {
+        "#070501": "black"
+      },
+      {
+        "#060400": "black"
+      },
+      {
+        "#040400": "black"
+      },
+      {
+        "#060601": "black"
+      },
+      {
+        "#010100": "black"
+      },
+      {
+        "#030300": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.85580993716534,
+      0.11299389068812637,
+      0.08052304709300247
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_138028.png",
+    "averageColorRGB": [
+      31.133588282653125,
+      26.493295968291324,
+      30.50780021056543
+    ],
+    "framenumber": 138028,
+    "palette": [
+      {
+        "#020001": "black"
+      },
+      {
+        "#040105": "black"
+      },
+      {
+        "#10090b": "black"
+      },
+      {
+        "#0c0609": "black"
+      },
+      {
+        "#030004": "black"
+      },
+      {
+        "#0b0101": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9716666749587114,
+      0.1424625651338135,
+      0.05996424488947708
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_138849.png",
+    "averageColorRGB": [
+      38.506332445655545,
+      34.14957577258934,
+      34.89022419025206
+    ],
+    "framenumber": 138849,
+    "palette": [
+      {
+        "#5e5960": "dimgray"
+      },
+      {
+        "#120506": "black"
+      },
+      {
+        "#0f0909": "black"
+      },
+      {
+        "#010005": "black"
+      },
+      {
+        "#c3c7bc": "silver"
+      },
+      {
+        "#050304": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.041523472999249356,
+      0.09865824040646173,
+      0.08196349635573441
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_139670.png",
+    "averageColorRGB": [
+      27.21987675729238,
+      24.123295348981237,
+      23.0958258500031
+    ],
+    "framenumber": 139670,
+    "palette": [
+      {
+        "#030300": "black"
+      },
+      {
+        "#060400": "black"
+      },
+      {
+        "#040400": "black"
+      },
+      {
+        "#050500": "black"
+      },
+      {
+        "#070501": "black"
+      },
+      {
+        "#020200": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.975180699154572,
+      0.09412909215212685,
+      0.16631981993168418
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_140491.png",
+    "averageColorRGB": [
+      27.99507958134638,
+      20.010757416238313,
+      21.199749179414134
+    ],
+    "framenumber": 140491,
+    "palette": [
+      {
+        "#190c0d": "black"
+      },
+      {
+        "#190d11": "black"
+      },
+      {
+        "#221416": "black"
+      },
+      {
+        "#010003": "black"
+      },
+      {
+        "#000005": "black"
+      },
+      {
+        "#000107": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.026715756483057313,
+      0.11592289346530711,
+      0.12122777869408048
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_141312.png",
+    "averageColorRGB": [
+      33.14387192667369,
+      27.125645630767327,
+      25.976803740632935
+    ],
+    "framenumber": 141312,
+    "palette": [
+      {
+        "#050002": "black"
+      },
+      {
+        "#301611": "black"
+      },
+      {
+        "#010003": "black"
+      },
+      {
+        "#030004": "black"
+      },
+      {
+        "#000002": "black"
+      },
+      {
+        "#020003": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.0060794221227011835,
+      0.0833695326151765,
+      0.16990510171502082
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_142133.png",
+    "averageColorRGB": [
+      24.871282591193413,
+      17.91068929212857,
+      17.647179042546604
+    ],
+    "framenumber": 142133,
+    "palette": [
+      {
+        "#150b0e": "black"
+      },
+      {
+        "#0f0908": "black"
+      },
+      {
+        "#120608": "black"
+      },
+      {
+        "#0a080d": "black"
+      },
+      {
+        "#0e070b": "black"
+      },
+      {
+        "#462e24": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9927044420230222,
+      0.07075093776905077,
+      0.14672550084586003
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_142954.png",
+    "averageColorRGB": [
+      20.6886356598749,
+      15.394342602340993,
+      15.62609153403109
+    ],
+    "framenumber": 142954,
+    "palette": [
+      {
+        "#0d0304": "black"
+      },
+      {
+        "#000003": "black"
+      },
+      {
+        "#0b0608": "black"
+      },
+      {
+        "#0f0506": "black"
+      },
+      {
+        "#000104": "black"
+      },
+      {
+        "#000202": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.008999231318952047,
+      0.09453779430890459,
+      0.14894519174239085
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_143775.png",
+    "averageColorRGB": [
+      27.69777977333251,
+      20.904251563757974,
+      20.516495324208833
+    ],
+    "framenumber": 143775,
+    "palette": [
+      {
+        "#100808": "black"
+      },
+      {
+        "#413229": "darkslategrey"
+      },
+      {
+        "#171316": "black"
+      },
+      {
+        "#1a0a0c": "black"
+      },
+      {
+        "#1c171b": "black"
+      },
+      {
+        "#140709": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9651280180498989,
+      0.07762000954466136,
+      0.23629680265964348
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_144596.png",
+    "averageColorRGB": [
+      24.470149253731343,
+      15.116055614045953,
+      17.07323032142194
+    ],
+    "framenumber": 144596,
+    "palette": [
+      {
+        "#090209": "black"
+      },
+      {
+        "#0e060a": "black"
+      },
+      {
+        "#120405": "black"
+      },
+      {
+        "#190d11": "black"
+      },
+      {
+        "#060209": "black"
+      },
+      {
+        "#150407": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9911302014310067,
+      0.08459791596083532,
+      0.1621449332695816
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_145417.png",
+    "averageColorRGB": [
+      25.07033504675791,
+      18.0746020932681,
+      18.446906546107638
+    ],
+    "framenumber": 145417,
+    "palette": [
+      {
+        "#140c10": "black"
+      },
+      {
+        "#010205": "black"
+      },
+      {
+        "#1c0a0c": "black"
+      },
+      {
+        "#0f090c": "black"
+      },
+      {
+        "#120608": "black"
+      },
+      {
+        "#0d0807": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.002121778565972824,
+      0.10806211801621621,
+      0.09263937957157094
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_146238.png",
+    "averageColorRGB": [
+      30.108596024029232,
+      25.06808075803555,
+      25.003084164241038
+    ],
+    "framenumber": 146238,
+    "palette": [
+      {
+        "#100808": "black"
+      },
+      {
+        "#080300": "black"
+      },
+      {
+        "#0b0603": "black"
+      },
+      {
+        "#2e3439": "darkslategrey"
+      },
+      {
+        "#120d0e": "black"
+      },
+      {
+        "#513b34": "darkslategrey"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.7362757247053368,
+      0.05553660790506826,
+      0.06440362065787487
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_147059.png",
+    "averageColorRGB": [
+      14.011624450362298,
+      13.249761565615904,
+      15.07390846596891
+    ],
+    "framenumber": 147059,
+    "palette": [
+      {
+        "#0a0809": "black"
+      },
+      {
+        "#08090c": "black"
+      },
+      {
+        "#06070a": "black"
+      },
+      {
+        "#030505": "black"
+      },
+      {
+        "#060808": "black"
+      },
+      {
+        "#020404": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.7622098758838923,
+      0.056344631492282304,
+      0.18361879355300956
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_147880.png",
+    "averageColorRGB": [
+      14.754428067133214,
+      11.729668049792531,
+      17.006094011271443
+    ],
+    "framenumber": 147880,
+    "palette": [
+      {
+        "#020104": "black"
+      },
+      {
+        "#030205": "black"
+      },
+      {
+        "#05030d": "black"
+      },
+      {
+        "#010003": "black"
+      },
+      {
+        "#030207": "black"
+      },
+      {
+        "#04020a": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.8124437144147943,
+      0.055249339098988826,
+      0.06121797679067708
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_148701.png",
+    "averageColorRGB": [
+      14.734854771784233,
+      13.226107016783304,
+      14.951055923700999
+    ],
+    "framenumber": 148701,
+    "palette": [
+      {
+        "#06070a": "black"
+      },
+      {
+        "#010303": "black"
+      },
+      {
+        "#030505": "black"
+      },
+      {
+        "#020200": "black"
+      },
+      {
+        "#040606": "black"
+      },
+      {
+        "#000202": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.7284405422340411,
+      0.058139835360663125,
+      0.06833308339240715
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_149522.png",
+    "averageColorRGB": [
+      14.563559794389052,
+      13.812575091348238,
+      15.838740942589956
+    ],
+    "framenumber": 149522,
+    "palette": [
+      {
+        "#13110f": "black"
+      },
+      {
+        "#010303": "black"
+      },
+      {
+        "#000504": "black"
+      },
+      {
+        "#060808": "black"
+      },
+      {
+        "#040606": "black"
+      },
+      {
+        "#000202": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.7158710957734132,
+      0.06388668082579536,
+      0.07314472836120699
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_150343.png",
+    "averageColorRGB": [
+      15.803084164241037,
+      15.099495262277824,
+      17.48271195887781
+    ],
+    "framenumber": 150343,
+    "palette": [
+      {
+        "#030502": "black"
+      },
+      {
+        "#151315": "black"
+      },
+      {
+        "#010303": "black"
+      },
+      {
+        "#030505": "black"
+      },
+      {
+        "#020200": "black"
+      },
+      {
+        "#040606": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.7479424024892406,
+      0.07267482455916659,
+      0.09880863862316724
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_151164.png",
+    "averageColorRGB": [
+      18.48686752957206,
+      16.700950640985944,
+      20.363209884189015
+    ],
+    "framenumber": 151164,
+    "palette": [
+      {
+        "#0f0a09": "black"
+      },
+      {
+        "#090705": "black"
+      },
+      {
+        "#424f5d": "darkslategrey"
+      },
+      {
+        "#010003": "black"
+      },
+      {
+        "#29323e": "darkslategrey"
+      },
+      {
+        "#020001": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.8630404390193795,
+      0.08073725223042708,
+      0.07199051361783611
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_151985.png",
+    "averageColorRGB": [
+      22.070139964080017,
+      19.10585867343779,
+      21.541778658574348
+    ],
+    "framenumber": 151985,
+    "palette": [
+      {
+        "#351e1c": "black"
+      },
+      {
+        "#070503": "black"
+      },
+      {
+        "#2c1514": "black"
+      },
+      {
+        "#251011": "black"
+      },
+      {
+        "#050408": "black"
+      },
+      {
+        "#060603": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.9599237635120048,
+      0.03932086577121714,
+      0.11365488271300594
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_152806.png",
+    "averageColorRGB": [
+      11.166417910447763,
+      8.88722363287298,
+      9.435272806094012
+    ],
+    "framenumber": 152806,
+    "palette": [
+      {
+        "#130708": "black"
+      },
+      {
+        "#090705": "black"
+      },
+      {
+        "#090708": "black"
+      },
+      {
+        "#010207": "black"
+      },
+      {
+        "#080805": "black"
+      },
+      {
+        "#0c0706": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.21049741021841015,
+      0.060465733329933206,
+      0.053662587474030264
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_153627.png",
+    "averageColorRGB": [
+      15.810980367870194,
+      16.246172663652693,
+      14.591351334613242
+    ],
+    "framenumber": 153627,
+    "palette": [
+      {
+        "#070904": "black"
+      },
+      {
+        "#000501": "black"
+      },
+      {
+        "#040603": "black"
+      },
+      {
+        "#060805": "black"
+      },
+      {
+        "#020703": "black"
+      },
+      {
+        "#090904": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.6825323493570213,
+      0.03537787022903544,
+      0.085627679683609
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_154448.png",
+    "averageColorRGB": [
+      8.395949712020808,
+      8.248879048739704,
+      9.793834768068372
+    ],
+    "framenumber": 154448,
+    "palette": [
+      {
+        "#06070a": "black"
+      },
+      {
+        "#030505": "black"
+      },
+      {
+        "#060808": "black"
+      },
+      {
+        "#060508": "black"
+      },
+      {
+        "#020404": "black"
+      },
+      {
+        "#030407": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.4886975622020016,
+      0.0275913391305615,
+      0.049891544903622714
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_155269.png",
+    "averageColorRGB": [
+      6.684764971821392,
+      7.386817984764972,
+      7.339208521706819
+    ],
+    "framenumber": 155269,
+    "palette": [
+      {
+        "#06070a": "black"
+      },
+      {
+        "#060805": "black"
+      },
+      {
+        "#030505": "black"
+      },
+      {
+        "#060808": "black"
+      },
+      {
+        "#080805": "black"
+      },
+      {
+        "#030502": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.8649296964103033,
+      0.08008456011375877,
+      0.05634843200608594
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_156090.png",
+    "averageColorRGB": [
+      21.57228587353688,
+      19.27083978448009,
+      21.135981916145415
+    ],
+    "framenumber": 156090,
+    "palette": [
+      {
+        "#22242d": "darkslategrey"
+      },
+      {
+        "#160d0d": "black"
+      },
+      {
+        "#0b090a": "black"
+      },
+      {
+        "#090705": "black"
+      },
+      {
+        "#09080e": "black"
+      },
+      {
+        "#08070a": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.6299979706995193,
+      0.06361798525070522,
+      0.02915905218669033
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_156911.png",
+    "averageColorRGB": [
+      15.749551000185793,
+      15.957698024400818,
+      16.69562147767387
+    ],
+    "framenumber": 156911,
+    "palette": [
+      {
+        "#030502": "black"
+      },
+      {
+        "#040603": "black"
+      },
+      {
+        "#010303": "black"
+      },
+      {
+        "#010605": "black"
+      },
+      {
+        "#020401": "black"
+      },
+      {
+        "#161110": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.6495060025298809,
+      0.0568119981007824,
+      0.27301066100724364
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_157732.png",
+    "averageColorRGB": [
+      10.531937821267109,
+      11.346408001486346,
+      18.442181210131913
+    ],
+    "framenumber": 157732,
+    "palette": [
+      {
+        "#000209": "black"
+      },
+      {
+        "#000008": "black"
+      },
+      {
+        "#000106": "black"
+      },
+      {
+        "#050a12": "black"
+      },
+      {
+        "#040710": "black"
+      },
+      {
+        "#00050d": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.7210087531294457,
+      0.13152492358806409,
+      0.07431005227753786
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_158553.png",
+    "averageColorRGB": [
+      32.671805908218246,
+      31.046581408311145,
+      36.031129621601536
+    ],
+    "framenumber": 158553,
+    "palette": [
+      {
+        "#353d45": "darkslategrey"
+      },
+      {
+        "#697381": "slategrey"
+      },
+      {
+        "#2e323c": "darkslategrey"
+      },
+      {
+        "#01020b": "black"
+      },
+      {
+        "#46515f": "darkslategrey"
+      },
+      {
+        "#060812": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.07538917989264737,
+      0.23680362527125176,
+      0.06860276736113288
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_159374.png",
+    "averageColorRGB": [
+      64.52749736793213,
+      59.99001362482195,
+      56.24235152040627
+    ],
+    "framenumber": 159374,
+    "palette": [
+      {
+        "#826d64": "dimgray"
+      },
+      {
+        "#4a413a": "darkslategrey"
+      },
+      {
+        "#af958b": "rosybrown"
+      },
+      {
+        "#4c5151": "darkslategrey"
+      },
+      {
+        "#333c3f": "darkslategrey"
+      },
+      {
+        "#5c5955": "dimgray"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.05785048250624636,
+      0.2896684323075859,
+      0.17589932149424073
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_160195.png",
+    "averageColorRGB": [
+      86.8583328172416,
+      69.89230197559918,
+      60.87256765962718
+    ],
+    "framenumber": 160195,
+    "palette": [
+      {
+        "#6c594e": "dimgray"
+      },
+      {
+        "#7e5e4f": "dimgray"
+      },
+      {
+        "#967464": "grey"
+      },
+      {
+        "#645547": "darkolivegreen"
+      },
+      {
+        "#634a3d": "darkolivegreen"
+      },
+      {
+        "#5b4d43": "darkolivegreen"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.035182832429611066,
+      0.22674364326767432,
+      0.21177852442265854
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_161016.png",
+    "averageColorRGB": [
+      70.06458475258562,
+      50.74442001610206,
+      45.57467331392829
+    ],
+    "framenumber": 161016,
+    "palette": [
+      {
+        "#ab4441": "sienna"
+      },
+      {
+        "#8f3232": "brown"
+      },
+      {
+        "#54504d": "darkslategrey"
+      },
+      {
+        "#473326": "darkslategrey"
+      },
+      {
+        "#3e3127": "darkslategrey"
+      },
+      {
+        "#b4715f": "indianred"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.11181336604343106,
+      0.010519746884323805,
+      0.25596965478391964
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_161837.png",
+    "averageColorRGB": [
+      3.369183129993188,
+      2.9172044342602343,
+      1.9958877810119529
+    ],
+    "framenumber": 161837,
+    "palette": [
+      {
+        "#040200": "black"
+      },
+      {
+        "#030100": "black"
+      },
+      {
+        "#030300": "black"
+      },
+      {
+        "#020000": "black"
+      },
+      {
+        "#020200": "black"
+      },
+      {
+        "#010100": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.060173196874766764,
+      0.05620283984033943,
+      0.10321378082214865
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_162658.png",
+    "averageColorRGB": [
+      15.81095559546665,
+      13.920613736297765,
+      12.85249272310646
+    ],
+    "framenumber": 162658,
+    "palette": [
+      {
+        "#e7ddda": "gainsboro"
+      },
+      {
+        "#010100": "black"
+      },
+      {
+        "#030100": "black"
+      },
+      {
+        "#030300": "black"
+      },
+      {
+        "#020200": "black"
+      },
+      {
+        "#040200": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.0,
+      5.311494759543751e-05,
+      0.0
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_163479.png",
+    "averageColorRGB": [
+      0.013544311636836564,
+      0.013544311636836564,
+      0.013544311636836564
+    ],
+    "framenumber": 163479,
+    "palette": [
+      {
+        "#010101": "black"
+      }
+    ]
+  },
+  {
+    "averageColorHSV": [
+      0.0,
+      0.00010036466435214702,
+      0.0
+    ],
+    "file": "http://128.54.253.204/chromatography/rearwindow/Rear Window.mp4_164300.png",
+    "averageColorRGB": [
+      0.025592989409797488,
+      0.025592989409797488,
+      0.025592989409797488
+    ],
+    "framenumber": 164300,
+    "palette": [
+      {
+        "#010101": "black"
+      }
+    ]
+  }
+]

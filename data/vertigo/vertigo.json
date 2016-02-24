@@ -1,0 +1,6776 @@
+[
+  {
+    "averageColorRGB": [
+      14.223196040868457,
+      23.314842752234995,
+      44.54494332694764
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_100.png",
+    "palette": [
+      {
+        "#0c0a14": "black"
+      },
+      {
+        "#0d0d1d": "black"
+      },
+      {
+        "#0e1224": "black"
+      },
+      {
+        "#0d2044": "midnightblue"
+      },
+      {
+        "#092855": "midnightblue"
+      },
+      {
+        "#0b1b37": "midnightblue"
+      }
+    ],
+    "framenumber": 100,
+    "averageColorHSV": [
+      0.6166934762169828,
+      0.11523164581924725,
+      0.515955543467225
+    ]
+  },
+  {
+    "averageColorRGB": [
+      29.39082455300128,
+      25.333153735632187,
+      24.96211685823755
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_1034.png",
+    "palette": [
+      {
+        "#000002": "black"
+      },
+      {
+        "#392e2f": "darkslategrey"
+      },
+      {
+        "#4d4441": "darkslategrey"
+      },
+      {
+        "#423736": "darkslategrey"
+      },
+      {
+        "#010000": "black"
+      },
+      {
+        "#5c5652": "dimgray"
+      }
+    ],
+    "framenumber": 1034,
+    "averageColorHSV": [
+      0.013963323801859459,
+      0.1065743949239977,
+      0.08148055247379825
+    ]
+  },
+  {
+    "averageColorRGB": [
+      52.02702745849298,
+      18.306381704980843,
+      17.182814495530014
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_1968.png",
+    "palette": [
+      {
+        "#1a0807": "black"
+      },
+      {
+        "#2e0a0a": "black"
+      },
+      {
+        "#4c1214": "maroon"
+      },
+      {
+        "#260705": "black"
+      },
+      {
+        "#150707": "black"
+      },
+      {
+        "#3e0b0a": "black"
+      }
+    ],
+    "framenumber": 1968,
+    "averageColorHSV": [
+      0.005374241104948589,
+      0.1357055724588686,
+      0.5034574849356026
+    ]
+  },
+  {
+    "averageColorRGB": [
+      4.826959610472542,
+      8.58219189016603,
+      15.084909802043425
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_2902.png",
+    "palette": [
+      {
+        "#000002": "black"
+      },
+      {
+        "#00071c": "black"
+      },
+      {
+        "#000006": "black"
+      },
+      {
+        "#000515": "black"
+      },
+      {
+        "#000004": "black"
+      },
+      {
+        "#000008": "black"
+      }
+    ],
+    "framenumber": 2902,
+    "averageColorHSV": [
+      0.6056533028925015,
+      0.0390428812010117,
+      0.5151676107881192
+    ]
+  },
+  {
+    "averageColorRGB": [
+      0.9563657407407409,
+      4.23713282247765,
+      6.645992975734356
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_3836.png",
+    "palette": [
+      {
+        "#000002": "black"
+      },
+      {
+        "#00000a": "black"
+      },
+      {
+        "#000006": "black"
+      },
+      {
+        "#000004": "black"
+      },
+      {
+        "#1b566c": "darkslategrey"
+      },
+      {
+        "#000008": "black"
+      }
+    ],
+    "framenumber": 3836,
+    "averageColorHSV": [
+      0.5705629166248712,
+      0.014906585718578622,
+      0.7484028901008847
+    ]
+  },
+  {
+    "averageColorRGB": [
+      39.931481481481484,
+      12.233828224776502,
+      8.978619891443168
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_4770.png",
+    "palette": [
+      {
+        "#100000": "black"
+      },
+      {
+        "#190100": "black"
+      },
+      {
+        "#140000": "black"
+      },
+      {
+        "#260705": "black"
+      },
+      {
+        "#320601": "black"
+      },
+      {
+        "#3d0b06": "black"
+      }
+    ],
+    "framenumber": 4770,
+    "averageColorHSV": [
+      0.017527772695395256,
+      0.09590215955475422,
+      0.6328521250453389
+    ]
+  },
+  {
+    "averageColorRGB": [
+      11.459638409961688,
+      10.164894636015326,
+      14.622497605363986
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_5704.png",
+    "palette": [
+      {
+        "#020111": "black"
+      },
+      {
+        "#242732": "darkslategrey"
+      },
+      {
+        "#030000": "black"
+      },
+      {
+        "#23232c": "darkslategrey"
+      },
+      {
+        "#1c1e29": "black"
+      },
+      {
+        "#010000": "black"
+      }
+    ],
+    "framenumber": 5704,
+    "averageColorHSV": [
+      0.7150762335291437,
+      0.04860272988505747,
+      0.1798334784853759
+    ]
+  },
+  {
+    "averageColorRGB": [
+      8.403727650063859,
+      7.538106641123883,
+      12.603663793103449
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_6638.png",
+    "palette": [
+      {
+        "#1c202e": "darkslategrey"
+      },
+      {
+        "#040000": "black"
+      },
+      {
+        "#030000": "black"
+      },
+      {
+        "#1a2437": "darkslategrey"
+      },
+      {
+        "#0f1729": "black"
+      },
+      {
+        "#0c1123": "black"
+      }
+    ],
+    "framenumber": 6638,
+    "averageColorHSV": [
+      0.6951472787352292,
+      0.03949366751809281,
+      0.25149512891734477
+    ]
+  },
+  {
+    "averageColorRGB": [
+      108.84898627075353,
+      106.1780771072797,
+      109.18063537675607
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_7572.png",
+    "palette": [
+      {
+        "#7c838e": "slategray"
+      },
+      {
+        "#5c4136": "darkolivegreen"
+      },
+      {
+        "#717d8d": "slategray"
+      },
+      {
+        "#46413b": "darkslategrey"
+      },
+      {
+        "#7e8288": "gray"
+      },
+      {
+        "#727c81": "gray"
+      }
+    ],
+    "framenumber": 7572,
+    "averageColorHSV": [
+      0.8149240816087819,
+      0.4222719852628153,
+      0.013942125836673277
+    ]
+  },
+  {
+    "averageColorRGB": [
+      53.97655252234994,
+      44.5620929118774,
+      39.52468869731801
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_8506.png",
+    "palette": [
+      {
+        "#3f2921": "darkslategrey"
+      },
+      {
+        "#55524a": "darkolivegreen"
+      },
+      {
+        "#74593f": "darkolivegreen"
+      },
+      {
+        "#554e44": "darkolivegreen"
+      },
+      {
+        "#010000": "black"
+      },
+      {
+        "#646055": "dimgray"
+      }
+    ],
+    "framenumber": 8506,
+    "averageColorHSV": [
+      0.05809405480551413,
+      0.18333576709738814,
+      0.1545633366628719
+    ]
+  },
+  {
+    "averageColorRGB": [
+      58.9747964559387,
+      49.02279294380588,
+      41.13603528097063
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_9440.png",
+    "palette": [
+      {
+        "#644a29": "darkolivegreen"
+      },
+      {
+        "#5c554c": "darkolivegreen"
+      },
+      {
+        "#534331": "darkolivegreen"
+      },
+      {
+        "#695b45": "darkolivegreen"
+      },
+      {
+        "#555148": "darkolivegreen"
+      },
+      {
+        "#070002": "black"
+      }
+    ],
+    "framenumber": 9440,
+    "averageColorHSV": [
+      0.0736855882300299,
+      0.1962957485037438,
+      0.1781901205440809
+    ]
+  },
+  {
+    "averageColorRGB": [
+      63.40082614942529,
+      49.13577586206897,
+      37.48957136015326
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_10374.png",
+    "palette": [
+      {
+        "#4b361e": "darkolivegreen"
+      },
+      {
+        "#352118": "black"
+      },
+      {
+        "#785838": "darkolivegreen"
+      },
+      {
+        "#39221b": "darkslategrey"
+      },
+      {
+        "#4b3119": "darkolivegreen"
+      },
+      {
+        "#6d593c": "darkolivegreen"
+      }
+    ],
+    "framenumber": 10374,
+    "averageColorHSV": [
+      0.07491084856516707,
+      0.1978243088423109,
+      0.2568257775653229
+    ]
+  },
+  {
+    "averageColorRGB": [
+      72.79487148786718,
+      64.30191969987229,
+      56.28903655810984
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_11308.png",
+    "palette": [
+      {
+        "#684a32": "darkolivegreen"
+      },
+      {
+        "#0a0104": "black"
+      },
+      {
+        "#060006": "black"
+      },
+      {
+        "#3b3124": "darkslategrey"
+      },
+      {
+        "#a39d7e": "rosybrown"
+      },
+      {
+        "#554534": "darkolivegreen"
+      }
+    ],
+    "framenumber": 11308,
+    "averageColorHSV": [
+      0.08090960132040446,
+      0.25310570205093536,
+      0.12786903634710461
+    ]
+  },
+  {
+    "averageColorRGB": [
+      51.30702426564496,
+      41.227737867177524,
+      32.64741379310345
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_12242.png",
+    "palette": [
+      {
+        "#615f4e": "dimgray"
+      },
+      {
+        "#564225": "darkolivegreen"
+      },
+      {
+        "#5c4d32": "darkolivegreen"
+      },
+      {
+        "#000006": "black"
+      },
+      {
+        "#6f5d3e": "darkolivegreen"
+      },
+      {
+        "#02000a": "black"
+      }
+    ],
+    "framenumber": 12242,
+    "averageColorHSV": [
+      0.07663900671721256,
+      0.16461654521323218,
+      0.22225877397314198
+    ]
+  },
+  {
+    "averageColorRGB": [
+      57.952622126436786,
+      41.06819923371648,
+      30.005032726692214
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_13176.png",
+    "palette": [
+      {
+        "#453d27": "darkslategrey"
+      },
+      {
+        "#624d30": "darkolivegreen"
+      },
+      {
+        "#523e21": "darkolivegreen"
+      },
+      {
+        "#1f0907": "black"
+      },
+      {
+        "#200a11": "black"
+      },
+      {
+        "#775c3a": "darkolivegreen"
+      }
+    ],
+    "framenumber": 13176,
+    "averageColorHSV": [
+      0.0659756753303702,
+      0.17246598990809608,
+      0.3177391376158361
+    ]
+  },
+  {
+    "averageColorRGB": [
+      61.08502554278417,
+      46.28342911877395,
+      33.05378352490422
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_14110.png",
+    "palette": [
+      {
+        "#492504": "maroon"
+      },
+      {
+        "#44321b": "darkolivegreen"
+      },
+      {
+        "#492c0e": "saddlebrown"
+      },
+      {
+        "#180500": "black"
+      },
+      {
+        "#5a3c20": "darkolivegreen"
+      },
+      {
+        "#5a432b": "darkolivegreen"
+      }
+    ],
+    "framenumber": 14110,
+    "averageColorHSV": [
+      0.07866012254844729,
+      0.18458590013272236,
+      0.29776499506940557
+    ]
+  },
+  {
+    "averageColorRGB": [
+      58.80675287356323,
+      50.04568167305237,
+      40.63247924648787
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_15044.png",
+    "palette": [
+      {
+        "#694320": "saddlebrown"
+      },
+      {
+        "#554330": "darkolivegreen"
+      },
+      {
+        "#160500": "black"
+      },
+      {
+        "#0d0000": "black"
+      },
+      {
+        "#392413": "black"
+      },
+      {
+        "#010000": "black"
+      }
+    ],
+    "framenumber": 15044,
+    "averageColorHSV": [
+      0.08632350889428912,
+      0.1949788865099041,
+      0.18276763848230343
+    ]
+  },
+  {
+    "averageColorRGB": [
+      43.9424209770115,
+      40.894105204342274,
+      41.91562899106003
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_15978.png",
+    "palette": [
+      {
+        "#180d09": "black"
+      },
+      {
+        "#1d1410": "black"
+      },
+      {
+        "#43383a": "darkslategrey"
+      },
+      {
+        "#303838": "darkslategrey"
+      },
+      {
+        "#5c5861": "dimgray"
+      },
+      {
+        "#51484d": "darkslategrey"
+      }
+    ],
+    "framenumber": 15978,
+    "averageColorHSV": [
+      0.9441481863593553,
+      0.16634612976736035,
+      0.03593164300660881
+    ]
+  },
+  {
+    "averageColorRGB": [
+      52.18768757982121,
+      38.953117017879954,
+      35.75937899106003
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_16912.png",
+    "palette": [
+      {
+        "#251511": "black"
+      },
+      {
+        "#2f1c16": "black"
+      },
+      {
+        "#513325": "darkolivegreen"
+      },
+      {
+        "#0e0000": "black"
+      },
+      {
+        "#120301": "black"
+      },
+      {
+        "#382217": "black"
+      }
+    ],
+    "framenumber": 16912,
+    "averageColorHSV": [
+      0.03240075922976027,
+      0.17244522857035538,
+      0.1867976867144366
+    ]
+  },
+  {
+    "averageColorRGB": [
+      58.53095067049809,
+      43.15268199233717,
+      38.071056832694765
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_17846.png",
+    "palette": [
+      {
+        "#2f150b": "black"
+      },
+      {
+        "#120100": "black"
+      },
+      {
+        "#190100": "black"
+      },
+      {
+        "#654333": "darkolivegreen"
+      },
+      {
+        "#1d0c08": "black"
+      },
+      {
+        "#5a4335": "darkolivegreen"
+      }
+    ],
+    "framenumber": 17846,
+    "averageColorHSV": [
+      0.04139501081096516,
+      0.18941570098665267,
+      0.21179574179270647
+    ]
+  },
+  {
+    "averageColorRGB": [
+      68.72652857598979,
+      53.42604166666667,
+      48.237296455938704
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_18780.png",
+    "palette": [
+      {
+        "#262c39": "darkslategrey"
+      },
+      {
+        "#766860": "dimgray"
+      },
+      {
+        "#3d1e0f": "black"
+      },
+      {
+        "#462b1d": "darkslategrey"
+      },
+      {
+        "#41261c": "darkslategrey"
+      },
+      {
+        "#513c34": "darkslategrey"
+      }
+    ],
+    "framenumber": 18780,
+    "averageColorHSV": [
+      0.0422070902114659,
+      0.2293408333959382,
+      0.17517580426647286
+    ]
+  },
+  {
+    "averageColorRGB": [
+      45.354593710089404,
+      32.61210089399745,
+      32.969332694763736
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_19714.png",
+    "palette": [
+      {
+        "#2e1b15": "black"
+      },
+      {
+        "#252c3c": "darkslategrey"
+      },
+      {
+        "#1a0400": "black"
+      },
+      {
+        "#1a2132": "darkslategrey"
+      },
+      {
+        "#1d2633": "darkslategrey"
+      },
+      {
+        "#140500": "black"
+      }
+    ],
+    "framenumber": 19714,
+    "averageColorHSV": [
+      0.9953275521265463,
+      0.15287587177271933,
+      0.1634350780265606
+    ]
+  },
+  {
+    "averageColorRGB": [
+      60.384287196679445,
+      49.494280810983405,
+      49.766107918263096
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_20648.png",
+    "palette": [
+      {
+        "#433028": "darkslategrey"
+      },
+      {
+        "#4e3b33": "darkslategrey"
+      },
+      {
+        "#27303f": "darkslategrey"
+      },
+      {
+        "#1d2636": "darkslategrey"
+      },
+      {
+        "#5a463c": "darkolivegreen"
+      },
+      {
+        "#1b0401": "black"
+      }
+    ],
+    "framenumber": 20648,
+    "averageColorHSV": [
+      0.9958398079601261,
+      0.2154481725640448,
+      0.09910946768924567
+    ]
+  },
+  {
+    "averageColorRGB": [
+      63.065509259259265,
+      48.74647589399745,
+      47.74970466155811
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_21582.png",
+    "palette": [
+      {
+        "#3f302b": "darkslategrey"
+      },
+      {
+        "#553b33": "darkolivegreen"
+      },
+      {
+        "#89695c": "dimgray"
+      },
+      {
+        "#27110d": "black"
+      },
+      {
+        "#232c3b": "darkslategrey"
+      },
+      {
+        "#6f5045": "darkolivegreen"
+      }
+    ],
+    "framenumber": 21582,
+    "averageColorHSV": [
+      0.010846869825227793,
+      0.21728473317807329,
+      0.13821030574957877
+    ]
+  },
+  {
+    "averageColorRGB": [
+      56.70773467432951,
+      33.334255268199236,
+      29.80836526181354
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_22516.png",
+    "palette": [
+      {
+        "#513b34": "darkslategrey"
+      },
+      {
+        "#4f2413": "maroon"
+      },
+      {
+        "#210905": "black"
+      },
+      {
+        "#190501": "black"
+      },
+      {
+        "#2f130a": "black"
+      },
+      {
+        "#40281e": "darkslategrey"
+      }
+    ],
+    "framenumber": 22516,
+    "averageColorHSV": [
+      0.021846175104914916,
+      0.16963941163949617,
+      0.31091749896689996
+    ]
+  },
+  {
+    "averageColorRGB": [
+      64.47874760536399,
+      50.328140964240106,
+      45.50165229885058
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_23450.png",
+    "palette": [
+      {
+        "#3d261d": "darkslategrey"
+      },
+      {
+        "#665044": "darkolivegreen"
+      },
+      {
+        "#26130b": "black"
+      },
+      {
+        "#5b3e31": "darkolivegreen"
+      },
+      {
+        "#200b04": "black"
+      },
+      {
+        "#332118": "black"
+      }
+    ],
+    "framenumber": 23450,
+    "averageColorHSV": [
+      0.042388719905349516,
+      0.21564784294944034,
+      0.1725497936272388
+    ]
+  },
+  {
+    "averageColorRGB": [
+      19.473223978288637,
+      10.322306034482759,
+      10.795753512132823
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_24384.png",
+    "palette": [
+      {
+        "#030005": "black"
+      },
+      {
+        "#110404": "black"
+      },
+      {
+        "#050000": "black"
+      },
+      {
+        "#0e0403": "black"
+      },
+      {
+        "#090000": "black"
+      },
+      {
+        "#060000": "black"
+      }
+    ],
+    "framenumber": 24384,
+    "averageColorHSV": [
+      0.9913770494472537,
+      0.05842260786817921,
+      0.30712385179533563
+    ]
+  },
+  {
+    "averageColorRGB": [
+      42.89933748403576,
+      21.838130587484038,
+      20.86093550446999
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_25318.png",
+    "palette": [
+      {
+        "#200003": "black"
+      },
+      {
+        "#2a0002": "black"
+      },
+      {
+        "#4a0e12": "maroon"
+      },
+      {
+        "#100000": "black"
+      },
+      {
+        "#360003": "black"
+      },
+      {
+        "#180005": "black"
+      }
+    ],
+    "framenumber": 25318,
+    "averageColorHSV": [
+      0.007390093316204105,
+      0.12502014311471715,
+      0.3456447243182083
+    ]
+  },
+  {
+    "averageColorRGB": [
+      50.8771711366539,
+      32.09621647509579,
+      32.831034482758625
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_26252.png",
+    "palette": [
+      {
+        "#0e0209": "black"
+      },
+      {
+        "#3b030e": "black"
+      },
+      {
+        "#6f4338": "saddlebrown"
+      },
+      {
+        "#2f000b": "black"
+      },
+      {
+        "#452521": "darkslategrey"
+      },
+      {
+        "#9a5f4d": "sienna"
+      }
+    ],
+    "framenumber": 26252,
+    "averageColorHSV": [
+      0.9934790499124901,
+      0.1626929168857837,
+      0.22634913677911087
+    ]
+  },
+  {
+    "averageColorRGB": [
+      67.08446679438059,
+      60.517828065134104,
+      61.95322477650065
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_27186.png",
+    "palette": [
+      {
+        "#a4a492": "darkgrey"
+      },
+      {
+        "#533029": "darkolivegreen"
+      },
+      {
+        "#2b2023": "black"
+      },
+      {
+        "#110410": "black"
+      },
+      {
+        "#211412": "black"
+      },
+      {
+        "#231e27": "black"
+      }
+    ],
+    "framenumber": 27186,
+    "averageColorHSV": [
+      0.9635684563912033,
+      0.2502005781559112,
+      0.05146176043680173
+    ]
+  },
+  {
+    "averageColorRGB": [
+      56.036809546615586,
+      50.573303799489146,
+      50.69175047892721
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_28120.png",
+    "palette": [
+      {
+        "#332d30": "darkslategrey"
+      },
+      {
+        "#1c1617": "black"
+      },
+      {
+        "#241a19": "black"
+      },
+      {
+        "#353139": "darkslategrey"
+      },
+      {
+        "#705f55": "dimgray"
+      },
+      {
+        "#5a4439": "darkolivegreen"
+      }
+    ],
+    "framenumber": 28120,
+    "averageColorHSV": [
+      0.9963867314956042,
+      0.20903943793353869,
+      0.05124753717679132
+    ]
+  },
+  {
+    "averageColorRGB": [
+      29.152199074074076,
+      29.17524345466156,
+      32.78368853767561
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_29054.png",
+    "palette": [
+      {
+        "#0d060c": "black"
+      },
+      {
+        "#1b2024": "black"
+      },
+      {
+        "#17171e": "black"
+      },
+      {
+        "#0c0912": "black"
+      },
+      {
+        "#5a5c53": "dimgray"
+      },
+      {
+        "#24282f": "darkslategrey"
+      }
+    ],
+    "framenumber": 29054,
+    "averageColorHSV": [
+      0.6656090482606626,
+      0.1214429168857837,
+      0.05863304141801973
+    ]
+  },
+  {
+    "averageColorRGB": [
+      24.318945561941256,
+      21.492448914431677,
+      24.136206896551727
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_29988.png",
+    "palette": [
+      {
+        "#000106": "black"
+      },
+      {
+        "#58535a": "dimgray"
+      },
+      {
+        "#000005": "black"
+      },
+      {
+        "#0b090d": "black"
+      },
+      {
+        "#150f0c": "black"
+      },
+      {
+        "#010207": "black"
+      }
+    ],
+    "framenumber": 29988,
+    "averageColorHSV": [
+      0.844108666910475,
+      0.0898262636791626,
+      0.06169855076049556
+    ]
+  },
+  {
+    "averageColorRGB": [
+      47.10939894636016,
+      37.61841874201789,
+      40.59098020434228
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_30922.png",
+    "palette": [
+      {
+        "#4a3e40": "darkslategrey"
+      },
+      {
+        "#0a0100": "black"
+      },
+      {
+        "#271d26": "black"
+      },
+      {
+        "#4b2829": "darkslategrey"
+      },
+      {
+        "#5b3331": "darkolivegreen"
+      },
+      {
+        "#2d4c40": "darkslategrey"
+      }
+    ],
+    "framenumber": 30922,
+    "averageColorHSV": [
+      0.9478002377287928,
+      0.1661329758595648,
+      0.11201728621465633
+    ]
+  },
+  {
+    "averageColorRGB": [
+      50.227015485312904,
+      41.81626356960409,
+      43.99878272669221
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_31856.png",
+    "palette": [
+      {
+        "#4e464b": "darkslategrey"
+      },
+      {
+        "#393338": "darkslategrey"
+      },
+      {
+        "#060100": "black"
+      },
+      {
+        "#413331": "darkslategrey"
+      },
+      {
+        "#464047": "darkslategrey"
+      },
+      {
+        "#372927": "darkslategrey"
+      }
+    ],
+    "framenumber": 31856,
+    "averageColorHSV": [
+      0.9567514062365059,
+      0.1804770177547392,
+      0.09137822991606587
+    ]
+  },
+  {
+    "averageColorRGB": [
+      121.0996687420179,
+      111.33674568965519,
+      126.71329821200513
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_32790.png",
+    "palette": [
+      {
+        "#958a95": "lightslategrey"
+      },
+      {
+        "#a39bb1": "darkgrey"
+      },
+      {
+        "#71687a": "dimgray"
+      },
+      {
+        "#b4a8b6": "darkgrey"
+      },
+      {
+        "#c3b6bf": "silver"
+      },
+      {
+        "#8d8492": "gray"
+      }
+    ],
+    "framenumber": 32790,
+    "averageColorHSV": [
+      0.7724871254265461,
+      0.46676479196403986,
+      0.06459378150210332
+    ]
+  },
+  {
+    "averageColorRGB": [
+      63.560871647509586,
+      57.12071360153257,
+      54.94952506385697
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_33724.png",
+    "palette": [
+      {
+        "#5f5451": "dimgray"
+      },
+      {
+        "#3c2925": "darkslategrey"
+      },
+      {
+        "#30282d": "darkslategrey"
+      },
+      {
+        "#1a1817": "black"
+      },
+      {
+        "#392e32": "darkslategrey"
+      },
+      {
+        "#4d3c35": "darkslategrey"
+      }
+    ],
+    "framenumber": 33724,
+    "averageColorHSV": [
+      0.0420218548590548,
+      0.23237332688503246,
+      0.07266321624612952
+    ]
+  },
+  {
+    "averageColorRGB": [
+      61.61097940613028,
+      56.41169380587485,
+      59.18326149425288
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_34658.png",
+    "palette": [
+      {
+        "#1d171a": "black"
+      },
+      {
+        "#6f7a8c": "slategray"
+      },
+      {
+        "#361f1d": "black"
+      },
+      {
+        "#768a96": "lightslategrey"
+      },
+      {
+        "#748498": "lightslategrey"
+      },
+      {
+        "#291513": "black"
+      }
+    ],
+    "framenumber": 34658,
+    "averageColorHSV": [
+      0.9111554964319881,
+      0.23141700629804926,
+      0.04405327771991662
+    ]
+  },
+  {
+    "averageColorRGB": [
+      52.459015804597705,
+      44.527438537675614,
+      47.25926325031929
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_35592.png",
+    "palette": [
+      {
+        "#170e16": "black"
+      },
+      {
+        "#362f36": "darkslategrey"
+      },
+      {
+        "#20141e": "black"
+      },
+      {
+        "#211917": "black"
+      },
+      {
+        "#2b242c": "darkslategrey"
+      },
+      {
+        "#2d2932": "darkslategrey"
+      }
+    ],
+    "framenumber": 35592,
+    "averageColorHSV": [
+      0.9425960179858867,
+      0.19016951831818296,
+      0.0817802580856383
+    ]
+  },
+  {
+    "averageColorRGB": [
+      52.01113505747127,
+      48.900582694763735,
+      51.18963521711367
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_36526.png",
+    "palette": [
+      {
+        "#1a161e": "black"
+      },
+      {
+        "#28242c": "darkslategrey"
+      },
+      {
+        "#150f0d": "black"
+      },
+      {
+        "#4d484f": "darkslategrey"
+      },
+      {
+        "#584b4a": "darkslategrey"
+      },
+      {
+        "#58555a": "dimgray"
+      }
+    ],
+    "framenumber": 36526,
+    "averageColorHSV": [
+      0.8773501586731338,
+      0.19786611323967648,
+      0.030824491268147583
+    ]
+  },
+  {
+    "averageColorRGB": [
+      54.82755427841635,
+      49.199932151979574,
+      48.04965277777778
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_37460.png",
+    "palette": [
+      {
+        "#413024": "darkslategrey"
+      },
+      {
+        "#554438": "darkolivegreen"
+      },
+      {
+        "#3c302c": "darkslategrey"
+      },
+      {
+        "#503c31": "darkolivegreen"
+      },
+      {
+        "#392a23": "darkslategrey"
+      },
+      {
+        "#70625a": "dimgray"
+      }
+    ],
+    "framenumber": 37460,
+    "averageColorHSV": [
+      0.028285042061406456,
+      0.20172001383567478,
+      0.0658834128043183
+    ]
+  },
+  {
+    "averageColorRGB": [
+      78.32227011494254,
+      66.78985871647511,
+      70.8335767879949
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_38394.png",
+    "palette": [
+      {
+        "#544d56": "darkslategrey"
+      },
+      {
+        "#736672": "dimgray"
+      },
+      {
+        "#8a706d": "gray"
+      },
+      {
+        "#645760": "dimgray"
+      },
+      {
+        "#634940": "darkolivegreen"
+      },
+      {
+        "#695c61": "dimgray"
+      }
+    ],
+    "framenumber": 38394,
+    "averageColorHSV": [
+      0.941560096268372,
+      0.28453358594395617,
+      0.07947241551300702
+    ]
+  },
+  {
+    "averageColorRGB": [
+      41.84600893997446,
+      33.69341475095786,
+      37.558864144316736
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_39328.png",
+    "palette": [
+      {
+        "#06030a": "black"
+      },
+      {
+        "#4a342b": "darkslategrey"
+      },
+      {
+        "#341f1c": "black"
+      },
+      {
+        "#0d0811": "black"
+      },
+      {
+        "#614f46": "darkolivegreen"
+      },
+      {
+        "#070106": "black"
+      }
+    ],
+    "framenumber": 39328,
+    "averageColorHSV": [
+      0.9209771085591685,
+      0.14811651704104378,
+      0.10792502498262022
+    ]
+  },
+  {
+    "averageColorRGB": [
+      42.52096902937421,
+      43.81061222860792,
+      50.342844029374206
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_40262.png",
+    "palette": [
+      {
+        "#99a7ac": "darkgrey"
+      },
+      {
+        "#48575e": "darkslategrey"
+      },
+      {
+        "#001121": "black"
+      },
+      {
+        "#000006": "black"
+      },
+      {
+        "#7a8f99": "lightslategrey"
+      },
+      {
+        "#5e7078": "dimgray"
+      }
+    ],
+    "framenumber": 40262,
+    "averageColorHSV": [
+      0.6391872537118931,
+      0.18208590795833024,
+      0.08422952646852491
+    ]
+  },
+  {
+    "averageColorRGB": [
+      57.03068326947638,
+      56.76208492975735,
+      58.89052921455939
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_41196.png",
+    "palette": [
+      {
+        "#403e3b": "darkslategrey"
+      },
+      {
+        "#bbd1ec": "lightblue"
+      },
+      {
+        "#bcc9e0": "lightsteelblue"
+      },
+      {
+        "#141112": "black"
+      },
+      {
+        "#211f1f": "black"
+      },
+      {
+        "#353230": "darkslategrey"
+      }
+    ],
+    "framenumber": 41196,
+    "averageColorHSV": [
+      0.6876991128870454,
+      0.226769831655523,
+      0.018403771506159565
+    ]
+  },
+  {
+    "averageColorRGB": [
+      63.12883540868455,
+      47.950427043422735,
+      48.267596583652626
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_42130.png",
+    "palette": [
+      {
+        "#4f4746": "darkslategrey"
+      },
+      {
+        "#72686b": "dimgray"
+      },
+      {
+        "#412a29": "darkslategrey"
+      },
+      {
+        "#321e1c": "black"
+      },
+      {
+        "#2b1716": "black"
+      },
+      {
+        "#230c0b": "black"
+      }
+    ],
+    "framenumber": 42130,
+    "averageColorHSV": [
+      0.9965173166536159,
+      0.2178024753962888,
+      0.13664484288240666
+    ]
+  },
+  {
+    "averageColorRGB": [
+      40.880639367816094,
+      28.281345785440617,
+      23.585221104725417
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_43064.png",
+    "palette": [
+      {
+        "#1b0b06": "black"
+      },
+      {
+        "#2e1815": "black"
+      },
+      {
+        "#150704": "black"
+      },
+      {
+        "#0d090b": "black"
+      },
+      {
+        "#110703": "black"
+      },
+      {
+        "#230d08": "black"
+      }
+    ],
+    "framenumber": 43064,
+    "averageColorHSV": [
+      0.045254034038376655,
+      0.1264036479853755,
+      0.2682880230918109
+    ]
+  },
+  {
+    "averageColorRGB": [
+      45.13804278416348,
+      34.60084610472542,
+      26.694204980842915
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_43998.png",
+    "palette": [
+      {
+        "#4f3726": "darkolivegreen"
+      },
+      {
+        "#0f0600": "black"
+      },
+      {
+        "#0f0b06": "black"
+      },
+      {
+        "#664633": "darkolivegreen"
+      },
+      {
+        "#1f0c01": "black"
+      },
+      {
+        "#010601": "black"
+      }
+    ],
+    "framenumber": 43998,
+    "averageColorHSV": [
+      0.07144790225870655,
+      0.14084754463726745,
+      0.256762643202509
+    ]
+  },
+  {
+    "averageColorRGB": [
+      35.948124201788,
+      22.108943965517245,
+      16.50577905491699
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_44932.png",
+    "palette": [
+      {
+        "#1f0d0b": "black"
+      },
+      {
+        "#150601": "black"
+      },
+      {
+        "#0d0702": "black"
+      },
+      {
+        "#25100d": "black"
+      },
+      {
+        "#100701": "black"
+      },
+      {
+        "#190c08": "black"
+      }
+    ],
+    "framenumber": 44932,
+    "averageColorHSV": [
+      0.04803231355985207,
+      0.10285079069942155,
+      0.3706558318781694
+    ]
+  },
+  {
+    "averageColorRGB": [
+      38.4959211366539,
+      25.368482598978293,
+      22.785464559386977
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_45866.png",
+    "palette": [
+      {
+        "#1c0601": "black"
+      },
+      {
+        "#250701": "black"
+      },
+      {
+        "#301813": "black"
+      },
+      {
+        "#150401": "black"
+      },
+      {
+        "#110000": "black"
+      },
+      {
+        "#2d0f0a": "black"
+      }
+    ],
+    "framenumber": 45866,
+    "averageColorHSV": [
+      0.02740232306306691,
+      0.12015957979615857,
+      0.25636588335635346
+    ]
+  },
+  {
+    "averageColorRGB": [
+      66.88255108556834,
+      57.43944364623245,
+      53.453292624521076
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_46800.png",
+    "palette": [
+      {
+        "#3f291b": "darkslategrey"
+      },
+      {
+        "#493427": "darkslategrey"
+      },
+      {
+        "#413225": "darkslategrey"
+      },
+      {
+        "#452c21": "darkslategrey"
+      },
+      {
+        "#5b4e43": "darkolivegreen"
+      },
+      {
+        "#130402": "black"
+      }
+    ],
+    "framenumber": 46800,
+    "averageColorHSV": [
+      0.04947097455496833,
+      0.23595263472566552,
+      0.11159815768110415
+    ]
+  },
+  {
+    "averageColorRGB": [
+      79.46894157088123,
+      71.59959291187741,
+      67.63594747765008
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_47734.png",
+    "palette": [
+      {
+        "#5a311f": "saddlebrown"
+      },
+      {
+        "#54433e": "darkslategrey"
+      },
+      {
+        "#423328": "darkslategrey"
+      },
+      {
+        "#8f9d8d": "darkseagreen"
+      },
+      {
+        "#090711": "black"
+      },
+      {
+        "#4a2f22": "darkslategrey"
+      }
+    ],
+    "framenumber": 47734,
+    "averageColorHSV": [
+      0.0558275925067106,
+      0.2884409589186888,
+      0.08043916262584133
+    ]
+  },
+  {
+    "averageColorRGB": [
+      87.38324153895276,
+      68.92761015325671,
+      58.18524106002555
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_48668.png",
+    "palette": [
+      {
+        "#61462f": "darkolivegreen"
+      },
+      {
+        "#746354": "dimgray"
+      },
+      {
+        "#48362a": "darkslategrey"
+      },
+      {
+        "#603c24": "saddlebrown"
+      },
+      {
+        "#6b5646": "darkolivegreen"
+      },
+      {
+        "#8f6e53": "dimgray"
+      }
+    ],
+    "framenumber": 48668,
+    "averageColorHSV": [
+      0.06131909101666141,
+      0.28542839725289865,
+      0.20057913607139666
+    ]
+  },
+  {
+    "averageColorRGB": [
+      32.70192768199234,
+      26.706146232439337,
+      25.26043263090677
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_49602.png",
+    "palette": [
+      {
+        "#150f0f": "black"
+      },
+      {
+        "#0d0807": "black"
+      },
+      {
+        "#1d110f": "black"
+      },
+      {
+        "#100a09": "black"
+      },
+      {
+        "#0e080b": "black"
+      },
+      {
+        "#191414": "black"
+      }
+    ],
+    "framenumber": 49602,
+    "averageColorHSV": [
+      0.03237955078488484,
+      0.11365168688803748,
+      0.12838495552827786
+    ]
+  },
+  {
+    "averageColorRGB": [
+      35.01011733716476,
+      30.619939335887615,
+      32.19108796296297
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_50536.png",
+    "palette": [
+      {
+        "#040508": "black"
+      },
+      {
+        "#1c2025": "black"
+      },
+      {
+        "#06080f": "black"
+      },
+      {
+        "#070b14": "black"
+      },
+      {
+        "#151921": "black"
+      },
+      {
+        "#09070b": "black"
+      }
+    ],
+    "framenumber": 50536,
+    "averageColorHSV": [
+      0.9403536475203551,
+      0.128686385633436,
+      0.0668927961337529
+    ]
+  },
+  {
+    "averageColorRGB": [
+      39.25022349936143,
+      34.638593550447005,
+      34.22523547254151
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_51470.png",
+    "palette": [
+      {
+        "#1a0f0c": "black"
+      },
+      {
+        "#0d0b07": "black"
+      },
+      {
+        "#110f0d": "black"
+      },
+      {
+        "#0f1318": "black"
+      },
+      {
+        "#130e0b": "black"
+      },
+      {
+        "#170d09": "black"
+      }
+    ],
+    "framenumber": 51470,
+    "averageColorHSV": [
+      0.013710085002500557,
+      0.14406952739588813,
+      0.06839001888700656
+    ]
+  },
+  {
+    "averageColorRGB": [
+      26.500039910600258,
+      22.156840676883782,
+      21.129689495530016
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_52404.png",
+    "palette": [
+      {
+        "#0e0f12": "black"
+      },
+      {
+        "#0d0b07": "black"
+      },
+      {
+        "#140e09": "black"
+      },
+      {
+        "#130e0b": "black"
+      },
+      {
+        "#100e0c": "black"
+      },
+      {
+        "#130e0d": "black"
+      }
+    ],
+    "framenumber": 52404,
+    "averageColorHSV": [
+      0.031877224078071975,
+      0.09339162628652994,
+      0.11275206645156884
+    ]
+  },
+  {
+    "averageColorRGB": [
+      2.651572477650064,
+      9.14547014687101,
+      13.364216155810984
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_53338.png",
+    "palette": [
+      {
+        "#010b11": "black"
+      },
+      {
+        "#00070e": "black"
+      },
+      {
+        "#142937": "darkslategrey"
+      },
+      {
+        "#081d2b": "black"
+      },
+      {
+        "#040f1a": "black"
+      },
+      {
+        "#00070c": "black"
+      }
+    ],
+    "framenumber": 53338,
+    "averageColorHSV": [
+      0.5656349969202035,
+      0.031403507124433426,
+      0.6688801858797941
+    ]
+  },
+  {
+    "averageColorRGB": [
+      19.69128751596424,
+      15.796284323116222,
+      17.770729565772672
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_54272.png",
+    "palette": [
+      {
+        "#0c0709": "black"
+      },
+      {
+        "#0c0503": "black"
+      },
+      {
+        "#090403": "black"
+      },
+      {
+        "#0c0704": "black"
+      },
+      {
+        "#0c0706": "black"
+      },
+      {
+        "#090401": "black"
+      }
+    ],
+    "framenumber": 54272,
+    "averageColorHSV": [
+      0.9155137516411661,
+      0.06958347419427541,
+      0.10975682445984293
+    ]
+  },
+  {
+    "averageColorRGB": [
+      17.065373563218394,
+      12.846204501915711,
+      14.638070721583654
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_55206.png",
+    "palette": [
+      {
+        "#100e11": "black"
+      },
+      {
+        "#090708": "black"
+      },
+      {
+        "#0d0807": "black"
+      },
+      {
+        "#13161f": "black"
+      },
+      {
+        "#0d080a": "black"
+      },
+      {
+        "#0b0603": "black"
+      }
+    ],
+    "framenumber": 55206,
+    "averageColorHSV": [
+      0.9292172544864913,
+      0.058650153068890404,
+      0.14105471306512843
+    ]
+  },
+  {
+    "averageColorRGB": [
+      44.197557471264375,
+      31.463876915708816,
+      26.652354725415073
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_56140.png",
+    "palette": [
+      {
+        "#2d1b11": "black"
+      },
+      {
+        "#200f05": "black"
+      },
+      {
+        "#27110a": "black"
+      },
+      {
+        "#372018": "black"
+      },
+      {
+        "#100a06": "black"
+      },
+      {
+        "#160902": "black"
+      }
+    ],
+    "framenumber": 56140,
+    "averageColorHSV": [
+      0.0457059617187193,
+      0.13892139646407736,
+      0.24763901890441015
+    ]
+  },
+  {
+    "averageColorRGB": [
+      34.136170977011496,
+      24.612595785440615,
+      20.809462803320564
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_57074.png",
+    "palette": [
+      {
+        "#2b1810": "black"
+      },
+      {
+        "#0c0704": "black"
+      },
+      {
+        "#0f0601": "black"
+      },
+      {
+        "#442b1e": "darkslategrey"
+      },
+      {
+        "#160600": "black"
+      },
+      {
+        "#200d06": "black"
+      }
+    ],
+    "framenumber": 57074,
+    "averageColorHSV": [
+      0.0475627956100473,
+      0.10773653682418051,
+      0.24254353361306144
+    ]
+  },
+  {
+    "averageColorRGB": [
+      31.578939176245214,
+      19.507251756066413,
+      18.503013250319288
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_58008.png",
+    "palette": [
+      {
+        "#2a1817": "black"
+      },
+      {
+        "#1a0f10": "black"
+      },
+      {
+        "#291e1d": "black"
+      },
+      {
+        "#090403": "black"
+      },
+      {
+        "#180507": "black"
+      },
+      {
+        "#2c1c19": "black"
+      }
+    ],
+    "framenumber": 58008,
+    "averageColorHSV": [
+      0.012800094252547967,
+      0.09819990671875392,
+      0.2610905783894756
+    ]
+  },
+  {
+    "averageColorRGB": [
+      49.05298531289911,
+      40.764200191570886,
+      41.88997445721584
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_58942.png",
+    "palette": [
+      {
+        "#64544e": "dimgray"
+      },
+      {
+        "#100e13": "black"
+      },
+      {
+        "#0d0a06": "black"
+      },
+      {
+        "#76645f": "dimgray"
+      },
+      {
+        "#52423c": "darkslategrey"
+      },
+      {
+        "#473630": "darkslategrey"
+      }
+    ],
+    "framenumber": 58942,
+    "averageColorHSV": [
+      0.9773635048408525,
+      0.17611212844013724,
+      0.09228506855089234
+    ]
+  },
+  {
+    "averageColorRGB": [
+      63.10235073435505,
+      72.66730124521074,
+      92.7955459770115
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_59876.png",
+    "palette": [
+      {
+        "#435370": "darkslateblue"
+      },
+      {
+        "#10101b": "black"
+      },
+      {
+        "#243552": "darkslategrey"
+      },
+      {
+        "#8796b2": "lightslategrey"
+      },
+      {
+        "#344460": "darkslategrey"
+      },
+      {
+        "#7a93b6": "lightslategrey"
+      }
+    ],
+    "framenumber": 59876,
+    "averageColorHSV": [
+      0.6129789983154404,
+      0.30568215041444424,
+      0.1904656564907428
+    ]
+  },
+  {
+    "averageColorRGB": [
+      72.57297653256705,
+      72.1426245210728,
+      78.89297972541507
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_60810.png",
+    "palette": [
+      {
+        "#100a03": "black"
+      },
+      {
+        "#110a06": "black"
+      },
+      {
+        "#6783a9": "lightslategrey"
+      },
+      {
+        "#7e8c9b": "lightslategrey"
+      },
+      {
+        "#888f9d": "lightslategrey"
+      },
+      {
+        "#3b4a5f": "darkslategrey"
+      }
+    ],
+    "framenumber": 60810,
+    "averageColorHSV": [
+      0.6772920831192565,
+      0.29614824362056447,
+      0.04469380076320151
+    ]
+  },
+  {
+    "averageColorRGB": [
+      70.00373962324394,
+      75.98054757343552,
+      89.38513330140486
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_61744.png",
+    "palette": [
+      {
+        "#728699": "lightslategrey"
+      },
+      {
+        "#4f6173": "dimgray"
+      },
+      {
+        "#2b2025": "darkslategrey"
+      },
+      {
+        "#717e8f": "slategray"
+      },
+      {
+        "#3c4b5d": "darkslategrey"
+      },
+      {
+        "#292129": "darkslategrey"
+      }
+    ],
+    "framenumber": 61744,
+    "averageColorHSV": [
+      0.6152702255795783,
+      0.31252720181303684,
+      0.12159816003795625
+    ]
+  },
+  {
+    "averageColorRGB": [
+      25.92710727969349,
+      24.724592911877398,
+      29.49368215197957
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_62678.png",
+    "palette": [
+      {
+        "#1a1412": "black"
+      },
+      {
+        "#2d3441": "darkslategrey"
+      },
+      {
+        "#140f12": "black"
+      },
+      {
+        "#121217": "black"
+      },
+      {
+        "#21252d": "darkslategrey"
+      },
+      {
+        "#131014": "black"
+      }
+    ],
+    "framenumber": 62678,
+    "averageColorHSV": [
+      0.7086912653295317,
+      0.10631034326246463,
+      0.08796091787289899
+    ]
+  },
+  {
+    "averageColorRGB": [
+      35.14709051724138,
+      23.91232439335888,
+      23.986135057471266
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_63612.png",
+    "palette": [
+      {
+        "#241f1f": "black"
+      },
+      {
+        "#2f1715": "black"
+      },
+      {
+        "#230a0b": "black"
+      },
+      {
+        "#160404": "black"
+      },
+      {
+        "#3a302e": "darkslategrey"
+      },
+      {
+        "#1b0506": "black"
+      }
+    ],
+    "framenumber": 63612,
+    "averageColorHSV": [
+      0.9989050259510153,
+      0.11580277433451032,
+      0.1902281988551504
+    ]
+  },
+  {
+    "averageColorRGB": [
+      44.10457375478928,
+      33.0661398467433,
+      33.863509738186465
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_64546.png",
+    "palette": [
+      {
+        "#2e1d1c": "black"
+      },
+      {
+        "#1f090e": "black"
+      },
+      {
+        "#1f161b": "black"
+      },
+      {
+        "#5a342b": "darkolivegreen"
+      },
+      {
+        "#04000a": "black"
+      },
+      {
+        "#140309": "black"
+      }
+    ],
+    "framenumber": 64546,
+    "averageColorHSV": [
+      0.9879607032107764,
+      0.15131512470888742,
+      0.143039158158397
+    ]
+  },
+  {
+    "averageColorRGB": [
+      66.48703304597701,
+      52.24057311621967,
+      46.69651181353768
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_65480.png",
+    "palette": [
+      {
+        "#2d1b13": "black"
+      },
+      {
+        "#2a1813": "black"
+      },
+      {
+        "#574235": "darkolivegreen"
+      },
+      {
+        "#352117": "black"
+      },
+      {
+        "#49362b": "darkslategrey"
+      },
+      {
+        "#35221c": "darkslategrey"
+      }
+    ],
+    "framenumber": 65480,
+    "averageColorHSV": [
+      0.04668953415936753,
+      0.22192851933238178,
+      0.17485334336368114
+    ]
+  },
+  {
+    "averageColorRGB": [
+      46.885296934865906,
+      33.034538633461054,
+      33.77559865900383
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_66414.png",
+    "palette": [
+      {
+        "#20070a": "black"
+      },
+      {
+        "#170204": "black"
+      },
+      {
+        "#11060b": "black"
+      },
+      {
+        "#371c1b": "black"
+      },
+      {
+        "#160c10": "black"
+      },
+      {
+        "#1e1217": "black"
+      }
+    ],
+    "framenumber": 66414,
+    "averageColorHSV": [
+      0.9910827983876809,
+      0.15670555993789598,
+      0.1733081431275373
+    ]
+  },
+  {
+    "averageColorRGB": [
+      37.8097182311622,
+      31.496388090676888,
+      30.63973100255428
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_67348.png",
+    "palette": [
+      {
+        "#1d1617": "black"
+      },
+      {
+        "#231b1b": "black"
+      },
+      {
+        "#12080b": "black"
+      },
+      {
+        "#150b0e": "black"
+      },
+      {
+        "#3e3834": "darkslategrey"
+      },
+      {
+        "#303732": "darkslategrey"
+      }
+    ],
+    "framenumber": 67348,
+    "averageColorHSV": [
+      0.019913031474323606,
+      0.13421460634062055,
+      0.10474864748913369
+    ]
+  },
+  {
+    "averageColorRGB": [
+      60.35076628352491,
+      43.186709770114945,
+      43.117440932311624
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_68282.png",
+    "palette": [
+      {
+        "#190d0b": "black"
+      },
+      {
+        "#2c292f": "darkslategrey"
+      },
+      {
+        "#3a0b0b": "black"
+      },
+      {
+        "#561415": "maroon"
+      },
+      {
+        "#3a373e": "darkslategrey"
+      },
+      {
+        "#7d5449": "dimgray"
+      }
+    ],
+    "framenumber": 68282,
+    "averageColorHSV": [
+      0.0006699117010368997,
+      0.20287883767811085,
+      0.16655672128603008
+    ]
+  },
+  {
+    "averageColorRGB": [
+      50.33354086845467,
+      43.7420777458493,
+      44.17084929757344
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_69216.png",
+    "palette": [
+      {
+        "#100e11": "black"
+      },
+      {
+        "#5d525c": "dimgray"
+      },
+      {
+        "#4b2b27": "darkslategrey"
+      },
+      {
+        "#1e1818": "black"
+      },
+      {
+        "#263030": "darkslategrey"
+      },
+      {
+        "#323d3a": "darkslategrey"
+      }
+    ],
+    "framenumber": 69216,
+    "averageColorHSV": [
+      0.9891584123345424,
+      0.18446199728294896,
+      0.07006558361980467
+    ]
+  },
+  {
+    "averageColorRGB": [
+      51.109682311621974,
+      32.21204501915709,
+      26.93207614942529
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_70150.png",
+    "palette": [
+      {
+        "#1d0f0a": "black"
+      },
+      {
+        "#4c2a1a": "darkolivegreen"
+      },
+      {
+        "#150705": "black"
+      },
+      {
+        "#24130b": "black"
+      },
+      {
+        "#332018": "black"
+      },
+      {
+        "#1f0a07": "black"
+      }
+    ],
+    "framenumber": 70150,
+    "averageColorHSV": [
+      0.03639710257990295,
+      0.15302305580597503,
+      0.30980345188229425
+    ]
+  },
+  {
+    "averageColorRGB": [
+      75.46487068965519,
+      62.36914511494253,
+      60.4433429118774
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_71084.png",
+    "palette": [
+      {
+        "#776f73": "dimgray"
+      },
+      {
+        "#3f312c": "darkslategrey"
+      },
+      {
+        "#4a3830": "darkslategrey"
+      },
+      {
+        "#140c15": "black"
+      },
+      {
+        "#6a5d5d": "dimgray"
+      },
+      {
+        "#54433a": "darkolivegreen"
+      }
+    ],
+    "framenumber": 71084,
+    "averageColorHSV": [
+      0.021367136458583996,
+      0.2664866933363384,
+      0.11052700480501633
+    ]
+  },
+  {
+    "averageColorRGB": [
+      47.24355842911878,
+      30.78410759897829,
+      30.456712962962968
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_72018.png",
+    "palette": [
+      {
+        "#430f13": "maroon"
+      },
+      {
+        "#3a3031": "darkslategrey"
+      },
+      {
+        "#1b0d0d": "black"
+      },
+      {
+        "#0d070b": "black"
+      },
+      {
+        "#0b0608": "black"
+      },
+      {
+        "#09060a": "black"
+      }
+    ],
+    "framenumber": 72018,
+    "averageColorHSV": [
+      0.0032505078324114867,
+      0.15235347331780735,
+      0.2160461625860745
+    ]
+  },
+  {
+    "averageColorRGB": [
+      45.767524744572164,
+      31.496651500638574,
+      36.37321998722861
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_72952.png",
+    "palette": [
+      {
+        "#322324": "darkslategrey"
+      },
+      {
+        "#10090f": "black"
+      },
+      {
+        "#2c312e": "darkslategrey"
+      },
+      {
+        "#492929": "darkslategrey"
+      },
+      {
+        "#180008": "black"
+      },
+      {
+        "#523d38": "darkslategrey"
+      }
+    ],
+    "framenumber": 72952,
+    "averageColorHSV": [
+      0.943047534615503,
+      0.15149838479453087,
+      0.18470232826455818
+    ]
+  },
+  {
+    "averageColorRGB": [
+      44.293734035759904,
+      29.266331417624524,
+      33.298307790549174
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_73886.png",
+    "palette": [
+      {
+        "#1c141a": "black"
+      },
+      {
+        "#050007": "black"
+      },
+      {
+        "#322a2e": "darkslategrey"
+      },
+      {
+        "#2b2226": "darkslategrey"
+      },
+      {
+        "#231a20": "black"
+      },
+      {
+        "#2d2223": "darkslategrey"
+      }
+    ],
+    "framenumber": 73886,
+    "averageColorHSV": [
+      0.9552819552899228,
+      0.14423542245761653,
+      0.20428751015261615
+    ]
+  },
+  {
+    "averageColorRGB": [
+      39.87175127713921,
+      31.68734035759898,
+      32.670426245210734
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_74820.png",
+    "palette": [
+      {
+        "#11060b": "black"
+      },
+      {
+        "#130608": "black"
+      },
+      {
+        "#10070d": "black"
+      },
+      {
+        "#030008": "black"
+      },
+      {
+        "#010007": "black"
+      },
+      {
+        "#373437": "darkslategrey"
+      }
+    ],
+    "framenumber": 74820,
+    "averageColorHSV": [
+      0.9799805203396976,
+      0.14031194438183958,
+      0.11437276148384094
+    ]
+  },
+  {
+    "averageColorRGB": [
+      81.48918422733078,
+      66.99109594508302,
+      67.0039990421456
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_75754.png",
+    "palette": [
+      {
+        "#3b2b24": "darkslategrey"
+      },
+      {
+        "#8a7e7e": "gray"
+      },
+      {
+        "#514342": "darkslategrey"
+      },
+      {
+        "#4b3e3b": "darkslategrey"
+      },
+      {
+        "#382723": "darkslategrey"
+      },
+      {
+        "#473634": "darkslategrey"
+      }
+    ],
+    "framenumber": 75754,
+    "averageColorHSV": [
+      0.9998516689831632,
+      0.29113780425963487,
+      0.0976431904991877
+    ]
+  },
+  {
+    "averageColorRGB": [
+      119.45692848020435,
+      105.3847940613027,
+      96.93148547254151
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_76688.png",
+    "palette": [
+      {
+        "#ad9b90": "rosybrown"
+      },
+      {
+        "#82685a": "dimgray"
+      },
+      {
+        "#978779": "gray"
+      },
+      {
+        "#594035": "darkolivegreen"
+      },
+      {
+        "#9d8271": "gray"
+      },
+      {
+        "#8b7b71": "gray"
+      }
+    ],
+    "framenumber": 76688,
+    "averageColorHSV": [
+      0.06254637319737717,
+      0.4242910077504821,
+      0.10409726933246005
+    ]
+  },
+  {
+    "averageColorRGB": [
+      71.92656050446999,
+      65.62213441890167,
+      69.39485951468711
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_77622.png",
+    "palette": [
+      {
+        "#645a5d": "dimgray"
+      },
+      {
+        "#28283a": "darkslategrey"
+      },
+      {
+        "#6f6260": "dimgray"
+      },
+      {
+        "#464653": "darkslategrey"
+      },
+      {
+        "#402f2b": "darkslategrey"
+      },
+      {
+        "#766662": "dimgray"
+      }
+    ],
+    "framenumber": 77622,
+    "averageColorHSV": [
+      0.9002625286695609,
+      0.2697033233791601,
+      0.04583413960474521
+    ]
+  },
+  {
+    "averageColorRGB": [
+      38.27847222222223,
+      37.75553160919541,
+      41.023978288633465
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_78556.png",
+    "palette": [
+      {
+        "#232425": "darkslategrey"
+      },
+      {
+        "#02121c": "black"
+      },
+      {
+        "#1d232a": "darkslategrey"
+      },
+      {
+        "#2f373f": "darkslategrey"
+      },
+      {
+        "#72524d": "dimgray"
+      },
+      {
+        "#03121f": "black"
+      }
+    ],
+    "framenumber": 78556,
+    "averageColorHSV": [
+      0.6933327797735779,
+      0.15446962725064484,
+      0.041488537865708844
+    ]
+  },
+  {
+    "averageColorRGB": [
+      43.73900063856961,
+      44.46238425925927,
+      48.61552522349937
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_79490.png",
+    "palette": [
+      {
+        "#10181f": "black"
+      },
+      {
+        "#8a5f59": "dimgray"
+      },
+      {
+        "#1a1f27": "black"
+      },
+      {
+        "#000c17": "black"
+      },
+      {
+        "#0c151f": "black"
+      },
+      {
+        "#000e19": "black"
+      }
+    ],
+    "framenumber": 79490,
+    "averageColorHSV": [
+      0.6419433345718802,
+      0.18108730561189995,
+      0.052802226414034335
+    ]
+  },
+  {
+    "averageColorRGB": [
+      83.6812021072797,
+      77.67195083014049,
+      74.69931752873563
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_80424.png",
+    "palette": [
+      {
+        "#8b8074": "gray"
+      },
+      {
+        "#a19d91": "darkgrey"
+      },
+      {
+        "#898176": "gray"
+      },
+      {
+        "#55323d": "darkslategrey"
+      },
+      {
+        "#7d7066": "dimgray"
+      },
+      {
+        "#69434d": "dimgray"
+      }
+    ],
+    "framenumber": 80424,
+    "averageColorHSV": [
+      0.05515979182709396,
+      0.3105500385019908,
+      0.056710791195697115
+    ]
+  },
+  {
+    "averageColorRGB": [
+      115.19468789910601,
+      107.7021072796935,
+      105.03386015325671
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_81358.png",
+    "palette": [
+      {
+        "#90867c": "gray"
+      },
+      {
+        "#858075": "gray"
+      },
+      {
+        "#5d514a": "darkolivegreen"
+      },
+      {
+        "#77736c": "dimgray"
+      },
+      {
+        "#8b8377": "gray"
+      },
+      {
+        "#7d7469": "dimgray"
+      }
+    ],
+    "framenumber": 81358,
+    "averageColorHSV": [
+      0.04376689237624295,
+      0.4318206824556132,
+      0.046137650344193384
+    ]
+  },
+  {
+    "averageColorRGB": [
+      53.25320083014049,
+      49.61327426564496,
+      59.46918502554279
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_82292.png",
+    "palette": [
+      {
+        "#1d223f": "midnightblue"
+      },
+      {
+        "#646f7f": "dimgray"
+      },
+      {
+        "#5d5153": "dimgray"
+      },
+      {
+        "#282128": "darkslategrey"
+      },
+      {
+        "#4a4045": "darkslategrey"
+      },
+      {
+        "#372f34": "darkslategrey"
+      }
+    ],
+    "framenumber": 82292,
+    "averageColorHSV": [
+      0.7282190124817592,
+      0.2138871750807603,
+      0.09035284704746332
+    ]
+  },
+  {
+    "averageColorRGB": [
+      69.30389527458493,
+      61.43368055555556,
+      59.65153655810984
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_83226.png",
+    "palette": [
+      {
+        "#2f2127": "darkslategrey"
+      },
+      {
+        "#382628": "darkslategrey"
+      },
+      {
+        "#382a26": "darkslategrey"
+      },
+      {
+        "#6e6267": "dimgray"
+      },
+      {
+        "#505245": "darkolivegreen"
+      },
+      {
+        "#2d1d1c": "black"
+      }
+    ],
+    "framenumber": 83226,
+    "averageColorHSV": [
+      0.030772167539454647,
+      0.25285378790724466,
+      0.07485034619555965
+    ]
+  },
+  {
+    "averageColorRGB": [
+      45.97866379310345,
+      38.467377075351216,
+      36.63932391443168
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_84160.png",
+    "palette": [
+      {
+        "#3f3229": "darkslategrey"
+      },
+      {
+        "#3c2f2c": "darkslategrey"
+      },
+      {
+        "#2e231d": "black"
+      },
+      {
+        "#433229": "darkslategrey"
+      },
+      {
+        "#1d1615": "black"
+      },
+      {
+        "#382922": "darkslategrey"
+      }
+    ],
+    "framenumber": 84160,
+    "averageColorHSV": [
+      0.0326228117595023,
+      0.16199605432850026,
+      0.11304245162364299
+    ]
+  },
+  {
+    "averageColorRGB": [
+      16.896116698595147,
+      11.76020913154534,
+      9.148479406130269
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_85094.png",
+    "palette": [
+      {
+        "#140d0b": "black"
+      },
+      {
+        "#060808": "black"
+      },
+      {
+        "#0c0704": "black"
+      },
+      {
+        "#090906": "black"
+      },
+      {
+        "#201512": "black"
+      },
+      {
+        "#100a06": "black"
+      }
+    ],
+    "framenumber": 85094,
+    "averageColorHSV": [
+      0.05618335902127567,
+      0.0510678354994616,
+      0.2974758088515406
+    ]
+  },
+  {
+    "averageColorRGB": [
+      59.071851053639854,
+      45.32668821839081,
+      46.78681752873564
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_86028.png",
+    "palette": [
+      {
+        "#2e2020": "black"
+      },
+      {
+        "#433436": "darkslategrey"
+      },
+      {
+        "#352a30": "darkslategrey"
+      },
+      {
+        "#2d2124": "darkslategrey"
+      },
+      {
+        "#35282a": "darkslategrey"
+      },
+      {
+        "#473634": "darkslategrey"
+      }
+    ],
+    "framenumber": 86028,
+    "averageColorHSV": [
+      0.9822952344781688,
+      0.20470301818045228,
+      0.13166048999434138
+    ]
+  },
+  {
+    "averageColorRGB": [
+      26.29988425925926,
+      17.533636653895275,
+      15.104250478927204
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_86962.png",
+    "palette": [
+      {
+        "#15070a": "black"
+      },
+      {
+        "#160f08": "black"
+      },
+      {
+        "#100a0c": "black"
+      },
+      {
+        "#231f15": "black"
+      },
+      {
+        "#0f0308": "black"
+      },
+      {
+        "#090204": "black"
+      }
+    ],
+    "framenumber": 86962,
+    "averageColorHSV": [
+      0.03616567885056373,
+      0.08118457791801267,
+      0.27039893119675507
+    ]
+  },
+  {
+    "averageColorRGB": [
+      36.60103368454662,
+      24.26567289272031,
+      20.21389687100894
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_87896.png",
+    "palette": [
+      {
+        "#231810": "black"
+      },
+      {
+        "#0a0000": "black"
+      },
+      {
+        "#21130f": "black"
+      },
+      {
+        "#130602": "black"
+      },
+      {
+        "#0c0101": "black"
+      },
+      {
+        "#190c08": "black"
+      }
+    ],
+    "framenumber": 87896,
+    "averageColorHSV": [
+      0.04120890740722253,
+      0.11140182461873639,
+      0.28843011253025785
+    ]
+  },
+  {
+    "averageColorRGB": [
+      34.42375079821201,
+      21.629673531289914,
+      17.635328863346107
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_88830.png",
+    "palette": [
+      {
+        "#241814": "black"
+      },
+      {
+        "#0a0000": "black"
+      },
+      {
+        "#1a0f0c": "black"
+      },
+      {
+        "#140905": "black"
+      },
+      {
+        "#0d0101": "black"
+      },
+      {
+        "#20120d": "black"
+      }
+    ],
+    "framenumber": 88830,
+    "averageColorHSV": [
+      0.039653763403539634,
+      0.10207662678736887,
+      0.32248787423844805
+    ]
+  },
+  {
+    "averageColorRGB": [
+      108.39575750319285,
+      97.92110073435505,
+      107.67668023627077
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_89764.png",
+    "palette": [
+      {
+        "#c9bbcc": "silver"
+      },
+      {
+        "#b6accd": "silver"
+      },
+      {
+        "#a595a5": "darkgrey"
+      },
+      {
+        "#514242": "darkslategrey"
+      },
+      {
+        "#6f6973": "dimgray"
+      },
+      {
+        "#b3add0": "lightsteelblue"
+      }
+    ],
+    "framenumber": 89764,
+    "averageColorHSV": [
+      0.8447748739774358,
+      0.4045428592893096,
+      0.05076975705386882
+    ]
+  },
+  {
+    "averageColorRGB": [
+      98.03124600893999,
+      84.06530970625799,
+      81.85881226053641
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_90698.png",
+    "palette": [
+      {
+        "#8d7e76": "gray"
+      },
+      {
+        "#b9ada1": "darkgrey"
+      },
+      {
+        "#1c0005": "black"
+      },
+      {
+        "#9c8d83": "gray"
+      },
+      {
+        "#767079": "gray"
+      },
+      {
+        "#917e78": "gray"
+      }
+    ],
+    "framenumber": 90698,
+    "averageColorHSV": [
+      0.022739284637553907,
+      0.3527256044499537,
+      0.08990176502237368
+    ]
+  },
+  {
+    "averageColorRGB": [
+      80.32339559386973,
+      65.44424489144318,
+      63.95875239463602
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_91632.png",
+    "palette": [
+      {
+        "#4f4f57": "darkslategrey"
+      },
+      {
+        "#71625d": "dimgray"
+      },
+      {
+        "#26080a": "black"
+      },
+      {
+        "#150000": "black"
+      },
+      {
+        "#1c0001": "black"
+      },
+      {
+        "#84776e": "gray"
+      }
+    ],
+    "framenumber": 91632,
+    "averageColorHSV": [
+      0.015129085296084255,
+      0.28290617252648187,
+      0.11342112262244246
+    ]
+  },
+  {
+    "averageColorRGB": [
+      88.43540070242658,
+      75.3605443805875,
+      77.88664192209451
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_92566.png",
+    "palette": [
+      {
+        "#847571": "gray"
+      },
+      {
+        "#555662": "dimgray"
+      },
+      {
+        "#605451": "dimgray"
+      },
+      {
+        "#3d4255": "darkslategrey"
+      },
+      {
+        "#857873": "gray"
+      },
+      {
+        "#686570": "dimgray"
+      }
+    ],
+    "framenumber": 92566,
+    "averageColorHSV": [
+      0.9677995500252948,
+      0.32116851977061583,
+      0.07982405373474026
+    ]
+  },
+  {
+    "averageColorRGB": [
+      56.348818646232445,
+      50.51675047892721,
+      56.5979046934866
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_93500.png",
+    "palette": [
+      {
+        "#666f80": "dimgray"
+      },
+      {
+        "#4c4d57": "darkslategrey"
+      },
+      {
+        "#1d0500": "black"
+      },
+      {
+        "#545862": "dimgray"
+      },
+      {
+        "#130402": "black"
+      },
+      {
+        "#180200": "black"
+      }
+    ],
+    "framenumber": 93500,
+    "averageColorHSV": [
+      0.8265066126575721,
+      0.21002873563218394,
+      0.05677238287114913
+    ]
+  },
+  {
+    "averageColorRGB": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_94434.png",
+    "palette": [
+      {
+        "#ffffff": "white"
+      }
+    ],
+    "framenumber": 94434,
+    "averageColorHSV": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "averageColorRGB": [
+      75.7541227650064,
+      55.67510376756067,
+      37.8058269476373
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_95368.png",
+    "palette": [
+      {
+        "#8b6b51": "dimgray"
+      },
+      {
+        "#3b1f01": "black"
+      },
+      {
+        "#5f3d21": "saddlebrown"
+      },
+      {
+        "#2e1600": "black"
+      },
+      {
+        "#4c2d0f": "saddlebrown"
+      },
+      {
+        "#3a250d": "black"
+      }
+    ],
+    "framenumber": 95368,
+    "averageColorHSV": [
+      0.0784808049787949,
+      0.22266656806400725,
+      0.3341697131197652
+    ]
+  },
+  {
+    "averageColorRGB": [
+      96.76476692209452,
+      73.07106082375479,
+      66.42474058109835
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_96302.png",
+    "palette": [
+      {
+        "#887770": "gray"
+      },
+      {
+        "#85797a": "gray"
+      },
+      {
+        "#817a7e": "gray"
+      },
+      {
+        "#5f1000": "maroon"
+      },
+      {
+        "#4a3d33": "darkslategrey"
+      },
+      {
+        "#73605b": "dimgray"
+      }
+    ],
+    "framenumber": 96302,
+    "averageColorHSV": [
+      0.03651018716967832,
+      0.31997942647684874,
+      0.18591897729945997
+    ]
+  },
+  {
+    "averageColorRGB": [
+      50.50400303320563,
+      29.417736270753515,
+      23.507116060025545
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_97236.png",
+    "palette": [
+      {
+        "#0a0000": "black"
+      },
+      {
+        "#450700": "maroon"
+      },
+      {
+        "#331708": "black"
+      },
+      {
+        "#1b0605": "black"
+      },
+      {
+        "#0e0000": "black"
+      },
+      {
+        "#3b1e0d": "black"
+      }
+    ],
+    "framenumber": 97236,
+    "averageColorHSV": [
+      0.03648951708518494,
+      0.1451198413592768,
+      0.36476798762051327
+    ]
+  },
+  {
+    "averageColorRGB": [
+      71.37336366538953,
+      45.29225734355045,
+      28.74176245210728
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_98170.png",
+    "palette": [
+      {
+        "#513823": "darkolivegreen"
+      },
+      {
+        "#794e32": "saddlebrown"
+      },
+      {
+        "#5e3b22": "saddlebrown"
+      },
+      {
+        "#3f240f": "black"
+      },
+      {
+        "#3a1c07": "black"
+      },
+      {
+        "#532d11": "saddlebrown"
+      }
+    ],
+    "framenumber": 98170,
+    "averageColorHSV": [
+      0.06470354705750814,
+      0.19630416885783689,
+      0.42582577545024597
+    ]
+  },
+  {
+    "averageColorRGB": [
+      10.503488186462326,
+      18.55605443805875,
+      21.18929198595147
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_99104.png",
+    "palette": [
+      {
+        "#070906": "black"
+      },
+      {
+        "#050c0f": "black"
+      },
+      {
+        "#0b1b26": "black"
+      },
+      {
+        "#050a09": "black"
+      },
+      {
+        "#122c34": "darkslategrey"
+      },
+      {
+        "#060d12": "black"
+      }
+    ],
+    "framenumber": 99104,
+    "averageColorHSV": [
+      0.5410706515751081,
+      0.0621427062204192,
+      0.3371683942322719
+    ]
+  },
+  {
+    "averageColorRGB": [
+      53.435636174968074,
+      39.50886813537676,
+      37.40097780970626
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_100038.png",
+    "palette": [
+      {
+        "#170800": "black"
+      },
+      {
+        "#745750": "dimgray"
+      },
+      {
+        "#60463d": "darkolivegreen"
+      },
+      {
+        "#3b3235": "darkslategrey"
+      },
+      {
+        "#412821": "darkslategrey"
+      },
+      {
+        "#3a3237": "darkslategrey"
+      }
+    ],
+    "framenumber": 100038,
+    "averageColorHSV": [
+      0.02190973117578356,
+      0.17811100781308692,
+      0.1765219734849113
+    ]
+  },
+  {
+    "averageColorRGB": [
+      53.20731960408685,
+      38.710392720306515,
+      32.56772828863346
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_100972.png",
+    "palette": [
+      {
+        "#291005": "black"
+      },
+      {
+        "#382920": "darkslategrey"
+      },
+      {
+        "#1b0600": "black"
+      },
+      {
+        "#331f17": "black"
+      },
+      {
+        "#0c0100": "black"
+      },
+      {
+        "#4a3d35": "darkslategrey"
+      }
+    ],
+    "framenumber": 100972,
+    "averageColorHSV": [
+      0.04960260063445702,
+      0.16818636841709866,
+      0.24062465510095105
+    ]
+  },
+  {
+    "averageColorRGB": [
+      60.65100973818647,
+      43.593023627075354,
+      36.39931752873564
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_101906.png",
+    "palette": [
+      {
+        "#2e1b13": "black"
+      },
+      {
+        "#4e3d34": "darkslategrey"
+      },
+      {
+        "#160600": "black"
+      },
+      {
+        "#402e26": "darkslategrey"
+      },
+      {
+        "#100500": "black"
+      },
+      {
+        "#35241c": "darkslategrey"
+      }
+    ],
+    "framenumber": 101906,
+    "averageColorHSV": [
+      0.049437829164049985,
+      0.1902947593469061,
+      0.24988779422402413
+    ]
+  },
+  {
+    "averageColorRGB": [
+      63.30227490421456,
+      42.88338122605364,
+      35.37082136015326
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_102840.png",
+    "palette": [
+      {
+        "#aa9990": "rosybrown"
+      },
+      {
+        "#1f0a02": "black"
+      },
+      {
+        "#5e463c": "darkolivegreen"
+      },
+      {
+        "#2e1c14": "black"
+      },
+      {
+        "#29140c": "black"
+      },
+      {
+        "#3e271b": "darkslategrey"
+      }
+    ],
+    "framenumber": 102840,
+    "averageColorHSV": [
+      0.044827359557505476,
+      0.19347665934189767,
+      0.2830706099383619
+    ]
+  },
+  {
+    "averageColorRGB": [
+      46.68034003831418,
+      36.6451867816092,
+      35.96006944444445
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_103774.png",
+    "palette": [
+      {
+        "#392824": "darkslategrey"
+      },
+      {
+        "#1c0a05": "black"
+      },
+      {
+        "#412e27": "darkslategrey"
+      },
+      {
+        "#483931": "darkslategrey"
+      },
+      {
+        "#170600": "black"
+      },
+      {
+        "#22130d": "black"
+      }
+    ],
+    "framenumber": 103774,
+    "averageColorHSV": [
+      0.010651431030676358,
+      0.16204001859364436,
+      0.12972189587354732
+    ]
+  },
+  {
+    "averageColorRGB": [
+      89.06878991060026,
+      77.50579102809706,
+      73.29204182630907
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_104708.png",
+    "palette": [
+      {
+        "#553d35": "darkolivegreen"
+      },
+      {
+        "#291916": "black"
+      },
+      {
+        "#665651": "dimgray"
+      },
+      {
+        "#312423": "darkslategrey"
+      },
+      {
+        "#635350": "dimgray"
+      },
+      {
+        "#2f201b": "black"
+      }
+    ],
+    "framenumber": 104708,
+    "averageColorHSV": [
+      0.04451434033675159,
+      0.31835457203315554,
+      0.09717089962840263
+    ]
+  },
+  {
+    "averageColorRGB": [
+      35.20551165389528,
+      23.362978927203066,
+      24.517484833971906
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_105642.png",
+    "palette": [
+      {
+        "#0c0508": "black"
+      },
+      {
+        "#1a0a08": "black"
+      },
+      {
+        "#0c0000": "black"
+      },
+      {
+        "#0f0101": "black"
+      },
+      {
+        "#0a0306": "black"
+      },
+      {
+        "#210e0b": "black"
+      }
+    ],
+    "framenumber": 105642,
+    "averageColorHSV": [
+      0.9837519848524932,
+      0.11484017760999676,
+      0.20219972564077182
+    ]
+  },
+  {
+    "averageColorRGB": [
+      27.13207614942529,
+      22.02343550446999,
+      23.49381385696041
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_106576.png",
+    "palette": [
+      {
+        "#0d0b0c": "black"
+      },
+      {
+        "#0c0706": "black"
+      },
+      {
+        "#130c0b": "black"
+      },
+      {
+        "#100909": "black"
+      },
+      {
+        "#0f0a09": "black"
+      },
+      {
+        "#0d0604": "black"
+      }
+    ],
+    "framenumber": 106576,
+    "averageColorHSV": [
+      0.9520296932628449,
+      0.0963833561841084,
+      0.10392813487377202
+    ]
+  },
+  {
+    "averageColorRGB": [
+      27.628687739463604,
+      18.423706896551725,
+      18.756792784163476
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_107510.png",
+    "palette": [
+      {
+        "#080200": "black"
+      },
+      {
+        "#0c070a": "black"
+      },
+      {
+        "#282329": "darkslategrey"
+      },
+      {
+        "#080205": "black"
+      },
+      {
+        "#000003": "black"
+      },
+      {
+        "#674845": "darkolivegreen"
+      }
+    ],
+    "framenumber": 107510,
+    "averageColorHSV": [
+      0.9939691004740432,
+      0.09029881301179477,
+      0.19988061241256527
+    ]
+  },
+  {
+    "averageColorRGB": [
+      103.25840118135378,
+      106.66947637292466,
+      109.32680395913155
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_108444.png",
+    "palette": [
+      {
+        "#bfd2da": "lightsteelblue"
+      },
+      {
+        "#a7b7c1": "silver"
+      },
+      {
+        "#464429": "darkolivegreen"
+      },
+      {
+        "#727d89": "slategray"
+      },
+      {
+        "#2b2423": "darkslategrey"
+      },
+      {
+        "#8c98a6": "lightslategrey"
+      }
+    ],
+    "framenumber": 108444,
+    "averageColorHSV": [
+      0.5729826195216171,
+      0.41683373556957903,
+      0.028545743687889865
+    ]
+  },
+  {
+    "averageColorRGB": [
+      57.023874521072806,
+      46.51315852490422,
+      46.69054916985952
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_109378.png",
+    "palette": [
+      {
+        "#47362e": "darkslategrey"
+      },
+      {
+        "#251d23": "black"
+      },
+      {
+        "#3a3131": "darkslategrey"
+      },
+      {
+        "#10060b": "black"
+      },
+      {
+        "#150a11": "black"
+      },
+      {
+        "#322b2d": "darkslategrey"
+      }
+    ],
+    "framenumber": 109378,
+    "averageColorHSV": [
+      0.9971871461941006,
+      0.20301379028622946,
+      0.10151648822601629
+    ]
+  },
+  {
+    "averageColorRGB": [
+      44.1751077586207,
+      34.03410360791827,
+      27.684259259259264
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_110312.png",
+    "palette": [
+      {
+        "#271a11": "black"
+      },
+      {
+        "#160802": "black"
+      },
+      {
+        "#1a0f0b": "black"
+      },
+      {
+        "#493823": "darkolivegreen"
+      },
+      {
+        "#1f130c": "black"
+      },
+      {
+        "#46494a": "darkslategrey"
+      }
+    ],
+    "framenumber": 110312,
+    "averageColorHSV": [
+      0.06417543593855392,
+      0.14090071964290188,
+      0.2294878063044753
+    ]
+  },
+  {
+    "averageColorRGB": [
+      43.17480842911878,
+      32.0094987228608,
+      26.730164431673057
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_111246.png",
+    "palette": [
+      {
+        "#1a0a00": "black"
+      },
+      {
+        "#2b221c": "black"
+      },
+      {
+        "#1f0f07": "black"
+      },
+      {
+        "#1f130a": "black"
+      },
+      {
+        "#010000": "black"
+      },
+      {
+        "#241c16": "black"
+      }
+    ],
+    "framenumber": 111246,
+    "averageColorHSV": [
+      0.05350611716908923,
+      0.13706857423684674,
+      0.23524283501537782
+    ]
+  },
+  {
+    "averageColorRGB": [
+      28.406429597701152,
+      21.41668263090677,
+      17.887719508301405
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_112180.png",
+    "palette": [
+      {
+        "#0a0000": "black"
+      },
+      {
+        "#080000": "black"
+      },
+      {
+        "#1c1814": "black"
+      },
+      {
+        "#18100b": "black"
+      },
+      {
+        "#0f0401": "black"
+      },
+      {
+        "#0d0200": "black"
+      }
+    ],
+    "framenumber": 112180,
+    "averageColorHSV": [
+      0.05591565081986122,
+      0.09077284138431874,
+      0.22721467599100717
+    ]
+  },
+  {
+    "averageColorRGB": [
+      70.72050207535122,
+      60.13204821200512,
+      63.83807870370371
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_113114.png",
+    "palette": [
+      {
+        "#332830": "darkslategrey"
+      },
+      {
+        "#483e46": "darkslategrey"
+      },
+      {
+        "#0c0000": "black"
+      },
+      {
+        "#68678c": "slategray"
+      },
+      {
+        "#7173a0": "slategray"
+      },
+      {
+        "#090000": "black"
+      }
+    ],
+    "framenumber": 113114,
+    "averageColorHSV": [
+      0.9416655390307157,
+      0.2565736280144242,
+      0.08091897208035702
+    ]
+  },
+  {
+    "averageColorRGB": [
+      64.16596024904216,
+      51.49559786079183,
+      52.770087005108564
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_114048.png",
+    "palette": [
+      {
+        "#453c40": "darkslategrey"
+      },
+      {
+        "#453736": "darkslategrey"
+      },
+      {
+        "#27262e": "darkslategrey"
+      },
+      {
+        "#2f201e": "black"
+      },
+      {
+        "#33323a": "darkslategrey"
+      },
+      {
+        "#453530": "darkslategrey"
+      }
+    ],
+    "framenumber": 114048,
+    "averageColorHSV": [
+      0.9832352973910911,
+      0.22678736884281175,
+      0.10954687620772287
+    ]
+  },
+  {
+    "averageColorRGB": [
+      65.8056393678161,
+      48.238725255427845,
+      47.8716714559387
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_114982.png",
+    "palette": [
+      {
+        "#48332d": "darkslategrey"
+      },
+      {
+        "#422f2e": "darkslategrey"
+      },
+      {
+        "#3b2521": "darkslategrey"
+      },
+      {
+        "#0e0705": "black"
+      },
+      {
+        "#331f1d": "black"
+      },
+      {
+        "#4f3a37": "darkslategrey"
+      }
+    ],
+    "framenumber": 114982,
+    "averageColorHSV": [
+      0.0034111599590671373,
+      0.22289668788971528,
+      0.1577620703895978
+    ]
+  },
+  {
+    "averageColorRGB": [
+      53.004601692209455,
+      44.03354485951469,
+      46.571863026819926
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_115916.png",
+    "palette": [
+      {
+        "#3f2f28": "darkslategrey"
+      },
+      {
+        "#010511": "black"
+      },
+      {
+        "#5e372f": "darkolivegreen"
+      },
+      {
+        "#312928": "darkslategrey"
+      },
+      {
+        "#20272e": "darkslategrey"
+      },
+      {
+        "#72453c": "saddlebrown"
+      }
+    ],
+    "framenumber": 115916,
+    "averageColorHSV": [
+      0.9528424537070815,
+      0.19027087559161598,
+      0.09244876526895457
+    ]
+  },
+  {
+    "averageColorRGB": [
+      81.2926085568327,
+      65.65029134738187,
+      65.15986590038315
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_116850.png",
+    "palette": [
+      {
+        "#40312e": "darkslategrey"
+      },
+      {
+        "#352521": "darkslategrey"
+      },
+      {
+        "#6d574d": "dimgray"
+      },
+      {
+        "#67514a": "dimgray"
+      },
+      {
+        "#503f39": "darkslategrey"
+      },
+      {
+        "#98898e": "gray"
+      }
+    ],
+    "framenumber": 116850,
+    "averageColorHSV": [
+      0.005066564082772895,
+      0.2871617146219919,
+      0.110156845872635
+    ]
+  },
+  {
+    "averageColorRGB": [
+      58.906038473818654,
+      46.67010296934866,
+      48.11525782247765
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_117784.png",
+    "palette": [
+      {
+        "#201f25": "black"
+      },
+      {
+        "#574547": "darkslategrey"
+      },
+      {
+        "#615056": "dimgray"
+      },
+      {
+        "#68504e": "dimgray"
+      },
+      {
+        "#493838": "darkslategrey"
+      },
+      {
+        "#b39fa7": "darkgrey"
+      }
+    ],
+    "framenumber": 117784,
+    "averageColorHSV": [
+      0.9803154289183548,
+      0.20701204204542611,
+      0.11589678631186497
+    ]
+  },
+  {
+    "averageColorRGB": [
+      43.04651181353768,
+      32.03321360153257,
+      36.5593430715198
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_118718.png",
+    "palette": [
+      {
+        "#4a3f44": "darkslategrey"
+      },
+      {
+        "#151521": "black"
+      },
+      {
+        "#110f18": "black"
+      },
+      {
+        "#0e0713": "black"
+      },
+      {
+        "#302223": "darkslategrey"
+      },
+      {
+        "#392929": "darkslategrey"
+      }
+    ],
+    "framenumber": 118718,
+    "averageColorHSV": [
+      0.9315050862018565,
+      0.14721514787268675,
+      0.14668804595540627
+    ]
+  },
+  {
+    "averageColorRGB": [
+      67.05193965517242,
+      55.43000878033206,
+      61.55021152618136
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_119652.png",
+    "palette": [
+      {
+        "#3b3037": "darkslategrey"
+      },
+      {
+        "#564140": "darkslategrey"
+      },
+      {
+        "#01010e": "black"
+      },
+      {
+        "#4c3739": "darkslategrey"
+      },
+      {
+        "#e0c8e0": "thistle"
+      },
+      {
+        "#2a222a": "darkslategrey"
+      }
+    ],
+    "framenumber": 119652,
+    "averageColorHSV": [
+      0.9122319860649752,
+      0.2401606832068715,
+      0.09488688760499381
+    ]
+  },
+  {
+    "averageColorRGB": [
+      118.93439894636016,
+      113.84367816091955,
+      129.9899664750958
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_120586.png",
+    "palette": [
+      {
+        "#c0bdd0": "silver"
+      },
+      {
+        "#9396a9": "darkgrey"
+      },
+      {
+        "#b7b3c2": "silver"
+      },
+      {
+        "#aca5b4": "darkgrey"
+      },
+      {
+        "#7b7790": "slategray"
+      },
+      {
+        "#7f7e99": "lightslategrey"
+      }
+    ],
+    "framenumber": 120586,
+    "averageColorHSV": [
+      0.7192145617451393,
+      0.4781051855608144,
+      0.06621845946763728
+    ]
+  },
+  {
+    "averageColorRGB": [
+      92.93158924010218,
+      66.70258221583653,
+      67.47491219667944
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_121520.png",
+    "palette": [
+      {
+        "#644c51": "dimgray"
+      },
+      {
+        "#634a49": "darkolivegreen"
+      },
+      {
+        "#5a4951": "dimgray"
+      },
+      {
+        "#6c5153": "dimgray"
+      },
+      {
+        "#77443f": "sienna"
+      },
+      {
+        "#562c29": "saddlebrown"
+      }
+    ],
+    "framenumber": 121520,
+    "averageColorHSV": [
+      0.9950923928094292,
+      0.31300817932537,
+      0.16430697002430483
+    ]
+  },
+  {
+    "averageColorRGB": [
+      125.93354086845467,
+      14.739339878671776,
+      4.121372126436782
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_122454.png",
+    "palette": [
+      {
+        "#d85831": "chocolate"
+      },
+      {
+        "#9d1e06": "firebrick"
+      },
+      {
+        "#830c00": "maroon"
+      },
+      {
+        "#b63a1d": "firebrick"
+      }
+    ],
+    "framenumber": 122454,
+    "averageColorHSV": [
+      0.014527787414959118,
+      0.25500963332331655,
+      0.9366210467327956
+    ]
+  },
+  {
+    "averageColorRGB": [
+      59.19481960408685,
+      47.2051404853129,
+      48.81583652618136
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_123388.png",
+    "palette": [
+      {
+        "#281206": "black"
+      },
+      {
+        "#4f3b38": "darkslategrey"
+      },
+      {
+        "#4f4652": "darkslategrey"
+      },
+      {
+        "#5b4a48": "darkolivegreen"
+      },
+      {
+        "#080100": "black"
+      },
+      {
+        "#38303b": "darkslategrey"
+      }
+    ],
+    "framenumber": 123388,
+    "averageColorHSV": [
+      0.9776099645799199,
+      0.20862737272431325,
+      0.11268499639191538
+    ]
+  },
+  {
+    "averageColorRGB": [
+      58.15320482120052,
+      47.8216395274585,
+      51.741415229885064
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_124322.png",
+    "palette": [
+      {
+        "#3d302c": "darkslategrey"
+      },
+      {
+        "#110b2c": "black"
+      },
+      {
+        "#473837": "darkslategrey"
+      },
+      {
+        "#2b2024": "darkslategrey"
+      },
+      {
+        "#42383a": "darkslategrey"
+      },
+      {
+        "#2c2228": "darkslategrey"
+      }
+    ],
+    "framenumber": 124322,
+    "averageColorHSV": [
+      0.9367669920452288,
+      0.20779381244835102,
+      0.09749073336452367
+    ]
+  },
+  {
+    "averageColorRGB": [
+      62.07051803959132,
+      53.20742736270754,
+      54.20760296934866
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_125256.png",
+    "palette": [
+      {
+        "#514847": "darkslategrey"
+      },
+      {
+        "#464247": "darkslategrey"
+      },
+      {
+        "#4b3d38": "darkslategrey"
+      },
+      {
+        "#5c667c": "dimgray"
+      },
+      {
+        "#090615": "black"
+      },
+      {
+        "#4b4649": "darkslategrey"
+      }
+    ],
+    "framenumber": 125256,
+    "averageColorHSV": [
+      0.9811921212907193,
+      0.2260351870633311,
+      0.07688453021914309
+    ]
+  },
+  {
+    "averageColorRGB": [
+      53.68876117496808,
+      47.89610073435505,
+      48.50741139846744
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_126190.png",
+    "palette": [
+      {
+        "#191108": "black"
+      },
+      {
+        "#09071a": "black"
+      },
+      {
+        "#594240": "darkolivegreen"
+      },
+      {
+        "#322b28": "darkslategrey"
+      },
+      {
+        "#080921": "black"
+      },
+      {
+        "#423531": "darkslategrey"
+      }
+    ],
+    "framenumber": 126190,
+    "averageColorHSV": [
+      0.9824113441949628,
+      0.19918600374377085,
+      0.057022870649602146
+    ]
+  },
+  {
+    "averageColorRGB": [
+      50.66683828224777,
+      44.16077985312899,
+      47.83481401660281
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_127124.png",
+    "palette": [
+      {
+        "#121828": "black"
+      },
+      {
+        "#191e30": "black"
+      },
+      {
+        "#5b4c4e": "dimgray"
+      },
+      {
+        "#3f475c": "darkslategrey"
+      },
+      {
+        "#4b3d3a": "darkslategrey"
+      },
+      {
+        "#151e31": "black"
+      }
+    ],
+    "framenumber": 127124,
+    "averageColorHSV": [
+      0.9058817202586088,
+      0.18593650614779755,
+      0.06860932033356211
+    ]
+  },
+  {
+    "averageColorRGB": [
+      37.37700351213282,
+      33.85217911877395,
+      34.88211206896552
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_128058.png",
+    "palette": [
+      {
+        "#150f0c": "black"
+      },
+      {
+        "#1e1913": "black"
+      },
+      {
+        "#252429": "darkslategrey"
+      },
+      {
+        "#1b150f": "black"
+      },
+      {
+        "#27292f": "darkslategrey"
+      },
+      {
+        "#34343e": "darkslategrey"
+      }
+    ],
+    "framenumber": 128058,
+    "averageColorHSV": [
+      0.9513009805475668,
+      0.13966506398217016,
+      0.04948567796465812
+    ]
+  },
+  {
+    "averageColorRGB": [
+      87.44885057471265,
+      80.46825510855685,
+      100.12304038952747
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_128992.png",
+    "palette": [
+      {
+        "#4b5492": "darkslateblue"
+      },
+      {
+        "#514e63": "dimgray"
+      },
+      {
+        "#55557c": "darkslateblue"
+      },
+      {
+        "#594235": "darkolivegreen"
+      },
+      {
+        "#70646a": "dimgray"
+      },
+      {
+        "#6a6a94": "slategray"
+      }
+    ],
+    "framenumber": 128992,
+    "averageColorHSV": [
+      0.7258600163299187,
+      0.3541005794080085,
+      0.10883572891351853
+    ]
+  },
+  {
+    "averageColorRGB": [
+      84.75492496807153,
+      74.87514766922095,
+      80.55907567049809
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_129926.png",
+    "palette": [
+      {
+        "#2c222a": "darkslategrey"
+      },
+      {
+        "#33262d": "darkslategrey"
+      },
+      {
+        "#241b20": "black"
+      },
+      {
+        "#a699aa": "darkgrey"
+      },
+      {
+        "#8185af": "lightslategrey"
+      },
+      {
+        "#331f1d": "black"
+      }
+    ],
+    "framenumber": 129926,
+    "averageColorHSV": [
+      0.904115112629472,
+      0.3130001424260637,
+      0.06189170458688677
+    ]
+  },
+  {
+    "averageColorRGB": [
+      32.86465118135377,
+      9.677318805874842,
+      11.43996248403576
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_130860.png",
+    "palette": [
+      {
+        "#2f0005": "black"
+      },
+      {
+        "#080000": "black"
+      },
+      {
+        "#1c0000": "black"
+      },
+      {
+        "#0f0000": "black"
+      },
+      {
+        "#250000": "black"
+      },
+      {
+        "#170000": "black"
+      }
+    ],
+    "framenumber": 130860,
+    "averageColorHSV": [
+      0.987330412071428,
+      0.08341562742593844,
+      0.5450460423539372
+    ]
+  },
+  {
+    "averageColorRGB": [
+      59.70161637931035,
+      38.6540469348659,
+      34.46461526181354
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_131794.png",
+    "palette": [
+      {
+        "#533a35": "darkslategrey"
+      },
+      {
+        "#26110c": "black"
+      },
+      {
+        "#64473f": "darkolivegreen"
+      },
+      {
+        "#34201e": "black"
+      },
+      {
+        "#3f2823": "darkslategrey"
+      },
+      {
+        "#785d54": "dimgray"
+      }
+    ],
+    "framenumber": 131794,
+    "averageColorHSV": [
+      0.027667257647791783,
+      0.18463966988455666,
+      0.26800478980275355
+    ]
+  },
+  {
+    "averageColorRGB": [
+      54.80567528735633,
+      46.944979246487875,
+      48.84098020434228
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_132728.png",
+    "palette": [
+      {
+        "#4d3a34": "darkslategrey"
+      },
+      {
+        "#835b57": "dimgray"
+      },
+      {
+        "#170f15": "black"
+      },
+      {
+        "#192b2a": "darkslategrey"
+      },
+      {
+        "#5f5651": "dimgray"
+      },
+      {
+        "#5f4f48": "darkolivegreen"
+      }
+    ],
+    "framenumber": 132728,
+    "averageColorHSV": [
+      0.9597999772539877,
+      0.19951108732126316,
+      0.0772545009845989
+    ]
+  },
+  {
+    "averageColorRGB": [
+      75.67414591315455,
+      60.91576867816092,
+      60.22412994891444
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_133662.png",
+    "palette": [
+      {
+        "#8d7c72": "gray"
+      },
+      {
+        "#3b3239": "darkslategrey"
+      },
+      {
+        "#946e5f": "gray"
+      },
+      {
+        "#1f161d": "black"
+      },
+      {
+        "#3b2a28": "darkslategrey"
+      },
+      {
+        "#453834": "darkslategrey"
+      }
+    ],
+    "framenumber": 133662,
+    "averageColorHSV": [
+      0.007461035756072117,
+      0.2664672075726843,
+      0.11368809402645562
+    ]
+  },
+  {
+    "averageColorRGB": [
+      38.697924648786724,
+      33.13908445083015,
+      33.65329262452108
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_134596.png",
+    "palette": [
+      {
+        "#201412": "black"
+      },
+      {
+        "#2e292e": "darkslategrey"
+      },
+      {
+        "#2e3043": "darkslategrey"
+      },
+      {
+        "#453a33": "darkslategrey"
+      },
+      {
+        "#231d1a": "black"
+      },
+      {
+        "#282630": "darkslategrey"
+      }
+    ],
+    "framenumber": 134596,
+    "averageColorHSV": [
+      0.9845828699459062,
+      0.14085688058748408,
+      0.0773812867159892
+    ]
+  },
+  {
+    "averageColorRGB": [
+      49.979781289910605,
+      36.648890485312904,
+      34.62776979565773
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_135530.png",
+    "palette": [
+      {
+        "#0f2724": "black"
+      },
+      {
+        "#190800": "black"
+      },
+      {
+        "#2c130b": "black"
+      },
+      {
+        "#1f0a02": "black"
+      },
+      {
+        "#140803": "black"
+      },
+      {
+        "#453e45": "darkslategrey"
+      }
+    ],
+    "framenumber": 135530,
+    "averageColorHSV": [
+      0.021941974730931253,
+      0.16589715899131047,
+      0.18144966137510035
+    ]
+  },
+  {
+    "averageColorRGB": [
+      49.251269157088124,
+      37.805240261813545,
+      34.6352650063857
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_136464.png",
+    "palette": [
+      {
+        "#170700": "black"
+      },
+      {
+        "#27110c": "black"
+      },
+      {
+        "#0d2b22": "black"
+      },
+      {
+        "#271311": "black"
+      },
+      {
+        "#1e0904": "black"
+      },
+      {
+        "#443935": "darkslategrey"
+      }
+    ],
+    "framenumber": 136464,
+    "averageColorHSV": [
+      0.03614730837447,
+      0.16448340032053693,
+      0.17423540376837468
+    ]
+  },
+  {
+    "averageColorRGB": [
+      58.50443007662836,
+      46.841415229885065,
+      45.07151181353768
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_137398.png",
+    "palette": [
+      {
+        "#3a2823": "darkslategrey"
+      },
+      {
+        "#3d3135": "darkslategrey"
+      },
+      {
+        "#29140b": "black"
+      },
+      {
+        "#43383a": "darkslategrey"
+      },
+      {
+        "#240d05": "black"
+      },
+      {
+        "#34211a": "black"
+      }
+    ],
+    "framenumber": 137398,
+    "averageColorHSV": [
+      0.021959777983246147,
+      0.20309008213758048,
+      0.12969149030124397
+    ]
+  },
+  {
+    "averageColorRGB": [
+      62.57765405491699,
+      45.48011653895275,
+      38.335947477650066
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_138332.png",
+    "palette": [
+      {
+        "#331b0d": "black"
+      },
+      {
+        "#3d271d": "darkslategrey"
+      },
+      {
+        "#463731": "darkslategrey"
+      },
+      {
+        "#2d1406": "black"
+      },
+      {
+        "#63524d": "dimgray"
+      },
+      {
+        "#240b00": "black"
+      }
+    ],
+    "framenumber": 138332,
+    "averageColorHSV": [
+      0.04911761635903317,
+      0.19786980692660205,
+      0.24022239033301762
+    ]
+  },
+  {
+    "averageColorRGB": [
+      54.63061542145594,
+      41.191698595146875,
+      34.63406369731801
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_139266.png",
+    "palette": [
+      {
+        "#2f1f18": "black"
+      },
+      {
+        "#4f3d35": "darkslategrey"
+      },
+      {
+        "#2a1407": "black"
+      },
+      {
+        "#3d281e": "darkslategrey"
+      },
+      {
+        "#65544f": "dimgray"
+      },
+      {
+        "#341e12": "black"
+      }
+    ],
+    "framenumber": 139266,
+    "averageColorHSV": [
+      0.05465638099587202,
+      0.17502878258583127,
+      0.2240141556721543
+    ]
+  },
+  {
+    "averageColorRGB": [
+      38.67782567049809,
+      31.319009418901665,
+      30.546639527458495
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_140200.png",
+    "palette": [
+      {
+        "#341619": "black"
+      },
+      {
+        "#24100a": "black"
+      },
+      {
+        "#3b261e": "darkslategrey"
+      },
+      {
+        "#453029": "darkslategrey"
+      },
+      {
+        "#3f2a25": "darkslategrey"
+      },
+      {
+        "#301910": "black"
+      }
+    ],
+    "framenumber": 140200,
+    "averageColorHSV": [
+      0.015831431352819465,
+      0.13573424548618937,
+      0.11746116231865975
+    ]
+  },
+  {
+    "averageColorRGB": [
+      94.34259259259261,
+      85.85516044061303,
+      95.89897429757345
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_141134.png",
+    "palette": [
+      {
+        "#2e221d": "black"
+      },
+      {
+        "#c6b9d9": "thistle"
+      },
+      {
+        "#ada6c4": "darkgrey"
+      },
+      {
+        "#695c6b": "dimgray"
+      },
+      {
+        "#1c3b32": "darkslategrey"
+      },
+      {
+        "#6b6880": "dimgray"
+      }
+    ],
+    "framenumber": 141134,
+    "averageColorHSV": [
+      0.80750679427911,
+      0.3563806563493852,
+      0.05526044219807349
+    ]
+  },
+  {
+    "averageColorRGB": [
+      45.34301165389528,
+      6.4015405491698605,
+      1.2993135376756069
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_142068.png",
+    "palette": [
+      {
+        "#591201": "maroon"
+      },
+      {
+        "#360a02": "black"
+      },
+      {
+        "#1d0000": "black"
+      },
+      {
+        "#230100": "black"
+      },
+      {
+        "#7a2405": "maroon"
+      },
+      {
+        "#2c0800": "black"
+      }
+    ],
+    "framenumber": 142068,
+    "averageColorHSV": [
+      0.01930744249355426,
+      0.09145553959131547,
+      0.9442860735463326
+    ]
+  },
+  {
+    "averageColorRGB": [
+      73.07585009578546,
+      58.02475654533845,
+      57.142991698595154
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_143002.png",
+    "palette": [
+      {
+        "#995e52": "sienna"
+      },
+      {
+        "#2f2e32": "darkslategrey"
+      },
+      {
+        "#5c555e": "dimgray"
+      },
+      {
+        "#2e2b30": "darkslategrey"
+      },
+      {
+        "#b76f5d": "indianred"
+      },
+      {
+        "#3c383f": "darkslategrey"
+      }
+    ],
+    "framenumber": 143002,
+    "averageColorHSV": [
+      0.009223756599535485,
+      0.25533106234192277,
+      0.12235447787462851
+    ]
+  },
+  {
+    "averageColorRGB": [
+      67.33512931034484,
+      64.12420977011494,
+      63.48418342911878
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_143936.png",
+    "palette": [
+      {
+        "#5e514a": "darkolivegreen"
+      },
+      {
+        "#112a28": "black"
+      },
+      {
+        "#1f3e39": "darkslategrey"
+      },
+      {
+        "#4d403a": "darkslategrey"
+      },
+      {
+        "#615350": "dimgray"
+      },
+      {
+        "#5b524e": "dimgray"
+      }
+    ],
+    "framenumber": 143936,
+    "averageColorHSV": [
+      0.027699962586525146,
+      0.25650845635188946,
+      0.029437135852376034
+    ]
+  },
+  {
+    "averageColorRGB": [
+      68.29665948275863,
+      57.87130028735633,
+      54.70569923371648
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_144870.png",
+    "palette": [
+      {
+        "#5f524b": "darkolivegreen"
+      },
+      {
+        "#655956": "dimgray"
+      },
+      {
+        "#67515c": "dimgray"
+      },
+      {
+        "#47362b": "darkslategrey"
+      },
+      {
+        "#62494d": "dimgray"
+      },
+      {
+        "#2d170c": "black"
+      }
+    ],
+    "framenumber": 144870,
+    "averageColorHSV": [
+      0.03881993368671834,
+      0.24118109552250022,
+      0.11049349289609811
+    ]
+  },
+  {
+    "averageColorRGB": [
+      73.93206816730525,
+      65.19503911238826,
+      58.17723898467433
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_145804.png",
+    "palette": [
+      {
+        "#7b524c": "dimgray"
+      },
+      {
+        "#453b2c": "darkslategrey"
+      },
+      {
+        "#50473c": "darkolivegreen"
+      },
+      {
+        "#504740": "darkslategrey"
+      },
+      {
+        "#534e4a": "darkslategrey"
+      },
+      {
+        "#362d1f": "darkslategrey"
+      }
+    ],
+    "framenumber": 145804,
+    "averageColorHSV": [
+      0.07423967223386091,
+      0.2590378571607443,
+      0.11925601248144038
+    ]
+  },
+  {
+    "averageColorRGB": [
+      60.60305715197957,
+      59.58822637292465,
+      51.43547254150703
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_146738.png",
+    "palette": [
+      {
+        "#46382a": "darkslategrey"
+      },
+      {
+        "#352b1d": "darkslategrey"
+      },
+      {
+        "#0c3932": "darkslategrey"
+      },
+      {
+        "#554539": "darkolivegreen"
+      },
+      {
+        "#332b1b": "darkslategrey"
+      },
+      {
+        "#4e4843": "darkslategrey"
+      }
+    ],
+    "framenumber": 146738,
+    "averageColorHSV": [
+      0.14821704548917505,
+      0.2196833915558561,
+      0.08182528488684279
+    ]
+  },
+  {
+    "averageColorRGB": [
+      46.12325590676884,
+      19.56177761813538,
+      19.797848818646234
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_147672.png",
+    "palette": [
+      {
+        "#440607": "maroon"
+      },
+      {
+        "#360204": "black"
+      },
+      {
+        "#230000": "black"
+      },
+      {
+        "#2c0204": "black"
+      },
+      {
+        "#180000": "black"
+      },
+      {
+        "#130000": "black"
+      }
+    ],
+    "framenumber": 147672,
+    "averageColorHSV": [
+      0.9985187119610741,
+      0.12879418338216514,
+      0.40437641367059335
+    ]
+  },
+  {
+    "averageColorRGB": [
+      62.28979485951469,
+      33.64970466155811,
+      27.884003831417626
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_148606.png",
+    "palette": [
+      {
+        "#82533d": "sienna"
+      },
+      {
+        "#240604": "black"
+      },
+      {
+        "#2c0806": "black"
+      },
+      {
+        "#462219": "maroon"
+      },
+      {
+        "#190201": "black"
+      },
+      {
+        "#876450": "dimgray"
+      }
+    ],
+    "framenumber": 148606,
+    "averageColorHSV": [
+      0.027929895219441392,
+      0.17681136998222025,
+      0.3815497575523214
+    ]
+  },
+  {
+    "averageColorRGB": [
+      34.48569604086846,
+      21.59307950191571,
+      18.138010855683273
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_149540.png",
+    "palette": [
+      {
+        "#080305": "black"
+      },
+      {
+        "#241008": "black"
+      },
+      {
+        "#2a1722": "black"
+      },
+      {
+        "#160c0c": "black"
+      },
+      {
+        "#120402": "black"
+      },
+      {
+        "#1f0b05": "black"
+      }
+    ],
+    "framenumber": 149540,
+    "averageColorHSV": [
+      0.035224850971189624,
+      0.10318373901284654,
+      0.31065248248895977
+    ]
+  },
+  {
+    "averageColorRGB": [
+      34.04556992337165,
+      48.48705300127715,
+      43.09479166666667
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_150474.png",
+    "palette": [
+      {
+        "#15ab93": "lightseagreen"
+      },
+      {
+        "#064631": "darkslategrey"
+      },
+      {
+        "#160d1e": "black"
+      },
+      {
+        "#090000": "black"
+      },
+      {
+        "#1d8f6e": "seagreen"
+      },
+      {
+        "#086349": "darkslategrey"
+      }
+    ],
+    "framenumber": 150474,
+    "averageColorHSV": [
+      0.43776884149730816,
+      0.16182867240127216,
+      0.17497908785826882
+    ]
+  },
+  {
+    "averageColorRGB": [
+      22.98502953384419,
+      64.27721104725416,
+      51.816379310344836
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_151408.png",
+    "palette": [
+      {
+        "#0a0000": "black"
+      },
+      {
+        "#13b088": "lightseagreen"
+      },
+      {
+        "#0c7455": "seagreen"
+      },
+      {
+        "#0f916f": "teal"
+      },
+      {
+        "#275b4d": "darkslategrey"
+      },
+      {
+        "#0d0000": "black"
+      }
+    ],
+    "framenumber": 151408,
+    "averageColorHSV": [
+      0.44970463624426266,
+      0.17110243251195756,
+      0.4731964391291846
+    ]
+  },
+  {
+    "averageColorRGB": [
+      95.88215996168583,
+      92.94942129629631,
+      109.52898307790551
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_152342.png",
+    "palette": [
+      {
+        "#97a5da": "lightsteelblue"
+      },
+      {
+        "#281718": "black"
+      },
+      {
+        "#6880c3": "steelblue"
+      },
+      {
+        "#d5d6f8": "lavender"
+      },
+      {
+        "#2f2121": "darkslategrey"
+      },
+      {
+        "#59648f": "slategray"
+      }
+    ],
+    "framenumber": 152342,
+    "averageColorHSV": [
+      0.6961481321000358,
+      0.3970164791651016,
+      0.08188311159825416
+    ]
+  },
+  {
+    "averageColorRGB": [
+      50.69192608556833,
+      34.04515485312899,
+      30.16876995530013
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_153276.png",
+    "palette": [
+      {
+        "#553324": "darkolivegreen"
+      },
+      {
+        "#3f3029": "darkslategrey"
+      },
+      {
+        "#0c0915": "black"
+      },
+      {
+        "#4c3933": "darkslategrey"
+      },
+      {
+        "#794934": "saddlebrown"
+      },
+      {
+        "#080105": "black"
+      }
+    ],
+    "framenumber": 153276,
+    "averageColorHSV": [
+      0.03147976585751877,
+      0.15855038439385974,
+      0.25380879877530893
+    ]
+  },
+  {
+    "averageColorRGB": [
+      66.63408764367817,
+      50.46569284802044,
+      44.458748403575996
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_154210.png",
+    "palette": [
+      {
+        "#5f2418": "maroon"
+      },
+      {
+        "#746c63": "dimgray"
+      },
+      {
+        "#0e0804": "black"
+      },
+      {
+        "#615d56": "dimgray"
+      },
+      {
+        "#150803": "black"
+      },
+      {
+        "#3a0702": "black"
+      }
+    ],
+    "framenumber": 154210,
+    "averageColorHSV": [
+      0.04514733220391509,
+      0.21782909028873365,
+      0.1996108842758297
+    ]
+  },
+  {
+    "averageColorRGB": [
+      82.21697397828864,
+      70.60856880587485,
+      66.07559466794382
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_155144.png",
+    "palette": [
+      {
+        "#584539": "darkolivegreen"
+      },
+      {
+        "#563e33": "darkolivegreen"
+      },
+      {
+        "#49382f": "darkslategrey"
+      },
+      {
+        "#65666b": "dimgray"
+      },
+      {
+        "#695549": "dimgray"
+      },
+      {
+        "#7d6a5d": "dimgray"
+      }
+    ],
+    "framenumber": 155144,
+    "averageColorHSV": [
+      0.046804902798547356,
+      0.29076974244359305,
+      0.1088482009429062
+    ]
+  },
+  {
+    "averageColorRGB": [
+      69.26757263729247,
+      58.26794779693487,
+      56.964758939974466
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_156078.png",
+    "palette": [
+      {
+        "#82716b": "gray"
+      },
+      {
+        "#5e4b42": "darkolivegreen"
+      },
+      {
+        "#513d36": "darkslategrey"
+      },
+      {
+        "#45342d": "darkslategrey"
+      },
+      {
+        "#150e13": "black"
+      },
+      {
+        "#5d5555": "dimgray"
+      }
+    ],
+    "framenumber": 156078,
+    "averageColorHSV": [
+      0.017654347059980553,
+      0.24751437564169987,
+      0.09746166884184848
+    ]
+  },
+  {
+    "averageColorRGB": [
+      73.82355523627076,
+      55.949868295019165,
+      52.173974297573444
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_157012.png",
+    "palette": [
+      {
+        "#56453d": "darkolivegreen"
+      },
+      {
+        "#7c4a3a": "sienna"
+      },
+      {
+        "#532a1f": "saddlebrown"
+      },
+      {
+        "#342420": "darkslategrey"
+      },
+      {
+        "#493731": "darkslategrey"
+      },
+      {
+        "#594b46": "darkolivegreen"
+      }
+    ],
+    "framenumber": 157012,
+    "averageColorHSV": [
+      0.02906826086024093,
+      0.2470539794781259,
+      0.1718254399018357
+    ]
+  },
+  {
+    "averageColorRGB": [
+      50.867237388250324,
+      37.391187739463604,
+      33.09402937420179
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_157946.png",
+    "palette": [
+      {
+        "#463730": "darkslategrey"
+      },
+      {
+        "#26100c": "black"
+      },
+      {
+        "#0b0706": "black"
+      },
+      {
+        "#36231c": "darkslategrey"
+      },
+      {
+        "#362a24": "darkslategrey"
+      },
+      {
+        "#2e1a14": "black"
+      }
+    ],
+    "framenumber": 157946,
+    "averageColorHSV": [
+      0.040296217785267874,
+      0.1646299348283375,
+      0.21168341902622173
+    ]
+  },
+  {
+    "averageColorRGB": [
+      48.5567648467433,
+      33.218678160919545,
+      26.24992416985952
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_158880.png",
+    "palette": [
+      {
+        "#4d3422": "darkolivegreen"
+      },
+      {
+        "#482f21": "darkslategrey"
+      },
+      {
+        "#5e483f": "darkolivegreen"
+      },
+      {
+        "#1c0c07": "black"
+      },
+      {
+        "#140808": "black"
+      },
+      {
+        "#2f1b10": "black"
+      }
+    ],
+    "framenumber": 158880,
+    "averageColorHSV": [
+      0.052067391135025454,
+      0.14667978238549573,
+      0.29819312911888046
+    ]
+  },
+  {
+    "averageColorRGB": [
+      54.23117416985952,
+      39.369851532567054,
+      34.77019476372925
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_159814.png",
+    "palette": [
+      {
+        "#402a1f": "darkslategrey"
+      },
+      {
+        "#48382e": "darkslategrey"
+      },
+      {
+        "#120d0f": "black"
+      },
+      {
+        "#322118": "black"
+      },
+      {
+        "#583b2a": "darkolivegreen"
+      },
+      {
+        "#60382e": "darkolivegreen"
+      }
+    ],
+    "framenumber": 159814,
+    "averageColorHSV": [
+      0.03939213158159358,
+      0.17451248810507602,
+      0.2186593266970051
+    ]
+  },
+  {
+    "averageColorRGB": [
+      40.33004469987229,
+      26.67289671136654,
+      23.41473100255428
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_160748.png",
+    "palette": [
+      {
+        "#593227": "saddlebrown"
+      },
+      {
+        "#201315": "black"
+      },
+      {
+        "#170e0e": "black"
+      },
+      {
+        "#130807": "black"
+      },
+      {
+        "#170b08": "black"
+      },
+      {
+        "#201410": "black"
+      }
+    ],
+    "framenumber": 160748,
+    "averageColorHSV": [
+      0.032102722293673815,
+      0.12498975627926778,
+      0.2653600002654664
+    ]
+  },
+  {
+    "averageColorRGB": [
+      55.826372924648794,
+      55.231549329501924,
+      58.773271871008944
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_161682.png",
+    "palette": [
+      {
+        "#29262b": "darkslategrey"
+      },
+      {
+        "#38424c": "darkslategrey"
+      },
+      {
+        "#552f30": "darkslategrey"
+      },
+      {
+        "#272b36": "darkslategrey"
+      },
+      {
+        "#46535b": "darkslategrey"
+      },
+      {
+        "#131013": "black"
+      }
+    ],
+    "framenumber": 161682,
+    "averageColorHSV": [
+      0.6946579236598325,
+      0.22353886509904092,
+      0.031066427754646093
+    ]
+  },
+  {
+    "averageColorRGB": [
+      55.26358556832695,
+      74.7997485632184,
+      67.1680156449553
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_162616.png",
+    "palette": [
+      {
+        "#54a081": "cadetblue"
+      },
+      {
+        "#427c6d": "seagreen"
+      },
+      {
+        "#4e6969": "dimgray"
+      },
+      {
+        "#271f14": "black"
+      },
+      {
+        "#3c5958": "darkslategrey"
+      },
+      {
+        "#3d6a63": "darkslategrey"
+      }
+    ],
+    "framenumber": 162616,
+    "averageColorHSV": [
+      0.4348922566468252,
+      0.2550261453559713,
+      0.15020499916704186
+    ]
+  },
+  {
+    "averageColorRGB": [
+      50.518885696040876,
+      57.369699872286084,
+      52.54577346743296
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_163550.png",
+    "palette": [
+      {
+        "#1f0a03": "black"
+      },
+      {
+        "#58947d": "slategray"
+      },
+      {
+        "#4a6f62": "dimgray"
+      },
+      {
+        "#23100f": "black"
+      },
+      {
+        "#3f5a52": "darkslategrey"
+      },
+      {
+        "#220d09": "black"
+      }
+    ],
+    "framenumber": 163550,
+    "averageColorHSV": [
+      0.38264347660604087,
+      0.2115462462124058,
+      0.0634989710927901
+    ]
+  },
+  {
+    "averageColorRGB": [
+      43.57323196040869,
+      45.234287196679446,
+      41.57631704980843
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_164484.png",
+    "palette": [
+      {
+        "#0f0501": "black"
+      },
+      {
+        "#366757": "darkslategrey"
+      },
+      {
+        "#0c0200": "black"
+      },
+      {
+        "#030000": "black"
+      },
+      {
+        "#130602": "black"
+      },
+      {
+        "#080000": "black"
+      }
+    ],
+    "framenumber": 164484,
+    "averageColorHSV": [
+      0.24234867834608584,
+      0.17021687107154487,
+      0.04213736534403864
+    ]
+  },
+  {
+    "averageColorRGB": [
+      42.87124441251597,
+      45.89568965517242,
+      42.67877953384419
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_165418.png",
+    "palette": [
+      {
+        "#2f4d3c": "darkslategrey"
+      },
+      {
+        "#314033": "darkslategrey"
+      },
+      {
+        "#0a0000": "black"
+      },
+      {
+        "#2e3b2a": "darkslategrey"
+      },
+      {
+        "#3c4549": "darkslategrey"
+      },
+      {
+        "#2c3539": "darkslategrey"
+      }
+    ],
+    "framenumber": 165418,
+    "averageColorHSV": [
+      0.3233618145252839,
+      0.17367542978238554,
+      0.03631870617777439
+    ]
+  },
+  {
+    "averageColorRGB": [
+      38.42239383780333,
+      63.53891682630908,
+      57.6115301724138
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_166352.png",
+    "palette": [
+      {
+        "#507468": "dimgray"
+      },
+      {
+        "#2e3938": "darkslategrey"
+      },
+      {
+        "#2a584a": "darkslategrey"
+      },
+      {
+        "#2b6e5c": "seagreen"
+      },
+      {
+        "#278774": "seagreen"
+      },
+      {
+        "#1c2a2a": "darkslategrey"
+      }
+    ],
+    "framenumber": 166352,
+    "averageColorHSV": [
+      0.46066741498808134,
+      0.19992413855708313,
+      0.24633385766534763
+    ]
+  },
+  {
+    "averageColorRGB": [
+      45.92809706257982,
+      66.99785680076629,
+      66.93355683269478
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_167286.png",
+    "palette": [
+      {
+        "#475b64": "darkslategrey"
+      },
+      {
+        "#2f8583": "seagreen"
+      },
+      {
+        "#37474e": "darkslategrey"
+      },
+      {
+        "#224643": "darkslategrey"
+      },
+      {
+        "#2f605d": "darkslategrey"
+      },
+      {
+        "#26363c": "darkslategrey"
+      }
+    ],
+    "framenumber": 167286,
+    "averageColorHSV": [
+      0.4994913723991912,
+      0.22142343894773747,
+      0.1865803122963512
+    ]
+  },
+  {
+    "averageColorRGB": [
+      17.656321839080462,
+      17.893051564495533,
+      21.823180076628354
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_168220.png",
+    "palette": [
+      {
+        "#010003": "black"
+      },
+      {
+        "#5b433f": "darkolivegreen"
+      },
+      {
+        "#152930": "darkslategrey"
+      },
+      {
+        "#010000": "black"
+      },
+      {
+        "#000002": "black"
+      },
+      {
+        "#01050f": "black"
+      }
+    ],
+    "framenumber": 168220,
+    "averageColorHSV": [
+      0.6571979129950604,
+      0.07741078807001729,
+      0.10554485328726769
+    ]
+  },
+  {
+    "averageColorRGB": [
+      40.693438697318015,
+      68.39935344827587,
+      66.49166267560665
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_169154.png",
+    "palette": [
+      {
+        "#1c656c": "darkslategrey"
+      },
+      {
+        "#267071": "seagreen"
+      },
+      {
+        "#286154": "darkslategrey"
+      },
+      {
+        "#3b7b67": "seagreen"
+      },
+      {
+        "#276f6a": "seagreen"
+      },
+      {
+        "#1b5c5e": "darkslategrey"
+      }
+    ],
+    "framenumber": 169154,
+    "averageColorHSV": [
+      0.48852416659152015,
+      0.21390743557959585,
+      0.25396650141635285
+    ]
+  },
+  {
+    "averageColorRGB": [
+      44.086314655172416,
+      38.879501915708815,
+      34.99175047892721
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_170088.png",
+    "palette": [
+      {
+        "#110600": "black"
+      },
+      {
+        "#0e0500": "black"
+      },
+      {
+        "#39342d": "darkslategrey"
+      },
+      {
+        "#3e3a33": "darkslategrey"
+      },
+      {
+        "#2a241f": "black"
+      },
+      {
+        "#190d06": "black"
+      }
+    ],
+    "framenumber": 170088,
+    "averageColorHSV": [
+      0.0712467975639104,
+      0.15505502967470514,
+      0.11500741907155616
+    ]
+  },
+  {
+    "averageColorRGB": [
+      40.91750079821201,
+      37.45773068326948,
+      31.10040708812261
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_171022.png",
+    "palette": [
+      {
+        "#1e171a": "black"
+      },
+      {
+        "#18100c": "black"
+      },
+      {
+        "#3a5340": "darkslategrey"
+      },
+      {
+        "#503a2d": "darkolivegreen"
+      },
+      {
+        "#150900": "black"
+      },
+      {
+        "#384539": "darkslategrey"
+      }
+    ],
+    "framenumber": 171022,
+    "averageColorHSV": [
+      0.10792949153938854,
+      0.1412115840908522,
+      0.1363146194913584
+    ]
+  },
+  {
+    "averageColorRGB": [
+      65.98649026181354,
+      53.79607279693487,
+      53.307602969348665
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_171956.png",
+    "palette": [
+      {
+        "#2e2526": "darkslategrey"
+      },
+      {
+        "#352b2b": "darkslategrey"
+      },
+      {
+        "#1f1314": "black"
+      },
+      {
+        "#362c34": "darkslategrey"
+      },
+      {
+        "#825949": "sienna"
+      },
+      {
+        "#292024": "black"
+      }
+    ],
+    "framenumber": 171956,
+    "averageColorHSV": [
+      0.006421039642762453,
+      0.23390998672776903,
+      0.1062826075377961
+    ]
+  },
+  {
+    "averageColorRGB": [
+      16.77272908684547,
+      13.834179438058749,
+      17.057096104725417
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_172890.png",
+    "palette": [
+      {
+        "#090406": "black"
+      },
+      {
+        "#030409": "black"
+      },
+      {
+        "#0b080c": "black"
+      },
+      {
+        "#352929": "darkslategrey"
+      },
+      {
+        "#0a080a": "black"
+      },
+      {
+        "#04040c": "black"
+      }
+    ],
+    "framenumber": 172890,
+    "averageColorHSV": [
+      0.8186278637597098,
+      0.06057112851526307,
+      0.10433096756406042
+    ]
+  },
+  {
+    "averageColorRGB": [
+      17.175419061302684,
+      20.05507662835249,
+      30.243374840357603
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_173824.png",
+    "palette": [
+      {
+        "#091123": "black"
+      },
+      {
+        "#09101d": "black"
+      },
+      {
+        "#0e1728": "black"
+      },
+      {
+        "#182130": "darkslategrey"
+      },
+      {
+        "#262f3d": "darkslategrey"
+      },
+      {
+        "#121b2b": "black"
+      }
+    ],
+    "framenumber": 173824,
+    "averageColorHSV": [
+      0.6299399638865059,
+      0.09297802725815743,
+      0.2755860009041134
+    ]
+  },
+  {
+    "averageColorRGB": [
+      34.19546615581099,
+      27.976456736909327,
+      27.694923371647512
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_174758.png",
+    "palette": [
+      {
+        "#483235": "darkslategrey"
+      },
+      {
+        "#060100": "black"
+      },
+      {
+        "#070200": "black"
+      },
+      {
+        "#0c0300": "black"
+      },
+      {
+        "#36302d": "darkslategrey"
+      },
+      {
+        "#3d3b39": "darkslategrey"
+      }
+    ],
+    "framenumber": 174758,
+    "averageColorHSV": [
+      0.0072182014797206135,
+      0.12135370495580099,
+      0.10503315351213657
+    ]
+  },
+  {
+    "averageColorRGB": [
+      20.44672733077906,
+      13.924273627075353,
+      20.13626676245211
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_175692.png",
+    "palette": [
+      {
+        "#231d23": "black"
+      },
+      {
+        "#1b151b": "black"
+      },
+      {
+        "#0e080d": "black"
+      },
+      {
+        "#0d050c": "black"
+      },
+      {
+        "#1e181c": "black"
+      },
+      {
+        "#080209": "black"
+      }
+    ],
+    "framenumber": 175692,
+    "averageColorHSV": [
+      0.8412664564193753,
+      0.06739411952520473,
+      0.18976618433956904
+    ]
+  },
+  {
+    "averageColorRGB": [
+      14.531908524904216,
+      10.769129150702428,
+      13.129054916985952
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_176626.png",
+    "palette": [
+      {
+        "#0c0709": "black"
+      },
+      {
+        "#09080b": "black"
+      },
+      {
+        "#0e090b": "black"
+      },
+      {
+        "#09060a": "black"
+      },
+      {
+        "#090403": "black"
+      },
+      {
+        "#0b080c": "black"
+      }
+    ],
+    "framenumber": 176626,
+    "averageColorHSV": [
+      0.8954706290398197,
+      0.04960987779530714,
+      0.14872035773574527
+    ]
+  },
+  {
+    "averageColorRGB": [
+      6.9235831736909335,
+      3.039635217113666,
+      4.631218071519796
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_177560.png",
+    "palette": [
+      {
+        "#060100": "black"
+      },
+      {
+        "#060103": "black"
+      },
+      {
+        "#020000": "black"
+      },
+      {
+        "#050000": "black"
+      },
+      {
+        "#080101": "black"
+      },
+      {
+        "#030102": "black"
+      }
+    ],
+    "framenumber": 177560,
+    "averageColorHSV": [
+      0.9317025325690893,
+      0.01953572233491098,
+      0.3898286481566938
+    ]
+  },
+  {
+    "averageColorRGB": [
+      11.806238026819925,
+      7.127370689655173,
+      8.561665868454662
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_178494.png",
+    "palette": [
+      {
+        "#060100": "black"
+      },
+      {
+        "#080305": "black"
+      },
+      {
+        "#070204": "black"
+      },
+      {
+        "#060307": "black"
+      },
+      {
+        "#070201": "black"
+      },
+      {
+        "#030102": "black"
+      }
+    ],
+    "framenumber": 178494,
+    "averageColorHSV": [
+      0.9489087466601611,
+      0.03712472297348059,
+      0.2471196805231023
+    ]
+  },
+  {
+    "averageColorRGB": [
+      20.638892879948916,
+      16.025219508301408,
+      19.626975574712645
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_179428.png",
+    "palette": [
+      {
+        "#1a171b": "black"
+      },
+      {
+        "#040000": "black"
+      },
+      {
+        "#060103": "black"
+      },
+      {
+        "#1a181e": "black"
+      },
+      {
+        "#070000": "black"
+      },
+      {
+        "#191923": "black"
+      }
+    ],
+    "framenumber": 179428,
+    "averageColorHSV": [
+      0.8698883450605334,
+      0.07189041644754965,
+      0.12583622161070082
+    ]
+  },
+  {
+    "averageColorRGB": [
+      21.481437579821204,
+      18.885815772669222,
+      20.721910919540232
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_180362.png",
+    "palette": [
+      {
+        "#060405": "black"
+      },
+      {
+        "#212630": "darkslategrey"
+      },
+      {
+        "#232631": "darkslategrey"
+      },
+      {
+        "#1c1f28": "black"
+      },
+      {
+        "#050000": "black"
+      },
+      {
+        "#150e0b": "black"
+      }
+    ],
+    "framenumber": 180362,
+    "averageColorHSV": [
+      0.8821030641025445,
+      0.07915147716174593,
+      0.06430018372780492
+    ]
+  },
+  {
+    "averageColorRGB": [
+      13.48039192209451,
+      7.781960408684547,
+      7.845003192848021
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_181296.png",
+    "palette": [
+      {
+        "#060100": "black"
+      },
+      {
+        "#040000": "black"
+      },
+      {
+        "#090200": "black"
+      },
+      {
+        "#060103": "black"
+      },
+      {
+        "#050000": "black"
+      },
+      {
+        "#050002": "black"
+      }
+    ],
+    "framenumber": 181296,
+    "averageColorHSV": [
+      0.9981561363562612,
+      0.04169088692309619,
+      0.2680056949842281
+    ]
+  },
+  {
+    "averageColorRGB": [
+      18.548966315453388,
+      18.128300606641126,
+      25.463932790549173
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_182230.png",
+    "palette": [
+      {
+        "#020000": "black"
+      },
+      {
+        "#020001": "black"
+      },
+      {
+        "#242c3f": "darkslategrey"
+      },
+      {
+        "#181c29": "black"
+      },
+      {
+        "#202432": "darkslategrey"
+      },
+      {
+        "#030004": "black"
+      }
+    ],
+    "framenumber": 182230,
+    "averageColorHSV": [
+      0.6762242548487064,
+      0.08547496744547117,
+      0.1682784205404089
+    ]
+  },
+  {
+    "averageColorRGB": [
+      18.12625718390805,
+      15.0444683908046,
+      16.470661717752236
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_183164.png",
+    "palette": [
+      {
+        "#040105": "black"
+      },
+      {
+        "#0b090a": "black"
+      },
+      {
+        "#201e1f": "black"
+      },
+      {
+        "#020001": "black"
+      },
+      {
+        "#010000": "black"
+      },
+      {
+        "#2c282c": "darkslategrey"
+      }
+    ],
+    "framenumber": 183164,
+    "averageColorHSV": [
+      0.9228698318468359,
+      0.0650406383817895,
+      0.09290688520400707
+    ]
+  },
+  {
+    "averageColorRGB": [
+      25.373906449553004,
+      22.23941969987229,
+      30.699892241379313
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_184098.png",
+    "palette": [
+      {
+        "#4b4d6c": "darkslateblue"
+      },
+      {
+        "#252c43": "darkslategrey"
+      },
+      {
+        "#343a58": "darkslategrey"
+      },
+      {
+        "#040000": "black"
+      },
+      {
+        "#050000": "black"
+      },
+      {
+        "#060000": "black"
+      }
+    ],
+    "framenumber": 184098,
+    "averageColorHSV": [
+      0.7284143356907261,
+      0.10380257243382668,
+      0.15981455427482463
+    ]
+  },
+  {
+    "averageColorRGB": [
+      0.9411997126436783,
+      0.940896392081737,
+      0.9425566730523628
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_185032.png",
+    "palette": [
+      {
+        "#000002": "black"
+      },
+      {
+        "#010000": "black"
+      },
+      {
+        "#010002": "black"
+      }
+    ],
+    "framenumber": 185032,
+    "averageColorHSV": [
+      0.6971153846153801,
+      0.003693045225753137,
+      0.0008815090757291997
+    ]
+  },
+  {
+    "averageColorRGB": [
+      7.934470785440614,
+      7.934470785440614,
+      7.934470785440614
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_185966.png",
+    "palette": [
+      {
+        "#010101": "black"
+      }
+    ],
+    "framenumber": 185966,
+    "averageColorHSV": [
+      0.0,
+      0.03111557170761025,
+      0.0
+    ]
+  },
+  {
+    "averageColorRGB": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "file": "http://128.54.253.204/chromatography/vertigo/Vertigo.mp4_186900.png",
+    "palette": [
+      {
+        "#ffffff": "white"
+      }
+    ],
+    "framenumber": 186900,
+    "averageColorHSV": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  }
+]

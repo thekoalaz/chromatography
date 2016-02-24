@@ -1,0 +1,6836 @@
+[
+  {
+    "averageColorHSV": [
+      0.7329211708154544,
+      0.028881125682596268,
+      0.5673073135467355
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_100.png",
+    "palette": [
+      {
+        "#8e48fe": "mediumslateblue"
+      },
+      {
+        "#7748c5": "slateblue"
+      },
+      {
+        "#000004": "black"
+      },
+      {
+        "#000002": "black"
+      },
+      {
+        "#000006": "black"
+      },
+      {
+        "#6334af": "darkslateblue"
+      }
+    ],
+    "averageColorRGB": [
+      6.508414502164502,
+      3.186646224146224,
+      11.542727873977874
+    ],
+    "framenumber": 100
+  },
+  {
+    "averageColorHSV": [
+      0.7208336660067025,
+      0.007055528440332361,
+      0.931293417826216
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_960.png",
+    "palette": [
+      {
+        "#03000a": "black"
+      },
+      {
+        "#020106": "black"
+      },
+      {
+        "#010005": "black"
+      },
+      {
+        "#030008": "black"
+      },
+      {
+        "#030004": "black"
+      },
+      {
+        "#000002": "black"
+      }
+    ],
+    "averageColorRGB": [
+      1.212725468975469,
+      0.12361411736411736,
+      3.474705387205387
+    ],
+    "framenumber": 960
+  },
+  {
+    "averageColorHSV": [
+      0.7688557238344692,
+      0.007576146620264268,
+      0.2536797830176788
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_1820.png",
+    "palette": [
+      {
+        "#020001": "black"
+      },
+      {
+        "#030102": "black"
+      },
+      {
+        "#050208": "black"
+      },
+      {
+        "#010003": "black"
+      },
+      {
+        "#030004": "black"
+      },
+      {
+        "#040107": "black"
+      }
+    ],
+    "averageColorRGB": [
+      2.0428090428090426,
+      1.4418290043290043,
+      2.4220057720057717
+    ],
+    "framenumber": 1820
+  },
+  {
+    "averageColorHSV": [
+      0.6827166114099027,
+      0.12777282630223807,
+      0.16021618180308358
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_2680.png",
+    "palette": [
+      {
+        "#232639": "darkslategrey"
+      },
+      {
+        "#1d1f2d": "darkslategrey"
+      },
+      {
+        "#292936": "darkslategrey"
+      },
+      {
+        "#121115": "black"
+      },
+      {
+        "#09080b": "black"
+      },
+      {
+        "#2d2f41": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      28.36729797979798,
+      27.36189574314574,
+      37.80224567099567
+    ],
+    "framenumber": 2680
+  },
+  {
+    "averageColorHSV": [
+      0.6166163244075807,
+      0.10248761541653698,
+      0.38469441074203176
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_3540.png",
+    "palette": [
+      {
+        "#1a2642": "midnightblue"
+      },
+      {
+        "#04080c": "black"
+      },
+      {
+        "#141a27": "black"
+      },
+      {
+        "#05080f": "black"
+      },
+      {
+        "#080b13": "black"
+      },
+      {
+        "#0f131b": "black"
+      }
+    ],
+    "averageColorRGB": [
+      16.08060666185666,
+      22.118921356421357,
+      36.1880772005772
+    ],
+    "framenumber": 3540
+  },
+  {
+    "averageColorHSV": [
+      0.03166556787398902,
+      0.15122002588914352,
+      0.20794639948580204
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_4400.png",
+    "palette": [
+      {
+        "#422e25": "darkslategrey"
+      },
+      {
+        "#523b30": "darkolivegreen"
+      },
+      {
+        "#160f0f": "black"
+      },
+      {
+        "#211b1c": "black"
+      },
+      {
+        "#271b19": "black"
+      },
+      {
+        "#483630": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      46.579749879749876,
+      33.58944203944204,
+      30.54246332371332
+    ],
+    "framenumber": 4400
+  },
+  {
+    "averageColorHSV": [
+      0.9846729325338949,
+      0.03315431391411783,
+      0.04169216518416722
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_5260.png",
+    "palette": [
+      {
+        "#050304": "black"
+      },
+      {
+        "#070506": "black"
+      },
+      {
+        "#050502": "black"
+      },
+      {
+        "#040306": "black"
+      },
+      {
+        "#050407": "black"
+      },
+      {
+        "#060405": "black"
+      }
+    ],
+    "averageColorRGB": [
+      8.806830206830206,
+      8.101869889369889,
+      8.166699735449734
+    ],
+    "framenumber": 5260
+  },
+  {
+    "averageColorHSV": [
+      0.6835383066578219,
+      0.04120824255628177,
+      0.19579878211886148
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_6120.png",
+    "palette": [
+      {
+        "#060508": "black"
+      },
+      {
+        "#0a090e": "black"
+      },
+      {
+        "#08070a": "black"
+      },
+      {
+        "#08070c": "black"
+      },
+      {
+        "#090a0f": "black"
+      },
+      {
+        "#0a0a12": "black"
+      }
+    ],
+    "averageColorRGB": [
+      8.867183742183741,
+      8.450628306878306,
+      12.565575396825396
+    ],
+    "framenumber": 6120
+  },
+  {
+    "averageColorHSV": [
+      0.6161517756675902,
+      0.09494288708749493,
+      0.31415479465433027
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_6980.png",
+    "palette": [
+      {
+        "#182131": "darkslategrey"
+      },
+      {
+        "#2d3959": "darkslategrey"
+      },
+      {
+        "#4b567c": "darkslateblue"
+      },
+      {
+        "#090c14": "black"
+      },
+      {
+        "#080c0f": "black"
+      },
+      {
+        "#20283f": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      16.604611592111592,
+      21.215100408850407,
+      31.81626082251082
+    ],
+    "framenumber": 6980
+  },
+  {
+    "averageColorHSV": [
+      0.6287942291981224,
+      0.09613493124522536,
+      0.3131436766755913
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_7840.png",
+    "palette": [
+      {
+        "#192442": "midnightblue"
+      },
+      {
+        "#1f294f": "midnightblue"
+      },
+      {
+        "#1f2c4e": "darkslategrey"
+      },
+      {
+        "#0f182f": "black"
+      },
+      {
+        "#050407": "black"
+      },
+      {
+        "#2c3a6a": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      16.83787578162578,
+      20.326623376623374,
+      32.19093915343915
+    ],
+    "framenumber": 7840
+  },
+  {
+    "averageColorHSV": [
+      0.656202636193973,
+      0.10217485310622565,
+      0.17900244127069764
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_8700.png",
+    "palette": [
+      {
+        "#060508": "black"
+      },
+      {
+        "#706f9f": "slategray"
+      },
+      {
+        "#09080d": "black"
+      },
+      {
+        "#08070a": "black"
+      },
+      {
+        "#050407": "black"
+      },
+      {
+        "#545983": "darkslateblue"
+      }
+    ],
+    "averageColorRGB": [
+      21.390752765752765,
+      21.976382876382875,
+      30.718422318422316
+    ],
+    "framenumber": 8700
+  },
+  {
+    "averageColorHSV": [
+      0.6763489221960205,
+      0.16920558880117703,
+      0.19197499233499085
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_9560.png",
+    "palette": [
+      {
+        "#060508": "black"
+      },
+      {
+        "#08070a": "black"
+      },
+      {
+        "#08070c": "black"
+      },
+      {
+        "#464c7b": "darkslateblue"
+      },
+      {
+        "#6969ab": "slategray"
+      },
+      {
+        "#30344c": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      35.82660233285233,
+      34.86419853294853,
+      51.43065175565175
+    ],
+    "framenumber": 9560
+  },
+  {
+    "averageColorHSV": [
+      0.6645471362845261,
+      0.0676163125182733,
+      0.12739493729504603
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_10420.png",
+    "palette": [
+      {
+        "#060508": "black"
+      },
+      {
+        "#08070a": "black"
+      },
+      {
+        "#16161f": "black"
+      },
+      {
+        "#040306": "black"
+      },
+      {
+        "#050407": "black"
+      },
+      {
+        "#1f1f28": "black"
+      }
+    ],
+    "averageColorRGB": [
+      15.045595839345838,
+      15.101464045214044,
+      19.438723544973545
+    ],
+    "framenumber": 10420
+  },
+  {
+    "averageColorHSV": [
+      0.67637472943877,
+      0.0965896771166379,
+      0.1607573764847272
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_11280.png",
+    "palette": [
+      {
+        "#292b38": "darkslategrey"
+      },
+      {
+        "#0d111f": "black"
+      },
+      {
+        "#171e33": "midnightblue"
+      },
+      {
+        "#080811": "black"
+      },
+      {
+        "#0b0e19": "black"
+      },
+      {
+        "#121016": "black"
+      }
+    ],
+    "averageColorRGB": [
+      21.132124819624817,
+      20.670854377104376,
+      28.589880952380952
+    ],
+    "framenumber": 11280
+  },
+  {
+    "averageColorHSV": [
+      0.028156518493912725,
+      0.1876829275481236,
+      0.15950507499544672
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_12140.png",
+    "palette": [
+      {
+        "#41301c": "darkslategrey"
+      },
+      {
+        "#2b1910": "black"
+      },
+      {
+        "#0e090b": "black"
+      },
+      {
+        "#251410": "black"
+      },
+      {
+        "#0b090a": "black"
+      },
+      {
+        "#130909": "black"
+      }
+    ],
+    "averageColorRGB": [
+      55.49292328042328,
+      42.804656685906686,
+      40.225369769119766
+    ],
+    "framenumber": 12140
+  },
+  {
+    "averageColorHSV": [
+      0.8984627975373768,
+      0.13590732252496956,
+      0.10747691682597313
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_13000.png",
+    "palette": [
+      {
+        "#35313b": "darkslategrey"
+      },
+      {
+        "#3d4052": "darkslategrey"
+      },
+      {
+        "#40475b": "darkslategrey"
+      },
+      {
+        "#0c0806": "black"
+      },
+      {
+        "#0f0907": "black"
+      },
+      {
+        "#090403": "black"
+      }
+    ],
+    "averageColorRGB": [
+      38.381126743626744,
+      30.931607744107744,
+      35.47002765752766
+    ],
+    "framenumber": 13000
+  },
+  {
+    "averageColorHSV": [
+      0.0399704200333327,
+      0.14742332875911307,
+      0.2794396061037903
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_13860.png",
+    "palette": [
+      {
+        "#2b0e0a": "black"
+      },
+      {
+        "#100806": "black"
+      },
+      {
+        "#150804": "black"
+      },
+      {
+        "#27150b": "black"
+      },
+      {
+        "#3a2618": "darkslategrey"
+      },
+      {
+        "#2f190d": "black"
+      }
+    ],
+    "averageColorRGB": [
+      48.09790764790765,
+      32.12664141414141,
+      27.087990019240017
+    ],
+    "framenumber": 13860
+  },
+  {
+    "averageColorHSV": [
+      0.6900912442039057,
+      0.09832744461420931,
+      0.22012850987569796
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_14720.png",
+    "palette": [
+      {
+        "#1e1e25": "black"
+      },
+      {
+        "#030207": "black"
+      },
+      {
+        "#020104": "black"
+      },
+      {
+        "#19172d": "black"
+      },
+      {
+        "#05030d": "black"
+      },
+      {
+        "#090616": "black"
+      }
+    ],
+    "averageColorRGB": [
+      21.105579605579603,
+      19.55410654160654,
+      30.59289021164021
+    ],
+    "framenumber": 14720
+  },
+  {
+    "averageColorHSV": [
+      0.02966319099031704,
+      0.1803508415150572,
+      0.15668725364935676
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_15580.png",
+    "palette": [
+      {
+        "#382f25": "darkslategrey"
+      },
+      {
+        "#9f6865": "gray"
+      },
+      {
+        "#0f0705": "black"
+      },
+      {
+        "#0c0201": "black"
+      },
+      {
+        "#754842": "sienna"
+      },
+      {
+        "#261c11": "black"
+      }
+    ],
+    "averageColorRGB": [
+      53.19542748917749,
+      41.348523929773926,
+      38.78350168350168
+    ],
+    "framenumber": 15580
+  },
+  {
+    "averageColorHSV": [
+      0.9245847521932699,
+      0.11026403153854133,
+      0.07993907375514123
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_16440.png",
+    "palette": [
+      {
+        "#010303": "black"
+      },
+      {
+        "#2e3246": "darkslategrey"
+      },
+      {
+        "#1e1817": "black"
+      },
+      {
+        "#17110f": "black"
+      },
+      {
+        "#000305": "black"
+      },
+      {
+        "#211c1d": "black"
+      }
+    ],
+    "averageColorRGB": [
+      30.3650012025012,
+      25.86965488215488,
+      27.903760822510822
+    ],
+    "framenumber": 16440
+  },
+  {
+    "averageColorHSV": [
+      0.8417772273824466,
+      0.1464259011685482,
+      0.08334858053301147
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_17300.png",
+    "palette": [
+      {
+        "#201c1f": "black"
+      },
+      {
+        "#252733": "darkslategrey"
+      },
+      {
+        "#4a4b6f": "darkslateblue"
+      },
+      {
+        "#1d1817": "black"
+      },
+      {
+        "#2e2a2d": "darkslategrey"
+      },
+      {
+        "#2a2a38": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      40.4507245069745,
+      34.226485088985086,
+      40.135383597883596
+    ],
+    "framenumber": 17300
+  },
+  {
+    "averageColorHSV": [
+      0.04956134505026455,
+      0.08493231804506314,
+      0.4405246028340846
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_18160.png",
+    "palette": [
+      {
+        "#130808": "black"
+      },
+      {
+        "#43260d": "maroon"
+      },
+      {
+        "#351d0b": "black"
+      },
+      {
+        "#180805": "black"
+      },
+      {
+        "#130505": "black"
+      },
+      {
+        "#1b100b": "black"
+      }
+    ],
+    "averageColorRGB": [
+      31.198508898508898,
+      17.79121272246272,
+      12.116973304473303
+    ],
+    "framenumber": 18160
+  },
+  {
+    "averageColorHSV": [
+      0.7087266717836734,
+      0.08135930382253911,
+      0.16320590614051428
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_19020.png",
+    "palette": [
+      {
+        "#202435": "darkslategrey"
+      },
+      {
+        "#100f14": "black"
+      },
+      {
+        "#1a1820": "black"
+      },
+      {
+        "#0f0f18": "black"
+      },
+      {
+        "#13111a": "black"
+      },
+      {
+        "#171823": "black"
+      }
+    ],
+    "averageColorRGB": [
+      19.069618807118808,
+      17.360651154401154,
+      24.132593795093793
+    ],
+    "framenumber": 19020
+  },
+  {
+    "averageColorHSV": [
+      0.9192809215227465,
+      0.07366135090399797,
+      0.07178373134050063
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_19880.png",
+    "palette": [
+      {
+        "#1a191d": "black"
+      },
+      {
+        "#020001": "black"
+      },
+      {
+        "#140f0e": "black"
+      },
+      {
+        "#1f1d21": "black"
+      },
+      {
+        "#211e21": "black"
+      },
+      {
+        "#141317": "black"
+      }
+    ],
+    "averageColorRGB": [
+      20.13200456950457,
+      17.435284391534392,
+      18.741344997594997
+    ],
+    "framenumber": 19880
+  },
+  {
+    "averageColorHSV": [
+      0.8264394807472611,
+      0.12334931363117636,
+      0.04650080448664066
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_20740.png",
+    "palette": [
+      {
+        "#100e10": "black"
+      },
+      {
+        "#2a2729": "darkslategrey"
+      },
+      {
+        "#181519": "black"
+      },
+      {
+        "#0b090a": "black"
+      },
+      {
+        "#2f2a2d": "darkslategrey"
+      },
+      {
+        "#464143": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      32.79571608946609,
+      29.991435185185185,
+      32.91671476671476
+    ],
+    "framenumber": 20740
+  },
+  {
+    "averageColorHSV": [
+      0.9688420358920822,
+      0.5034172372652764,
+      0.04388921359585837
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_21600.png",
+    "palette": [
+      {
+        "#aa9192": "rosybrown"
+      },
+      {
+        "#e4d0d2": "lightgray"
+      },
+      {
+        "#534a4b": "darkslategrey"
+      },
+      {
+        "#efe2e4": "mistyrose"
+      },
+      {
+        "#2f2a2c": "darkslategrey"
+      },
+      {
+        "#484248": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      133.92902537277536,
+      122.81376563251563,
+      124.89173881673881
+    ],
+    "framenumber": 21600
+  },
+  {
+    "averageColorHSV": [
+      0.1422956746450787,
+      0.09340060266530854,
+      0.10674066820506253
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_22460.png",
+    "palette": [
+      {
+        "#090708": "black"
+      },
+      {
+        "#070506": "black"
+      },
+      {
+        "#2c301f": "darkslategrey"
+      },
+      {
+        "#393c30": "darkslategrey"
+      },
+      {
+        "#09080b": "black"
+      },
+      {
+        "#090906": "black"
+      }
+    ],
+    "averageColorRGB": [
+      26.359412578162576,
+      25.61592412217412,
+      21.27489478114478
+    ],
+    "framenumber": 22460
+  },
+  {
+    "averageColorHSV": [
+      0.17327586774032255,
+      0.11207404342208263,
+      0.10659677468387614
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_23320.png",
+    "palette": [
+      {
+        "#231c15": "black"
+      },
+      {
+        "#0c0a07": "black"
+      },
+      {
+        "#25281c": "black"
+      },
+      {
+        "#18160e": "black"
+      },
+      {
+        "#0c0a0b": "black"
+      },
+      {
+        "#30382b": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      31.383685064935065,
+      31.62529761904762,
+      25.532464526214525
+    ],
+    "framenumber": 23320
+  },
+  {
+    "averageColorHSV": [
+      0.04223295884374889,
+      0.14566971064520082,
+      0.2553996703347663
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_24180.png",
+    "palette": [
+      {
+        "#120707": "black"
+      },
+      {
+        "#53361e": "darkolivegreen"
+      },
+      {
+        "#3c1e11": "black"
+      },
+      {
+        "#1c0b07": "black"
+      },
+      {
+        "#7c4228": "saddlebrown"
+      },
+      {
+        "#261308": "black"
+      }
+    ],
+    "averageColorRGB": [
+      46.63279521404521,
+      32.46673581048581,
+      27.658757215007213
+    ],
+    "framenumber": 24180
+  },
+  {
+    "averageColorHSV": [
+      0.03538662332588144,
+      0.19806023587886334,
+      0.20531141981689038
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_25040.png",
+    "palette": [
+      {
+        "#1c1411": "black"
+      },
+      {
+        "#5b4028": "darkolivegreen"
+      },
+      {
+        "#3c1f12": "black"
+      },
+      {
+        "#4e2819": "saddlebrown"
+      },
+      {
+        "#543422": "darkolivegreen"
+      },
+      {
+        "#180c0b": "black"
+      }
+    ],
+    "averageColorRGB": [
+      60.87468734968735,
+      44.539258658008656,
+      40.13603294853295
+    ],
+    "framenumber": 25040
+  },
+  {
+    "averageColorHSV": [
+      0.05520589722635185,
+      0.17900918616604888,
+      0.24240674409310986
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_25900.png",
+    "palette": [
+      {
+        "#18100b": "black"
+      },
+      {
+        "#1f140e": "black"
+      },
+      {
+        "#140805": "black"
+      },
+      {
+        "#3e1e0e": "black"
+      },
+      {
+        "#1e0b06": "black"
+      },
+      {
+        "#53371f": "darkolivegreen"
+      }
+    ],
+    "averageColorRGB": [
+      56.712566137566135,
+      41.91250601250601,
+      34.5821188071188
+    ],
+    "framenumber": 25900
+  },
+  {
+    "averageColorHSV": [
+      0.04385373607512009,
+      0.12515529949353477,
+      0.20814231401762218
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_26760.png",
+    "palette": [
+      {
+        "#683e2c": "saddlebrown"
+      },
+      {
+        "#2a1911": "black"
+      },
+      {
+        "#241c17": "black"
+      },
+      {
+        "#532b1a": "saddlebrown"
+      },
+      {
+        "#0b0605": "black"
+      },
+      {
+        "#100a09": "black"
+      }
+    ],
+    "averageColorRGB": [
+      38.55738035113035,
+      28.767550505050504,
+      25.27182239057239
+    ],
+    "framenumber": 26760
+  },
+  {
+    "averageColorHSV": [
+      0.6388032330498216,
+      0.12924719298493806,
+      0.2210990617167376
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_27620.png",
+    "palette": [
+      {
+        "#202637": "darkslategrey"
+      },
+      {
+        "#020104": "black"
+      },
+      {
+        "#131620": "black"
+      },
+      {
+        "#161a25": "black"
+      },
+      {
+        "#1c202d": "darkslategrey"
+      },
+      {
+        "#0b0b12": "black"
+      }
+    ],
+    "averageColorRGB": [
+      25.67104377104377,
+      28.10753066378066,
+      40.24502465127465
+    ],
+    "framenumber": 27620
+  },
+  {
+    "averageColorHSV": [
+      0.9639264544366354,
+      0.19497383380961814,
+      0.09679314466606904
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_28480.png",
+    "palette": [
+      {
+        "#3c404e": "darkslategrey"
+      },
+      {
+        "#5c4a44": "darkolivegreen"
+      },
+      {
+        "#483e39": "darkslategrey"
+      },
+      {
+        "#332825": "darkslategrey"
+      },
+      {
+        "#150f12": "black"
+      },
+      {
+        "#3b312e": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      54.5307208994709,
+      44.90593434343434,
+      46.9891354016354
+    ],
+    "framenumber": 28480
+  },
+  {
+    "averageColorHSV": [
+      0.6501742423388212,
+      0.22176240108838147,
+      0.1296552451167617
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_29340.png",
+    "palette": [
+      {
+        "#393e4d": "darkslategrey"
+      },
+      {
+        "#a6b6f7": "lightsteelblue"
+      },
+      {
+        "#8997d1": "mediumpurple"
+      },
+      {
+        "#646f98": "slategray"
+      },
+      {
+        "#454959": "darkslategrey"
+      },
+      {
+        "#495168": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      49.21748436748437,
+      50.66853956228956,
+      63.88134018759018
+    ],
+    "framenumber": 29340
+  },
+  {
+    "averageColorHSV": [
+      0.06412685551313756,
+      0.12071090220600025,
+      0.27746991064142934
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_30200.png",
+    "palette": [
+      {
+        "#574133": "darkolivegreen"
+      },
+      {
+        "#1b1711": "black"
+      },
+      {
+        "#030205": "black"
+      },
+      {
+        "#53321a": "saddlebrown"
+      },
+      {
+        "#120706": "black"
+      },
+      {
+        "#82665b": "dimgray"
+      }
+    ],
+    "averageColorRGB": [
+      39.32215909090909,
+      28.81279761904762,
+      22.240401034151034
+    ],
+    "framenumber": 30200
+  },
+  {
+    "averageColorHSV": [
+      0.06558877970702583,
+      0.08388542875062482,
+      0.2450770195844088
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_31060.png",
+    "palette": [
+      {
+        "#2b2217": "black"
+      },
+      {
+        "#130d0b": "black"
+      },
+      {
+        "#1c130e": "black"
+      },
+      {
+        "#241a11": "black"
+      },
+      {
+        "#060405": "black"
+      },
+      {
+        "#332a1e": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      26.633174001924,
+      20.274497955747954,
+      16.14839466089466
+    ],
+    "framenumber": 31060
+  },
+  {
+    "averageColorHSV": [
+      0.034522930877887804,
+      0.14264653420290674,
+      0.19780833225651914
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_31920.png",
+    "palette": [
+      {
+        "#3d261b": "darkslategrey"
+      },
+      {
+        "#0d0606": "black"
+      },
+      {
+        "#23170d": "black"
+      },
+      {
+        "#1e1812": "black"
+      },
+      {
+        "#472f24": "darkslategrey"
+      },
+      {
+        "#434147": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      43.57011784511784,
+      32.16042869167869,
+      29.179614598364598
+    ],
+    "framenumber": 31920
+  },
+  {
+    "averageColorHSV": [
+      0.060724820488332776,
+      0.09890313617029303,
+      0.27334197491668083
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_32780.png",
+    "palette": [
+      {
+        "#20160e": "black"
+      },
+      {
+        "#241b12": "black"
+      },
+      {
+        "#0e0907": "black"
+      },
+      {
+        "#190e0a": "black"
+      },
+      {
+        "#090403": "black"
+      },
+      {
+        "#362014": "black"
+      }
+    ],
+    "averageColorRGB": [
+      32.114066257816255,
+      23.35000601250601,
+      18.32653318903319
+    ],
+    "framenumber": 32780
+  },
+  {
+    "averageColorHSV": [
+      0.06891637530334217,
+      0.11632177281687084,
+      0.30106240279888535
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_33640.png",
+    "palette": [
+      {
+        "#5e4526": "darkolivegreen"
+      },
+      {
+        "#0b0606": "black"
+      },
+      {
+        "#050304": "black"
+      },
+      {
+        "#392d21": "darkslategrey"
+      },
+      {
+        "#1c0b06": "black"
+      },
+      {
+        "#453016": "darkolivegreen"
+      }
+    ],
+    "averageColorRGB": [
+      38.59218073593073,
+      28.117108585858585,
+      20.7319234006734
+    ],
+    "framenumber": 33640
+  },
+  {
+    "averageColorHSV": [
+      0.059988892024817296,
+      0.09315753826783238,
+      0.41633277631684606
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_34500.png",
+    "palette": [
+      {
+        "#5a412a": "darkolivegreen"
+      },
+      {
+        "#352111": "black"
+      },
+      {
+        "#230905": "black"
+      },
+      {
+        "#2c1b0e": "black"
+      },
+      {
+        "#0d0707": "black"
+      },
+      {
+        "#201409": "black"
+      }
+    ],
+    "averageColorRGB": [
+      33.645229076479076,
+      20.984638047138045,
+      13.865115440115439
+    ],
+    "framenumber": 34500
+  },
+  {
+    "averageColorHSV": [
+      0.06742303842380569,
+      0.07921877505210838,
+      0.23896666314462642
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_35360.png",
+    "palette": [
+      {
+        "#030505": "black"
+      },
+      {
+        "#1b100c": "black"
+      },
+      {
+        "#22130a": "black"
+      },
+      {
+        "#251b12": "black"
+      },
+      {
+        "#040606": "black"
+      },
+      {
+        "#020404": "black"
+      }
+    ],
+    "averageColorRGB": [
+      25.028102453102452,
+      19.27913961038961,
+      15.373472823472822
+    ],
+    "framenumber": 35360
+  },
+  {
+    "averageColorHSV": [
+      0.05872149417488522,
+      0.04365137721755369,
+      0.19365173506160915
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_36220.png",
+    "palette": [
+      {
+        "#0d0807": "black"
+      },
+      {
+        "#090705": "black"
+      },
+      {
+        "#090708": "black"
+      },
+      {
+        "#070506": "black"
+      },
+      {
+        "#0b0605": "black"
+      },
+      {
+        "#060405": "black"
+      }
+    ],
+    "averageColorRGB": [
+      13.286658249158249,
+      10.494474506974507,
+      8.975544131794132
+    ],
+    "framenumber": 36220
+  },
+  {
+    "averageColorHSV": [
+      0.03935410204580362,
+      0.19197803784813589,
+      0.1793791543166266
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_37080.png",
+    "palette": [
+      {
+        "#39302d": "darkslategrey"
+      },
+      {
+        "#413539": "darkslategrey"
+      },
+      {
+        "#382d2f": "darkslategrey"
+      },
+      {
+        "#2a2626": "darkslategrey"
+      },
+      {
+        "#302925": "darkslategrey"
+      },
+      {
+        "#352923": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      57.735798460798456,
+      44.32000962000962,
+      40.17300084175084
+    ],
+    "framenumber": 37080
+  },
+  {
+    "averageColorHSV": [
+      0.01615988996184642,
+      0.4468128884550453,
+      0.06717729154216724
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_37940.png",
+    "palette": [
+      {
+        "#6f5852": "dimgray"
+      },
+      {
+        "#977a6e": "gray"
+      },
+      {
+        "#a09499": "darkgrey"
+      },
+      {
+        "#c0b1aa": "darkgrey"
+      },
+      {
+        "#97847f": "gray"
+      },
+      {
+        "#796b66": "dimgray"
+      }
+    ],
+    "averageColorRGB": [
+      121.59128487253487,
+      107.76754148629148,
+      106.28328823953824
+    ],
+    "framenumber": 37940
+  },
+  {
+    "averageColorHSV": [
+      0.06994983605868925,
+      0.13743023135179996,
+      0.28869807618797944
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_38800.png",
+    "palette": [
+      {
+        "#372416": "black"
+      },
+      {
+        "#121110": "black"
+      },
+      {
+        "#291a10": "black"
+      },
+      {
+        "#0c0909": "black"
+      },
+      {
+        "#241711": "black"
+      },
+      {
+        "#1d1410": "black"
+      }
+    ],
+    "averageColorRGB": [
+      45.16204906204906,
+      33.419844276094274,
+      24.927368927368928
+    ],
+    "framenumber": 38800
+  },
+  {
+    "averageColorHSV": [
+      0.0054970388232218155,
+      0.2170262734723519,
+      0.05507971893755742
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_39660.png",
+    "palette": [
+      {
+        "#473f3f": "darkslategrey"
+      },
+      {
+        "#393030": "darkslategrey"
+      },
+      {
+        "#3e3738": "darkslategrey"
+      },
+      {
+        "#1e1818": "black"
+      },
+      {
+        "#332e2f": "darkslategrey"
+      },
+      {
+        "#281916": "black"
+      }
+    ],
+    "averageColorRGB": [
+      58.389905002405,
+      52.4945677008177,
+      52.293494468494465
+    ],
+    "framenumber": 39660
+  },
+  {
+    "averageColorHSV": [
+      0.012752859942897654,
+      0.22673917631025473,
+      0.04443799421741331
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_40520.png",
+    "palette": [
+      {
+        "#121113": "black"
+      },
+      {
+        "#231a18": "black"
+      },
+      {
+        "#241d1d": "black"
+      },
+      {
+        "#413a3c": "darkslategrey"
+      },
+      {
+        "#625d5e": "dimgray"
+      },
+      {
+        "#554f51": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      60.387827681577676,
+      55.64234908609908,
+      55.249152236652236
+    ],
+    "framenumber": 40520
+  },
+  {
+    "averageColorHSV": [
+      0.0513078602778955,
+      0.2126225254411529,
+      0.09652424855379634
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_41380.png",
+    "palette": [
+      {
+        "#1f1310": "black"
+      },
+      {
+        "#1a0f0d": "black"
+      },
+      {
+        "#130c0c": "black"
+      },
+      {
+        "#554b47": "darkslategrey"
+      },
+      {
+        "#0f0a09": "black"
+      },
+      {
+        "#16110e": "black"
+      }
+    ],
+    "averageColorRGB": [
+      59.4521675084175,
+      52.20750962000962,
+      48.985320466570464
+    ],
+    "framenumber": 41380
+  },
+  {
+    "averageColorHSV": [
+      0.05678824618541543,
+      0.19462553876769562,
+      0.04774319526462351
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_42240.png",
+    "palette": [
+      {
+        "#443f3e": "darkslategrey"
+      },
+      {
+        "#322a27": "darkslategrey"
+      },
+      {
+        "#150f0e": "black"
+      },
+      {
+        "#373130": "darkslategrey"
+      },
+      {
+        "#1b1413": "black"
+      },
+      {
+        "#0a0806": "black"
+      }
+    ],
+    "averageColorRGB": [
+      51.998983886483884,
+      48.87473845598846,
+      47.26004088504088
+    ],
+    "framenumber": 42240
+  },
+  {
+    "averageColorHSV": [
+      0.9553368716456134,
+      0.39411649171453095,
+      0.01607395846787978
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_43100.png",
+    "palette": [
+      {
+        "#c7c9d2": "lightgray"
+      },
+      {
+        "#92959a": "lightslategray"
+      },
+      {
+        "#211f1d": "black"
+      },
+      {
+        "#bfbfca": "silver"
+      },
+      {
+        "#141616": "black"
+      },
+      {
+        "#211716": "black"
+      }
+    ],
+    "averageColorRGB": [
+      102.11513347763348,
+      98.8842772967773,
+      99.75007816257816
+    ],
+    "framenumber": 43100
+  },
+  {
+    "averageColorHSV": [
+      0.007376963013452291,
+      0.3316805190089504,
+      0.08734652977374191
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_43960.png",
+    "palette": [
+      {
+        "#b4b7c0": "silver"
+      },
+      {
+        "#38211f": "darkslategrey"
+      },
+      {
+        "#5b4241": "darkolivegreen"
+      },
+      {
+        "#4f352a": "darkolivegreen"
+      },
+      {
+        "#332b28": "darkslategrey"
+      },
+      {
+        "#312420": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      91.96617364117364,
+      77.84487133237133,
+      77.19089105339106
+    ],
+    "framenumber": 43960
+  },
+  {
+    "averageColorHSV": [
+      0.031868950173401245,
+      0.15948435687406276,
+      0.4459627674462845
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_44820.png",
+    "palette": [
+      {
+        "#140805": "black"
+      },
+      {
+        "#4d1c0f": "maroon"
+      },
+      {
+        "#1e0e09": "black"
+      },
+      {
+        "#35140c": "black"
+      },
+      {
+        "#240b07": "black"
+      },
+      {
+        "#190b08": "black"
+      }
+    ],
+    "averageColorRGB": [
+      58.80515271765272,
+      29.46781806156806,
+      22.53186928811929
+    ],
+    "framenumber": 44820
+  },
+  {
+    "averageColorHSV": [
+      0.04742640971231604,
+      0.21952966876986485,
+      0.3521066220780831
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_45680.png",
+    "palette": [
+      {
+        "#140f10": "black"
+      },
+      {
+        "#231310": "black"
+      },
+      {
+        "#370c01": "black"
+      },
+      {
+        "#532518": "maroon"
+      },
+      {
+        "#160c0c": "black"
+      },
+      {
+        "#412517": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      75.69101731601731,
+      47.486949855699855,
+      36.269113756613756
+    ],
+    "framenumber": 45680
+  },
+  {
+    "averageColorHSV": [
+      0.04447711777362856,
+      0.24513035938281036,
+      0.42385793619374346
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_46540.png",
+    "palette": [
+      {
+        "#431c11": "maroon"
+      },
+      {
+        "#922a07": "saddlebrown"
+      },
+      {
+        "#6a3016": "saddlebrown"
+      },
+      {
+        "#28110b": "black"
+      },
+      {
+        "#33180f": "black"
+      },
+      {
+        "#4c2a1a": "darkolivegreen"
+      }
+    ],
+    "averageColorRGB": [
+      89.00285594035594,
+      50.15447631072631,
+      36.01362734487734
+    ],
+    "framenumber": 46540
+  },
+  {
+    "averageColorHSV": [
+      0.0045044249396715514,
+      0.33933402653990885,
+      0.06687483527830866
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_47400.png",
+    "palette": [
+      {
+        "#eaddd2": "gainsboro"
+      },
+      {
+        "#46231b": "darkslategrey"
+      },
+      {
+        "#241e1d": "black"
+      },
+      {
+        "#3e393e": "darkslategrey"
+      },
+      {
+        "#241b19": "black"
+      },
+      {
+        "#2b2425": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      92.31686808561808,
+      81.05627405002404,
+      80.74348544973545
+    ],
+    "framenumber": 47400
+  },
+  {
+    "averageColorHSV": [
+      0.048858839313517866,
+      0.390964494383612,
+      0.37344145489022135
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_48260.png",
+    "palette": [
+      {
+        "#cb6738": "chocolate"
+      },
+      {
+        "#411a16": "maroon"
+      },
+      {
+        "#8e492a": "sienna"
+      },
+      {
+        "#a76442": "sienna"
+      },
+      {
+        "#653c2b": "saddlebrown"
+      },
+      {
+        "#52231c": "maroon"
+      }
+    ],
+    "averageColorRGB": [
+      136.9265452140452,
+      84.29387325637325,
+      62.46534692159692
+    ],
+    "framenumber": 48260
+  },
+  {
+    "averageColorHSV": [
+      0.991968415499846,
+      0.1818335785492648,
+      0.06186321238228999
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_49120.png",
+    "palette": [
+      {
+        "#150f0d": "black"
+      },
+      {
+        "#281d18": "black"
+      },
+      {
+        "#1f1511": "black"
+      },
+      {
+        "#383030": "darkslategrey"
+      },
+      {
+        "#231c19": "black"
+      },
+      {
+        "#100909": "black"
+      }
+    ],
+    "averageColorRGB": [
+      49.2360088985089,
+      43.49911616161616,
+      43.77557419432419
+    ],
+    "framenumber": 49120
+  },
+  {
+    "averageColorHSV": [
+      0.06141798246271931,
+      0.19317262847900102,
+      0.2909071152179755
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_49980.png",
+    "palette": [
+      {
+        "#7a583e": "sienna"
+      },
+      {
+        "#201410": "black"
+      },
+      {
+        "#5f4129": "darkolivegreen"
+      },
+      {
+        "#2b1a11": "black"
+      },
+      {
+        "#1b0e0d": "black"
+      },
+      {
+        "#312114": "black"
+      }
+    ],
+    "averageColorRGB": [
+      63.58881974506974,
+      45.490509259259255,
+      34.92922077922078
+    ],
+    "framenumber": 49980
+  },
+  {
+    "averageColorHSV": [
+      0.06689990117494778,
+      0.2037067512190061,
+      0.17762706804887535
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_50840.png",
+    "palette": [
+      {
+        "#533b26": "darkolivegreen"
+      },
+      {
+        "#432e1a": "darkslategrey"
+      },
+      {
+        "#30261d": "darkslategrey"
+      },
+      {
+        "#291912": "black"
+      },
+      {
+        "#352312": "black"
+      },
+      {
+        "#2e2017": "black"
+      }
+    ],
+    "averageColorRGB": [
+      61.17209896584896,
+      50.12567039442039,
+      42.71834415584416
+    ],
+    "framenumber": 50840
+  },
+  {
+    "averageColorHSV": [
+      0.04200651077023149,
+      0.19958127021852512,
+      0.19252120694741282
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_51700.png",
+    "palette": [
+      {
+        "#120707": "black"
+      },
+      {
+        "#291a0e": "black"
+      },
+      {
+        "#432d1c": "darkslategrey"
+      },
+      {
+        "#372210": "black"
+      },
+      {
+        "#180c0a": "black"
+      },
+      {
+        "#1b0f09": "black"
+      }
+    ],
+    "averageColorRGB": [
+      60.691248797498794,
+      46.03416907166907,
+      41.09519901394901
+    ],
+    "framenumber": 51700
+  },
+  {
+    "averageColorHSV": [
+      0.05334291397402715,
+      0.17402283219685177,
+      0.3204840387520681
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_52560.png",
+    "palette": [
+      {
+        "#371f12": "black"
+      },
+      {
+        "#482f18": "darkolivegreen"
+      },
+      {
+        "#432517": "darkslategrey"
+      },
+      {
+        "#3d2614": "darkslategrey"
+      },
+      {
+        "#2e1a14": "black"
+      },
+      {
+        "#593c23": "darkolivegreen"
+      }
+    ],
+    "averageColorRGB": [
+      58.59756493506493,
+      39.25762987012987,
+      30.154079485329483
+    ],
+    "framenumber": 52560
+  },
+  {
+    "averageColorHSV": [
+      0.06457006486201815,
+      0.19183865970630676,
+      0.48044829858516597
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_53420.png",
+    "palette": [
+      {
+        "#2f170a": "black"
+      },
+      {
+        "#452415": "maroon"
+      },
+      {
+        "#230c05": "black"
+      },
+      {
+        "#381c10": "black"
+      },
+      {
+        "#2a1109": "black"
+      },
+      {
+        "#fbea81": "khaki"
+      }
+    ],
+    "averageColorRGB": [
+      72.42184042809042,
+      43.626945045695045,
+      25.41587602212602
+    ],
+    "framenumber": 53420
+  },
+  {
+    "averageColorHSV": [
+      0.05767421844248303,
+      0.19464181969083927,
+      0.41064298538437766
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_54280.png",
+    "palette": [
+      {
+        "#fade6c": "khaki"
+      },
+      {
+        "#371b0d": "black"
+      },
+      {
+        "#422316": "darkslategrey"
+      },
+      {
+        "#2c150e": "black"
+      },
+      {
+        "#6e3218": "saddlebrown"
+      },
+      {
+        "#582513": "maroon"
+      }
+    ],
+    "averageColorRGB": [
+      70.01537999037998,
+      43.35794252044252,
+      29.25194805194805
+    ],
+    "framenumber": 54280
+  },
+  {
+    "averageColorHSV": [
+      0.053797260220699306,
+      0.21024897080044136,
+      0.4537008416596386
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_55140.png",
+    "palette": [
+      {
+        "#31180b": "black"
+      },
+      {
+        "#552a1d": "saddlebrown"
+      },
+      {
+        "#672712": "saddlebrown"
+      },
+      {
+        "#311811": "black"
+      },
+      {
+        "#22110c": "black"
+      },
+      {
+        "#3e1d10": "black"
+      }
+    ],
+    "averageColorRGB": [
+      77.93797198172197,
+      44.99209054834055,
+      29.289003126503125
+    ],
+    "framenumber": 55140
+  },
+  {
+    "averageColorHSV": [
+      0.061996427155417456,
+      0.4466535393618727,
+      0.11837564129728513
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_56000.png",
+    "palette": [
+      {
+        "#a07d67": "gray"
+      },
+      {
+        "#7b5e50": "dimgray"
+      },
+      {
+        "#6d5e55": "dimgray"
+      },
+      {
+        "#d8b295": "tan"
+      },
+      {
+        "#4f3d33": "darkslategrey"
+      },
+      {
+        "#453932": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      127.37924182299182,
+      110.44453162578162,
+      100.41406325156325
+    ],
+    "framenumber": 56000
+  },
+  {
+    "averageColorHSV": [
+      0.00871824205008298,
+      0.13474658466080036,
+      0.13972749702057452
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_56860.png",
+    "palette": [
+      {
+        "#322522": "darkslategrey"
+      },
+      {
+        "#241513": "black"
+      },
+      {
+        "#241919": "black"
+      },
+      {
+        "#261b19": "black"
+      },
+      {
+        "#3a2722": "darkslategrey"
+      },
+      {
+        "#08070a": "black"
+      }
+    ],
+    "averageColorRGB": [
+      39.16146885521886,
+      30.061574074074073,
+      29.559289321789322
+    ],
+    "framenumber": 56860
+  },
+  {
+    "averageColorHSV": [
+      0.04999633017986932,
+      0.22518341680106385,
+      0.20281587482981056
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_57720.png",
+    "palette": [
+      {
+        "#130806": "black"
+      },
+      {
+        "#21160c": "black"
+      },
+      {
+        "#251b0f": "black"
+      },
+      {
+        "#150d09": "black"
+      },
+      {
+        "#1a0f0b": "black"
+      },
+      {
+        "#190e06": "black"
+      }
+    ],
+    "averageColorRGB": [
+      69.06781806156806,
+      52.7628397065897,
+      45.775724506974505
+    ],
+    "framenumber": 57720
+  },
+  {
+    "averageColorHSV": [
+      0.023754640125429383,
+      0.12211913132256269,
+      0.18661832070759427
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_58580.png",
+    "palette": [
+      {
+        "#0d0807": "black"
+      },
+      {
+        "#200c0b": "black"
+      },
+      {
+        "#221611": "black"
+      },
+      {
+        "#0b090a": "black"
+      },
+      {
+        "#341f17": "black"
+      },
+      {
+        "#23150d": "black"
+      }
+    ],
+    "averageColorRGB": [
+      36.95174362674363,
+      26.985575998075998,
+      25.329013347763347
+    ],
+    "framenumber": 58580
+  },
+  {
+    "averageColorHSV": [
+      0.046615397826809846,
+      0.12801433452168745,
+      0.16926316047334153
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_59440.png",
+    "palette": [
+      {
+        "#3d3329": "darkslategrey"
+      },
+      {
+        "#1a1411": "black"
+      },
+      {
+        "#170f0e": "black"
+      },
+      {
+        "#1a0f0c": "black"
+      },
+      {
+        "#302318": "black"
+      },
+      {
+        "#1f1712": "black"
+      }
+    ],
+    "averageColorRGB": [
+      38.169023569023565,
+      30.209093915343914,
+      27.118287037037035
+    ],
+    "framenumber": 59440
+  },
+  {
+    "averageColorHSV": [
+      0.05229718979322229,
+      0.19164144361448282,
+      0.16871777522392914
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_60300.png",
+    "palette": [
+      {
+        "#211612": "black"
+      },
+      {
+        "#1e130d": "black"
+      },
+      {
+        "#7e574f": "dimgray"
+      },
+      {
+        "#251513": "black"
+      },
+      {
+        "#312414": "black"
+      },
+      {
+        "#2a1c14": "black"
+      }
+    ],
+    "averageColorRGB": [
+      57.11356421356421,
+      45.79785353535353,
+      40.62357202982203
+    ],
+    "framenumber": 60300
+  },
+  {
+    "averageColorHSV": [
+      0.06625553816875353,
+      0.15819809910496185,
+      0.2805027756064985
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_61160.png",
+    "palette": [
+      {
+        "#281911": "black"
+      },
+      {
+        "#312013": "black"
+      },
+      {
+        "#28180c": "black"
+      },
+      {
+        "#574323": "darkolivegreen"
+      },
+      {
+        "#4b3521": "darkolivegreen"
+      },
+      {
+        "#362515": "black"
+      }
+    ],
+    "averageColorRGB": [
+      51.65614177489177,
+      38.02156385281385,
+      29.024888768638768
+    ],
+    "framenumber": 61160
+  },
+  {
+    "averageColorHSV": [
+      0.7979860444943191,
+      0.09387062737552933,
+      0.12489866443652034
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_62020.png",
+    "palette": [
+      {
+        "#050304": "black"
+      },
+      {
+        "#191318": "black"
+      },
+      {
+        "#242b41": "darkslategrey"
+      },
+      {
+        "#181114": "black"
+      },
+      {
+        "#1a1821": "black"
+      },
+      {
+        "#1d0b0c": "black"
+      }
+    ],
+    "averageColorRGB": [
+      25.65857683982684,
+      20.9473094035594,
+      26.926710557960558
+    ],
+    "framenumber": 62020
+  },
+  {
+    "averageColorHSV": [
+      0.09137650463182823,
+      0.385146663884409,
+      0.0845978140535145
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_62880.png",
+    "palette": [
+      {
+        "#706e55": "dimgray"
+      },
+      {
+        "#3f3e2a": "darkslategrey"
+      },
+      {
+        "#845f55": "dimgray"
+      },
+      {
+        "#a9786b": "rosybrown"
+      },
+      {
+        "#41482d": "darkslategrey"
+      },
+      {
+        "#5f583f": "darkolivegreen"
+      }
+    ],
+    "averageColorRGB": [
+      106.52095358345358,
+      99.0143247955748,
+      89.90384499759499
+    ],
+    "framenumber": 62880
+  },
+  {
+    "averageColorHSV": [
+      0.8760321785653271,
+      0.31573071989738655,
+      0.036791917043577795
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_63740.png",
+    "palette": [
+      {
+        "#1d1313": "black"
+      },
+      {
+        "#280f09": "black"
+      },
+      {
+        "#b38177": "rosybrown"
+      },
+      {
+        "#0f0a0b": "black"
+      },
+      {
+        "#587299": "slategray"
+      },
+      {
+        "#45271f": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      83.47349987974988,
+      77.54916726791727,
+      81.95572691197691
+    ],
+    "framenumber": 63740
+  },
+  {
+    "averageColorHSV": [
+      0.015003063646170453,
+      0.1748104115383527,
+      0.09768273537758365
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_64600.png",
+    "palette": [
+      {
+        "#3c2617": "darkslategrey"
+      },
+      {
+        "#55341c": "saddlebrown"
+      },
+      {
+        "#26130e": "black"
+      },
+      {
+        "#2e1910": "black"
+      },
+      {
+        "#32353c": "darkslategrey"
+      },
+      {
+        "#332219": "black"
+      }
+    ],
+    "averageColorRGB": [
+      48.931024531024526,
+      41.00623196248196,
+      40.222285353535355
+    ],
+    "framenumber": 64600
+  },
+  {
+    "averageColorHSV": [
+      0.021400836805969697,
+      0.17212883975138876,
+      0.11370294439533277
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_65460.png",
+    "palette": [
+      {
+        "#190f0e": "black"
+      },
+      {
+        "#100b0a": "black"
+      },
+      {
+        "#6c4924": "saddlebrown"
+      },
+      {
+        "#040a0b": "black"
+      },
+      {
+        "#261b15": "black"
+      },
+      {
+        "#140d0d": "black"
+      }
+    ],
+    "averageColorRGB": [
+      48.88360088985089,
+      40.183781265031264,
+      38.90210738335738
+    ],
+    "framenumber": 65460
+  },
+  {
+    "averageColorHSV": [
+      0.04590960436028305,
+      0.07450308995652133,
+      0.46524304066853683
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_66320.png",
+    "palette": [
+      {
+        "#120905": "black"
+      },
+      {
+        "#180c07": "black"
+      },
+      {
+        "#120704": "black"
+      },
+      {
+        "#2d1a0e": "black"
+      },
+      {
+        "#0f0504": "black"
+      },
+      {
+        "#090202": "black"
+      }
+    ],
+    "averageColorRGB": [
+      27.837109187109185,
+      15.028908128908128,
+      10.159466690716691
+    ],
+    "framenumber": 66320
+  },
+  {
+    "averageColorHSV": [
+      0.040837316179075635,
+      0.29543950829490045,
+      0.1290569206868865
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_67180.png",
+    "palette": [
+      {
+        "#524130": "darkolivegreen"
+      },
+      {
+        "#0d0807": "black"
+      },
+      {
+        "#3f2619": "darkslategrey"
+      },
+      {
+        "#c29691": "rosybrown"
+      },
+      {
+        "#5b4f39": "darkolivegreen"
+      },
+      {
+        "#5c3b2e": "darkolivegreen"
+      }
+    ],
+    "averageColorRGB": [
+      85.05984547859548,
+      70.37892616642617,
+      65.61430375180375
+    ],
+    "framenumber": 67180
+  },
+  {
+    "averageColorHSV": [
+      0.06394247191773968,
+      0.17179670774033517,
+      0.3315753917874517
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_68040.png",
+    "palette": [
+      {
+        "#110505": "black"
+      },
+      {
+        "#462f1e": "darkslategrey"
+      },
+      {
+        "#291409": "black"
+      },
+      {
+        "#342015": "black"
+      },
+      {
+        "#1b0c07": "black"
+      },
+      {
+        "#6f513a": "darkolivegreen"
+      }
+    ],
+    "averageColorRGB": [
+      58.33386844636844,
+      40.42816859066859,
+      29.2824525012025
+    ],
+    "framenumber": 68040
+  },
+  {
+    "averageColorHSV": [
+      0.04403624776146777,
+      0.1777992400663969,
+      0.32309155842948123
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_68900.png",
+    "palette": [
+      {
+        "#26150a": "black"
+      },
+      {
+        "#21100a": "black"
+      },
+      {
+        "#4e2013": "maroon"
+      },
+      {
+        "#785644": "dimgray"
+      },
+      {
+        "#220703": "black"
+      },
+      {
+        "#372215": "black"
+      }
+    ],
+    "averageColorRGB": [
+      59.98739177489177,
+      38.431045574795576,
+      30.690220658970656
+    ],
+    "framenumber": 68900
+  },
+  {
+    "averageColorHSV": [
+      0.02860073791606506,
+      0.305879936149544,
+      0.13955048068630985
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_69760.png",
+    "palette": [
+      {
+        "#3c211c": "darkslategrey"
+      },
+      {
+        "#393224": "darkslategrey"
+      },
+      {
+        "#69443e": "darkolivegreen"
+      },
+      {
+        "#4c2b26": "darkslategrey"
+      },
+      {
+        "#271d19": "black"
+      },
+      {
+        "#deafac": "tan"
+      }
+    ],
+    "averageColorRGB": [
+      88.8842352092352,
+      70.85030964405964,
+      67.11453222703223
+    ],
+    "framenumber": 69760
+  },
+  {
+    "averageColorHSV": [
+      0.9323530079127369,
+      0.30217782399154947,
+      0.06304539419757345
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_70620.png",
+    "palette": [
+      {
+        "#59535c": "dimgray"
+      },
+      {
+        "#4d464b": "darkslategrey"
+      },
+      {
+        "#7a7990": "slategray"
+      },
+      {
+        "#352b19": "darkslategrey"
+      },
+      {
+        "#8a8da7": "lightslategray"
+      },
+      {
+        "#afb6d6": "lightsteelblue"
+      }
+    ],
+    "averageColorRGB": [
+      81.91332972582973,
+      72.1973605098605,
+      76.14089706589706
+    ],
+    "framenumber": 70620
+  },
+  {
+    "averageColorHSV": [
+      0.004795160789024126,
+      0.3617792891567401,
+      0.06972286918777446
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_71480.png",
+    "palette": [
+      {
+        "#442024": "darkslategrey"
+      },
+      {
+        "#5f3637": "darkolivegreen"
+      },
+      {
+        "#3b2f1d": "darkslategrey"
+      },
+      {
+        "#351b1e": "black"
+      },
+      {
+        "#e8e1bf": "wheat"
+      },
+      {
+        "#7c8390": "lightslategray"
+      }
+    ],
+    "averageColorRGB": [
+      98.6859126984127,
+      86.19164562289562,
+      85.82152477152476
+    ],
+    "framenumber": 71480
+  },
+  {
+    "averageColorHSV": [
+      0.03103693574078033,
+      0.15191435833592698,
+      0.17563861851073673
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_72340.png",
+    "palette": [
+      {
+        "#1a0b08": "black"
+      },
+      {
+        "#3a2821": "darkslategrey"
+      },
+      {
+        "#2e1a15": "black"
+      },
+      {
+        "#230f0c": "black"
+      },
+      {
+        "#1d0d08": "black"
+      },
+      {
+        "#26130d": "black"
+      }
+    ],
+    "averageColorRGB": [
+      45.54207852332852,
+      34.468317099567095,
+      31.934244227994228
+    ],
+    "framenumber": 72340
+  },
+  {
+    "averageColorHSV": [
+      0.054459952749014405,
+      0.1501737437399202,
+      0.26255482762796284
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_73200.png",
+    "palette": [
+      {
+        "#2b1b17": "black"
+      },
+      {
+        "#3c281a": "darkslategrey"
+      },
+      {
+        "#261b17": "black"
+      },
+      {
+        "#150b0c": "black"
+      },
+      {
+        "#583f27": "darkolivegreen"
+      },
+      {
+        "#44301e": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      48.34865921115921,
+      34.810666185666186,
+      28.239950096200094
+    ],
+    "framenumber": 73200
+  },
+  {
+    "averageColorHSV": [
+      0.9973906384119269,
+      0.2880359854379462,
+      0.09325288572827893
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_74060.png",
+    "palette": [
+      {
+        "#615959": "dimgray"
+      },
+      {
+        "#3c3a46": "darkslategrey"
+      },
+      {
+        "#402e23": "darkslategrey"
+      },
+      {
+        "#26100c": "black"
+      },
+      {
+        "#3c1b13": "black"
+      },
+      {
+        "#4d443d": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      80.29852392977392,
+      66.59982864357865,
+      66.81429773929774
+    ],
+    "framenumber": 74060
+  },
+  {
+    "averageColorHSV": [
+      0.031992827387357536,
+      0.13153856492091787,
+      0.15575268415334514
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_74920.png",
+    "palette": [
+      {
+        "#30211a": "black"
+      },
+      {
+        "#0c0706": "black"
+      },
+      {
+        "#36281e": "darkslategrey"
+      },
+      {
+        "#180f0f": "black"
+      },
+      {
+        "#0f0808": "black"
+      },
+      {
+        "#20130e": "black"
+      }
+    ],
+    "averageColorRGB": [
+      38.76664261664261,
+      30.323710317460318,
+      28.31802549302549
+    ],
+    "framenumber": 74920
+  },
+  {
+    "averageColorHSV": [
+      0.04473130955889563,
+      0.3223631860151468,
+      0.12098412379488101
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_75780.png",
+    "palette": [
+      {
+        "#5e4d42": "darkolivegreen"
+      },
+      {
+        "#948a8a": "gray"
+      },
+      {
+        "#ddd5cd": "lightgray"
+      },
+      {
+        "#50423e": "darkslategrey"
+      },
+      {
+        "#43372f": "darkslategrey"
+      },
+      {
+        "#7c695b": "dimgray"
+      }
+    ],
+    "averageColorRGB": [
+      92.14782347282348,
+      77.59574915824915,
+      72.2574013949014
+    ],
+    "framenumber": 75780
+  },
+  {
+    "averageColorHSV": [
+      0.041050296946579135,
+      0.17469232474134433,
+      0.17577079763060532
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_76640.png",
+    "palette": [
+      {
+        "#322117": "black"
+      },
+      {
+        "#311a0b": "black"
+      },
+      {
+        "#422a16": "darkslategrey"
+      },
+      {
+        "#4a2d1a": "darkolivegreen"
+      },
+      {
+        "#583d2c": "darkolivegreen"
+      },
+      {
+        "#210c05": "black"
+      }
+    ],
+    "averageColorRGB": [
+      52.376524170274166,
+      40.57363816738817,
+      36.71656144781144
+    ],
+    "framenumber": 76640
+  },
+  {
+    "averageColorHSV": [
+      0.03511387493082565,
+      0.2483055402295598,
+      0.1145511074041843
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_77500.png",
+    "palette": [
+      {
+        "#322119": "black"
+      },
+      {
+        "#463730": "darkslategrey"
+      },
+      {
+        "#3a2a22": "darkslategrey"
+      },
+      {
+        "#271c16": "black"
+      },
+      {
+        "#26140c": "black"
+      },
+      {
+        "#655453": "dimgray"
+      }
+    ],
+    "averageColorRGB": [
+      70.57104978354978,
+      59.121004689754685,
+      56.06477573352573
+    ],
+    "framenumber": 77500
+  },
+  {
+    "averageColorHSV": [
+      0.9676375913205578,
+      0.24058554735025323,
+      0.1231442611826511
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_78360.png",
+    "palette": [
+      {
+        "#86778f": "gray"
+      },
+      {
+        "#6f333a": "saddlebrown"
+      },
+      {
+        "#26140f": "black"
+      },
+      {
+        "#615461": "dimgray"
+      },
+      {
+        "#33211a": "black"
+      },
+      {
+        "#979ba7": "darkgrey"
+      }
+    ],
+    "averageColorRGB": [
+      68.90413059163059,
+      53.794498556998555,
+      56.728403078403076
+    ],
+    "framenumber": 78360
+  },
+  {
+    "averageColorHSV": [
+      0.04018482264498922,
+      0.18046159541257578,
+      0.10461360668385675
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_79220.png",
+    "palette": [
+      {
+        "#513b3c": "darkslategrey"
+      },
+      {
+        "#1c2714": "black"
+      },
+      {
+        "#070909": "black"
+      },
+      {
+        "#8f7d95": "gray"
+      },
+      {
+        "#432d29": "darkslategrey"
+      },
+      {
+        "#6d606d": "dimgray"
+      }
+    ],
+    "averageColorRGB": [
+      50.83178511303511,
+      43.52506313131313,
+      41.20362854737854
+    ],
+    "framenumber": 79220
+  },
+  {
+    "averageColorHSV": [
+      0.9986600002156143,
+      0.23939777089286893,
+      0.11572047057873383
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_80080.png",
+    "palette": [
+      {
+        "#0b0907": "black"
+      },
+      {
+        "#744d4b": "dimgray"
+      },
+      {
+        "#96848c": "gray"
+      },
+      {
+        "#af9ba0": "darkgrey"
+      },
+      {
+        "#695a5e": "dimgray"
+      },
+      {
+        "#7d6e72": "dimgray"
+      }
+    ],
+    "averageColorRGB": [
+      68.11075336700337,
+      53.982109788359786,
+      54.09570406445406
+    ],
+    "framenumber": 80080
+  },
+  {
+    "averageColorHSV": [
+      0.05428030569309091,
+      0.18332970814588462,
+      0.35172913607100675
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_80940.png",
+    "palette": [
+      {
+        "#2c1c0b": "black"
+      },
+      {
+        "#1b0d09": "black"
+      },
+      {
+        "#321f13": "black"
+      },
+      {
+        "#362117": "black"
+      },
+      {
+        "#482e21": "darkslategrey"
+      },
+      {
+        "#402a16": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      63.19208754208754,
+      41.016444203944204,
+      30.30606361231361
+    ],
+    "framenumber": 80940
+  },
+  {
+    "averageColorHSV": [
+      0.06290608178618441,
+      0.2538053268445425,
+      0.23973778112629818
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_81800.png",
+    "palette": [
+      {
+        "#4b3210": "darkolivegreen"
+      },
+      {
+        "#3f2a16": "darkslategrey"
+      },
+      {
+        "#5c3e1a": "saddlebrown"
+      },
+      {
+        "#6e4720": "saddlebrown"
+      },
+      {
+        "#210909": "black"
+      },
+      {
+        "#37201b": "black"
+      }
+    ],
+    "averageColorRGB": [
+      80.23627344877345,
+      60.91698833573833,
+      49.20444324194324
+    ],
+    "framenumber": 81800
+  },
+  {
+    "averageColorHSV": [
+      0.05315205962600646,
+      0.350338663243075,
+      0.09481364383667022
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_82660.png",
+    "palette": [
+      {
+        "#1e1310": "black"
+      },
+      {
+        "#4c3722": "darkolivegreen"
+      },
+      {
+        "#1a0c09": "black"
+      },
+      {
+        "#422d1b": "darkslategrey"
+      },
+      {
+        "#36281f": "darkslategrey"
+      },
+      {
+        "#3a230e": "black"
+      }
+    ],
+    "averageColorRGB": [
+      97.80666486291486,
+      86.26862373737373,
+      80.86605339105338
+    ],
+    "framenumber": 82660
+  },
+  {
+    "averageColorHSV": [
+      0.049460096586848634,
+      0.21969046793801694,
+      0.1987779240598603
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_83520.png",
+    "palette": [
+      {
+        "#170602": "black"
+      },
+      {
+        "#26130e": "black"
+      },
+      {
+        "#060100": "black"
+      },
+      {
+        "#5b412b": "darkolivegreen"
+      },
+      {
+        "#362010": "black"
+      },
+      {
+        "#090101": "black"
+      }
+    ],
+    "averageColorRGB": [
+      67.15682118807119,
+      51.49462181337181,
+      44.88531746031746
+    ],
+    "framenumber": 83520
+  },
+  {
+    "averageColorHSV": [
+      0.9473672145790271,
+      0.1347537466164917,
+      0.11068048941037481
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_84380.png",
+    "palette": [
+      {
+        "#5b5a67": "dimgray"
+      },
+      {
+        "#070506": "black"
+      },
+      {
+        "#201512": "black"
+      },
+      {
+        "#100807": "black"
+      },
+      {
+        "#180d0a": "black"
+      },
+      {
+        "#1c0c0a": "black"
+      }
+    ],
+    "averageColorRGB": [
+      38.1654310966811,
+      30.558979677729678,
+      32.96107202982203
+    ],
+    "framenumber": 84380
+  },
+  {
+    "averageColorHSV": [
+      0.01247891553823971,
+      0.13160562204679851,
+      0.12434308769610176
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_85240.png",
+    "palette": [
+      {
+        "#160d0a": "black"
+      },
+      {
+        "#0c0707": "black"
+      },
+      {
+        "#19100b": "black"
+      },
+      {
+        "#0f0a09": "black"
+      },
+      {
+        "#3e3232": "darkslategrey"
+      },
+      {
+        "#1b1716": "black"
+      }
+    ],
+    "averageColorRGB": [
+      37.73231721981722,
+      30.011426767676767,
+      29.386550024050024
+    ],
+    "framenumber": 85240
+  },
+  {
+    "averageColorHSV": [
+      0.9503229785700386,
+      0.17002795815295813,
+      0.09019595362478369
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_86100.png",
+    "palette": [
+      {
+        "#100606": "black"
+      },
+      {
+        "#170c0b": "black"
+      },
+      {
+        "#0d0605": "black"
+      },
+      {
+        "#120807": "black"
+      },
+      {
+        "#090403": "black"
+      },
+      {
+        "#140906": "black"
+      }
+    ],
+    "averageColorRGB": [
+      47.26776695526695,
+      39.4464917027417,
+      41.77771765271765
+    ],
+    "framenumber": 86100
+  },
+  {
+    "averageColorHSV": [
+      0.952546666630512,
+      0.10764611568533136,
+      0.08077768558764492
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_86960.png",
+    "palette": [
+      {
+        "#1d1817": "black"
+      },
+      {
+        "#211c1c": "black"
+      },
+      {
+        "#171211": "black"
+      },
+      {
+        "#161113": "black"
+      },
+      {
+        "#1d181a": "black"
+      },
+      {
+        "#6e676a": "dimgray"
+      }
+    ],
+    "averageColorRGB": [
+      29.66708754208754,
+      25.232431457431456,
+      26.49506673881674
+    ],
+    "framenumber": 86960
+  },
+  {
+    "averageColorHSV": [
+      0.05400863485038506,
+      0.061899073602504975,
+      0.1773014930546793
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_87820.png",
+    "palette": [
+      {
+        "#0a0809": "black"
+      },
+      {
+        "#030505": "black"
+      },
+      {
+        "#221c13": "black"
+      },
+      {
+        "#251e16": "black"
+      },
+      {
+        "#0d0807": "black"
+      },
+      {
+        "#0a0806": "black"
+      }
+    ],
+    "averageColorRGB": [
+      18.5828373015873,
+      14.799455868205868,
+      12.985690235690235
+    ],
+    "framenumber": 87820
+  },
+  {
+    "averageColorHSV": [
+      0.05808628818001471,
+      0.09075217629139197,
+      0.2387260664935457
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_88680.png",
+    "palette": [
+      {
+        "#362c21": "darkslategrey"
+      },
+      {
+        "#2a1e13": "black"
+      },
+      {
+        "#493a31": "darkslategrey"
+      },
+      {
+        "#0c0505": "black"
+      },
+      {
+        "#130707": "black"
+      },
+      {
+        "#3d3326": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      28.66635702260702,
+      21.468061568061568,
+      17.617252886002884
+    ],
+    "framenumber": 88680
+  },
+  {
+    "averageColorHSV": [
+      0.06851528360141952,
+      0.12881235911873165,
+      0.2732018085026496
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_89540.png",
+    "palette": [
+      {
+        "#24160a": "black"
+      },
+      {
+        "#322113": "black"
+      },
+      {
+        "#170e0b": "black"
+      },
+      {
+        "#8e683d": "sienna"
+      },
+      {
+        "#322922": "darkslategrey"
+      },
+      {
+        "#040606": "black"
+      }
+    ],
+    "averageColorRGB": [
+      41.821052789802785,
+      31.251443001443,
+      23.873250360750358
+    ],
+    "framenumber": 89540
+  },
+  {
+    "averageColorHSV": [
+      0.047948703025860885,
+      0.15051330885889708,
+      0.2402326760578163
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_90400.png",
+    "palette": [
+      {
+        "#160d0a": "black"
+      },
+      {
+        "#432e21": "darkslategrey"
+      },
+      {
+        "#090708": "black"
+      },
+      {
+        "#110a0b": "black"
+      },
+      {
+        "#0d0806": "black"
+      },
+      {
+        "#815b42": "sienna"
+      }
+    ],
+    "averageColorRGB": [
+      47.60123857623857,
+      34.46579184704184,
+      29.16054894179894
+    ],
+    "framenumber": 90400
+  },
+  {
+    "averageColorHSV": [
+      0.03508100947802867,
+      0.07009918277075139,
+      0.44698611865348303
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_91260.png",
+    "palette": [
+      {
+        "#110706": "black"
+      },
+      {
+        "#220b08": "black"
+      },
+      {
+        "#0e0705": "black"
+      },
+      {
+        "#1b0906": "black"
+      },
+      {
+        "#180d0a": "black"
+      },
+      {
+        "#170703": "black"
+      }
+    ],
+    "averageColorRGB": [
+      25.86529882154882,
+      13.248854617604618,
+      9.885284391534391
+    ],
+    "framenumber": 91260
+  },
+  {
+    "averageColorHSV": [
+      0.06526441777948117,
+      0.14598433565345328,
+      0.2800319893827423
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_92120.png",
+    "palette": [
+      {
+        "#1d1712": "black"
+      },
+      {
+        "#2c241f": "darkslategrey"
+      },
+      {
+        "#b67955": "peru"
+      },
+      {
+        "#17110c": "black"
+      },
+      {
+        "#332b24": "darkslategrey"
+      },
+      {
+        "#3b322c": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      47.65047799422799,
+      34.96569865319865,
+      26.801533189033186
+    ],
+    "framenumber": 92120
+  },
+  {
+    "averageColorHSV": [
+      0.03947537626415611,
+      0.120023330881174,
+      0.27141128813233345
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_92980.png",
+    "palette": [
+      {
+        "#1e120c": "black"
+      },
+      {
+        "#4e4341": "darkslategrey"
+      },
+      {
+        "#130602": "black"
+      },
+      {
+        "#393233": "darkslategrey"
+      },
+      {
+        "#1d0f0a": "black"
+      },
+      {
+        "#090403": "black"
+      }
+    ],
+    "averageColorRGB": [
+      38.91274951899952,
+      26.234117965367965,
+      22.29914923039923
+    ],
+    "framenumber": 92980
+  },
+  {
+    "averageColorHSV": [
+      0.07129568144667277,
+      0.18941921549764687,
+      0.44745674775803346
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_93840.png",
+    "palette": [
+      {
+        "#1e120c": "black"
+      },
+      {
+        "#9f613c": "sienna"
+      },
+      {
+        "#251913": "black"
+      },
+      {
+        "#130904": "black"
+      },
+      {
+        "#21160f": "black"
+      },
+      {
+        "#170d08": "black"
+      }
+    ],
+    "averageColorRGB": [
+      69.91491101491101,
+      45.17986111111111,
+      26.688888888888886
+    ],
+    "framenumber": 93840
+  },
+  {
+    "averageColorHSV": [
+      0.0714456928603475,
+      0.43716225631666805,
+      0.13725696894986839
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_94700.png",
+    "palette": [
+      {
+        "#b3a18f": "rosybrown"
+      },
+      {
+        "#4c382d": "darkslategrey"
+      },
+      {
+        "#9e948f": "rosybrown"
+      },
+      {
+        "#d7c7af": "silver"
+      },
+      {
+        "#c3bbae": "silver"
+      },
+      {
+        "#55443c": "darkolivegreen"
+      }
+    ],
+    "averageColorRGB": [
+      126.77728475228474,
+      109.29367484367484,
+      96.17546596921596
+    ],
+    "framenumber": 94700
+  },
+  {
+    "averageColorHSV": [
+      0.05105205304109959,
+      0.25056253477822105,
+      0.8870119654555039
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_95560.png",
+    "palette": [
+      {
+        "#b2460b": "saddlebrown"
+      },
+      {
+        "#280401": "black"
+      },
+      {
+        "#ee590b": "orangered"
+      },
+      {
+        "#7d2d07": "saddlebrown"
+      },
+      {
+        "#5b1d05": "maroon"
+      },
+      {
+        "#140201": "black"
+      }
+    ],
+    "averageColorRGB": [
+      120.5676978114478,
+      41.93923761423761,
+      7.219194925444925
+    ],
+    "framenumber": 95560
+  },
+  {
+    "averageColorHSV": [
+      0.6503560264595086,
+      0.10605777664601193,
+      0.10471334436026036
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_96420.png",
+    "palette": [
+      {
+        "#060508": "black"
+      },
+      {
+        "#53596d": "dimgray"
+      },
+      {
+        "#08070a": "black"
+      },
+      {
+        "#1f2226": "black"
+      },
+      {
+        "#363945": "darkslategrey"
+      },
+      {
+        "#060405": "black"
+      }
+    ],
+    "averageColorRGB": [
+      24.2127886002886,
+      24.76707852332852,
+      29.87667748917749
+    ],
+    "framenumber": 96420
+  },
+  {
+    "averageColorHSV": [
+      0.5238296182995477,
+      0.024433557092870817,
+      0.3427374480255437
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_97280.png",
+    "palette": [
+      {
+        "#010303": "black"
+      },
+      {
+        "#0b1012": "black"
+      },
+      {
+        "#000202": "black"
+      },
+      {
+        "#080d0f": "black"
+      },
+      {
+        "#03090b": "black"
+      },
+      {
+        "#020404": "black"
+      }
+    ],
+    "averageColorRGB": [
+      4.095111832611832,
+      7.755360149110149,
+      8.366002284752284
+    ],
+    "framenumber": 97280
+  },
+  {
+    "averageColorHSV": [
+      0.05091242772672466,
+      0.07227143635231871,
+      0.4841510469032115
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_98140.png",
+    "palette": [
+      {
+        "#1c0c03": "black"
+      },
+      {
+        "#150d08": "black"
+      },
+      {
+        "#120704": "black"
+      },
+      {
+        "#1f0b05": "black"
+      },
+      {
+        "#180803": "black"
+      },
+      {
+        "#0b0604": "black"
+      }
+    ],
+    "averageColorRGB": [
+      27.35174062049062,
+      14.957900432900432,
+      9.506691919191919
+    ],
+    "framenumber": 98140
+  },
+  {
+    "averageColorHSV": [
+      0.631474007708022,
+      0.029120264267323087,
+      0.11355408785323834
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_99000.png",
+    "palette": [
+      {
+        "#060508": "black"
+      },
+      {
+        "#060808": "black"
+      },
+      {
+        "#08070a": "black"
+      },
+      {
+        "#040508": "black"
+      },
+      {
+        "#040606": "black"
+      },
+      {
+        "#06070a": "black"
+      }
+    ],
+    "averageColorRGB": [
+      6.582452501202501,
+      6.938552188552189,
+      8.268882275132274
+    ],
+    "framenumber": 99000
+  },
+  {
+    "averageColorHSV": [
+      0.9760080724267844,
+      0.060714963594865556,
+      0.2185697676958664
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_99860.png",
+    "palette": [
+      {
+        "#0b0102": "black"
+      },
+      {
+        "#0c0705": "black"
+      },
+      {
+        "#070201": "black"
+      },
+      {
+        "#2b0808": "black"
+      },
+      {
+        "#100102": "black"
+      },
+      {
+        "#150405": "black"
+      }
+    ],
+    "averageColorRGB": [
+      18.866281866281867,
+      12.098349567099566,
+      13.072604016354015
+    ],
+    "framenumber": 99860
+  },
+  {
+    "averageColorHSV": [
+      0.6625674918213362,
+      0.040693754774637124,
+      0.1606543243192741
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_100720.png",
+    "palette": [
+      {
+        "#090a10": "black"
+      },
+      {
+        "#020104": "black"
+      },
+      {
+        "#121218": "black"
+      },
+      {
+        "#030205": "black"
+      },
+      {
+        "#151723": "black"
+      },
+      {
+        "#1e202d": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      8.70981240981241,
+      8.791816979316978,
+      12.044002525252525
+    ],
+    "framenumber": 100720
+  },
+  {
+    "averageColorHSV": [
+      0.004110651847311797,
+      0.15434360528723273,
+      0.12774006345975952
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_101580.png",
+    "palette": [
+      {
+        "#3a3030": "darkslategrey"
+      },
+      {
+        "#302321": "darkslategrey"
+      },
+      {
+        "#261c1c": "black"
+      },
+      {
+        "#201615": "black"
+      },
+      {
+        "#383234": "darkslategrey"
+      },
+      {
+        "#211718": "black"
+      }
+    ],
+    "averageColorRGB": [
+      44.38516414141414,
+      34.57807239057239,
+      34.33007455507455
+    ],
+    "framenumber": 101580
+  },
+  {
+    "averageColorHSV": [
+      0.7393780342758461,
+      0.09499804888285279,
+      0.09500134555078131
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_102440.png",
+    "palette": [
+      {
+        "#0b0907": "black"
+      },
+      {
+        "#6c5d7f": "dimgray"
+      },
+      {
+        "#0d0b0c": "black"
+      },
+      {
+        "#0a090c": "black"
+      },
+      {
+        "#0f0a09": "black"
+      },
+      {
+        "#090906": "black"
+      }
+    ],
+    "averageColorRGB": [
+      23.931162818662816,
+      21.923142135642134,
+      26.52586279461279
+    ],
+    "framenumber": 102440
+  },
+  {
+    "averageColorHSV": [
+      0.5652180841739574,
+      0.02547159267747503,
+      0.16458019181868586
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_103300.png",
+    "palette": [
+      {
+        "#030505": "black"
+      },
+      {
+        "#060808": "black"
+      },
+      {
+        "#030407": "black"
+      },
+      {
+        "#040508": "black"
+      },
+      {
+        "#040606": "black"
+      },
+      {
+        "#020404": "black"
+      }
+    ],
+    "averageColorRGB": [
+      5.426265632515633,
+      6.727636483886483,
+      7.564246632996633
+    ],
+    "framenumber": 103300
+  },
+  {
+    "averageColorHSV": [
+      0.02176222105802611,
+      0.09813192027652812,
+      0.3018959284952235
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_104160.png",
+    "palette": [
+      {
+        "#191413": "black"
+      },
+      {
+        "#15100d": "black"
+      },
+      {
+        "#46140f": "maroon"
+      },
+      {
+        "#350b0b": "black"
+      },
+      {
+        "#2b221e": "black"
+      },
+      {
+        "#0e0c0a": "black"
+      }
+    ],
+    "averageColorRGB": [
+      32.5781746031746,
+      19.441946248196246,
+      17.469104737854735
+    ],
+    "framenumber": 104160
+  },
+  {
+    "averageColorHSV": [
+      0.6563959829547903,
+      0.10787141961161568,
+      0.1310989214315761
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_105020.png",
+    "palette": [
+      {
+        "#0f0e11": "black"
+      },
+      {
+        "#111217": "black"
+      },
+      {
+        "#3d4158": "darkslategrey"
+      },
+      {
+        "#121115": "black"
+      },
+      {
+        "#585d73": "dimgray"
+      },
+      {
+        "#2d3245": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      23.901046176046176,
+      24.34549963924964,
+      31.113377825877823
+    ],
+    "framenumber": 105020
+  },
+  {
+    "averageColorHSV": [
+      0.14727757311899983,
+      0.025314100387629795,
+      0.061187869168689096
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_105880.png",
+    "palette": [
+      {
+        "#0d0b0c": "black"
+      },
+      {
+        "#070506": "black"
+      },
+      {
+        "#050502": "black"
+      },
+      {
+        "#090708": "black"
+      },
+      {
+        "#060808": "black"
+      },
+      {
+        "#060405": "black"
+      }
+    ],
+    "averageColorRGB": [
+      6.850069143819144,
+      6.758170995670995,
+      6.060122053872053
+    ],
+    "framenumber": 105880
+  },
+  {
+    "averageColorHSV": [
+      0.6695505300724216,
+      0.06653786346188306,
+      0.07540572837715119
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_106740.png",
+    "palette": [
+      {
+        "#14171d": "black"
+      },
+      {
+        "#0a0b0e": "black"
+      },
+      {
+        "#101115": "black"
+      },
+      {
+        "#07080b": "black"
+      },
+      {
+        "#09080b": "black"
+      },
+      {
+        "#21232c": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      15.732010582010581,
+      15.687734487734486,
+      18.246575877825876
+    ],
+    "framenumber": 106740
+  },
+  {
+    "averageColorHSV": [
+      0.6525796250822257,
+      0.5230364923747277,
+      0.09514075869755009
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_107600.png",
+    "palette": [
+      {
+        "#56586d": "dimgray"
+      },
+      {
+        "#5e647b": "dimgray"
+      },
+      {
+        "#a2a0b6": "darkgrey"
+      },
+      {
+        "#75778d": "slategray"
+      },
+      {
+        "#a0a1b7": "darkgrey"
+      },
+      {
+        "#8a8da2": "lightslategray"
+      }
+    ],
+    "averageColorRGB": [
+      121.80274470899471,
+      123.7588534151034,
+      144.9458664021164
+    ],
+    "framenumber": 107600
+  },
+  {
+    "averageColorHSV": [
+      0.04315171390107497,
+      0.188150735883579,
+      0.08726102666757947
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_108460.png",
+    "palette": [
+      {
+        "#422f24": "darkslategrey"
+      },
+      {
+        "#3a2b1f": "darkslategrey"
+      },
+      {
+        "#34261d": "darkslategrey"
+      },
+      {
+        "#6a544b": "dimgray"
+      },
+      {
+        "#2b1d11": "black"
+      },
+      {
+        "#394253": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      52.16508537758538,
+      45.95972222222222,
+      43.79178992303992
+    ],
+    "framenumber": 108460
+  },
+  {
+    "averageColorHSV": [
+      0.009715259045148325,
+      0.15939607324411248,
+      0.08239312421115072
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_109320.png",
+    "palette": [
+      {
+        "#0b0907": "black"
+      },
+      {
+        "#1d130f": "black"
+      },
+      {
+        "#080805": "black"
+      },
+      {
+        "#1b1511": "black"
+      },
+      {
+        "#2c1a12": "black"
+      },
+      {
+        "#170c09": "black"
+      }
+    ],
+    "averageColorRGB": [
+      43.994949494949495,
+      37.68747895622896,
+      37.29704785954786
+    ],
+    "framenumber": 109320
+  },
+  {
+    "averageColorHSV": [
+      0.024180234402887375,
+      0.1942396537739675,
+      0.14690724324410934
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_110180.png",
+    "palette": [
+      {
+        "#3c2723": "darkslategrey"
+      },
+      {
+        "#745f5b": "dimgray"
+      },
+      {
+        "#664b46": "darkolivegreen"
+      },
+      {
+        "#170c0c": "black"
+      },
+      {
+        "#af938b": "rosybrown"
+      },
+      {
+        "#59423c": "darkolivegreen"
+      }
+    ],
+    "averageColorRGB": [
+      56.807590788840784,
+      44.36599627224627,
+      42.254632635882636
+    ],
+    "framenumber": 110180
+  },
+  {
+    "averageColorHSV": [
+      0.6410010740446962,
+      0.43414122551377454,
+      0.026429367155925223
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_111040.png",
+    "palette": [
+      {
+        "#9aa0af": "darkgrey"
+      },
+      {
+        "#8f9099": "lightslategray"
+      },
+      {
+        "#8c97af": "lightslategray"
+      },
+      {
+        "#3d312a": "darkslategrey"
+      },
+      {
+        "#7d777f": "gray"
+      },
+      {
+        "#677da4": "slategray"
+      }
+    ],
+    "averageColorRGB": [
+      107.78012265512265,
+      108.68125901875901,
+      113.63190235690236
+    ],
+    "framenumber": 111040
+  },
+  {
+    "averageColorHSV": [
+      0.1699104223630651,
+      0.1755227402408775,
+      0.06817915060788426
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_111900.png",
+    "palette": [
+      {
+        "#151912": "black"
+      },
+      {
+        "#d7dbe9": "gainsboro"
+      },
+      {
+        "#3f4433": "darkslategrey"
+      },
+      {
+        "#2d2f22": "darkslategrey"
+      },
+      {
+        "#191f19": "black"
+      },
+      {
+        "#3a3c2f": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      47.69109848484848,
+      47.80988155363155,
+      41.70671596921597
+    ],
+    "framenumber": 111900
+  },
+  {
+    "averageColorHSV": [
+      0.8126731671628674,
+      0.28227441313225626,
+      0.007954043656004236
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_112760.png",
+    "palette": [
+      {
+        "#d9dee8": "gainsboro"
+      },
+      {
+        "#1f1e21": "black"
+      },
+      {
+        "#505343": "darkolivegreen"
+      },
+      {
+        "#4e4642": "darkslategrey"
+      },
+      {
+        "#3e3d33": "darkslategrey"
+      },
+      {
+        "#2c2b30": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      72.41056397306397,
+      71.40744348244348,
+      72.55250721500721
+    ],
+    "framenumber": 112760
+  },
+  {
+    "averageColorHSV": [
+      0.8886963088068103,
+      0.1319002819983212,
+      0.040855261487902805
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_113620.png",
+    "palette": [
+      {
+        "#40414c": "darkslategrey"
+      },
+      {
+        "#44424a": "darkslategrey"
+      },
+      {
+        "#0f090a": "black"
+      },
+      {
+        "#2e2e35": "darkslategrey"
+      },
+      {
+        "#404048": "darkslategrey"
+      },
+      {
+        "#2b2c33": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      35.008721139971136,
+      32.26042267917268,
+      34.09579725829726
+    ],
+    "framenumber": 113620
+  },
+  {
+    "averageColorHSV": [
+      0.9936651824677151,
+      0.19395748450895509,
+      0.051362001354903444
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_114480.png",
+    "palette": [
+      {
+        "#3a2315": "black"
+      },
+      {
+        "#3b3432": "darkslategrey"
+      },
+      {
+        "#12161b": "black"
+      },
+      {
+        "#433022": "darkslategrey"
+      },
+      {
+        "#4e3e31": "darkolivegreen"
+      },
+      {
+        "#1f070a": "black"
+      }
+    ],
+    "averageColorRGB": [
+      51.999479918229916,
+      46.91883718133718,
+      47.111946849446845
+    ],
+    "framenumber": 114480
+  },
+  {
+    "averageColorHSV": [
+      0.037658731325903895,
+      0.18555011482707562,
+      0.07452588416848144
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_115340.png",
+    "palette": [
+      {
+        "#2b2625": "darkslategrey"
+      },
+      {
+        "#372419": "darkslategrey"
+      },
+      {
+        "#47372c": "darkslategrey"
+      },
+      {
+        "#483a2c": "darkslategrey"
+      },
+      {
+        "#402f1f": "darkslategrey"
+      },
+      {
+        "#29180f": "black"
+      }
+    ],
+    "averageColorRGB": [
+      50.841492303992304,
+      45.38257876382876,
+      43.78906625781626
+    ],
+    "framenumber": 115340
+  },
+  {
+    "averageColorHSV": [
+      0.016211317982946394,
+      0.09816885003159512,
+      0.1504167889596681
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_116200.png",
+    "palette": [
+      {
+        "#291e19": "black"
+      },
+      {
+        "#1f1614": "black"
+      },
+      {
+        "#1b130f": "black"
+      },
+      {
+        "#160b07": "black"
+      },
+      {
+        "#131216": "black"
+      },
+      {
+        "#372b28": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      28.798448773448772,
+      22.000168350168348,
+      21.267664742664742
+    ],
+    "framenumber": 116200
+  },
+  {
+    "averageColorHSV": [
+      0.06718853664227449,
+      0.09732963387375151,
+      0.16802601222339034
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_117060.png",
+    "palette": [
+      {
+        "#1f150c": "black"
+      },
+      {
+        "#2d2722": "darkslategrey"
+      },
+      {
+        "#3f3b3a": "darkslategrey"
+      },
+      {
+        "#302218": "black"
+      },
+      {
+        "#1e1611": "black"
+      },
+      {
+        "#382a20": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      28.98930375180375,
+      24.011123136123135,
+      20.648809523809522
+    ],
+    "framenumber": 117060
+  },
+  {
+    "averageColorHSV": [
+      0.052894168226326456,
+      0.15585185420969735,
+      0.3491609929399367
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_117920.png",
+    "palette": [
+      {
+        "#e8965d": "sandybrown"
+      },
+      {
+        "#130d0b": "black"
+      },
+      {
+        "#100e0c": "black"
+      },
+      {
+        "#c6744b": "peru"
+      },
+      {
+        "#38180b": "black"
+      },
+      {
+        "#100b08": "black"
+      }
+    ],
+    "averageColorRGB": [
+      53.61865680615681,
+      34.67357804232804,
+      25.865788840788838
+    ],
+    "framenumber": 117920
+  },
+  {
+    "averageColorHSV": [
+      0.6414159121720627,
+      0.17655913122824884,
+      0.14502427016320213
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_118780.png",
+    "palette": [
+      {
+        "#262c3a": "darkslategrey"
+      },
+      {
+        "#373a47": "darkslategrey"
+      },
+      {
+        "#1c1f28": "black"
+      },
+      {
+        "#3a4152": "darkslategrey"
+      },
+      {
+        "#2e354a": "darkslategrey"
+      },
+      {
+        "#212431": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      38.493211880711875,
+      40.47166907166907,
+      51.55194504569504
+    ],
+    "framenumber": 118780
+  },
+  {
+    "averageColorHSV": [
+      0.6460869958832004,
+      0.17254965033151307,
+      0.11974514446649745
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_119640.png",
+    "palette": [
+      {
+        "#26313d": "darkslategrey"
+      },
+      {
+        "#384160": "darkslategrey"
+      },
+      {
+        "#13181e": "black"
+      },
+      {
+        "#12181b": "black"
+      },
+      {
+        "#27303f": "darkslategrey"
+      },
+      {
+        "#312819": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      38.731355218855214,
+      40.032518638768636,
+      49.268966450216446
+    ],
+    "framenumber": 119640
+  },
+  {
+    "averageColorHSV": [
+      0.9867494994844106,
+      0.24317254595440868,
+      0.0840237035797362
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_120500.png",
+    "palette": [
+      {
+        "#15151c": "black"
+      },
+      {
+        "#1b191e": "black"
+      },
+      {
+        "#4f3835": "darkslategrey"
+      },
+      {
+        "#856b6c": "dimgray"
+      },
+      {
+        "#211514": "black"
+      },
+      {
+        "#2e2527": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      67.21922498797498,
+      56.798773448773446,
+      57.627230639730634
+    ],
+    "framenumber": 120500
+  },
+  {
+    "averageColorHSV": [
+      0.7447280189918666,
+      0.3333929101943808,
+      0.05835758106145862
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_121360.png",
+    "palette": [
+      {
+        "#3f373f": "darkslategrey"
+      },
+      {
+        "#767586": "slategray"
+      },
+      {
+        "#3f3a47": "darkslategrey"
+      },
+      {
+        "#323139": "darkslategrey"
+      },
+      {
+        "#736c7b": "dimgray"
+      },
+      {
+        "#2c2a32": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      84.70132275132275,
+      80.05391113516113,
+      89.97647306397306
+    ],
+    "framenumber": 121360
+  },
+  {
+    "averageColorHSV": [
+      0.6531670850449736,
+      0.28777985268181344,
+      0.06697487399637071
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_122220.png",
+    "palette": [
+      {
+        "#555864": "dimgray"
+      },
+      {
+        "#636770": "dimgray"
+      },
+      {
+        "#494952": "darkslategrey"
+      },
+      {
+        "#4f5057": "darkslategrey"
+      },
+      {
+        "#40424e": "darkslategrey"
+      },
+      {
+        "#434249": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      68.46898749398748,
+      69.26517255892256,
+      78.29873737373737
+    ],
+    "framenumber": 122220
+  },
+  {
+    "averageColorHSV": [
+      0.9253647247808694,
+      0.3324092701053485,
+      0.03960846528045207
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_123080.png",
+    "palette": [
+      {
+        "#4e4d54": "darkslategrey"
+      },
+      {
+        "#664744": "darkolivegreen"
+      },
+      {
+        "#866a64": "dimgray"
+      },
+      {
+        "#414147": "darkslategrey"
+      },
+      {
+        "#646670": "dimgray"
+      },
+      {
+        "#93959c": "lightslategray"
+      }
+    ],
+    "averageColorRGB": [
+      88.12175024050023,
+      81.4069775132275,
+      84.41393097643098
+    ],
+    "framenumber": 123080
+  },
+  {
+    "averageColorHSV": [
+      0.9695306734498405,
+      0.4218127175112469,
+      0.033523060667315766
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_123940.png",
+    "palette": [
+      {
+        "#48312e": "darkslategrey"
+      },
+      {
+        "#725a54": "dimgray"
+      },
+      {
+        "#413f43": "darkslategrey"
+      },
+      {
+        "#5f3f3c": "darkolivegreen"
+      },
+      {
+        "#503c38": "darkslategrey"
+      },
+      {
+        "#abadb4": "darkgrey"
+      }
+    ],
+    "averageColorRGB": [
+      111.16805856180855,
+      103.95642736892736,
+      105.27482864357864
+    ],
+    "framenumber": 123940
+  },
+  {
+    "averageColorHSV": [
+      0.9215655292098529,
+      0.3518331836101444,
+      0.0436848027450025
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_124800.png",
+    "palette": [
+      {
+        "#6b6e7d": "dimgray"
+      },
+      {
+        "#646b7c": "dimgray"
+      },
+      {
+        "#5c5d6c": "dimgray"
+      },
+      {
+        "#555560": "dimgray"
+      },
+      {
+        "#351f1a": "black"
+      },
+      {
+        "#898fa1": "lightslategray"
+      }
+    ],
+    "averageColorRGB": [
+      93.63675144300144,
+      85.7981721981722,
+      89.48706108706108
+    ],
+    "framenumber": 124800
+  },
+  {
+    "averageColorHSV": [
+      0.6645832007973365,
+      0.31392541191560797,
+      0.03659952746262053
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_125660.png",
+    "palette": [
+      {
+        "#32353d": "darkslategrey"
+      },
+      {
+        "#727781": "gray"
+      },
+      {
+        "#636d7f": "dimgray"
+      },
+      {
+        "#48505c": "darkslategrey"
+      },
+      {
+        "#302c31": "darkslategrey"
+      },
+      {
+        "#4a3f3f": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      77.121151996152,
+      77.19440235690236,
+      82.98080808080807
+    ],
+    "framenumber": 125660
+  },
+  {
+    "averageColorHSV": [
+      0.7698729604099664,
+      0.3528323088494657,
+      0.043672064216136376
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_126520.png",
+    "palette": [
+      {
+        "#787a87": "gray"
+      },
+      {
+        "#564d50": "darkslategrey"
+      },
+      {
+        "#5f2b23": "saddlebrown"
+      },
+      {
+        "#474650": "darkslategrey"
+      },
+      {
+        "#bcc3d3": "lightsteelblue"
+      },
+      {
+        "#5e5d64": "dimgray"
+      }
+    ],
+    "averageColorRGB": [
+      90.90927429052428,
+      86.04296536796537,
+      93.90151214526215
+    ],
+    "framenumber": 126520
+  },
+  {
+    "averageColorHSV": [
+      0.06730203221847457,
+      0.13884367720152033,
+      0.28026923287565386
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_127380.png",
+    "palette": [
+      {
+        "#2e190e": "black"
+      },
+      {
+        "#090708": "black"
+      },
+      {
+        "#372415": "black"
+      },
+      {
+        "#190c08": "black"
+      },
+      {
+        "#120d0c": "black"
+      },
+      {
+        "#523e2e": "darkolivegreen"
+      }
+    ],
+    "averageColorRGB": [
+      45.328108465608466,
+      33.49620009620009,
+      25.482166907166906
+    ],
+    "framenumber": 127380
+  },
+  {
+    "averageColorHSV": [
+      0.039858948183681575,
+      0.14781512605042016,
+      0.19668887408606936
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_128240.png",
+    "palette": [
+      {
+        "#170e0d": "black"
+      },
+      {
+        "#2a1a14": "black"
+      },
+      {
+        "#210a07": "black"
+      },
+      {
+        "#100a0a": "black"
+      },
+      {
+        "#302422": "darkslategrey"
+      },
+      {
+        "#2a170d": "black"
+      }
+    ],
+    "averageColorRGB": [
+      45.10662277537277,
+      33.82515031265031,
+      30.27909151034151
+    ],
+    "framenumber": 128240
+  },
+  {
+    "averageColorHSV": [
+      0.7270985844199304,
+      0.26180544355789453,
+      0.05052959121253397
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_129100.png",
+    "palette": [
+      {
+        "#2b2c38": "darkslategrey"
+      },
+      {
+        "#3c3840": "darkslategrey"
+      },
+      {
+        "#2b2b31": "darkslategrey"
+      },
+      {
+        "#2a252b": "darkslategrey"
+      },
+      {
+        "#4f4d56": "darkslategrey"
+      },
+      {
+        "#474754": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      65.83332732082732,
+      63.38701298701299,
+      70.13376322751323
+    ],
+    "framenumber": 129100
+  },
+  {
+    "averageColorHSV": [
+      0.7819194215632962,
+      0.27334418531722454,
+      0.044932274331821495
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_129960.png",
+    "palette": [
+      {
+        "#574c50": "darkslategrey"
+      },
+      {
+        "#574e56": "dimgray"
+      },
+      {
+        "#473d44": "darkslategrey"
+      },
+      {
+        "#655e67": "dimgray"
+      },
+      {
+        "#b3b5c6": "silver"
+      },
+      {
+        "#3d3134": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      70.90238997113997,
+      66.5708633958634,
+      72.83467111592111
+    ],
+    "framenumber": 129960
+  },
+  {
+    "averageColorHSV": [
+      0.038206617685064316,
+      0.2384332765092569,
+      0.20009012753654595
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_130820.png",
+    "palette": [
+      {
+        "#2a1916": "black"
+      },
+      {
+        "#47332b": "darkslategrey"
+      },
+      {
+        "#3b1f17": "black"
+      },
+      {
+        "#3d2822": "darkslategrey"
+      },
+      {
+        "#442d21": "darkslategrey"
+      },
+      {
+        "#996953": "sienna"
+      }
+    ],
+    "averageColorRGB": [
+      72.96606240981241,
+      54.21257515632515,
+      48.63490860990861
+    ],
+    "framenumber": 130820
+  },
+  {
+    "averageColorHSV": [
+      0.026707092937158467,
+      0.2933516832658989,
+      0.04598075752716365
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_131680.png",
+    "palette": [
+      {
+        "#2e2c31": "darkslategrey"
+      },
+      {
+        "#2f2d28": "darkslategrey"
+      },
+      {
+        "#6a574a": "dimgray"
+      },
+      {
+        "#463a2c": "darkslategrey"
+      },
+      {
+        "#24201a": "black"
+      },
+      {
+        "#5a5753": "dimgray"
+      }
+    ],
+    "averageColorRGB": [
+      78.24425505050505,
+      72.46743626743627,
+      71.3651034151034
+    ],
+    "framenumber": 131680
+  },
+  {
+    "averageColorHSV": [
+      0.907923524241715,
+      0.19912014637504832,
+      0.053374575074209514
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_132540.png",
+    "palette": [
+      {
+        "#1b1414": "black"
+      },
+      {
+        "#3a2f32": "darkslategrey"
+      },
+      {
+        "#2b2525": "darkslategrey"
+      },
+      {
+        "#251a1a": "black"
+      },
+      {
+        "#423c40": "darkslategrey"
+      },
+      {
+        "#4e4348": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      53.48576539201539,
+      48.06550925925926,
+      51.05997775372775
+    ],
+    "framenumber": 132540
+  },
+  {
+    "averageColorHSV": [
+      0.013581638567622826,
+      0.11767761650114592,
+      0.10900407461906646
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_133400.png",
+    "palette": [
+      {
+        "#0d0807": "black"
+      },
+      {
+        "#160f0d": "black"
+      },
+      {
+        "#15100d": "black"
+      },
+      {
+        "#110a08": "black"
+      },
+      {
+        "#151110": "black"
+      },
+      {
+        "#120d0c": "black"
+      }
+    ],
+    "averageColorRGB": [
+      33.27876382876383,
+      27.269922438672438,
+      26.736820586820585
+    ],
+    "framenumber": 133400
+  },
+  {
+    "averageColorHSV": [
+      0.9981580103562582,
+      0.2281437389770723,
+      0.03971463860724242
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_134260.png",
+    "palette": [
+      {
+        "#1e1413": "black"
+      },
+      {
+        "#5d6064": "dimgray"
+      },
+      {
+        "#221b19": "black"
+      },
+      {
+        "#241e1d": "black"
+      },
+      {
+        "#46484a": "darkslategrey"
+      },
+      {
+        "#1a1413": "black"
+      }
+    ],
+    "averageColorRGB": [
+      60.4871182058682,
+      55.86618867243867,
+      55.9172588985089
+    ],
+    "framenumber": 134260
+  },
+  {
+    "averageColorHSV": [
+      0.9660566764375076,
+      0.21935040177687237,
+      0.057995314737937016
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_135120.png",
+    "palette": [
+      {
+        "#16100f": "black"
+      },
+      {
+        "#332c2f": "darkslategrey"
+      },
+      {
+        "#35292a": "darkslategrey"
+      },
+      {
+        "#170f0d": "black"
+      },
+      {
+        "#1b1514": "black"
+      },
+      {
+        "#24140f": "black"
+      }
+    ],
+    "averageColorRGB": [
+      59.178282828282825,
+      52.69042207792207,
+      54.01173941798942
+    ],
+    "framenumber": 135120
+  },
+  {
+    "averageColorHSV": [
+      0.6610397702081309,
+      0.19287069457412592,
+      0.0573747978251348
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_135980.png",
+    "palette": [
+      {
+        "#2c2d38": "darkslategrey"
+      },
+      {
+        "#262528": "darkslategrey"
+      },
+      {
+        "#1e1d21": "black"
+      },
+      {
+        "#3f3f49": "darkslategrey"
+      },
+      {
+        "#2d2d33": "darkslategrey"
+      },
+      {
+        "#4d515d": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      46.36021825396825,
+      46.55075456950457,
+      52.00383597883598
+    ],
+    "framenumber": 135980
+  },
+  {
+    "averageColorHSV": [
+      0.03673245649397996,
+      0.22138153241094416,
+      0.16512057274650674
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_136840.png",
+    "palette": [
+      {
+        "#492c1f": "darkslategrey"
+      },
+      {
+        "#2e1c16": "black"
+      },
+      {
+        "#2e1e1b": "black"
+      },
+      {
+        "#33231d": "darkslategrey"
+      },
+      {
+        "#3e261f": "darkslategrey"
+      },
+      {
+        "#372723": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      65.77372534872535,
+      51.23964646464646,
+      47.13085618085618
+    ],
+    "framenumber": 136840
+  },
+  {
+    "averageColorHSV": [
+      0.7455292710475748,
+      0.21459625432664647,
+      0.03630008249856442
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_137700.png",
+    "palette": [
+      {
+        "#3e3a3f": "darkslategrey"
+      },
+      {
+        "#030407": "black"
+      },
+      {
+        "#040508": "black"
+      },
+      {
+        "#130e0c": "black"
+      },
+      {
+        "#171210": "black"
+      },
+      {
+        "#535158": "dimgray"
+      }
+    ],
+    "averageColorRGB": [
+      54.61547619047619,
+      52.735630110630105,
+      56.708459595959596
+    ],
+    "framenumber": 137700
+  },
+  {
+    "averageColorHSV": [
+      0.736458716443082,
+      0.2088845504531779,
+      0.040358994700155644
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_138560.png",
+    "palette": [
+      {
+        "#030505": "black"
+      },
+      {
+        "#2f2b2f": "darkslategrey"
+      },
+      {
+        "#75737b": "gray"
+      },
+      {
+        "#5a5760": "dimgray"
+      },
+      {
+        "#030407": "black"
+      },
+      {
+        "#6d6d74": "dimgray"
+      }
+    ],
+    "averageColorRGB": [
+      52.91623677248677,
+      51.11581589706589,
+      55.41530483405483
+    ],
+    "framenumber": 138560
+  },
+  {
+    "averageColorHSV": [
+      0.7427861387194739,
+      0.18834034792368126,
+      0.039903775944749816
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_139420.png",
+    "palette": [
+      {
+        "#181614": "black"
+      },
+      {
+        "#212023": "black"
+      },
+      {
+        "#141210": "black"
+      },
+      {
+        "#464651": "darkslategrey"
+      },
+      {
+        "#27252a": "darkslategrey"
+      },
+      {
+        "#171518": "black"
+      }
+    ],
+    "averageColorRGB": [
+      47.860888648388645,
+      46.1103385040885,
+      49.943238936988934
+    ],
+    "framenumber": 139420
+  },
+  {
+    "averageColorHSV": [
+      0.9760538676336039,
+      0.15397617043450376,
+      0.08258288200338233
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_140280.png",
+    "palette": [
+      {
+        "#111110": "black"
+      },
+      {
+        "#564142": "darkslategrey"
+      },
+      {
+        "#131010": "black"
+      },
+      {
+        "#372b2c": "darkslategrey"
+      },
+      {
+        "#1e1c1e": "black"
+      },
+      {
+        "#473737": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      42.506451418951414,
+      36.021395502645504,
+      36.95314754689755
+    ],
+    "framenumber": 140280
+  },
+  {
+    "averageColorHSV": [
+      0.9993456000335349,
+      0.16207264639862679,
+      0.046852194182943716
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_141140.png",
+    "palette": [
+      {
+        "#2d211c": "black"
+      },
+      {
+        "#02060a": "black"
+      },
+      {
+        "#101111": "black"
+      },
+      {
+        "#1e2024": "black"
+      },
+      {
+        "#30333a": "darkslategrey"
+      },
+      {
+        "#464850": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      43.2648569023569,
+      39.392192760942756,
+      39.40739838864839
+    ],
+    "framenumber": 141140
+  },
+  {
+    "averageColorHSV": [
+      0.7205221898397213,
+      0.16134589357628573,
+      0.041492779964744604
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_142000.png",
+    "palette": [
+      {
+        "#3f4047": "darkslategrey"
+      },
+      {
+        "#111215": "black"
+      },
+      {
+        "#353339": "darkslategrey"
+      },
+      {
+        "#080a0a": "black"
+      },
+      {
+        "#0e1010": "black"
+      },
+      {
+        "#151719": "black"
+      }
+    ],
+    "averageColorRGB": [
+      40.5393278018278,
+      39.436056998557,
+      42.850348725348724
+    ],
+    "framenumber": 142000
+  },
+  {
+    "averageColorHSV": [
+      0.04408318600674932,
+      0.2260357072121778,
+      0.10526179633602789
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_142860.png",
+    "palette": [
+      {
+        "#2b1b15": "black"
+      },
+      {
+        "#221613": "black"
+      },
+      {
+        "#47372e": "darkslategrey"
+      },
+      {
+        "#17100e": "black"
+      },
+      {
+        "#0a0806": "black"
+      },
+      {
+        "#3a2920": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      63.706301106301105,
+      54.78144540644541,
+      51.57190957190957
+    ],
+    "framenumber": 142860
+  },
+  {
+    "averageColorHSV": [
+      0.8964607840885979,
+      0.20339276282903734,
+      0.07067713669237796
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_143720.png",
+    "palette": [
+      {
+        "#190f0e": "black"
+      },
+      {
+        "#171111": "black"
+      },
+      {
+        "#160f0d": "black"
+      },
+      {
+        "#30201e": "black"
+      },
+      {
+        "#291b1a": "black"
+      },
+      {
+        "#646885": "dimgray"
+      }
+    ],
+    "averageColorRGB": [
+      55.530835137085134,
+      48.199473905723906,
+      52.753974266474266
+    ],
+    "framenumber": 143720
+  },
+  {
+    "averageColorHSV": [
+      0.8790914662799398,
+      0.3840637113431231,
+      0.04851334108898979
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_144580.png",
+    "palette": [
+      {
+        "#0f0b0e": "black"
+      },
+      {
+        "#807388": "gray"
+      },
+      {
+        "#978791": "gray"
+      },
+      {
+        "#96889b": "lightslategray"
+      },
+      {
+        "#8d839b": "lightslategray"
+      },
+      {
+        "#cfc4d3": "thistle"
+      }
+    ],
+    "averageColorRGB": [
+      102.68746091871091,
+      93.18503186628186,
+      100.07858044733044
+    ],
+    "framenumber": 144580
+  },
+  {
+    "averageColorHSV": [
+      0.6790749360155658,
+      0.356612601269464,
+      0.08888898953493442
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_145440.png",
+    "palette": [
+      {
+        "#8a9ed6": "cornflowerblue"
+      },
+      {
+        "#0f0e11": "black"
+      },
+      {
+        "#241315": "black"
+      },
+      {
+        "#6a6073": "dimgray"
+      },
+      {
+        "#474242": "darkslategrey"
+      },
+      {
+        "#9099c0": "darkgrey"
+      }
+    ],
+    "averageColorRGB": [
+      84.05657166907166,
+      82.8529852092352,
+      99.01944143819144
+    ],
+    "framenumber": 145440
+  },
+  {
+    "averageColorHSV": [
+      0.9624944969132568,
+      0.4823598732422262,
+      0.04711454206821567
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_146300.png",
+    "palette": [
+      {
+        "#d9dde9": "gainsboro"
+      },
+      {
+        "#a2969a": "darkgrey"
+      },
+      {
+        "#514645": "darkslategrey"
+      },
+      {
+        "#968687": "gray"
+      },
+      {
+        "#aba1a7": "darkgrey"
+      },
+      {
+        "#524849": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      128.79693963443964,
+      117.20659571909572,
+      119.8148057960558
+    ],
+    "framenumber": 146300
+  },
+  {
+    "averageColorHSV": [
+      0.22073171610843115,
+      0.510293799337917,
+      0.06345027776315279
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_147160.png",
+    "palette": [
+      {
+        "#394026": "darkslategrey"
+      },
+      {
+        "#977d62": "gray"
+      },
+      {
+        "#60794a": "darkolivegreen"
+      },
+      {
+        "#737354": "dimgray"
+      },
+      {
+        "#454e36": "darkslategrey"
+      },
+      {
+        "#516139": "darkolivegreen"
+      }
+    ],
+    "averageColorRGB": [
+      132.90775613275613,
+      138.0482774170274,
+      122.20156024531023
+    ],
+    "framenumber": 147160
+  },
+  {
+    "averageColorHSV": [
+      0.9085807320766478,
+      0.3486702930330381,
+      0.07731075190031703
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_148020.png",
+    "palette": [
+      {
+        "#65444c": "dimgray"
+      },
+      {
+        "#6c5860": "dimgray"
+      },
+      {
+        "#635d62": "dimgray"
+      },
+      {
+        "#363137": "darkslategrey"
+      },
+      {
+        "#65595f": "dimgray"
+      },
+      {
+        "#463d46": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      95.78469516594517,
+      82.03715428090428,
+      89.57789502164502
+    ],
+    "framenumber": 148020
+  },
+  {
+    "averageColorHSV": [
+      0.9811513065618976,
+      0.3377545765781059,
+      0.11787608714227561
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_148880.png",
+    "palette": [
+      {
+        "#5f3936": "darkolivegreen"
+      },
+      {
+        "#515663": "dimgray"
+      },
+      {
+        "#847c78": "gray"
+      },
+      {
+        "#611310": "maroon"
+      },
+      {
+        "#4e576a": "dimgray"
+      },
+      {
+        "#4d0b0a": "maroon"
+      }
+    ],
+    "averageColorRGB": [
+      96.27977994227994,
+      75.9750541125541,
+      78.27135942760943
+    ],
+    "framenumber": 148880
+  },
+  {
+    "averageColorHSV": [
+      0.8219017776374301,
+      0.473051252487527,
+      0.04198573777652498
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_149740.png",
+    "palette": [
+      {
+        "#b18d77": "rosybrown"
+      },
+      {
+        "#7c788f": "slategray"
+      },
+      {
+        "#7c768a": "gray"
+      },
+      {
+        "#7e8097": "lightslategray"
+      },
+      {
+        "#9094aa": "lightslategray"
+      },
+      {
+        "#88879b": "lightslategray"
+      }
+    ],
+    "averageColorRGB": [
+      124.99796476671476,
+      115.56341089466089,
+      125.69272787397787
+    ],
+    "framenumber": 149740
+  },
+  {
+    "averageColorHSV": [
+      0.0243879990601575,
+      0.3656468513331258,
+      0.09472994263225128
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_150600.png",
+    "palette": [
+      {
+        "#71584a": "dimgray"
+      },
+      {
+        "#513e31": "darkolivegreen"
+      },
+      {
+        "#a78773": "rosybrown"
+      },
+      {
+        "#e4bea5": "burlywood"
+      },
+      {
+        "#3e302d": "darkslategrey"
+      },
+      {
+        "#3d2920": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      102.07256192881192,
+      86.99224987974988,
+      84.40733225108225
+    ],
+    "framenumber": 150600
+  },
+  {
+    "averageColorHSV": [
+      0.061111699177930766,
+      0.45877116755793224,
+      0.17782699087383713
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_151460.png",
+    "palette": [
+      {
+        "#765745": "dimgray"
+      },
+      {
+        "#604334": "darkolivegreen"
+      },
+      {
+        "#4e372f": "darkslategrey"
+      },
+      {
+        "#a57f67": "gray"
+      },
+      {
+        "#dab092": "tan"
+      },
+      {
+        "#77645b": "dimgray"
+      }
+    ],
+    "averageColorRGB": [
+      137.79003126503125,
+      111.43922558922559,
+      96.18326418951419
+    ],
+    "framenumber": 151460
+  },
+  {
+    "averageColorHSV": [
+      0.056718110668544895,
+      0.2666686531514963,
+      0.22384359979139415
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_152320.png",
+    "palette": [
+      {
+        "#8c6952": "dimgray"
+      },
+      {
+        "#4e322b": "darkslategrey"
+      },
+      {
+        "#765243": "darkolivegreen"
+      },
+      {
+        "#2f211f": "black"
+      },
+      {
+        "#533734": "darkslategrey"
+      },
+      {
+        "#5c433d": "darkolivegreen"
+      }
+    ],
+    "averageColorRGB": [
+      83.22198472823473,
+      63.13903018278018,
+      52.779028379028375
+    ],
+    "framenumber": 152320
+  },
+  {
+    "averageColorHSV": [
+      0.9114066924662549,
+      0.14695616293655506,
+      0.1230723676589366
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_153180.png",
+    "palette": [
+      {
+        "#0d0c10": "black"
+      },
+      {
+        "#3f496e": "darkslateblue"
+      },
+      {
+        "#190909": "black"
+      },
+      {
+        "#0b090a": "black"
+      },
+      {
+        "#5d70ac": "steelblue"
+      },
+      {
+        "#68301e": "saddlebrown"
+      }
+    ],
+    "averageColorRGB": [
+      42.08581349206349,
+      32.8618296055796,
+      37.76492905242905
+    ],
+    "framenumber": 153180
+  },
+  {
+    "averageColorHSV": [
+      0.9776122017005686,
+      0.12810652628054586,
+      0.17690104607268703
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_154040.png",
+    "palette": [
+      {
+        "#1c0f0a": "black"
+      },
+      {
+        "#2b1b16": "black"
+      },
+      {
+        "#180c0a": "black"
+      },
+      {
+        "#3b281e": "darkslategrey"
+      },
+      {
+        "#160b07": "black"
+      },
+      {
+        "#211513": "black"
+      }
+    ],
+    "averageColorRGB": [
+      38.44601972101972,
+      26.888308682058682,
+      28.440818903318902
+    ],
+    "framenumber": 154040
+  },
+  {
+    "averageColorHSV": [
+      0.016445348848675063,
+      0.09240948231144308,
+      0.24582188764437127
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_154900.png",
+    "palette": [
+      {
+        "#140f06": "black"
+      },
+      {
+        "#010303": "black"
+      },
+      {
+        "#0c0505": "black"
+      },
+      {
+        "#050502": "black"
+      },
+      {
+        "#0a0904": "black"
+      },
+      {
+        "#100f05": "black"
+      }
+    ],
+    "averageColorRGB": [
+      29.357067700817698,
+      18.91491402116402,
+      17.77176827801828
+    ],
+    "framenumber": 154900
+  },
+  {
+    "averageColorHSV": [
+      0.7036036831578145,
+      0.15473359882673607,
+      0.14193204890910846
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_155760.png",
+    "palette": [
+      {
+        "#130f19": "black"
+      },
+      {
+        "#171520": "black"
+      },
+      {
+        "#100c15": "black"
+      },
+      {
+        "#303046": "darkslategrey"
+      },
+      {
+        "#282639": "darkslategrey"
+      },
+      {
+        "#120f1c": "black"
+      }
+    ],
+    "averageColorRGB": [
+      36.33911135161135,
+      33.85684523809524,
+      45.05729016354016
+    ],
+    "framenumber": 155760
+  },
+  {
+    "averageColorHSV": [
+      0.6418462739335409,
+      0.2695864574786143,
+      0.20641223629352554
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_156620.png",
+    "palette": [
+      {
+        "#384777": "darkslateblue"
+      },
+      {
+        "#26314d": "darkslategrey"
+      },
+      {
+        "#465584": "darkslateblue"
+      },
+      {
+        "#272a3e": "darkslategrey"
+      },
+      {
+        "#293358": "darkslategrey"
+      },
+      {
+        "#2d3c61": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      54.55483104858104,
+      58.781162818662814,
+      82.93426226551226
+    ],
+    "framenumber": 156620
+  },
+  {
+    "averageColorHSV": [
+      0.9147064824106692,
+      0.15960036876703543,
+      0.13963413886466458
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_157480.png",
+    "palette": [
+      {
+        "#2d252c": "darkslategrey"
+      },
+      {
+        "#2c242f": "darkslategrey"
+      },
+      {
+        "#352d37": "darkslategrey"
+      },
+      {
+        "#2c2527": "darkslategrey"
+      },
+      {
+        "#280e13": "black"
+      },
+      {
+        "#321e1f": "black"
+      }
+    ],
+    "averageColorRGB": [
+      46.38093734968735,
+      35.01525072150072,
+      40.83176707551707
+    ],
+    "framenumber": 157480
+  },
+  {
+    "averageColorHSV": [
+      0.01087769453367928,
+      0.1303534940912392,
+      0.3049963233699773
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_158340.png",
+    "palette": [
+      {
+        "#27100e": "black"
+      },
+      {
+        "#1e1318": "black"
+      },
+      {
+        "#610c0b": "maroon"
+      },
+      {
+        "#131311": "black"
+      },
+      {
+        "#1e0c0a": "black"
+      },
+      {
+        "#2b2a20": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      43.378261784511785,
+      24.425372775372775,
+      23.1020202020202
+    ],
+    "framenumber": 158340
+  },
+  {
+    "averageColorHSV": [
+      0.675701175842646,
+      0.33269189915023245,
+      0.11102666349137635
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_159200.png",
+    "palette": [
+      {
+        "#65698b": "slategray"
+      },
+      {
+        "#201a1e": "black"
+      },
+      {
+        "#7c8dbd": "lightslategray"
+      },
+      {
+        "#a5b3dd": "lightsteelblue"
+      },
+      {
+        "#7179a1": "lightslategray"
+      },
+      {
+        "#4d5a78": "darkslateblue"
+      }
+    ],
+    "averageColorRGB": [
+      76.43849206349206,
+      75.41732804232804,
+      94.25554052429052
+    ],
+    "framenumber": 159200
+  },
+  {
+    "averageColorHSV": [
+      0.008521847749064096,
+      0.14084531118844842,
+      0.40248548792788114
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_160060.png",
+    "palette": [
+      {
+        "#1f0e0d": "black"
+      },
+      {
+        "#2f1515": "black"
+      },
+      {
+        "#211713": "black"
+      },
+      {
+        "#2a0d0b": "black"
+      },
+      {
+        "#251112": "black"
+      },
+      {
+        "#141213": "black"
+      }
+    ],
+    "averageColorRGB": [
+      50.371043771043766,
+      22.938314694564692,
+      21.460064935064935
+    ],
+    "framenumber": 160060
+  },
+  {
+    "averageColorHSV": [
+      0.017351299313748087,
+      0.08184523220062435,
+      0.15493625415914966
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_160920.png",
+    "palette": [
+      {
+        "#0e090b": "black"
+      },
+      {
+        "#080805": "black"
+      },
+      {
+        "#0a090c": "black"
+      },
+      {
+        "#07080b": "black"
+      },
+      {
+        "#060808": "black"
+      },
+      {
+        "#0b090a": "black"
+      }
+    ],
+    "averageColorRGB": [
+      24.104136604136603,
+      18.31021825396825,
+      17.636931818181818
+    ],
+    "framenumber": 160920
+  },
+  {
+    "averageColorHSV": [
+      0.892722256264017,
+      0.16883099788737044,
+      0.08017007865944233
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_161780.png",
+    "palette": [
+      {
+        "#2d1d18": "black"
+      },
+      {
+        "#312017": "black"
+      },
+      {
+        "#38271d": "darkslategrey"
+      },
+      {
+        "#24150f": "black"
+      },
+      {
+        "#222b42": "darkslategrey"
+      },
+      {
+        "#26160d": "black"
+      }
+    ],
+    "averageColorRGB": [
+      46.50337902837903,
+      39.60042989417989,
+      44.04362674362674
+    ],
+    "framenumber": 161780
+  },
+  {
+    "averageColorHSV": [
+      0.05343691282962589,
+      0.12843434343434343,
+      0.5153000510729918
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_162640.png",
+    "palette": [
+      {
+        "#8c593d": "sienna"
+      },
+      {
+        "#673320": "saddlebrown"
+      },
+      {
+        "#100501": "black"
+      },
+      {
+        "#140904": "black"
+      },
+      {
+        "#804930": "saddlebrown"
+      },
+      {
+        "#190d08": "black"
+      }
+    ],
+    "averageColorRGB": [
+      49.62722462722463,
+      26.696206108706107,
+      15.874290524290524
+    ],
+    "framenumber": 162640
+  },
+  {
+    "averageColorHSV": [
+      0.6559596036229833,
+      0.13922700982750003,
+      0.2332663868425568
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_163500.png",
+    "palette": [
+      {
+        "#020001": "black"
+      },
+      {
+        "#030102": "black"
+      },
+      {
+        "#272d46": "darkslategrey"
+      },
+      {
+        "#1f2541": "darkslategrey"
+      },
+      {
+        "#2d3647": "darkslategrey"
+      },
+      {
+        "#2b3247": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      27.221257215007213,
+      28.285320466570465,
+      43.78451779701779
+    ],
+    "framenumber": 163500
+  },
+  {
+    "averageColorHSV": [
+      0.7163241232248986,
+      0.030604439587282727,
+      0.012735719047221867
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_164360.png",
+    "palette": [
+      {
+        "#020104": "black"
+      },
+      {
+        "#030205": "black"
+      },
+      {
+        "#040306": "black"
+      },
+      {
+        "#010003": "black"
+      },
+      {
+        "#464549": "darkslategrey"
+      },
+      {
+        "#0b0a0e": "black"
+      }
+    ],
+    "averageColorRGB": [
+      7.763967051467051,
+      7.704740860990861,
+      7.903523328523328
+    ],
+    "framenumber": 164360
+  },
+  {
+    "averageColorHSV": [
+      0.7158491265046942,
+      0.08281902828471456,
+      0.024719091527016082
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_165220.png",
+    "palette": [
+      {
+        "#020104": "black"
+      },
+      {
+        "#030205": "black"
+      },
+      {
+        "#040306": "black"
+      },
+      {
+        "#050407": "black"
+      },
+      {
+        "#050409": "black"
+      },
+      {
+        "#6f6d73": "dimgray"
+      }
+    ],
+    "averageColorRGB": [
+      20.904915223665224,
+      20.596813371813372,
+      21.64089105339105
+    ],
+    "framenumber": 165220
+  },
+  {
+    "averageColorHSV": [
+      0.7131084511679487,
+      0.1186982688698375,
+      0.022926458679942814
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_166080.png",
+    "palette": [
+      {
+        "#0d0c10": "black"
+      },
+      {
+        "#424045": "darkslategrey"
+      },
+      {
+        "#020104": "black"
+      },
+      {
+        "#030205": "black"
+      },
+      {
+        "#040306": "black"
+      },
+      {
+        "#050409": "black"
+      }
+    ],
+    "averageColorRGB": [
+      29.96085257335257,
+      29.574119167869167,
+      30.961997955747954
+    ],
+    "framenumber": 166080
+  },
+  {
+    "averageColorHSV": [
+      0.7109670000534846,
+      0.05841252157428628,
+      0.018867802670454556
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_166940.png",
+    "palette": [
+      {
+        "#020104": "black"
+      },
+      {
+        "#0c0b0f": "black"
+      },
+      {
+        "#030205": "black"
+      },
+      {
+        "#040306": "black"
+      },
+      {
+        "#3b3a3f": "darkslategrey"
+      },
+      {
+        "#4f4e53": "darkslategrey"
+      }
+    ],
+    "averageColorRGB": [
+      14.763555194805194,
+      14.614153439153439,
+      15.176232563732563
+    ],
+    "framenumber": 166940
+  },
+  {
+    "averageColorHSV": [
+      0.7254480170602305,
+      0.09005313994284582,
+      0.018181418298691125
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_167800.png",
+    "palette": [
+      {
+        "#09080c": "black"
+      },
+      {
+        "#3e3c41": "darkslategrey"
+      },
+      {
+        "#020104": "black"
+      },
+      {
+        "#37363a": "darkslategrey"
+      },
+      {
+        "#030205": "black"
+      },
+      {
+        "#5a585d": "dimgray"
+      }
+    ],
+    "averageColorRGB": [
+      22.84054232804233,
+      22.546040764790764,
+      23.381060606060604
+    ],
+    "framenumber": 167800
+  },
+  {
+    "averageColorHSV": [
+      0.7225245701929103,
+      0.11885923308717426,
+      0.018699079217305663
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_168660.png",
+    "palette": [
+      {
+        "#020104": "black"
+      },
+      {
+        "#39383c": "darkslategrey"
+      },
+      {
+        "#040306": "black"
+      },
+      {
+        "#030205": "black"
+      },
+      {
+        "#59575c": "dimgray"
+      },
+      {
+        "#0b0a0e": "black"
+      }
+    ],
+    "averageColorRGB": [
+      30.122243265993266,
+      29.742352092352093,
+      30.87585678210678
+    ],
+    "framenumber": 168660
+  },
+  {
+    "averageColorHSV": [
+      0.7225615038114981,
+      0.04115198436276867,
+      0.0011023756941056235
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_169520.png",
+    "palette": [
+      {
+        "#010100": "black"
+      },
+      {
+        "#000002": "black"
+      },
+      {
+        "#030205": "black"
+      },
+      {
+        "#09080b": "black"
+      },
+      {
+        "#010002": "black"
+      },
+      {
+        "#020104": "black"
+      }
+    ],
+    "averageColorRGB": [
+      10.489947089947089,
+      10.48218795093795,
+      10.505324074074073
+    ],
+    "framenumber": 169520
+  },
+  {
+    "averageColorHSV": [
+      0.7193132200586471,
+      0.11501649902385197,
+      0.004503300125793531
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_170380.png",
+    "palette": [
+      {
+        "#121213": "black"
+      },
+      {
+        "#000002": "black"
+      },
+      {
+        "#030205": "black"
+      },
+      {
+        "#010003": "black"
+      },
+      {
+        "#0d0c0d": "black"
+      },
+      {
+        "#020104": "black"
+      }
+    ],
+    "averageColorRGB": [
+      29.280570586820584,
+      29.197129028379027,
+      29.461285473785473
+    ],
+    "framenumber": 170380
+  },
+  {
+    "averageColorHSV": [
+      0.7198088764763285,
+      0.05558412674834243,
+      0.0031516556240122062
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_171240.png",
+    "palette": [
+      {
+        "#111011": "black"
+      },
+      {
+        "#0c0c0d": "black"
+      },
+      {
+        "#000002": "black"
+      },
+      {
+        "#030205": "black"
+      },
+      {
+        "#010003": "black"
+      },
+      {
+        "#020104": "black"
+      }
+    ],
+    "averageColorRGB": [
+      14.157768157768157,
+      14.129280904280904,
+      14.218623737373736
+    ],
+    "framenumber": 171240
+  },
+  {
+    "averageColorHSV": [
+      0.6565838744569098,
+      0.5167945974686171,
+      0.5140718971613178
+    ],
+    "file": "http://128.54.253.204/chromatography/et/ET.mp4_172100.png",
+    "palette": [
+      {
+        "#848793": "lightslategray"
+      },
+      {
+        "#e4e9f5": "lavender"
+      },
+      {
+        "#2f348f": "darkslateblue"
+      },
+      {
+        "#dfe0f3": "lavender"
+      },
+      {
+        "#8488ca": "mediumpurple"
+      },
+      {
+        "#c5c8fc": "lightblue"
+      }
+    ],
+    "averageColorRGB": [
+      68.44003126503127,
+      76.10407347282347,
+      195.12521344396345
+    ],
+    "framenumber": 172100
+  }
+]

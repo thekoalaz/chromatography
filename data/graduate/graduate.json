@@ -1,0 +1,6797 @@
+[
+  {
+    "averageColorRGB": [
+      55.517178629359286,
+      55.667984590429846,
+      55.56033556366585
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_100.png",
+    "palette": [
+      {
+        "#030102": "black"
+      },
+      {
+        "#020001": "black"
+      },
+      {
+        "#020104": "black"
+      },
+      {
+        "#020000": "black"
+      },
+      {
+        "#030407": "black"
+      },
+      {
+        "#57585e": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.38102920910221405,
+      0.21801012396037084,
+      0.0013563496846467648
+    ],
+    "framenumber": 100
+  },
+  {
+    "averageColorRGB": [
+      153.54723742903488,
+      146.81139497161394,
+      121.67242497972425
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_859.png",
+    "palette": [
+      {
+        "#c8c39a": "tan"
+      },
+      {
+        "#1d2123": "black"
+      },
+      {
+        "#b9ac90": "tan"
+      },
+      {
+        "#a1997d": "rosybrown"
+      },
+      {
+        "#c8bd9a": "tan"
+      },
+      {
+        "#a29f83": "rosybrown"
+      }
+    ],
+    "averageColorHSV": [
+      0.13144636815179836,
+      0.5396463968799199,
+      0.13576440334115872
+    ],
+    "framenumber": 859
+  },
+  {
+    "averageColorRGB": [
+      179.9548915247364,
+      175.97613544201135,
+      143.26504460665043
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_1618.png",
+    "palette": [
+      {
+        "#c4c498": "tan"
+      },
+      {
+        "#2b3031": "darkslategrey"
+      },
+      {
+        "#d5cca8": "silver"
+      },
+      {
+        "#212628": "darkslategrey"
+      },
+      {
+        "#9d9870": "grey"
+      },
+      {
+        "#b4ba9b": "darkgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.14859283781510427,
+      0.6337645806497781,
+      0.1964334209880918
+    ],
+    "framenumber": 1618
+  },
+  {
+    "averageColorRGB": [
+      161.255651865369,
+      158.72417376317924,
+      129.20042579075425
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_2377.png",
+    "palette": [
+      {
+        "#c6c2a0": "tan"
+      },
+      {
+        "#bec197": "tan"
+      },
+      {
+        "#232a2a": "darkslategrey"
+      },
+      {
+        "#acaf94": "darkgray"
+      },
+      {
+        "#111517": "black"
+      },
+      {
+        "#b9b090": "tan"
+      }
+    ],
+    "averageColorHSV": [
+      0.15350460017399734,
+      0.5695217208943593,
+      0.1460082599071265
+    ],
+    "framenumber": 2377
+  },
+  {
+    "averageColorRGB": [
+      111.72557278994323,
+      108.54271086780211,
+      87.96001622060017
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_3136.png",
+    "palette": [
+      {
+        "#5d5847": "darkolivegreen"
+      },
+      {
+        "#d7d0a7": "palegoldenrod"
+      },
+      {
+        "#aea687": "rosybrown"
+      },
+      {
+        "#b1ae88": "darkkhaki"
+      },
+      {
+        "#746d57": "dimgray"
+      },
+      {
+        "#0b0d0d": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.14434541424929972,
+      0.3915403706089086,
+      0.11901488077884398
+    ],
+    "framenumber": 3136
+  },
+  {
+    "averageColorRGB": [
+      108.65603203568531,
+      97.76482157339821,
+      84.57430555555555
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_3895.png",
+    "palette": [
+      {
+        "#3c2521": "darkslategrey"
+      },
+      {
+        "#c1b591": "tan"
+      },
+      {
+        "#66483c": "darkolivegreen"
+      },
+      {
+        "#d1ceb0": "silver"
+      },
+      {
+        "#b69d76": "darkkhaki"
+      },
+      {
+        "#ecd8a2": "palegoldenrod"
+      }
+    ],
+    "averageColorHSV": [
+      0.09128993878910892,
+      0.37888301488478604,
+      0.12462704759680227
+    ],
+    "framenumber": 3895
+  },
+  {
+    "averageColorRGB": [
+      67.5776003649635,
+      66.53080900243309,
+      56.270767437145174
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_4654.png",
+    "palette": [
+      {
+        "#060808": "black"
+      },
+      {
+        "#636f5f": "dimgray"
+      },
+      {
+        "#090b0b": "black"
+      },
+      {
+        "#32423a": "darkslategrey"
+      },
+      {
+        "#a19c4e": "darkkhaki"
+      },
+      {
+        "#533937": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.15123659635412454,
+      0.24283993686687977,
+      0.09129577667010498
+    ],
+    "framenumber": 4654
+  },
+  {
+    "averageColorRGB": [
+      65.95349756690997,
+      65.34063260340632,
+      54.83402777777778
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_5413.png",
+    "palette": [
+      {
+        "#68403e": "darkolivegreen"
+      },
+      {
+        "#5a635b": "dimgray"
+      },
+      {
+        "#7e5855": "dimgray"
+      },
+      {
+        "#0a0c0c": "black"
+      },
+      {
+        "#0f1413": "black"
+      },
+      {
+        "#4a3534": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.15748060271568823,
+      0.2368382849895838,
+      0.0920580975345003
+    ],
+    "framenumber": 5413
+  },
+  {
+    "averageColorRGB": [
+      82.9857005271695,
+      86.43564476885645,
+      90.35054744525547
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_6172.png",
+    "palette": [
+      {
+        "#394c53": "darkslategrey"
+      },
+      {
+        "#889d9f": "lightslategray"
+      },
+      {
+        "#473638": "darkslategrey"
+      },
+      {
+        "#624b4e": "dimgray"
+      },
+      {
+        "#7f949c": "lightslategray"
+      },
+      {
+        "#2a373b": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.5885943437327287,
+      0.33987499602436266,
+      0.042488786991960334
+    ],
+    "framenumber": 6172
+  },
+  {
+    "averageColorRGB": [
+      43.030915450121654,
+      42.12706812652068,
+      44.540982360097324
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_6931.png",
+    "palette": [
+      {
+        "#7c5657": "dimgray"
+      },
+      {
+        "#020404": "black"
+      },
+      {
+        "#0b151a": "black"
+      },
+      {
+        "#614342": "darkolivegreen"
+      },
+      {
+        "#523634": "darkslategrey"
+      },
+      {
+        "#070c10": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.7290720406873336,
+      0.16993735389532943,
+      0.027852411817540123
+    ],
+    "framenumber": 6931
+  },
+  {
+    "averageColorRGB": [
+      72.42331711273317,
+      73.54540754257907,
+      78.30720296025953
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_7690.png",
+    "palette": [
+      {
+        "#6f5053": "dimgray"
+      },
+      {
+        "#5b6e7a": "dimgray"
+      },
+      {
+        "#576267": "dimgray"
+      },
+      {
+        "#0b1921": "black"
+      },
+      {
+        "#889da6": "lightslategray"
+      },
+      {
+        "#030c0e": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.6348823872827274,
+      0.2955500393588092,
+      0.039035796099403275
+    ],
+    "framenumber": 7690
+  },
+  {
+    "averageColorRGB": [
+      29.583100162206,
+      33.551186131386864,
+      32.77981549067315
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_8449.png",
+    "palette": [
+      {
+        "#040203": "black"
+      },
+      {
+        "#1c8a79": "teal"
+      },
+      {
+        "#060a0f": "black"
+      },
+      {
+        "#04090b": "black"
+      },
+      {
+        "#2e3634": "darkslategrey"
+      },
+      {
+        "#080906": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.46760106145612945,
+      0.12379271822273111,
+      0.06285152176628887
+    ],
+    "framenumber": 8449
+  },
+  {
+    "averageColorRGB": [
+      104.48239557988646,
+      101.54614760746148,
+      101.54413017031631
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_9208.png",
+    "palette": [
+      {
+        "#8a837e": "grey"
+      },
+      {
+        "#122837": "darkslategrey"
+      },
+      {
+        "#a2b6bb": "darkgray"
+      },
+      {
+        "#a7a39e": "darkgray"
+      },
+      {
+        "#879aa1": "lightslategray"
+      },
+      {
+        "#9f7767": "grey"
+      }
+    ],
+    "averageColorHSV": [
+      0.0001144347012012233,
+      0.4039735799023584,
+      0.014261587913842935
+    ],
+    "framenumber": 9208
+  },
+  {
+    "averageColorRGB": [
+      37.88264395782644,
+      32.915718775344686,
+      30.307978507704785
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_9967.png",
+    "palette": [
+      {
+        "#261f1c": "black"
+      },
+      {
+        "#211610": "black"
+      },
+      {
+        "#140f0a": "black"
+      },
+      {
+        "#1d130f": "black"
+      },
+      {
+        "#1e1513": "black"
+      },
+      {
+        "#170f0b": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.05737855761444923,
+      0.13370710287359064,
+      0.11108074946742813
+    ],
+    "framenumber": 9967
+  },
+  {
+    "averageColorRGB": [
+      73.82733678021087,
+      64.17929845904298,
+      57.67775243309002
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_10726.png",
+    "palette": [
+      {
+        "#856954": "dimgray"
+      },
+      {
+        "#6c5b4d": "dimgray"
+      },
+      {
+        "#614d41": "darkolivegreen"
+      },
+      {
+        "#72675c": "dimgray"
+      },
+      {
+        "#999289": "grey"
+      },
+      {
+        "#584c46": "darkolivegreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.06709714510507986,
+      0.25785311610451156,
+      0.12280577461854932
+    ],
+    "framenumber": 10726
+  },
+  {
+    "averageColorRGB": [
+      73.91486719383617,
+      64.6452199918897,
+      59.22746350364964
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_11485.png",
+    "palette": [
+      {
+        "#513f31": "darkolivegreen"
+      },
+      {
+        "#49403a": "darkslategrey"
+      },
+      {
+        "#574a47": "darkolivegreen"
+      },
+      {
+        "#8e7f6f": "grey"
+      },
+      {
+        "#574e48": "darkolivegreen"
+      },
+      {
+        "#7d7067": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.06147849094050541,
+      0.261063393524482,
+      0.11031355402331018
+    ],
+    "framenumber": 11485
+  },
+  {
+    "averageColorRGB": [
+      76.2411901865369,
+      68.9437702757502,
+      63.171289537712894
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_12244.png",
+    "palette": [
+      {
+        "#d5c9b1": "silver"
+      },
+      {
+        "#70645d": "dimgray"
+      },
+      {
+        "#6e5547": "dimgray"
+      },
+      {
+        "#978269": "grey"
+      },
+      {
+        "#8b857b": "grey"
+      },
+      {
+        "#5c5550": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.07361036237813956,
+      0.27335780338088195,
+      0.09374986138024052
+    ],
+    "framenumber": 12244
+  },
+  {
+    "averageColorRGB": [
+      18.634727291159773,
+      19.80557076236821,
+      21.056726480129765
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_13003.png",
+    "palette": [
+      {
+        "#152229": "black"
+      },
+      {
+        "#060805": "black"
+      },
+      {
+        "#060909": "black"
+      },
+      {
+        "#090c08": "black"
+      },
+      {
+        "#060603": "black"
+      },
+      {
+        "#0c171c": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.5860966237767155,
+      0.07782637994370498,
+      0.06102067218112132
+    ],
+    "framenumber": 13003
+  },
+  {
+    "averageColorRGB": [
+      40.363468167072185,
+      44.404354217356044,
+      46.11662104622871
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_13762.png",
+    "palette": [
+      {
+        "#63666c": "dimgray"
+      },
+      {
+        "#060b07": "black"
+      },
+      {
+        "#090b08": "black"
+      },
+      {
+        "#6b7177": "dimgray"
+      },
+      {
+        "#4b4f53": "darkslategrey"
+      },
+      {
+        "#192021": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.5496037235245433,
+      0.16956880237902133,
+      0.0665257509733428
+    ],
+    "framenumber": 13762
+  },
+  {
+    "averageColorRGB": [
+      54.68046431467964,
+      54.076079683698296,
+      49.94059712084347
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_14521.png",
+    "palette": [
+      {
+        "#51473f": "darkslategrey"
+      },
+      {
+        "#323533": "darkslategrey"
+      },
+      {
+        "#746854": "dimgray"
+      },
+      {
+        "#050304": "black"
+      },
+      {
+        "#5b564e": "dimgray"
+      },
+      {
+        "#524f49": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.14541485354388192,
+      0.20513933614808455,
+      0.04530509563561732
+    ],
+    "framenumber": 14521
+  },
+  {
+    "averageColorRGB": [
+      59.06074614760746,
+      59.85211881589619,
+      54.72282542579075
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_15280.png",
+    "palette": [
+      {
+        "#080207": "black"
+      },
+      {
+        "#060309": "black"
+      },
+      {
+        "#283e2a": "darkslategrey"
+      },
+      {
+        "#c8c9ba": "silver"
+      },
+      {
+        "#63615b": "dimgray"
+      },
+      {
+        "#050409": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.19238082155771238,
+      0.22465675341507244,
+      0.044768019954568763
+    ],
+    "framenumber": 15280
+  },
+  {
+    "averageColorRGB": [
+      51.46046735604217,
+      52.40807481751825,
+      44.85416159772912
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_16039.png",
+    "palette": [
+      {
+        "#777c6f": "grey"
+      },
+      {
+        "#060508": "black"
+      },
+      {
+        "#08080b": "black"
+      },
+      {
+        "#0a0b0f": "black"
+      },
+      {
+        "#3a4a24": "darkolivegreen"
+      },
+      {
+        "#c4c9b6": "silver"
+      }
+    ],
+    "averageColorHSV": [
+      0.18757431708803174,
+      0.1907102674808772,
+      0.07766542800371944
+    ],
+    "framenumber": 16039
+  },
+  {
+    "averageColorRGB": [
+      66.00673154906731,
+      77.43295316301703,
+      69.19953872668289
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_16798.png",
+    "palette": [
+      {
+        "#afbbb3": "darkgray"
+      },
+      {
+        "#4f7246": "darkolivegreen"
+      },
+      {
+        "#a3aea9": "darkgray"
+      },
+      {
+        "#284d34": "darkslategrey"
+      },
+      {
+        "#3a5836": "darkslategrey"
+      },
+      {
+        "#010109": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.37990468015133483,
+      0.281254283749185,
+      0.07965871952998728
+    ],
+    "framenumber": 16798
+  },
+  {
+    "averageColorRGB": [
+      46.70681772100568,
+      52.140632603406324,
+      43.15354825628548
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_17557.png",
+    "palette": [
+      {
+        "#040306": "black"
+      },
+      {
+        "#050304": "black"
+      },
+      {
+        "#b4bcad": "darkgray"
+      },
+      {
+        "#183019": "black"
+      },
+      {
+        "#040105": "black"
+      },
+      {
+        "#324729": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.26743748162219516,
+      0.18685133501900353,
+      0.09430884725640429
+    ],
+    "framenumber": 17557
+  },
+  {
+    "averageColorRGB": [
+      42.59779501216545,
+      45.04936638280616,
+      34.883546228710465
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_18316.png",
+    "palette": [
+      {
+        "#060508": "black"
+      },
+      {
+        "#050407": "black"
+      },
+      {
+        "#505b3d": "darkolivegreen"
+      },
+      {
+        "#172913": "black"
+      },
+      {
+        "#2b3d14": "darkgreen"
+      },
+      {
+        "#040306": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.20685970788189026,
+      0.1567312011990522,
+      0.12717940360190283
+    ],
+    "framenumber": 18316
+  },
+  {
+    "averageColorRGB": [
+      41.099472830494726,
+      40.00467862935928,
+      30.421066504460665
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_19075.png",
+    "palette": [
+      {
+        "#060508": "black"
+      },
+      {
+        "#1d2c16": "black"
+      },
+      {
+        "#293817": "darkslategrey"
+      },
+      {
+        "#090d0a": "black"
+      },
+      {
+        "#6c5337": "darkolivegreen"
+      },
+      {
+        "#050407": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.14957931349633571,
+      0.14023635163716744,
+      0.14930545022910685
+    ],
+    "framenumber": 19075
+  },
+  {
+    "averageColorRGB": [
+      66.47873580697485,
+      62.141737631792374,
+      58.93246654501217
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_19834.png",
+    "palette": [
+      {
+        "#291a15": "black"
+      },
+      {
+        "#534b48": "darkslategrey"
+      },
+      {
+        "#201612": "black"
+      },
+      {
+        "#3e312a": "darkslategrey"
+      },
+      {
+        "#2f231e": "black"
+      },
+      {
+        "#939a91": "lightslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.0708798607491316,
+      0.24590431833722945,
+      0.0601722104599782
+    ],
+    "framenumber": 19834
+  },
+  {
+    "averageColorRGB": [
+      76.05792781832928,
+      69.29231549067316,
+      66.54486516626115
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_20593.png",
+    "palette": [
+      {
+        "#423732": "darkslategrey"
+      },
+      {
+        "#554c4c": "darkslategrey"
+      },
+      {
+        "#555052": "darkslategrey"
+      },
+      {
+        "#55453f": "darkolivegreen"
+      },
+      {
+        "#69544f": "dimgray"
+      },
+      {
+        "#3c3333": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.0481346969056756,
+      0.27961331957762825,
+      0.06671021270316985
+    ],
+    "framenumber": 20593
+  },
+  {
+    "averageColorRGB": [
+      51.64165145985402,
+      46.289887469586375,
+      44.169637064071374
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_21352.png",
+    "palette": [
+      {
+        "#030205": "black"
+      },
+      {
+        "#3e322e": "darkslategrey"
+      },
+      {
+        "#322824": "darkslategrey"
+      },
+      {
+        "#574e4b": "darkslategrey"
+      },
+      {
+        "#1a0e0a": "black"
+      },
+      {
+        "#514945": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.04729314598019054,
+      0.18786527161553998,
+      0.07798678538716003
+    ],
+    "framenumber": 21352
+  },
+  {
+    "averageColorRGB": [
+      84.38093065693431,
+      84.88584245742092,
+      83.40726378751013
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_22111.png",
+    "palette": [
+      {
+        "#96928d": "grey"
+      },
+      {
+        "#938a84": "grey"
+      },
+      {
+        "#2c2a28": "darkslategrey"
+      },
+      {
+        "#2c2729": "darkslategrey"
+      },
+      {
+        "#030506": "black"
+      },
+      {
+        "#2a272b": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.2235807615743429,
+      0.32998648283319815,
+      0.008785735214601612
+    ],
+    "framenumber": 22111
+  },
+  {
+    "averageColorRGB": [
+      92.65930150040552,
+      92.58128041362531,
+      90.26822789943228
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_22870.png",
+    "palette": [
+      {
+        "#887f79": "grey"
+      },
+      {
+        "#292f2f": "darkslategrey"
+      },
+      {
+        "#a8b1ab": "darkgray"
+      },
+      {
+        "#999790": "darkgray"
+      },
+      {
+        "#8b938d": "grey"
+      },
+      {
+        "#292527": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.16122830857594314,
+      0.3586814301957604,
+      0.013071152323644473
+    ],
+    "framenumber": 22870
+  },
+  {
+    "averageColorRGB": [
+      59.520584955393346,
+      49.68316605839416,
+      47.8062398621249
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_23629.png",
+    "palette": [
+      {
+        "#563b37": "darkolivegreen"
+      },
+      {
+        "#0c0503": "black"
+      },
+      {
+        "#2b1a18": "black"
+      },
+      {
+        "#090403": "black"
+      },
+      {
+        "#0a0301": "black"
+      },
+      {
+        "#838b85": "grey"
+      }
+    ],
+    "averageColorHSV": [
+      0.026704099138355013,
+      0.2104447545441534,
+      0.10914647957941258
+    ],
+    "framenumber": 23629
+  },
+  {
+    "averageColorRGB": [
+      68.03176196269261,
+      62.6220701540957,
+      54.501338199513384
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_24388.png",
+    "palette": [
+      {
+        "#b4a99b": "darkgray"
+      },
+      {
+        "#090705": "black"
+      },
+      {
+        "#91867a": "grey"
+      },
+      {
+        "#605448": "darkolivegreen"
+      },
+      {
+        "#564e42": "darkolivegreen"
+      },
+      {
+        "#7b7368": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.10003052006744391,
+      0.24026098071020785,
+      0.11042260209909015
+    ],
+    "framenumber": 24388
+  },
+  {
+    "averageColorRGB": [
+      69.41630170316301,
+      61.68921836982968,
+      52.242852798053526
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_25147.png",
+    "palette": [
+      {
+        "#302e1f": "darkslategrey"
+      },
+      {
+        "#373324": "darkslategrey"
+      },
+      {
+        "#8f8578": "grey"
+      },
+      {
+        "#62574c": "dimgray"
+      },
+      {
+        "#9e8d7b": "grey"
+      },
+      {
+        "#545043": "darkolivegreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.09167606755415773,
+      0.23854736176709124,
+      0.14116035061658885
+    ],
+    "framenumber": 25147
+  },
+  {
+    "averageColorRGB": [
+      72.08828568532036,
+      63.39150446066505,
+      53.953107258718575
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_25906.png",
+    "palette": [
+      {
+        "#736657": "dimgray"
+      },
+      {
+        "#3e3b2e": "darkslategrey"
+      },
+      {
+        "#635a50": "dimgray"
+      },
+      {
+        "#8f8579": "grey"
+      },
+      {
+        "#6b6659": "dimgray"
+      },
+      {
+        "#aca195": "darkgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.08674114824351231,
+      0.24713998616478222,
+      0.14388271981930265
+    ],
+    "framenumber": 25906
+  },
+  {
+    "averageColorRGB": [
+      47.87100567721006,
+      40.96208434712084,
+      36.90691909975669
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_26665.png",
+    "palette": [
+      {
+        "#2f251d": "darkslategrey"
+      },
+      {
+        "#070201": "black"
+      },
+      {
+        "#090705": "black"
+      },
+      {
+        "#080302": "black"
+      },
+      {
+        "#7a6e67": "dimgray"
+      },
+      {
+        "#a89c95": "darkgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.061643153744383804,
+      0.16623122505287596,
+      0.1293271403646365
+    ],
+    "framenumber": 26665
+  },
+  {
+    "averageColorRGB": [
+      49.504470802919705,
+      42.37169505271695,
+      37.69514902676399
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_27424.png",
+    "palette": [
+      {
+        "#070201": "black"
+      },
+      {
+        "#090705": "black"
+      },
+      {
+        "#080302": "black"
+      },
+      {
+        "#7d7269": "dimgray"
+      },
+      {
+        "#453d34": "darkslategrey"
+      },
+      {
+        "#908278": "grey"
+      }
+    ],
+    "averageColorHSV": [
+      0.06600077061432673,
+      0.17097964672486998,
+      0.13542859245512096
+    ],
+    "framenumber": 27424
+  },
+  {
+    "averageColorRGB": [
+      48.599599553933494,
+      42.03331812652068,
+      38.29317214111922
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_28183.png",
+    "palette": [
+      {
+        "#4a4038": "darkslategrey"
+      },
+      {
+        "#070201": "black"
+      },
+      {
+        "#090705": "black"
+      },
+      {
+        "#080302": "black"
+      },
+      {
+        "#776d67": "dimgray"
+      },
+      {
+        "#8d8580": "grey"
+      }
+    ],
+    "averageColorHSV": [
+      0.060482419296771894,
+      0.17037798371578963,
+      0.11861087190295107
+    ],
+    "framenumber": 28183
+  },
+  {
+    "averageColorRGB": [
+      50.70557583130576,
+      44.397678426601786,
+      40.41304744525547
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_28942.png",
+    "palette": [
+      {
+        "#8a8379": "grey"
+      },
+      {
+        "#92867b": "grey"
+      },
+      {
+        "#070503": "black"
+      },
+      {
+        "#080302": "black"
+      },
+      {
+        "#2d241e": "black"
+      },
+      {
+        "#6a5c54": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.06452303444290686,
+      0.17866396720894356,
+      0.11295746155877083
+    ],
+    "framenumber": 28942
+  },
+  {
+    "averageColorRGB": [
+      60.232329683698296,
+      56.117077250608276,
+      50.115541362530415
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_29701.png",
+    "palette": [
+      {
+        "#211f15": "black"
+      },
+      {
+        "#7e7364": "dimgray"
+      },
+      {
+        "#48443b": "darkslategrey"
+      },
+      {
+        "#130e0a": "black"
+      },
+      {
+        "#51483d": "darkolivegreen"
+      },
+      {
+        "#6b5f55": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.0988709014750682,
+      0.21636837460044844,
+      0.0916808654779537
+    ],
+    "framenumber": 29701
+  },
+  {
+    "averageColorRGB": [
+      109.07958738848338,
+      123.43504663422547,
+      125.93674472830494
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_30460.png",
+    "palette": [
+      {
+        "#91b6c1": "darkgray"
+      },
+      {
+        "#546763": "dimgray"
+      },
+      {
+        "#b3bfc2": "silver"
+      },
+      {
+        "#a4b6bd": "darkgray"
+      },
+      {
+        "#6193a3": "cadetblue"
+      },
+      {
+        "#a0b4b7": "darkgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.5247342819397919,
+      0.46081633748389866,
+      0.07172759947357459
+    ],
+    "framenumber": 30460
+  },
+  {
+    "averageColorRGB": [
+      109.43835158150851,
+      123.25677716950527,
+      128.104952351987
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_31219.png",
+    "palette": [
+      {
+        "#95a8ac": "darkgray"
+      },
+      {
+        "#b6bec2": "silver"
+      },
+      {
+        "#9eb1b9": "darkgray"
+      },
+      {
+        "#74a0ae": "cadetblue"
+      },
+      {
+        "#949fa0": "darkgray"
+      },
+      {
+        "#4f5a58": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.543287431226268,
+      0.4657711841833246,
+      0.07858188575041689
+    ],
+    "framenumber": 31219
+  },
+  {
+    "averageColorRGB": [
+      126.43047445255475,
+      135.55469383617194,
+      130.96267234387673
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_31978.png",
+    "palette": [
+      {
+        "#a6aea2": "darkgray"
+      },
+      {
+        "#70807b": "grey"
+      },
+      {
+        "#93988b": "grey"
+      },
+      {
+        "#9eaaa3": "darkgray"
+      },
+      {
+        "#9eb4ae": "darkgray"
+      },
+      {
+        "#849194": "lightslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.41612028566994796,
+      0.513696408409268,
+      0.03678900701486742
+    ],
+    "framenumber": 31978
+  },
+  {
+    "averageColorRGB": [
+      66.6018603000811,
+      77.77884732360097,
+      78.65009124087591
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_32737.png",
+    "palette": [
+      {
+        "#113045": "darkslategrey"
+      },
+      {
+        "#060b0f": "black"
+      },
+      {
+        "#030d12": "black"
+      },
+      {
+        "#77a4b0": "cadetblue"
+      },
+      {
+        "#0a1419": "black"
+      },
+      {
+        "#92b7bd": "darkgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.5120521693399946,
+      0.2848077481195236,
+      0.08294711921579612
+    ],
+    "framenumber": 32737
+  },
+  {
+    "averageColorRGB": [
+      22.289958434712084,
+      86.27888280616382,
+      102.39522506082724
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_33496.png",
+    "palette": [
+      {
+        "#328a95": "steelblue"
+      },
+      {
+        "#000b12": "black"
+      },
+      {
+        "#000e16": "black"
+      },
+      {
+        "#1a6b88": "teal"
+      },
+      {
+        "#238194": "darkcyan"
+      },
+      {
+        "#0f4d69": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.5335315910623063,
+      0.2444807519520379,
+      0.6424601895780261
+    ],
+    "framenumber": 33496
+  },
+  {
+    "averageColorRGB": [
+      120.99386151662611,
+      180.83781427412814,
+      173.3642082319546
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_34255.png",
+    "palette": [
+      {
+        "#3cbeb1": "lightseagreen"
+      },
+      {
+        "#88b1ab": "darkseagreen"
+      },
+      {
+        "#b0e0d3": "powderblue"
+      },
+      {
+        "#67ceb6": "mediumaquamarine"
+      },
+      {
+        "#669499": "cadetblue"
+      },
+      {
+        "#daeedf": "gainsboro"
+      }
+    ],
+    "averageColorHSV": [
+      0.4791858500377421,
+      0.5918268152759887,
+      0.2874786689321105
+    ],
+    "framenumber": 34255
+  },
+  {
+    "averageColorRGB": [
+      24.04177818329278,
+      179.47831508515816,
+      180.73833130575832
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_35014.png",
+    "palette": [
+      {
+        "#0fa6b0": "lightseagreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.5013401871275959,
+      0.4015296264491198,
+      0.7651942052059678
+    ],
+    "framenumber": 35014
+  },
+  {
+    "averageColorRGB": [
+      33.25062854825629,
+      37.41536394971614,
+      31.72844687753447
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_35773.png",
+    "palette": [
+      {
+        "#a58c35": "peru"
+      },
+      {
+        "#060808": "black"
+      },
+      {
+        "#060b0b": "black"
+      },
+      {
+        "#486a66": "dimgray"
+      },
+      {
+        "#121c17": "black"
+      },
+      {
+        "#324c4c": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.28872270478007106,
+      0.1355760996612757,
+      0.08224766619227716
+    ],
+    "framenumber": 35773
+  },
+  {
+    "averageColorRGB": [
+      67.8018400243309,
+      75.63647100567721,
+      72.21835462287105
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_36532.png",
+    "palette": [
+      {
+        "#303738": "darkslategrey"
+      },
+      {
+        "#121a1c": "black"
+      },
+      {
+        "#918c77": "grey"
+      },
+      {
+        "#c1c3ad": "silver"
+      },
+      {
+        "#b7d1cd": "lightsteelblue"
+      },
+      {
+        "#a1c2c1": "silver"
+      }
+    ],
+    "averageColorHSV": [
+      0.4272861650845576,
+      0.28125159025491786,
+      0.05462021216707755
+    ],
+    "framenumber": 36532
+  },
+  {
+    "averageColorRGB": [
+      102.72709854014599,
+      106.5746401054339,
+      101.08799675587997
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_37291.png",
+    "palette": [
+      {
+        "#594d48": "darkolivegreen"
+      },
+      {
+        "#90aea9": "darkgray"
+      },
+      {
+        "#c7d6cb": "lightgrey"
+      },
+      {
+        "#89988a": "grey"
+      },
+      {
+        "#828a7c": "grey"
+      },
+      {
+        "#384747": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.2835426665619612,
+      0.407181640904537,
+      0.026420946167692867
+    ],
+    "framenumber": 37291
+  },
+  {
+    "averageColorRGB": [
+      60.569089618815894,
+      56.054364355231144,
+      50.31270275750203
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_38050.png",
+    "palette": [
+      {
+        "#b5c1ac": "silver"
+      },
+      {
+        "#25140f": "black"
+      },
+      {
+        "#100c0b": "black"
+      },
+      {
+        "#3b1c15": "black"
+      },
+      {
+        "#402e2c": "darkslategrey"
+      },
+      {
+        "#d3d8c2": "lightgrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.09330221378749086,
+      0.21741527916925085,
+      0.09249838626800928
+    ],
+    "framenumber": 38050
+  },
+  {
+    "averageColorRGB": [
+      73.5914791159773,
+      76.77439172749392,
+      69.46591646390917
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_38809.png",
+    "palette": [
+      {
+        "#85998b": "lightslategray"
+      },
+      {
+        "#a8b69e": "darkgray"
+      },
+      {
+        "#102430": "darkslategrey"
+      },
+      {
+        "#040c0f": "black"
+      },
+      {
+        "#baccbd": "silver"
+      },
+      {
+        "#c7ceb8": "silver"
+      }
+    ],
+    "averageColorHSV": [
+      0.23925163358801224,
+      0.2867457023360845,
+      0.0499757922693874
+    ],
+    "framenumber": 38809
+  },
+  {
+    "averageColorRGB": [
+      89.13303426601784,
+      84.48512773722628,
+      75.01372161394971
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_39568.png",
+    "palette": [
+      {
+        "#c6b8a2": "tan"
+      },
+      {
+        "#c6d4cb": "lightgrey"
+      },
+      {
+        "#6e4d3c": "darkolivegreen"
+      },
+      {
+        "#563a2b": "darkolivegreen"
+      },
+      {
+        "#3b2016": "black"
+      },
+      {
+        "#59574c": "darkolivegreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.11180202082865122,
+      0.32185638407836775,
+      0.08601639780437023
+    ],
+    "framenumber": 39568
+  },
+  {
+    "averageColorRGB": [
+      55.25759833738848,
+      54.44564578264396,
+      44.81211476074615
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_40327.png",
+    "palette": [
+      {
+        "#62695b": "dimgray"
+      },
+      {
+        "#5c5648": "darkolivegreen"
+      },
+      {
+        "#0b0c0c": "black"
+      },
+      {
+        "#362f22": "darkslategrey"
+      },
+      {
+        "#3b0905": "black"
+      },
+      {
+        "#979e8e": "darkseagreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.1537112659140043,
+      0.1962151237218326,
+      0.10438206779306777
+    ],
+    "framenumber": 40327
+  },
+  {
+    "averageColorRGB": [
+      25.804967558799675,
+      27.82564882400649,
+      29.743268450932685
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_41086.png",
+    "palette": [
+      {
+        "#152029": "black"
+      },
+      {
+        "#060a0e": "black"
+      },
+      {
+        "#040203": "black"
+      },
+      {
+        "#1f3035": "darkslategrey"
+      },
+      {
+        "#090a0e": "black"
+      },
+      {
+        "#040306": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.5811525782077221,
+      0.10891810982300462,
+      0.07089875709901931
+    ],
+    "framenumber": 41086
+  },
+  {
+    "averageColorRGB": [
+      43.907735198702355,
+      42.78081407137064,
+      42.28743410381184
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_41845.png",
+    "palette": [
+      {
+        "#404d51": "darkslategrey"
+      },
+      {
+        "#0c0f16": "black"
+      },
+      {
+        "#13120f": "black"
+      },
+      {
+        "#050304": "black"
+      },
+      {
+        "#101a20": "black"
+      },
+      {
+        "#0e1419": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.050749823506531365,
+      0.16901013588728275,
+      0.018798049913955568
+    ],
+    "framenumber": 41845
+  },
+  {
+    "averageColorRGB": [
+      47.75722830494728,
+      47.70459752635848,
+      47.859154501216544
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_42604.png",
+    "palette": [
+      {
+        "#233030": "darkslategrey"
+      },
+      {
+        "#0d141c": "black"
+      },
+      {
+        "#3b5158": "darkslategrey"
+      },
+      {
+        "#5c5450": "dimgray"
+      },
+      {
+        "#0c1018": "black"
+      },
+      {
+        "#111a1f": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.7234211188000811,
+      0.18737990593642162,
+      0.001617317984893117
+    ],
+    "framenumber": 42604
+  },
+  {
+    "averageColorRGB": [
+      65.11753852392539,
+      63.06532339821573,
+      56.67919201135442
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_43363.png",
+    "palette": [
+      {
+        "#020404": "black"
+      },
+      {
+        "#727266": "dimgray"
+      },
+      {
+        "#607272": "dimgray"
+      },
+      {
+        "#aca48d": "rosybrown"
+      },
+      {
+        "#6f7b77": "grey"
+      },
+      {
+        "#b2c1b5": "silver"
+      }
+    ],
+    "averageColorHSV": [
+      0.12613315055952437,
+      0.23881711869662708,
+      0.06928220877100402
+    ],
+    "framenumber": 43363
+  },
+  {
+    "averageColorRGB": [
+      69.6120691403082,
+      67.60994525547446,
+      59.79831711273317
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_44122.png",
+    "palette": [
+      {
+        "#7c7d6e": "grey"
+      },
+      {
+        "#7c877e": "grey"
+      },
+      {
+        "#020404": "black"
+      },
+      {
+        "#b4ab8f": "darkgray"
+      },
+      {
+        "#2d180f": "black"
+      },
+      {
+        "#99a594": "darkseagreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.1326646546735626,
+      0.25374585539812033,
+      0.07583434615816532
+    ],
+    "framenumber": 44122
+  },
+  {
+    "averageColorRGB": [
+      39.190911394971614,
+      30.16479622871046,
+      29.200329480940795
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_44881.png",
+    "palette": [
+      {
+        "#1a0604": "black"
+      },
+      {
+        "#080200": "black"
+      },
+      {
+        "#110402": "black"
+      },
+      {
+        "#040200": "black"
+      },
+      {
+        "#273337": "darkslategrey"
+      },
+      {
+        "#050301": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.01608959911893228,
+      0.1341004723057106,
+      0.14607984569482396
+    ],
+    "framenumber": 44881
+  },
+  {
+    "averageColorRGB": [
+      56.43166058394161,
+      54.55343673965937,
+      54.59210766423357
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_45640.png",
+    "palette": [
+      {
+        "#050304": "black"
+      },
+      {
+        "#2c383c": "darkslategrey"
+      },
+      {
+        "#48555a": "darkslategrey"
+      },
+      {
+        "#47484e": "darkslategrey"
+      },
+      {
+        "#bac6c7": "silver"
+      },
+      {
+        "#050301": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.9965684845736994,
+      0.2176178378894137,
+      0.016923207615936648
+    ],
+    "framenumber": 45640
+  },
+  {
+    "averageColorRGB": [
+      53.850917477696676,
+      52.26145579886456,
+      52.469986820762365
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_46399.png",
+    "palette": [
+      {
+        "#060402": "black"
+      },
+      {
+        "#3b444c": "darkslategrey"
+      },
+      {
+        "#040200": "black"
+      },
+      {
+        "#050301": "black"
+      },
+      {
+        "#223033": "darkslategrey"
+      },
+      {
+        "#4f5c62": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.9781339992154848,
+      0.20806347701286518,
+      0.014979041837934318
+    ],
+    "framenumber": 46399
+  },
+  {
+    "averageColorRGB": [
+      40.18889395782644,
+      33.815855636658554,
+      29.324655312246552
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_47158.png",
+    "palette": [
+      {
+        "#150c09": "black"
+      },
+      {
+        "#1d1009": "black"
+      },
+      {
+        "#2f1b0f": "black"
+      },
+      {
+        "#56463a": "darkolivegreen"
+      },
+      {
+        "#20140a": "black"
+      },
+      {
+        "#362b21": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.0688988351435507,
+      0.1363010770001431,
+      0.15628951132059607
+    ],
+    "framenumber": 47158
+  },
+  {
+    "averageColorRGB": [
+      91.30641727493918,
+      93.59058191403082,
+      88.53348540145986
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_47917.png",
+    "palette": [
+      {
+        "#92a59f": "darkgray"
+      },
+      {
+        "#50595b": "dimgray"
+      },
+      {
+        "#8b9d9a": "lightslategray"
+      },
+      {
+        "#a3ac97": "darkgray"
+      },
+      {
+        "#856254": "dimgray"
+      },
+      {
+        "#657b7b": "slategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.24194585217735254,
+      0.3571060143440994,
+      0.027767315913336397
+    ],
+    "framenumber": 47917
+  },
+  {
+    "averageColorRGB": [
+      65.9960310218978,
+      65.6345397404704,
+      63.72384935117599
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_48676.png",
+    "palette": [
+      {
+        "#383332": "darkslategrey"
+      },
+      {
+        "#bec6bc": "silver"
+      },
+      {
+        "#403b3b": "darkslategrey"
+      },
+      {
+        "#3d3535": "darkslategrey"
+      },
+      {
+        "#969e96": "darkgray"
+      },
+      {
+        "#322b2b": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.1401509405339815,
+      0.2543527066138702,
+      0.017516063568568108
+    ],
+    "framenumber": 48676
+  },
+  {
+    "averageColorRGB": [
+      122.8628598945661,
+      120.332750405515,
+      115.17782846715329
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_49435.png",
+    "palette": [
+      {
+        "#484242": "darkslategrey"
+      },
+      {
+        "#37322f": "darkslategrey"
+      },
+      {
+        "#413c3b": "darkslategrey"
+      },
+      {
+        "#9c9a8d": "rosybrown"
+      },
+      {
+        "#514d4c": "darkslategrey"
+      },
+      {
+        "#d4d8c8": "lightgrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.11179572452091537,
+      0.4667464477680772,
+      0.032284528667363255
+    ],
+    "framenumber": 49435
+  },
+  {
+    "averageColorRGB": [
+      76.85862226277372,
+      78.25158657745337,
+      75.12411293592862
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_50194.png",
+    "palette": [
+      {
+        "#b0bdb8": "silver"
+      },
+      {
+        "#4d554d": "darkslategrey"
+      },
+      {
+        "#282a24": "darkslategrey"
+      },
+      {
+        "#414540": "darkslategrey"
+      },
+      {
+        "#89938f": "lightslategray"
+      },
+      {
+        "#2e2d2a": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.2408993367780247,
+      0.3007366657125137,
+      0.02039093318855156
+    ],
+    "framenumber": 50194
+  },
+  {
+    "averageColorRGB": [
+      67.81413726682887,
+      69.08103203568533,
+      66.45036496350365
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_50953.png",
+    "palette": [
+      {
+        "#596662": "dimgray"
+      },
+      {
+        "#6e7a76": "grey"
+      },
+      {
+        "#4e5653": "darkslategrey"
+      },
+      {
+        "#47403f": "darkslategrey"
+      },
+      {
+        "#3a3630": "darkslategrey"
+      },
+      {
+        "#b2bdb9": "silver"
+      }
+    ],
+    "averageColorHSV": [
+      0.24693114801269753,
+      0.26574783725331175,
+      0.01941001960008889
+    ],
+    "framenumber": 50953
+  },
+  {
+    "averageColorRGB": [
+      47.592503041362534,
+      45.73399736415247,
+      44.001383819951336
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_51712.png",
+    "palette": [
+      {
+        "#1e1a19": "black"
+      },
+      {
+        "#0b0604": "black"
+      },
+      {
+        "#0d0b08": "black"
+      },
+      {
+        "#393230": "darkslategrey"
+      },
+      {
+        "#2b2928": "darkslategrey"
+      },
+      {
+        "#2a2322": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.08041195689405302,
+      0.1795958565908115,
+      0.03920697488085275
+    ],
+    "framenumber": 51712
+  },
+  {
+    "averageColorRGB": [
+      46.58144261962693,
+      44.96908961881589,
+      46.239152473641525
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_52471.png",
+    "palette": [
+      {
+        "#7a7d84": "grey"
+      },
+      {
+        "#242123": "black"
+      },
+      {
+        "#25232a": "darkslategrey"
+      },
+      {
+        "#0d0b08": "black"
+      },
+      {
+        "#1a1513": "black"
+      },
+      {
+        "#040306": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.8687153853005751,
+      0.17951084752635849,
+      0.017611617992691418
+    ],
+    "framenumber": 52471
+  },
+  {
+    "averageColorRGB": [
+      39.19756690997567,
+      38.61923661800487,
+      40.95544403892944
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_53230.png",
+    "palette": [
+      {
+        "#777d84": "grey"
+      },
+      {
+        "#595a63": "dimgray"
+      },
+      {
+        "#050304": "black"
+      },
+      {
+        "#31373f": "darkslategrey"
+      },
+      {
+        "#221f24": "black"
+      },
+      {
+        "#050407": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.7079251530201546,
+      0.15602878560183198,
+      0.029358677931697028
+    ],
+    "framenumber": 53230
+  },
+  {
+    "averageColorRGB": [
+      50.177701743714515,
+      47.06634732360097,
+      48.37602392538524
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_53989.png",
+    "palette": [
+      {
+        "#272733": "darkslategrey"
+      },
+      {
+        "#25262d": "darkslategrey"
+      },
+      {
+        "#92665a": "dimgray"
+      },
+      {
+        "#525964": "dimgray"
+      },
+      {
+        "#181518": "black"
+      },
+      {
+        "#6a737d": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.9298442401098278,
+      0.1906746060143441,
+      0.03199531950751825
+    ],
+    "framenumber": 53989
+  },
+  {
+    "averageColorRGB": [
+      102.40084144363341,
+      172.93719586374695,
+      208.8293288726683
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_54748.png",
+    "palette": [
+      {
+        "#99c3d8": "lightsteelblue"
+      },
+      {
+        "#519ccb": "steelblue"
+      },
+      {
+        "#cedde7": "gainsboro"
+      }
+    ],
+    "averageColorHSV": [
+      0.5562069640625334,
+      0.6102552359143171,
+      0.5354358234264935
+    ],
+    "framenumber": 54748
+  },
+  {
+    "averageColorRGB": [
+      109.48888381995134,
+      133.17776763990267,
+      138.00507400648823
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_55507.png",
+    "palette": [
+      {
+        "#c3ccd2": "lightgrey"
+      },
+      {
+        "#9c6f60": "grey"
+      },
+      {
+        "#71c3d0": "skyblue"
+      },
+      {
+        "#a78572": "rosybrown"
+      },
+      {
+        "#4895b3": "steelblue"
+      },
+      {
+        "#b79983": "rosybrown"
+      }
+    ],
+    "averageColorHSV": [
+      0.528213834170507,
+      0.4852822702479207,
+      0.11521974288574136
+    ],
+    "framenumber": 55507
+  },
+  {
+    "averageColorRGB": [
+      85.52504562043795,
+      99.47491889699918,
+      100.29808901054339
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_56266.png",
+    "palette": [
+      {
+        "#86a7ab": "darkgray"
+      },
+      {
+        "#687158": "dimgray"
+      },
+      {
+        "#0d1212": "black"
+      },
+      {
+        "#7fb4bd": "mediumaquamarine"
+      },
+      {
+        "#598c9e": "cadetblue"
+      },
+      {
+        "#32372d": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.5092868487082304,
+      0.36435908751172813,
+      0.0795005606779943
+    ],
+    "framenumber": 56266
+  },
+  {
+    "averageColorRGB": [
+      82.31161800486618,
+      86.83365774533658,
+      86.28147303325223
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_57025.png",
+    "palette": [
+      {
+        "#4c5052": "darkslategrey"
+      },
+      {
+        "#94a29d": "darkgray"
+      },
+      {
+        "#5d6869": "dimgray"
+      },
+      {
+        "#899492": "lightslategray"
+      },
+      {
+        "#687578": "dimgray"
+      },
+      {
+        "#4f5958": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.4796483908525269,
+      0.3316574034317701,
+      0.026734649965327185
+    ],
+    "framenumber": 57025
+  },
+  {
+    "averageColorRGB": [
+      85.2543896999189,
+      84.90540855636658,
+      83.87960259529602
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_57784.png",
+    "palette": [
+      {
+        "#070909": "black"
+      },
+      {
+        "#6f7a7e": "grey"
+      },
+      {
+        "#323738": "darkslategrey"
+      },
+      {
+        "#465458": "darkslategrey"
+      },
+      {
+        "#b6c7c5": "silver"
+      },
+      {
+        "#3b2016": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.12435937142814814,
+      0.3316352790102254,
+      0.008128390313304177
+    ],
+    "framenumber": 57784
+  },
+  {
+    "averageColorRGB": [
+      36.75531731549067,
+      40.259767842660175,
+      40.36216545012165
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_58543.png",
+    "palette": [
+      {
+        "#50696f": "dimgray"
+      },
+      {
+        "#3c5255": "darkslategrey"
+      },
+      {
+        "#c2d1cf": "lightgrey"
+      },
+      {
+        "#6e8c91": "slategray"
+      },
+      {
+        "#040401": "black"
+      },
+      {
+        "#4d5a5f": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.5047316291879288,
+      0.15121075052080848,
+      0.04677082297400036
+    ],
+    "framenumber": 58543
+  },
+  {
+    "averageColorRGB": [
+      68.2587895377129,
+      80.68026662611517,
+      86.37407745336577
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_59302.png",
+    "palette": [
+      {
+        "#29363b": "darkslategrey"
+      },
+      {
+        "#6c868e": "slategray"
+      },
+      {
+        "#8a9ea6": "lightslategray"
+      },
+      {
+        "#5f6f7c": "dimgray"
+      },
+      {
+        "#607682": "slategray"
+      },
+      {
+        "#3c4f59": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.5523849510770655,
+      0.3032016999825072,
+      0.11715030748733393
+    ],
+    "framenumber": 59302
+  },
+  {
+    "averageColorRGB": [
+      87.98536597729115,
+      96.30133819951338,
+      98.96335665044606
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_60061.png",
+    "palette": [
+      {
+        "#a78a7f": "rosybrown"
+      },
+      {
+        "#7f959f": "lightslategray"
+      },
+      {
+        "#906b62": "dimgray"
+      },
+      {
+        "#546b72": "dimgray"
+      },
+      {
+        "#a5bcc1": "silver"
+      },
+      {
+        "#7e9596": "lightslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.5404144761123767,
+      0.36656612279948475,
+      0.05872193465057742
+    ],
+    "framenumber": 60061
+  },
+  {
+    "averageColorRGB": [
+      80.14645174371452,
+      102.81231244931062,
+      110.6956103000811
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_60820.png",
+    "palette": [
+      {
+        "#203136": "darkslategrey"
+      },
+      {
+        "#2b424b": "darkslategrey"
+      },
+      {
+        "#556e78": "dimgray"
+      },
+      {
+        "#445e6b": "darkslategrey"
+      },
+      {
+        "#32505a": "darkslategrey"
+      },
+      {
+        "#6a8087": "slategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.5430088106258034,
+      0.3742001216545012,
+      0.16007560507995336
+    ],
+    "framenumber": 60820
+  },
+  {
+    "averageColorRGB": [
+      199.67330697485806,
+      191.37443734793186,
+      186.31248479318734
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_61579.png",
+    "palette": [
+      {
+        "#6f6068": "dimgray"
+      },
+      {
+        "#9a9080": "grey"
+      },
+      {
+        "#85757e": "grey"
+      },
+      {
+        "#7a6a5f": "dimgray"
+      },
+      {
+        "#fcf8ef": "floralwhite"
+      },
+      {
+        "#85746b": "grey"
+      }
+    ],
+    "averageColorHSV": [
+      0.06314422478292331,
+      0.7568348858196969,
+      0.10773622129394085
+    ],
+    "framenumber": 61579
+  },
+  {
+    "averageColorRGB": [
+      224.51798459042985,
+      216.9772303325223,
+      210.14281731549067
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_62338.png",
+    "palette": [
+      {
+        "#aa9c97": "darkgray"
+      },
+      {
+        "#b3a7a4": "darkgray"
+      },
+      {
+        "#c1b9b1": "silver"
+      },
+      {
+        "#ad918b": "rosybrown"
+      },
+      {
+        "#b7a9aa": "darkgray"
+      },
+      {
+        "#9d9088": "rosybrown"
+      }
+    ],
+    "averageColorHSV": [
+      0.07923864915003276,
+      0.8522760821684716,
+      0.19080595013751317
+    ],
+    "framenumber": 62338
+  },
+  {
+    "averageColorRGB": [
+      119.45826236820763,
+      120.71430454176804,
+      117.62232360097323
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_63097.png",
+    "palette": [
+      {
+        "#89c7cc": "skyblue"
+      },
+      {
+        "#9f7765": "grey"
+      },
+      {
+        "#907773": "grey"
+      },
+      {
+        "#93665b": "dimgray"
+      },
+      {
+        "#bba392": "rosybrown"
+      },
+      {
+        "#6c4d46": "darkolivegreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.23437095277596542,
+      0.4673267218485123,
+      0.012973167258802544
+    ],
+    "framenumber": 63097
+  },
+  {
+    "averageColorRGB": [
+      198.93484387672345,
+      197.9464111922141,
+      185.2036192214112
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_63856.png",
+    "palette": [
+      {
+        "#ccccbe": "silver"
+      },
+      {
+        "#c0b8ae": "silver"
+      },
+      {
+        "#e2decc": "gainsboro"
+      },
+      {
+        "#c3c1b6": "silver"
+      },
+      {
+        "#c0b9a9": "silver"
+      },
+      {
+        "#d5dccb": "lightgrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.15466928224634655,
+      0.7532126727414405,
+      0.10909786256637341
+    ],
+    "framenumber": 63856
+  },
+  {
+    "averageColorRGB": [
+      189.34239659367395,
+      182.49221411192215,
+      170.16818734793188
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_64615.png",
+    "palette": [
+      {
+        "#cec1a8": "silver"
+      },
+      {
+        "#c1b2a2": "darkgray"
+      },
+      {
+        "#a59489": "rosybrown"
+      },
+      {
+        "#c8c9ba": "silver"
+      },
+      {
+        "#cdc9be": "silver"
+      },
+      {
+        "#c7bcac": "silver"
+      }
+    ],
+    "averageColorHSV": [
+      0.10712329433461094,
+      0.7049227136109919,
+      0.12741234399037032
+    ],
+    "framenumber": 64615
+  },
+  {
+    "averageColorRGB": [
+      194.32006285482564,
+      194.7341392944039,
+      180.38852392538524
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_65374.png",
+    "palette": [
+      {
+        "#bbb1a1": "darkgray"
+      },
+      {
+        "#ccd1c0": "lightgrey"
+      },
+      {
+        "#cac2b1": "silver"
+      },
+      {
+        "#a9aca1": "darkgray"
+      },
+      {
+        "#d0d1c5": "lightgrey"
+      },
+      {
+        "#c5c0af": "silver"
+      }
+    ],
+    "averageColorHSV": [
+      0.1714773867476437,
+      0.7355346337642925,
+      0.10636045840966975
+    ],
+    "framenumber": 65374
+  },
+  {
+    "averageColorRGB": [
+      4.780362935928629,
+      4.0100871857258715,
+      4.348798661800487
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_66133.png",
+    "palette": [
+      {
+        "#030205": "black"
+      },
+      {
+        "#040203": "black"
+      },
+      {
+        "#020306": "black"
+      },
+      {
+        "#030102": "black"
+      },
+      {
+        "#020000": "black"
+      },
+      {
+        "#040306": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.9267120733526365,
+      0.01723617670912647,
+      0.08762642862909273
+    ],
+    "framenumber": 66133
+  },
+  {
+    "averageColorRGB": [
+      7.593395174371452,
+      5.73124493106245,
+      5.951444647201947
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_66892.png",
+    "palette": [
+      {
+        "#030205": "black"
+      },
+      {
+        "#040203": "black"
+      },
+      {
+        "#030100": "black"
+      },
+      {
+        "#030102": "black"
+      },
+      {
+        "#020000": "black"
+      },
+      {
+        "#040306": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.9802916264024426,
+      0.026126745304772356,
+      0.13975238569855267
+    ],
+    "framenumber": 66892
+  },
+  {
+    "averageColorRGB": [
+      6.436278386050284,
+      4.547237429034874,
+      4.226378751013788
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_67651.png",
+    "palette": [
+      {
+        "#040203": "black"
+      },
+      {
+        "#040200": "black"
+      },
+      {
+        "#030100": "black"
+      },
+      {
+        "#020000": "black"
+      },
+      {
+        "#040306": "black"
+      },
+      {
+        "#010000": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.02419858598508919,
+      0.020907170856988375,
+      0.20725599694608443
+    ],
+    "framenumber": 67651
+  },
+  {
+    "averageColorRGB": [
+      6.354643146796431,
+      4.676338199513382,
+      5.396776155717761
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_68410.png",
+    "palette": [
+      {
+        "#030205": "black"
+      },
+      {
+        "#030102": "black"
+      },
+      {
+        "#020308": "black"
+      },
+      {
+        "#030100": "black"
+      },
+      {
+        "#020000": "black"
+      },
+      {
+        "#040203": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.9284557952980405,
+      0.021629375188842774,
+      0.1521446637061435
+    ],
+    "framenumber": 68410
+  },
+  {
+    "averageColorRGB": [
+      108.51156731549067,
+      103.74532137064071,
+      106.7926399026764
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_69169.png",
+    "palette": [
+      {
+        "#9399a0": "darkgray"
+      },
+      {
+        "#645c60": "dimgray"
+      },
+      {
+        "#623f37": "darkolivegreen"
+      },
+      {
+        "#747c81": "grey"
+      },
+      {
+        "#9da8b0": "darkgray"
+      },
+      {
+        "#724e46": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.8934409957264727,
+      0.4161899778159439,
+      0.022455082491564745
+    ],
+    "framenumber": 69169
+  },
+  {
+    "averageColorRGB": [
+      116.68479825628548,
+      118.52688564476885,
+      123.68170113544201
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_69928.png",
+    "palette": [
+      {
+        "#a9b4ba": "darkgray"
+      },
+      {
+        "#575f69": "dimgray"
+      },
+      {
+        "#797b80": "grey"
+      },
+      {
+        "#a1a8ae": "darkgray"
+      },
+      {
+        "#717a82": "slategray"
+      },
+      {
+        "#85949c": "lightslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.6227880292109699,
+      0.47130686155240686,
+      0.029109309728530965
+    ],
+    "framenumber": 69928
+  },
+  {
+    "averageColorRGB": [
+      107.42999797242499,
+      98.98441808596918,
+      99.98024635036496
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_70687.png",
+    "palette": [
+      {
+        "#838e96": "lightslategray"
+      },
+      {
+        "#6d392f": "saddlebrown"
+      },
+      {
+        "#a1afb7": "darkgray"
+      },
+      {
+        "#5a5258": "dimgray"
+      },
+      {
+        "#8c8f94": "lightslategray"
+      },
+      {
+        "#835d4e": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.9803481371758186,
+      0.4047341491341062,
+      0.0409156494382958
+    ],
+    "framenumber": 70687
+  },
+  {
+    "averageColorRGB": [
+      105.97016423357664,
+      98.06649939172749,
+      98.92267842660178
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_71446.png",
+    "palette": [
+      {
+        "#93a0aa": "darkgray"
+      },
+      {
+        "#754034": "saddlebrown"
+      },
+      {
+        "#543d37": "darkolivegreen"
+      },
+      {
+        "#76848e": "slategray"
+      },
+      {
+        "#a4b0b5": "darkgray"
+      },
+      {
+        "#8b9197": "lightslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.9819455267059382,
+      0.4000718894613806,
+      0.038736493243016173
+    ],
+    "framenumber": 71446
+  },
+  {
+    "averageColorRGB": [
+      5.909377534468775,
+      4.721558191403082,
+      4.821583536090835
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_72205.png",
+    "palette": [
+      {
+        "#030205": "black"
+      },
+      {
+        "#030102": "black"
+      },
+      {
+        "#020306": "black"
+      },
+      {
+        "#030100": "black"
+      },
+      {
+        "#020000": "black"
+      },
+      {
+        "#040203": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.9859651293956322,
+      0.020844972011513446,
+      0.11173234169547
+    ],
+    "framenumber": 72205
+  },
+  {
+    "averageColorRGB": [
+      104.61794910786699,
+      90.96917072181671,
+      90.2018298864558
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_72964.png",
+    "palette": [
+      {
+        "#828d97": "lightslategray"
+      },
+      {
+        "#946854": "sienna"
+      },
+      {
+        "#503a34": "darkslategrey"
+      },
+      {
+        "#5b3833": "darkolivegreen"
+      },
+      {
+        "#8c5848": "sienna"
+      },
+      {
+        "#4c3c42": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.008871329188015661,
+      0.38199956665553486,
+      0.07399720549847914
+    ],
+    "framenumber": 72964
+  },
+  {
+    "averageColorRGB": [
+      75.03868613138687,
+      71.94540754257908,
+      74.89716139497162
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_73723.png",
+    "palette": [
+      {
+        "#050810": "black"
+      },
+      {
+        "#959eaa": "darkgray"
+      },
+      {
+        "#6d6d74": "dimgray"
+      },
+      {
+        "#3d2424": "darkslategrey"
+      },
+      {
+        "#291717": "black"
+      },
+      {
+        "#a49e9b": "darkgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.8409587234791008,
+      0.2882041052430705,
+      0.021044988688838494
+    ],
+    "framenumber": 73723
+  },
+  {
+    "averageColorRGB": [
+      88.61951540957016,
+      77.4004612733171,
+      78.03435218978102
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_74482.png",
+    "palette": [
+      {
+        "#2e3e48": "darkslategrey"
+      },
+      {
+        "#6f4f47": "dimgray"
+      },
+      {
+        "#8c7164": "grey"
+      },
+      {
+        "#8f5d52": "sienna"
+      },
+      {
+        "#625553": "dimgray"
+      },
+      {
+        "#6b6f7a": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.9905831200389765,
+      0.325529366044877,
+      0.0675765312127614
+    ],
+    "framenumber": 74482
+  },
+  {
+    "averageColorRGB": [
+      91.28066707218167,
+      82.34612226277372,
+      85.12761557177616
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_75241.png",
+    "palette": [
+      {
+        "#452a27": "darkslategrey"
+      },
+      {
+        "#070c14": "black"
+      },
+      {
+        "#353e49": "darkslategrey"
+      },
+      {
+        "#605250": "dimgray"
+      },
+      {
+        "#535b68": "dimgray"
+      },
+      {
+        "#9d7b6c": "grey"
+      }
+    ],
+    "averageColorHSV": [
+      0.9481135045985859,
+      0.34044468497050073,
+      0.0514583310768462
+    ],
+    "framenumber": 75241
+  },
+  {
+    "averageColorRGB": [
+      84.24018653690186,
+      71.25639699918896,
+      70.7798205596107
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_76000.png",
+    "palette": [
+      {
+        "#706567": "dimgray"
+      },
+      {
+        "#948382": "grey"
+      },
+      {
+        "#6a5c5c": "dimgray"
+      },
+      {
+        "#0f0b0e": "black"
+      },
+      {
+        "#584642": "darkolivegreen"
+      },
+      {
+        "#8c7f80": "grey"
+      }
+    ],
+    "averageColorHSV": [
+      0.005900984173118333,
+      0.303960798228456,
+      0.08682986299252961
+    ],
+    "framenumber": 76000
+  },
+  {
+    "averageColorRGB": [
+      75.22213605028386,
+      64.300699513382,
+      63.72779805352798
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_76759.png",
+    "palette": [
+      {
+        "#543a36": "darkslategrey"
+      },
+      {
+        "#050206": "black"
+      },
+      {
+        "#694f4a": "dimgray"
+      },
+      {
+        "#7c6460": "dimgray"
+      },
+      {
+        "#422e2b": "darkslategrey"
+      },
+      {
+        "#040306": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.00830700964851446,
+      0.2724508511839448,
+      0.08272287475982727
+    ],
+    "framenumber": 76759
+  },
+  {
+    "averageColorRGB": [
+      76.31453264395783,
+      67.47702250608272,
+      66.46558191403082
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_77518.png",
+    "palette": [
+      {
+        "#574543": "darkslategrey"
+      },
+      {
+        "#5f4a45": "darkolivegreen"
+      },
+      {
+        "#040306": "black"
+      },
+      {
+        "#735950": "dimgray"
+      },
+      {
+        "#030407": "black"
+      },
+      {
+        "#4a3531": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.017115877277812108,
+      0.27996100893723264,
+      0.06897984891255265
+    ],
+    "framenumber": 77518
+  },
+  {
+    "averageColorRGB": [
+      82.74673053527981,
+      72.60409570154096,
+      70.75119120032441
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_78277.png",
+    "palette": [
+      {
+        "#5d4b44": "darkolivegreen"
+      },
+      {
+        "#56494b": "darkslategrey"
+      },
+      {
+        "#3f2f28": "darkslategrey"
+      },
+      {
+        "#4e3b36": "darkslategrey"
+      },
+      {
+        "#4b4040": "darkslategrey"
+      },
+      {
+        "#9c9590": "rosybrown"
+      }
+    ],
+    "averageColorHSV": [
+      0.025744354484297276,
+      0.3009763171286357,
+      0.07814789411688176
+    ],
+    "framenumber": 78277
+  },
+  {
+    "averageColorRGB": [
+      106.97403183292782,
+      101.09051601784266,
+      96.93621248986213
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_79036.png",
+    "palette": [
+      {
+        "#7f6c5e": "dimgray"
+      },
+      {
+        "#07080b": "black"
+      },
+      {
+        "#8c7f75": "grey"
+      },
+      {
+        "#5e4d42": "darkolivegreen"
+      },
+      {
+        "#c4bfb7": "silver"
+      },
+      {
+        "#877770": "grey"
+      }
+    ],
+    "averageColorHSV": [
+      0.06897752366985949,
+      0.3998240084760587,
+      0.04922665546501829
+    ],
+    "framenumber": 79036
+  },
+  {
+    "averageColorRGB": [
+      97.59657339821574,
+      119.78818430656935,
+      128.4195002027575
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_79795.png",
+    "palette": [
+      {
+        "#8c5c50": "sienna"
+      },
+      {
+        "#3c708a": "steelblue"
+      },
+      {
+        "#39859a": "steelblue"
+      },
+      {
+        "#6a90a2": "lightslategray"
+      },
+      {
+        "#4f9fb1": "cadetblue"
+      },
+      {
+        "#8eb5c5": "darkgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.5466715136588755,
+      0.4431687717666142,
+      0.13637493260306338
+    ],
+    "framenumber": 79795
+  },
+  {
+    "averageColorRGB": [
+      45.069008515815085,
+      142.67957725060828,
+      152.9790602189781
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_80554.png",
+    "palette": [
+      {
+        "#28818c": "darkcyan"
+      },
+      {
+        "#38b3be": "lightseagreen"
+      },
+      {
+        "#5ed2d8": "mediumturquoise"
+      },
+      {
+        "#1995a8": "lightseagreen"
+      },
+      {
+        "#092c36": "darkslategrey"
+      },
+      {
+        "#0c3b46": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.51590751248503,
+      0.3883295465388102,
+      0.5448679827707167
+    ],
+    "framenumber": 80554
+  },
+  {
+    "averageColorRGB": [
+      53.64753649635036,
+      53.09255879967559,
+      51.61142538523925
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_81313.png",
+    "palette": [
+      {
+        "#0a0b0a": "black"
+      },
+      {
+        "#11110f": "black"
+      },
+      {
+        "#323835": "darkslategrey"
+      },
+      {
+        "#050407": "black"
+      },
+      {
+        "#654845": "darkolivegreen"
+      },
+      {
+        "#555158": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.12123875152275594,
+      0.20639012133645024,
+      0.019343826641589176
+    ],
+    "framenumber": 81313
+  },
+  {
+    "averageColorRGB": [
+      49.732785888077856,
+      52.664958434712084,
+      49.72100567721006
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_82072.png",
+    "palette": [
+      {
+        "#4a5a51": "darkslategrey"
+      },
+      {
+        "#222925": "darkslategrey"
+      },
+      {
+        "#0d0c0c": "black"
+      },
+      {
+        "#0b1111": "black"
+      },
+      {
+        "#6b7169": "dimgray"
+      },
+      {
+        "#3b4043": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.33266641757765,
+      0.20075679237631794,
+      0.02875347986452395
+    ],
+    "framenumber": 82072
+  },
+  {
+    "averageColorRGB": [
+      94.36505474452555,
+      88.9348793592863,
+      88.41497364152474
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_82831.png",
+    "palette": [
+      {
+        "#4f5054": "darkslategrey"
+      },
+      {
+        "#8d655a": "dimgray"
+      },
+      {
+        "#4b535c": "darkslategrey"
+      },
+      {
+        "#ab9faa": "darkgray"
+      },
+      {
+        "#744c45": "dimgray"
+      },
+      {
+        "#7c857e": "grey"
+      }
+    ],
+    "averageColorHSV": [
+      0.014562986866945496,
+      0.3583922125216672,
+      0.03255323437434658
+    ],
+    "framenumber": 82831
+  },
+  {
+    "averageColorRGB": [
+      17.484544809407947,
+      16.457638888888887,
+      19.04154501216545
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_83590.png",
+    "palette": [
+      {
+        "#030205": "black"
+      },
+      {
+        "#010303": "black"
+      },
+      {
+        "#020404": "black"
+      },
+      {
+        "#020306": "black"
+      },
+      {
+        "#030505": "black"
+      },
+      {
+        "#030407": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.7329039750624321,
+      0.0696062429432438,
+      0.0727877612758253
+    ],
+    "framenumber": 83590
+  },
+  {
+    "averageColorRGB": [
+      55.61860806974858,
+      41.75869829683698,
+      38.57987631792376
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_84349.png",
+    "palette": [
+      {
+        "#090000": "black"
+      },
+      {
+        "#09080b": "black"
+      },
+      {
+        "#070201": "black"
+      },
+      {
+        "#430302": "maroon"
+      },
+      {
+        "#791b15": "maroon"
+      },
+      {
+        "#540b06": "maroon"
+      }
+    ],
+    "averageColorHSV": [
+      0.031094078530549223,
+      0.1847029105640634,
+      0.18088116664066695
+    ],
+    "framenumber": 84349
+  },
+  {
+    "averageColorRGB": [
+      42.16333130575831,
+      26.740054744525548,
+      23.081138483373884
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_85108.png",
+    "palette": [
+      {
+        "#201614": "black"
+      },
+      {
+        "#050407": "black"
+      },
+      {
+        "#281e1a": "black"
+      },
+      {
+        "#220101": "black"
+      },
+      {
+        "#030407": "black"
+      },
+      {
+        "#820101": "maroon"
+      }
+    ],
+    "averageColorHSV": [
+      0.03195751046720687,
+      0.12793033291986705,
+      0.2924721878200159
+    ],
+    "framenumber": 85108
+  },
+  {
+    "averageColorRGB": [
+      28.82926804541768,
+      25.126632197891322,
+      29.037459448499593
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_85867.png",
+    "palette": [
+      {
+        "#050407": "black"
+      },
+      {
+        "#140505": "black"
+      },
+      {
+        "#040306": "black"
+      },
+      {
+        "#526676": "dimgray"
+      },
+      {
+        "#0f0000": "black"
+      },
+      {
+        "#030407": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.8244608966449264,
+      0.10620410126743317,
+      0.07220332016532324
+    ],
+    "framenumber": 85867
+  },
+  {
+    "averageColorRGB": [
+      55.09647708840227,
+      46.30099858069749,
+      44.84247262773722
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_86626.png",
+    "palette": [
+      {
+        "#754d39": "saddlebrown"
+      },
+      {
+        "#070b10": "black"
+      },
+      {
+        "#1e0606": "black"
+      },
+      {
+        "#1e0b05": "black"
+      },
+      {
+        "#633e2e": "darkolivegreen"
+      },
+      {
+        "#8b634e": "sienna"
+      }
+    ],
+    "averageColorHSV": [
+      0.023706607478006254,
+      0.19595872493360683,
+      0.10260268383638109
+    ],
+    "framenumber": 86626
+  },
+  {
+    "averageColorRGB": [
+      55.59060218978102,
+      45.93816403081914,
+      44.782816301703164
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_87385.png",
+    "palette": [
+      {
+        "#4c3628": "darkolivegreen"
+      },
+      {
+        "#936349": "sienna"
+      },
+      {
+        "#6f442f": "saddlebrown"
+      },
+      {
+        "#12273a": "darkslategrey"
+      },
+      {
+        "#2b0505": "black"
+      },
+      {
+        "#351c0f": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.017816596002801482,
+      0.19681062449310627,
+      0.1076757776163099
+    ],
+    "framenumber": 87385
+  },
+  {
+    "averageColorRGB": [
+      15.2985401459854,
+      13.037312449310624,
+      12.24969586374696
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_88144.png",
+    "palette": [
+      {
+        "#0a0000": "black"
+      },
+      {
+        "#030102": "black"
+      },
+      {
+        "#020001": "black"
+      },
+      {
+        "#535953": "dimgray"
+      },
+      {
+        "#070000": "black"
+      },
+      {
+        "#040203": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.04305547242671912,
+      0.054016149038690904,
+      0.11067294040755757
+    ],
+    "framenumber": 88144
+  },
+  {
+    "averageColorRGB": [
+      42.08026662611517,
+      35.801459854014595,
+      35.983799675587996
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_88903.png",
+    "palette": [
+      {
+        "#09090d": "black"
+      },
+      {
+        "#030102": "black"
+      },
+      {
+        "#1a0200": "black"
+      },
+      {
+        "#636c6b": "dimgray"
+      },
+      {
+        "#350302": "black"
+      },
+      {
+        "#546465": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.9951599131227817,
+      0.15270926760809758,
+      0.0806197686655355
+    ],
+    "framenumber": 88903
+  },
+  {
+    "averageColorRGB": [
+      35.308292781832925,
+      31.77992193836172,
+      32.58124493106245
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_89662.png",
+    "palette": [
+      {
+        "#3d0202": "black"
+      },
+      {
+        "#090302": "black"
+      },
+      {
+        "#030102": "black"
+      },
+      {
+        "#4b5c5f": "dimgray"
+      },
+      {
+        "#060101": "black"
+      },
+      {
+        "#2f120d": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.9621485841365252,
+      0.1315455190592052,
+      0.052593005465818576
+    ],
+    "framenumber": 89662
+  },
+  {
+    "averageColorRGB": [
+      43.870483576642336,
+      35.72311435523115,
+      37.350623479318735
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_90421.png",
+    "palette": [
+      {
+        "#33454c": "darkslategrey"
+      },
+      {
+        "#490000": "maroon"
+      },
+      {
+        "#0a0a09": "black"
+      },
+      {
+        "#213338": "darkslategrey"
+      },
+      {
+        "#020307": "black"
+      },
+      {
+        "#200101": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.9667068579673033,
+      0.15606587829779114,
+      0.10236211747061322
+    ],
+    "framenumber": 90421
+  },
+  {
+    "averageColorRGB": [
+      39.54844383617194,
+      31.354602595296026,
+      32.85673154906731
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_91180.png",
+    "palette": [
+      {
+        "#4e0000": "maroon"
+      },
+      {
+        "#a8bec7": "lightsteelblue"
+      },
+      {
+        "#0e0f11": "black"
+      },
+      {
+        "#0d192c": "black"
+      },
+      {
+        "#0d0000": "black"
+      },
+      {
+        "#3e0000": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.9694459755481197,
+      0.1390255812381725,
+      0.11556402232724584
+    ],
+    "framenumber": 91180
+  },
+  {
+    "averageColorRGB": [
+      29.402914639091644,
+      25.67697181670722,
+      26.11257603406326
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_91939.png",
+    "palette": [
+      {
+        "#1d0101": "black"
+      },
+      {
+        "#0a0c09": "black"
+      },
+      {
+        "#060100": "black"
+      },
+      {
+        "#080805": "black"
+      },
+      {
+        "#060103": "black"
+      },
+      {
+        "#0f130c": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.9805148102497686,
+      0.10799977736431149,
+      0.06764616018906394
+    ],
+    "framenumber": 91939
+  },
+  {
+    "averageColorRGB": [
+      48.16045214922952,
+      42.655641727493915,
+      34.904308596918085
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_92698.png",
+    "palette": [
+      {
+        "#0a0a0c": "black"
+      },
+      {
+        "#5b4738": "darkolivegreen"
+      },
+      {
+        "#675d53": "dimgray"
+      },
+      {
+        "#3a3528": "darkslategrey"
+      },
+      {
+        "#24120a": "black"
+      },
+      {
+        "#465047": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.09745585886256558,
+      0.16287207989440705,
+      0.15958805434741752
+    ],
+    "framenumber": 92698
+  },
+  {
+    "averageColorRGB": [
+      58.659093673965934,
+      55.03066707218167,
+      47.2393603000811
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_93457.png",
+    "palette": [
+      {
+        "#898173": "grey"
+      },
+      {
+        "#0c0a06": "black"
+      },
+      {
+        "#584e43": "darkolivegreen"
+      },
+      {
+        "#32332f": "darkslategrey"
+      },
+      {
+        "#5b4535": "darkolivegreen"
+      },
+      {
+        "#c6c0b5": "silver"
+      }
+    ],
+    "averageColorHSV": [
+      0.11371115998671337,
+      0.20764402740009222,
+      0.10783663920800499
+    ],
+    "framenumber": 93457
+  },
+  {
+    "averageColorRGB": [
+      22.079288321167883,
+      19.859514395782643,
+      26.432121857258718
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_94216.png",
+    "palette": [
+      {
+        "#301513": "black"
+      },
+      {
+        "#06070e": "black"
+      },
+      {
+        "#040606": "black"
+      },
+      {
+        "#050304": "black"
+      },
+      {
+        "#07080b": "black"
+      },
+      {
+        "#050407": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.7229551827641204,
+      0.09076791422164973,
+      0.14198261270240264
+    ],
+    "framenumber": 94216
+  },
+  {
+    "averageColorRGB": [
+      15.803350567721006,
+      11.547698702351987,
+      11.453963909164639
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_94975.png",
+    "palette": [
+      {
+        "#060402": "black"
+      },
+      {
+        "#050502": "black"
+      },
+      {
+        "#040200": "black"
+      },
+      {
+        "#050301": "black"
+      },
+      {
+        "#040401": "black"
+      },
+      {
+        "#250d0c": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.0035918778341978617,
+      0.053445714660560084,
+      0.15956768823446166
+    ],
+    "framenumber": 94975
+  },
+  {
+    "averageColorRGB": [
+      17.25536293592863,
+      14.73162510137875,
+      14.23301399026764
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_95734.png",
+    "palette": [
+      {
+        "#060402": "black"
+      },
+      {
+        "#050301": "black"
+      },
+      {
+        "#0a0302": "black"
+      },
+      {
+        "#040200": "black"
+      },
+      {
+        "#050502": "black"
+      },
+      {
+        "#040401": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.027495783361201936,
+      0.06174191554156132,
+      0.0959830020056255
+    ],
+    "framenumber": 95734
+  },
+  {
+    "averageColorRGB": [
+      20.96306772100568,
+      19.244743511759935,
+      19.594692822384427
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_96493.png",
+    "palette": [
+      {
+        "#040200": "black"
+      },
+      {
+        "#363b3c": "darkslategrey"
+      },
+      {
+        "#040203": "black"
+      },
+      {
+        "#050304": "black"
+      },
+      {
+        "#232426": "darkslategrey"
+      },
+      {
+        "#070201": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.9660571126273755,
+      0.07883884555444237,
+      0.042736079298080966
+    ],
+    "framenumber": 96493
+  },
+  {
+    "averageColorRGB": [
+      47.02978507704785,
+      39.51902879156529,
+      35.51455291970803
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_97252.png",
+    "palette": [
+      {
+        "#6e4325": "saddlebrown"
+      },
+      {
+        "#040200": "black"
+      },
+      {
+        "#8b5a33": "sienna"
+      },
+      {
+        "#050301": "black"
+      },
+      {
+        "#312019": "black"
+      },
+      {
+        "#404345": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.05795911330229969,
+      0.1618516431308939,
+      0.13950359814857782
+    ],
+    "framenumber": 97252
+  },
+  {
+    "averageColorRGB": [
+      74.68926905920519,
+      78.82484793187348,
+      71.69252331711273
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_98011.png",
+    "palette": [
+      {
+        "#391d18": "black"
+      },
+      {
+        "#879296": "lightslategray"
+      },
+      {
+        "#919fa1": "darkgray"
+      },
+      {
+        "#556460": "dimgray"
+      },
+      {
+        "#738b4f": "dimgray"
+      },
+      {
+        "#a5b58c": "darkseagreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.2633060069482694,
+      0.29513210048820826,
+      0.047385391836018996
+    ],
+    "framenumber": 98011
+  },
+  {
+    "averageColorRGB": [
+      67.93033759124087,
+      72.15044606650446,
+      69.43135137875102
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_98770.png",
+    "palette": [
+      {
+        "#3d504f": "darkslategrey"
+      },
+      {
+        "#647d7d": "slategray"
+      },
+      {
+        "#536968": "dimgray"
+      },
+      {
+        "#1b0f0c": "black"
+      },
+      {
+        "#b3beb7": "silver"
+      },
+      {
+        "#6e807e": "slategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.3926135546952733,
+      0.274668203250481,
+      0.03012624833377885
+    ],
+    "framenumber": 98770
+  },
+  {
+    "averageColorRGB": [
+      138.910401459854,
+      125.75234691808596,
+      118.32553223844282
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_99529.png",
+    "palette": [
+      {
+        "#a99689": "rosybrown"
+      },
+      {
+        "#6a4f3d": "darkolivegreen"
+      },
+      {
+        "#a29484": "rosybrown"
+      },
+      {
+        "#c4b9b4": "silver"
+      },
+      {
+        "#746250": "dimgray"
+      },
+      {
+        "#9a8573": "grey"
+      }
+    ],
+    "averageColorHSV": [
+      0.06013166434497913,
+      0.5043841837221507,
+      0.08143906498497601
+    ],
+    "framenumber": 99529
+  },
+  {
+    "averageColorRGB": [
+      74.8040095296026,
+      63.98095093268451,
+      55.27493410381184
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_100288.png",
+    "palette": [
+      {
+        "#404433": "darkslategrey"
+      },
+      {
+        "#37372c": "darkslategrey"
+      },
+      {
+        "#0b0603": "black"
+      },
+      {
+        "#aec3c7": "silver"
+      },
+      {
+        "#b28a80": "rosybrown"
+      },
+      {
+        "#955c53": "sienna"
+      }
+    ],
+    "averageColorHSV": [
+      0.07429961599184916,
+      0.2550567522223812,
+      0.1501324878592739
+    ],
+    "framenumber": 100288
+  },
+  {
+    "averageColorRGB": [
+      21.386009732360098,
+      27.742609489051095,
+      28.52072181670722
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_101047.png",
+    "palette": [
+      {
+        "#091820": "black"
+      },
+      {
+        "#142129": "black"
+      },
+      {
+        "#2b3024": "darkslategrey"
+      },
+      {
+        "#1e323b": "darkslategrey"
+      },
+      {
+        "#22292b": "darkslategrey"
+      },
+      {
+        "#3b3e40": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.5181766813305901,
+      0.09785633637072023,
+      0.14296091655155602
+    ],
+    "framenumber": 101047
+  },
+  {
+    "averageColorRGB": [
+      119.36213503649635,
+      115.1882400648824,
+      108.54715125709652
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_101806.png",
+    "palette": [
+      {
+        "#9a9e5c": "darkkhaki"
+      },
+      {
+        "#0a0a11": "black"
+      },
+      {
+        "#0f0e18": "black"
+      },
+      {
+        "#776b5d": "dimgray"
+      },
+      {
+        "#bcb6a5": "darkgray"
+      },
+      {
+        "#655a54": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.10234394773104342,
+      0.44688095351684876,
+      0.0474530193801229
+    ],
+    "framenumber": 101806
+  },
+  {
+    "averageColorRGB": [
+      69.6735198702352,
+      74.09081508515816,
+      69.43823499594485
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_102565.png",
+    "palette": [
+      {
+        "#49655b": "dimgray"
+      },
+      {
+        "#20282e": "darkslategrey"
+      },
+      {
+        "#0c060b": "black"
+      },
+      {
+        "#62aaac": "cadetblue"
+      },
+      {
+        "#0b080c": "black"
+      },
+      {
+        "#828277": "grey"
+      }
+    ],
+    "averageColorHSV": [
+      0.32490486032198795,
+      0.2814295099629471,
+      0.032415598699944745
+    ],
+    "framenumber": 102565
+  },
+  {
+    "averageColorRGB": [
+      70.66099452554745,
+      89.00736516626115,
+      69.2716595701541
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_103324.png",
+    "palette": [
+      {
+        "#35563a": "darkslategrey"
+      },
+      {
+        "#445f4e": "darkslategrey"
+      },
+      {
+        "#5a7a5a": "dimgray"
+      },
+      {
+        "#1e2d2a": "darkslategrey"
+      },
+      {
+        "#314e3e": "darkslategrey"
+      },
+      {
+        "#214032": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.321600495874278,
+      0.3103510288949318,
+      0.12468933030749499
+    ],
+    "framenumber": 103324
+  },
+  {
+    "averageColorRGB": [
+      130.3161699107867,
+      116.16413219789132,
+      104.7077706812652
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_104083.png",
+    "palette": [
+      {
+        "#bcab96": "tan"
+      },
+      {
+        "#c4c0ba": "silver"
+      },
+      {
+        "#a9987e": "rosybrown"
+      },
+      {
+        "#b49975": "rosybrown"
+      },
+      {
+        "#796051": "dimgray"
+      },
+      {
+        "#4f3b2f": "darkolivegreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.07456122379969747,
+      0.46083125606284686,
+      0.10896081124761603
+    ],
+    "framenumber": 104083
+  },
+  {
+    "averageColorRGB": [
+      133.90053223844282,
+      118.83248175182482,
+      105.29850466342255
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_104842.png",
+    "palette": [
+      {
+        "#a68c6b": "rosybrown"
+      },
+      {
+        "#c3b9a3": "tan"
+      },
+      {
+        "#b5a898": "darkgray"
+      },
+      {
+        "#dacfc2": "lightgrey"
+      },
+      {
+        "#bdb2a0": "darkgray"
+      },
+      {
+        "#533c2f": "darkolivegreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.0788637393678006,
+      0.46901771941542225,
+      0.11957417532059142
+    ],
+    "framenumber": 104842
+  },
+  {
+    "averageColorRGB": [
+      100.81973844282238,
+      104.98181772100568,
+      112.37695154095701
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_105601.png",
+    "palette": [
+      {
+        "#5f6871": "dimgray"
+      },
+      {
+        "#525762": "dimgray"
+      },
+      {
+        "#4c4f5d": "darkslategrey"
+      },
+      {
+        "#8ea2a8": "darkgray"
+      },
+      {
+        "#3b3a43": "darkslategrey"
+      },
+      {
+        "#73838a": "slategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.6066452866153481,
+      0.418032725458391,
+      0.05420915821448224
+    ],
+    "framenumber": 105601
+  },
+  {
+    "averageColorRGB": [
+      105.82696167883212,
+      114.55296532846715,
+      117.09645681265206
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_106360.png",
+    "palette": [
+      {
+        "#31404b": "darkslategrey"
+      },
+      {
+        "#283036": "darkslategrey"
+      },
+      {
+        "#5d7375": "dimgray"
+      },
+      {
+        "#6d8085": "slategray"
+      },
+      {
+        "#bebdb3": "silver"
+      },
+      {
+        "#8c999d": "lightslategray"
+      }
+    ],
+    "averageColorHSV": [
+      0.5376161702303747,
+      0.43710474214016504,
+      0.05055321334151548
+    ],
+    "framenumber": 106360
+  },
+  {
+    "averageColorRGB": [
+      39.1224604622871,
+      54.520939781021895,
+      38.412951135442015
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_107119.png",
+    "palette": [
+      {
+        "#23341e": "darkslategrey"
+      },
+      {
+        "#2e4027": "darkslategrey"
+      },
+      {
+        "#2e4132": "darkslategrey"
+      },
+      {
+        "#233428": "darkslategrey"
+      },
+      {
+        "#394e30": "darkslategrey"
+      },
+      {
+        "#172415": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.3259921588964722,
+      0.18222331552247825,
+      0.17332738882157606
+    ],
+    "framenumber": 107119
+  },
+  {
+    "averageColorRGB": [
+      113.48886861313869,
+      121.33474249797243,
+      127.43683090024331
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_107878.png",
+    "palette": [
+      {
+        "#afbabc": "silver"
+      },
+      {
+        "#82a8b7": "darkgray"
+      },
+      {
+        "#5b8b9f": "cadetblue"
+      },
+      {
+        "#4d372c": "darkslategrey"
+      },
+      {
+        "#a2a9ac": "darkgray"
+      },
+      {
+        "#614e44": "darkolivegreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.5729149328609872,
+      0.4724033323791804,
+      0.05789321070884714
+    ],
+    "framenumber": 107878
+  },
+  {
+    "averageColorRGB": [
+      80.5285888077859,
+      75.0544809407948,
+      66.82745336577453
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_108637.png",
+    "palette": [
+      {
+        "#4c371d": "darkolivegreen"
+      },
+      {
+        "#4e8ba3": "steelblue"
+      },
+      {
+        "#60472b": "darkolivegreen"
+      },
+      {
+        "#756252": "dimgray"
+      },
+      {
+        "#684d37": "darkolivegreen"
+      },
+      {
+        "#845649": "sienna"
+      }
+    ],
+    "averageColorHSV": [
+      0.10007719931729153,
+      0.28893341602658906,
+      0.09297980075953548
+    ],
+    "framenumber": 108637
+  },
+  {
+    "averageColorRGB": [
+      61.601429440389296,
+      55.97061536901865,
+      50.30739557988645
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_109396.png",
+    "palette": [
+      {
+        "#33312c": "darkslategrey"
+      },
+      {
+        "#705b4a": "dimgray"
+      },
+      {
+        "#0c0c0d": "black"
+      },
+      {
+        "#6f564d": "dimgray"
+      },
+      {
+        "#634a44": "darkolivegreen"
+      },
+      {
+        "#38583d": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.0835724397955137,
+      0.21942906866720735,
+      0.10092174462967128
+    ],
+    "framenumber": 109396
+  },
+  {
+    "averageColorRGB": [
+      99.98588807785887,
+      88.33774837793999,
+      80.86261151662612
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_110155.png",
+    "palette": [
+      {
+        "#7c5c47": "dimgray"
+      },
+      {
+        "#958f8b": "grey"
+      },
+      {
+        "#7a5f52": "dimgray"
+      },
+      {
+        "#908075": "grey"
+      },
+      {
+        "#3e352b": "darkslategrey"
+      },
+      {
+        "#725842": "darkolivegreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.06514867572840242,
+      0.35460490116565685,
+      0.1057419696824287
+    ],
+    "framenumber": 110155
+  },
+  {
+    "averageColorRGB": [
+      103.54338503649635,
+      84.80543390105434,
+      68.89788118410381
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_110914.png",
+    "palette": [
+      {
+        "#49301a": "darkolivegreen"
+      },
+      {
+        "#ddceb3": "wheat"
+      },
+      {
+        "#644229": "darkolivegreen"
+      },
+      {
+        "#bcb3a5": "darkgray"
+      },
+      {
+        "#ba986e": "darkkhaki"
+      },
+      {
+        "#9d754d": "sienna"
+      }
+    ],
+    "averageColorHSV": [
+      0.07652533493102402,
+      0.33812012984431405,
+      0.20091190822080457
+    ],
+    "framenumber": 110914
+  },
+  {
+    "averageColorRGB": [
+      66.02042781832928,
+      59.36010239253852,
+      55.332172546634226
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_111673.png",
+    "palette": [
+      {
+        "#a19b8c": "rosybrown"
+      },
+      {
+        "#161111": "black"
+      },
+      {
+        "#9e978b": "rosybrown"
+      },
+      {
+        "#0c0709": "black"
+      },
+      {
+        "#23191b": "black"
+      },
+      {
+        "#190f0f": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.06280928214372479,
+      0.23794627522541867,
+      0.08807603001131016
+    ],
+    "framenumber": 111673
+  },
+  {
+    "averageColorRGB": [
+      90.18961881589618,
+      87.09256386861314,
+      83.97628244120033
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_112432.png",
+    "palette": [
+      {
+        "#92adb2": "darkgray"
+      },
+      {
+        "#b0c8c4": "silver"
+      },
+      {
+        "#4d5e68": "dimgray"
+      },
+      {
+        "#62463a": "darkolivegreen"
+      },
+      {
+        "#4e5356": "darkslategrey"
+      },
+      {
+        "#a5896e": "rosybrown"
+      }
+    ],
+    "averageColorHSV": [
+      0.08359119908867942,
+      0.34150176717077746,
+      0.035674815390665804
+    ],
+    "framenumber": 112432
+  },
+  {
+    "averageColorRGB": [
+      76.83451946472019,
+      75.60754257907543,
+      75.37130474452555
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_113191.png",
+    "palette": [
+      {
+        "#38545d": "darkslategrey"
+      },
+      {
+        "#523d34": "darkolivegreen"
+      },
+      {
+        "#57737c": "dimgray"
+      },
+      {
+        "#836758": "dimgray"
+      },
+      {
+        "#aec1c2": "silver"
+      },
+      {
+        "#62483f": "darkolivegreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.026908540408713395,
+      0.29844279256714845,
+      0.009613395070763394
+    ],
+    "framenumber": 113191
+  },
+  {
+    "averageColorRGB": [
+      76.50984387672344,
+      76.37621147607462,
+      74.2783100162206
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_113950.png",
+    "palette": [
+      {
+        "#764e42": "sienna"
+      },
+      {
+        "#887568": "grey"
+      },
+      {
+        "#234453": "darkslategrey"
+      },
+      {
+        "#3f6274": "dimgray"
+      },
+      {
+        "#886959": "dimgray"
+      },
+      {
+        "#a3c1bf": "silver"
+      }
+    ],
+    "averageColorHSV": [
+      0.15668605773708352,
+      0.29566304684890987,
+      0.01479913244436405
+    ],
+    "framenumber": 113950
+  },
+  {
+    "averageColorRGB": [
+      112.80600669099756,
+      107.68806265206813,
+      100.6970701540957
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_114709.png",
+    "palette": [
+      {
+        "#7d5245": "sienna"
+      },
+      {
+        "#626a65": "dimgray"
+      },
+      {
+        "#617370": "dimgray"
+      },
+      {
+        "#8d7359": "dimgray"
+      },
+      {
+        "#5e3f38": "darkolivegreen"
+      },
+      {
+        "#515b53": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.0962235959184284,
+      0.4186334840099868,
+      0.056715513030697357
+    ],
+    "framenumber": 114709
+  },
+  {
+    "averageColorRGB": [
+      86.64757197891322,
+      86.19289334955393,
+      78.61631690997567
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_115468.png",
+    "palette": [
+      {
+        "#837159": "dimgray"
+      },
+      {
+        "#5d4132": "darkolivegreen"
+      },
+      {
+        "#6b7877": "dimgray"
+      },
+      {
+        "#4b5c5c": "darkslategrey"
+      },
+      {
+        "#5c5c53": "dimgray"
+      },
+      {
+        "#404d4c": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.15723105904252624,
+      0.3240468409586057,
+      0.04859655138780602
+    ],
+    "framenumber": 115468
+  },
+  {
+    "averageColorRGB": [
+      138.39325324412002,
+      138.45284367396593,
+      138.09943734793188
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_116227.png",
+    "palette": [
+      {
+        "#a8a69e": "darkgray"
+      },
+      {
+        "#a19c97": "darkgray"
+      },
+      {
+        "#7b8283": "grey"
+      },
+      {
+        "#63686d": "dimgray"
+      },
+      {
+        "#adaaa4": "darkgray"
+      },
+      {
+        "#5b6266": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.19476955440811872,
+      0.5422593745527409,
+      0.0015138564111101416
+    ],
+    "framenumber": 116227
+  },
+  {
+    "averageColorRGB": [
+      67.8614101784266,
+      68.63291261151663,
+      68.31818734793187
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_116986.png",
+    "palette": [
+      {
+        "#4c5255": "darkslategrey"
+      },
+      {
+        "#191f1c": "black"
+      },
+      {
+        "#202723": "darkslategrey"
+      },
+      {
+        "#373c3c": "darkslategrey"
+      },
+      {
+        "#2c3530": "darkslategrey"
+      },
+      {
+        "#53565b": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.4320103108588141,
+      0.2676359270391043,
+      0.005652267561906787
+    ],
+    "framenumber": 116986
+  },
+  {
+    "averageColorRGB": [
+      87.73041362530414,
+      85.99074412003245,
+      87.31121755879967
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_117745.png",
+    "palette": [
+      {
+        "#353e3f": "darkslategrey"
+      },
+      {
+        "#7f767a": "grey"
+      },
+      {
+        "#07070f": "black"
+      },
+      {
+        "#aa9b8d": "rosybrown"
+      },
+      {
+        "#68646b": "dimgray"
+      },
+      {
+        "#495255": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.8734938413334823,
+      0.34062972106928746,
+      0.010014148695819328
+    ],
+    "framenumber": 117745
+  },
+  {
+    "averageColorRGB": [
+      78.15602696674777,
+      74.62069140308192,
+      75.44168694241687
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_118504.png",
+    "palette": [
+      {
+        "#c7c3bb": "silver"
+      },
+      {
+        "#83959d": "lightslategray"
+      },
+      {
+        "#07080d": "black"
+      },
+      {
+        "#6b3f3a": "darkolivegreen"
+      },
+      {
+        "#4a2c27": "darkslategrey"
+      },
+      {
+        "#06070a": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.9612957278241299,
+      0.299562192882019,
+      0.02314053869849329
+    ],
+    "framenumber": 118504
+  },
+  {
+    "averageColorRGB": [
+      75.10993511759935,
+      74.3743106244931,
+      76.56581508515815
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_119263.png",
+    "palette": [
+      {
+        "#606972": "dimgray"
+      },
+      {
+        "#697b85": "slategray"
+      },
+      {
+        "#060508": "black"
+      },
+      {
+        "#3d4a4e": "darkslategrey"
+      },
+      {
+        "#643f39": "darkolivegreen"
+      },
+      {
+        "#402521": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.7226118332793631,
+      0.29596103080323777,
+      0.014519031638284325
+    ],
+    "framenumber": 119263
+  },
+  {
+    "averageColorRGB": [
+      65.05999594484996,
+      61.39677108678021,
+      59.34897607461476
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_120022.png",
+    "palette": [
+      {
+        "#1b1d19": "black"
+      },
+      {
+        "#716964": "dimgray"
+      },
+      {
+        "#2b2e27": "darkslategrey"
+      },
+      {
+        "#928d87": "grey"
+      },
+      {
+        "#35231f": "darkslategrey"
+      },
+      {
+        "#1b1d1d": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.059761509581332695,
+      0.24393916082247985,
+      0.045905209065964035
+    ],
+    "framenumber": 120022
+  },
+  {
+    "averageColorRGB": [
+      96.01256589618816,
+      86.23684103811841,
+      83.41399533657746
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_120781.png",
+    "palette": [
+      {
+        "#6c423e": "darkolivegreen"
+      },
+      {
+        "#a58e7b": "rosybrown"
+      },
+      {
+        "#eee6d6": "antiquewhite"
+      },
+      {
+        "#475259": "darkslategrey"
+      },
+      {
+        "#3f4450": "darkslategrey"
+      },
+      {
+        "#ad9a81": "rosybrown"
+      }
+    ],
+    "averageColorHSV": [
+      0.03734346538475055,
+      0.351816786730913,
+      0.07021574995948841
+    ],
+    "framenumber": 120781
+  },
+  {
+    "averageColorRGB": [
+      57.550466342254666,
+      53.19507299270073,
+      51.30718268450933
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_121540.png",
+    "palette": [
+      {
+        "#08060e": "black"
+      },
+      {
+        "#1e211b": "black"
+      },
+      {
+        "#191b18": "black"
+      },
+      {
+        "#8e8684": "grey"
+      },
+      {
+        "#44433b": "darkslategrey"
+      },
+      {
+        "#6a625d": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.05039789987889106,
+      0.2134463706407137,
+      0.05735273279887153
+    ],
+    "framenumber": 121540
+  },
+  {
+    "averageColorRGB": [
+      80.27913118410382,
+      71.32407745336577,
+      65.32796532846716
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_122299.png",
+    "palette": [
+      {
+        "#a59b92": "rosybrown"
+      },
+      {
+        "#8f857f": "grey"
+      },
+      {
+        "#261f1a": "black"
+      },
+      {
+        "#332b25": "darkslategrey"
+      },
+      {
+        "#8a7a71": "grey"
+      },
+      {
+        "#b5aca1": "darkgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.06684107650639683,
+      0.28550411080896265,
+      0.10268157400107113
+    ],
+    "framenumber": 122299
+  },
+  {
+    "averageColorRGB": [
+      51.76340227088402,
+      51.78337895377129,
+      55.427620640713705
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_123058.png",
+    "palette": [
+      {
+        "#0d0807": "black"
+      },
+      {
+        "#5a5e6b": "dimgray"
+      },
+      {
+        "#050304": "black"
+      },
+      {
+        "#515b69": "dimgray"
+      },
+      {
+        "#101a21": "black"
+      },
+      {
+        "#0b0907": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.6657580289131714,
+      0.21017847629725045,
+      0.03418400412926018
+    ],
+    "framenumber": 123058
+  },
+  {
+    "averageColorRGB": [
+      18.164988848337387,
+      20.70014193025142,
+      19.5669201135442
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_123817.png",
+    "palette": [
+      {
+        "#19211c": "black"
+      },
+      {
+        "#657b85": "slategray"
+      },
+      {
+        "#050304": "black"
+      },
+      {
+        "#0f1511": "black"
+      },
+      {
+        "#111310": "black"
+      },
+      {
+        "#131914": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.42549944848224314,
+      0.07620613878154668,
+      0.06522950086947021
+    ],
+    "framenumber": 123817
+  },
+  {
+    "averageColorRGB": [
+      26.771208434712083,
+      21.754085563665857,
+      16.390044606650445
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_124576.png",
+    "palette": [
+      {
+        "#0d0b08": "black"
+      },
+      {
+        "#090404": "black"
+      },
+      {
+        "#3a433c": "darkslategrey"
+      },
+      {
+        "#050304": "black"
+      },
+      {
+        "#060405": "black"
+      },
+      {
+        "#11100d": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.08611816950163319,
+      0.08462990792424024,
+      0.24052044592201957
+    ],
+    "framenumber": 124576
+  },
+  {
+    "averageColorRGB": [
+      27.158353609083537,
+      23.115703568532034,
+      17.47211577453366
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_125335.png",
+    "palette": [
+      {
+        "#1e211b": "black"
+      },
+      {
+        "#262b24": "darkslategrey"
+      },
+      {
+        "#62360e": "saddlebrown"
+      },
+      {
+        "#0e0d0a": "black"
+      },
+      {
+        "#0c0c09": "black"
+      },
+      {
+        "#050407": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.09710663538648341,
+      0.08751072428160234,
+      0.21703195077991877
+    ],
+    "framenumber": 125335
+  },
+  {
+    "averageColorRGB": [
+      19.59456103000811,
+      17.29168694241687,
+      15.252615571776156
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_126094.png",
+    "palette": [
+      {
+        "#13110e": "black"
+      },
+      {
+        "#100e0c": "black"
+      },
+      {
+        "#090705": "black"
+      },
+      {
+        "#050304": "black"
+      },
+      {
+        "#090403": "black"
+      },
+      {
+        "#090906": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.0782702665681352,
+      0.06832779725840052,
+      0.12459963422143172
+    ],
+    "framenumber": 126094
+  },
+  {
+    "averageColorRGB": [
+      77.96903386050283,
+      85.5360502838605,
+      89.00539334955393
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_126853.png",
+    "palette": [
+      {
+        "#60899e": "cadetblue"
+      },
+      {
+        "#9ec0cb": "lightsteelblue"
+      },
+      {
+        "#4a5b63": "dimgray"
+      },
+      {
+        "#3a4c55": "darkslategrey"
+      },
+      {
+        "#2b424a": "darkslategrey"
+      },
+      {
+        "#18232a": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.5523926250187735,
+      0.32740083766677797,
+      0.06609610629277471
+    ],
+    "framenumber": 126853
+  },
+  {
+    "averageColorRGB": [
+      71.36054339010543,
+      63.54017639902676,
+      64.97643957826439
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_127612.png",
+    "palette": [
+      {
+        "#070b0d": "black"
+      },
+      {
+        "#976b5f": "grey"
+      },
+      {
+        "#715047": "dimgray"
+      },
+      {
+        "#a4afb8": "darkgray"
+      },
+      {
+        "#858e9c": "lightslategray"
+      },
+      {
+        "#39241f": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.9693905417977593,
+      0.26451121527280824,
+      0.05797127697541531
+    ],
+    "framenumber": 127612
+  },
+  {
+    "averageColorRGB": [
+      84.02969890510948,
+      74.47775750202757,
+      71.67198398215734
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_128371.png",
+    "palette": [
+      {
+        "#807069": "dimgray"
+      },
+      {
+        "#958074": "grey"
+      },
+      {
+        "#a4917c": "rosybrown"
+      },
+      {
+        "#1e0c0a": "black"
+      },
+      {
+        "#5e5252": "dimgray"
+      },
+      {
+        "#7e665d": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.037841050946226217,
+      0.30529741742601335,
+      0.07936789566943557
+    ],
+    "framenumber": 128371
+  },
+  {
+    "averageColorRGB": [
+      50.753056569343066,
+      49.086126317923764,
+      48.04089111922141
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_129130.png",
+    "palette": [
+      {
+        "#2a120f": "black"
+      },
+      {
+        "#b5c4c5": "silver"
+      },
+      {
+        "#3c2521": "darkslategrey"
+      },
+      {
+        "#625454": "dimgray"
+      },
+      {
+        "#705e5b": "dimgray"
+      },
+      {
+        "#1e0d0b": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.06423128295605213,
+      0.19371362291875388,
+      0.02745274901526776
+    ],
+    "framenumber": 129130
+  },
+  {
+    "averageColorRGB": [
+      100.44289841849148,
+      103.06638787510138,
+      103.06383313057583
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_129889.png",
+    "palette": [
+      {
+        "#798181": "grey"
+      },
+      {
+        "#495b67": "dimgray"
+      },
+      {
+        "#56666d": "dimgray"
+      },
+      {
+        "#94a0a0": "darkgray"
+      },
+      {
+        "#b1c6c6": "silver"
+      },
+      {
+        "#9eb4b7": "darkgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.4998377006039856,
+      0.3990378162619468,
+      0.012891251816514761
+    ],
+    "framenumber": 129889
+  },
+  {
+    "averageColorRGB": [
+      39.58529501216545,
+      37.40514497161395,
+      36.774432278994325
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_130648.png",
+    "palette": [
+      {
+        "#030102": "black"
+      },
+      {
+        "#233238": "darkslategrey"
+      },
+      {
+        "#030100": "black"
+      },
+      {
+        "#baa187": "rosybrown"
+      },
+      {
+        "#040203": "black"
+      },
+      {
+        "#15242b": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.03739733743051893,
+      0.1497249554728623,
+      0.036810801097459496
+    ],
+    "framenumber": 130648
+  },
+  {
+    "averageColorRGB": [
+      82.59561536901866,
+      61.793400243309,
+      34.48706407137064
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_131407.png",
+    "palette": [
+      {
+        "#130908": "black"
+      },
+      {
+        "#3e3530": "darkslategrey"
+      },
+      {
+        "#060508": "black"
+      },
+      {
+        "#e4b342": "sandybrown"
+      },
+      {
+        "#3f3932": "darkslategrey"
+      },
+      {
+        "#95551a": "saddlebrown"
+      }
+    ],
+    "averageColorHSV": [
+      0.09459973135542932,
+      0.2295738812556653,
+      0.41089383611298114
+    ],
+    "framenumber": 131407
+  },
+  {
+    "averageColorRGB": [
+      109.56644870235199,
+      87.2488189375507,
+      51.39218876723439
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_132166.png",
+    "palette": [
+      {
+        "#33322e": "darkslategrey"
+      },
+      {
+        "#e5b648": "sandybrown"
+      },
+      {
+        "#b97928": "chocolate"
+      },
+      {
+        "#322a27": "darkslategrey"
+      },
+      {
+        "#180c0a": "black"
+      },
+      {
+        "#130808": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.10272765025375945,
+      0.3156051715089929,
+      0.36142366044885166
+    ],
+    "framenumber": 132166
+  },
+  {
+    "averageColorRGB": [
+      39.740850567721004,
+      32.488959854014595,
+      22.62110705596107
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_132925.png",
+    "palette": [
+      {
+        "#060508": "black"
+      },
+      {
+        "#07080b": "black"
+      },
+      {
+        "#25251e": "black"
+      },
+      {
+        "#271e1a": "black"
+      },
+      {
+        "#e9c258": "sandybrown"
+      },
+      {
+        "#0a0809": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.09606698440775001,
+      0.12227834828172957,
+      0.27452222739811305
+    ],
+    "framenumber": 132925
+  },
+  {
+    "averageColorRGB": [
+      117.93335867802108,
+      101.13797141119221,
+      86.04764801297648
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_133684.png",
+    "palette": [
+      {
+        "#8d6546": "sienna"
+      },
+      {
+        "#a2907c": "rosybrown"
+      },
+      {
+        "#5a4432": "darkolivegreen"
+      },
+      {
+        "#735139": "darkolivegreen"
+      },
+      {
+        "#ccc0ac": "silver"
+      },
+      {
+        "#ab9b85": "rosybrown"
+      }
+    ],
+    "averageColorHSV": [
+      0.07887714738814977,
+      0.39996275821764227,
+      0.15631705707456844
+    ],
+    "framenumber": 133684
+  },
+  {
+    "averageColorRGB": [
+      96.17184712084347,
+      76.86608373884833,
+      66.08119424168694
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_134443.png",
+    "palette": [
+      {
+        "#5a423a": "darkolivegreen"
+      },
+      {
+        "#614a3e": "darkolivegreen"
+      },
+      {
+        "#897668": "grey"
+      },
+      {
+        "#6e5b4d": "dimgray"
+      },
+      {
+        "#8f806f": "grey"
+      },
+      {
+        "#685047": "darkolivegreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.05973554612054718,
+      0.31814321835790277,
+      0.18545509302302335
+    ],
+    "framenumber": 134443
+  },
+  {
+    "averageColorRGB": [
+      15.222293187347931,
+      13.475669099756692,
+      16.333617193836172
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_135202.png",
+    "palette": [
+      {
+        "#04080a": "black"
+      },
+      {
+        "#040306": "black"
+      },
+      {
+        "#09080d": "black"
+      },
+      {
+        "#05090d": "black"
+      },
+      {
+        "#030407": "black"
+      },
+      {
+        "#040508": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.7685243649228353,
+      0.058449580967829144,
+      0.09587442201505374
+    ],
+    "framenumber": 135202
+  },
+  {
+    "averageColorRGB": [
+      17.6694799270073,
+      14.533657745336578,
+      16.78685117599351
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_135961.png",
+    "palette": [
+      {
+        "#030207": "black"
+      },
+      {
+        "#030205": "black"
+      },
+      {
+        "#020306": "black"
+      },
+      {
+        "#020308": "black"
+      },
+      {
+        "#010507": "black"
+      },
+      {
+        "#010205": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.8802444090618862,
+      0.06314340720067427,
+      0.09737629337788938
+    ],
+    "framenumber": 135961
+  },
+  {
+    "averageColorRGB": [
+      21.151353406326034,
+      23.683226885644768,
+      27.278649635036498
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_136720.png",
+    "palette": [
+      {
+        "#030205": "black"
+      },
+      {
+        "#030102": "black"
+      },
+      {
+        "#040409": "black"
+      },
+      {
+        "#051519": "black"
+      },
+      {
+        "#020104": "black"
+      },
+      {
+        "#040203": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.5977979687175554,
+      0.09496079027718143,
+      0.12651860094820425
+    ],
+    "framenumber": 136720
+  },
+  {
+    "averageColorRGB": [
+      120.53627838605028,
+      108.73295823195458,
+      109.85416159772912
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_137479.png",
+    "palette": [
+      {
+        "#80716d": "grey"
+      },
+      {
+        "#81797d": "grey"
+      },
+      {
+        "#c0b4b8": "silver"
+      },
+      {
+        "#aea3a9": "darkgray"
+      },
+      {
+        "#a59089": "rosybrown"
+      },
+      {
+        "#a6999c": "darkgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.9841682488325756,
+      0.4495475227804017,
+      0.05148235466828769
+    ],
+    "framenumber": 137479
+  },
+  {
+    "averageColorRGB": [
+      122.57009833738849,
+      112.1191301703163,
+      113.39815490673155
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_138238.png",
+    "palette": [
+      {
+        "#8d857f": "grey"
+      },
+      {
+        "#7f787e": "grey"
+      },
+      {
+        "#c1b4b5": "silver"
+      },
+      {
+        "#b3acaa": "darkgray"
+      },
+      {
+        "#a29594": "rosybrown"
+      },
+      {
+        "#a39289": "rosybrown"
+      }
+    ],
+    "averageColorHSV": [
+      0.9796027711505066,
+      0.4601749578582447,
+      0.04453109430511884
+    ],
+    "framenumber": 138238
+  },
+  {
+    "averageColorRGB": [
+      120.29859083536091,
+      98.19587388483374,
+      86.69430758313058
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_138997.png",
+    "palette": [
+      {
+        "#3f271c": "darkslategrey"
+      },
+      {
+        "#dbd4d0": "lightgrey"
+      },
+      {
+        "#f2e5db": "antiquewhite"
+      },
+      {
+        "#3a1a11": "black"
+      },
+      {
+        "#553523": "darkolivegreen"
+      },
+      {
+        "#684634": "darkolivegreen"
+      }
+    ],
+    "averageColorHSV": [
+      0.057044148287950715,
+      0.40586842827155195,
+      0.16234510221838763
+    ],
+    "framenumber": 138997
+  },
+  {
+    "averageColorRGB": [
+      84.69727798053528,
+      89.30748175182482,
+      87.68454480940795
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_139756.png",
+    "palette": [
+      {
+        "#646b63": "dimgray"
+      },
+      {
+        "#8fb5c5": "darkgray"
+      },
+      {
+        "#282c27": "darkslategrey"
+      },
+      {
+        "#49544e": "darkslategrey"
+      },
+      {
+        "#6dacc7": "cadetblue"
+      },
+      {
+        "#446262": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.44132808356816905,
+      0.3411858033967845,
+      0.02649469921616277
+    ],
+    "framenumber": 139756
+  },
+  {
+    "averageColorRGB": [
+      67.80156630170316,
+      53.96215531224655,
+      49.83522911597729
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_140515.png",
+    "palette": [
+      {
+        "#120603": "black"
+      },
+      {
+        "#a7a89f": "darkgray"
+      },
+      {
+        "#b8b6ab": "darkgray"
+      },
+      {
+        "#271009": "black"
+      },
+      {
+        "#1d0c08": "black"
+      },
+      {
+        "#2f140a": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.038283876429638264,
+      0.23066038317192245,
+      0.15272718983830455
+    ],
+    "framenumber": 140515
+  },
+  {
+    "averageColorRGB": [
+      97.24030312246553,
+      89.63831103000811,
+      82.69233576642335
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_141274.png",
+    "palette": [
+      {
+        "#9b8572": "grey"
+      },
+      {
+        "#060805": "black"
+      },
+      {
+        "#7b6961": "dimgray"
+      },
+      {
+        "#8f7563": "grey"
+      },
+      {
+        "#414f51": "darkslategrey"
+      },
+      {
+        "#746256": "dimgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.07957555276270133,
+      0.35280909586056647,
+      0.08085229809265324
+    ],
+    "framenumber": 141274
+  },
+  {
+    "averageColorRGB": [
+      138.15230129764802,
+      141.75537307380372,
+      137.51533353609082
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_142033.png",
+    "palette": [
+      {
+        "#395320": "darkolivegreen"
+      },
+      {
+        "#c3bdb8": "silver"
+      },
+      {
+        "#d2dae8": "gainsboro"
+      },
+      {
+        "#254210": "darkgreen"
+      },
+      {
+        "#dbdeeb": "gainsboro"
+      },
+      {
+        "#dfdeed": "lavender"
+      }
+    ],
+    "averageColorHSV": [
+      0.30829552586747827,
+      0.5475896208037148,
+      0.018376684968839506
+    ],
+    "framenumber": 142033
+  },
+  {
+    "averageColorRGB": [
+      83.77340835360908,
+      80.1842609489051,
+      80.54726784266018
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_142792.png",
+    "palette": [
+      {
+        "#070101": "black"
+      },
+      {
+        "#4d545b": "darkslategrey"
+      },
+      {
+        "#440302": "maroon"
+      },
+      {
+        "#969ca0": "darkgray"
+      },
+      {
+        "#766354": "dimgray"
+      },
+      {
+        "#adc1c9": "silver"
+      }
+    ],
+    "averageColorHSV": [
+      0.9831433089429861,
+      0.3214856260833612,
+      0.021890695445796644
+    ],
+    "framenumber": 142792
+  },
+  {
+    "averageColorRGB": [
+      79.73156427412815,
+      76.42288118410382,
+      76.82852291159773
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_143551.png",
+    "palette": [
+      {
+        "#93999d": "darkgray"
+      },
+      {
+        "#080101": "black"
+      },
+      {
+        "#21425a": "darkslategrey"
+      },
+      {
+        "#abbac1": "silver"
+      },
+      {
+        "#565b60": "dimgray"
+      },
+      {
+        "#061220": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.9795668086840489,
+      0.3061851871730038,
+      0.021188529601671433
+    ],
+    "framenumber": 143551
+  },
+  {
+    "averageColorRGB": [
+      102.35310218978103,
+      115.25322384428223,
+      115.28051500405515
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_144310.png",
+    "palette": [
+      {
+        "#9f9d96": "darkgray"
+      },
+      {
+        "#8396a4": "lightslategray"
+      },
+      {
+        "#53676b": "dimgray"
+      },
+      {
+        "#4d6673": "dimgray"
+      },
+      {
+        "#7d8f97": "lightslategray"
+      },
+      {
+        "#495a62": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.5003518512709516,
+      0.42673258273301207,
+      0.05939988950677722
+    ],
+    "framenumber": 144310
+  },
+  {
+    "averageColorRGB": [
+      82.71142538523925,
+      80.12703771289537,
+      81.35830291970802
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_145069.png",
+    "palette": [
+      {
+        "#2f393f": "darkslategrey"
+      },
+      {
+        "#525a5f": "dimgray"
+      },
+      {
+        "#4a4746": "darkslategrey"
+      },
+      {
+        "#192923": "black"
+      },
+      {
+        "#646e77": "dimgray"
+      },
+      {
+        "#43535c": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.9205959423200645,
+      0.3192911041139895,
+      0.015870867503744463
+    ],
+    "framenumber": 145069
+  },
+  {
+    "averageColorRGB": [
+      91.34648215733982,
+      90.84215328467153,
+      85.10485097323601
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_145828.png",
+    "palette": [
+      {
+        "#2d3833": "darkslategrey"
+      },
+      {
+        "#3c4342": "darkslategrey"
+      },
+      {
+        "#83828a": "grey"
+      },
+      {
+        "#463a2d": "darkslategrey"
+      },
+      {
+        "#7e6f5e": "dimgray"
+      },
+      {
+        "#7f8288": "grey"
+      }
+    ],
+    "averageColorHSV": [
+      0.15319986453881052,
+      0.34598300613838395,
+      0.03537310301580403
+    ],
+    "framenumber": 145828
+  },
+  {
+    "averageColorRGB": [
+      65.02222222222223,
+      69.1466798459043,
+      69.59224452554744
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_146587.png",
+    "palette": [
+      {
+        "#645e4e": "dimgray"
+      },
+      {
+        "#637e8a": "slategray"
+      },
+      {
+        "#859fa9": "lightslategray"
+      },
+      {
+        "#111014": "black"
+      },
+      {
+        "#6c6b60": "dimgray"
+      },
+      {
+        "#121918": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.51624954431546,
+      0.26394993479954837,
+      0.03394896858959579
+    ],
+    "framenumber": 146587
+  },
+  {
+    "averageColorRGB": [
+      90.85279298459042,
+      89.01306265206813,
+      88.29146897810219
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_147346.png",
+    "palette": [
+      {
+        "#8f9998": "lightslategray"
+      },
+      {
+        "#9aabac": "darkgray"
+      },
+      {
+        "#846e68": "dimgray"
+      },
+      {
+        "#767f7f": "grey"
+      },
+      {
+        "#96726c": "grey"
+      },
+      {
+        "#b6a4a2": "darkgray"
+      }
+    ],
+    "averageColorHSV": [
+      0.046954470431309715,
+      0.35126325875037767,
+      0.014297549798282875
+    ],
+    "framenumber": 147346
+  },
+  {
+    "averageColorRGB": [
+      107.42894870235199,
+      110.761349351176,
+      111.14759225466342
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_148105.png",
+    "palette": [
+      {
+        "#8da3a7": "darkgray"
+      },
+      {
+        "#617a7f": "slategray"
+      },
+      {
+        "#4e636b": "dimgray"
+      },
+      {
+        "#7d5b51": "dimgray"
+      },
+      {
+        "#83979e": "lightslategray"
+      },
+      {
+        "#9a7b6f": "grey"
+      }
+    ],
+    "averageColorHSV": [
+      0.5173111018419311,
+      0.428581452856893,
+      0.0170130039391681
+    ],
+    "framenumber": 148105
+  },
+  {
+    "averageColorRGB": [
+      89.8098996350365,
+      91.38376419302514,
+      90.55752737226277
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_148864.png",
+    "palette": [
+      {
+        "#7b7169": "dimgray"
+      },
+      {
+        "#4a595f": "darkslategrey"
+      },
+      {
+        "#576163": "dimgray"
+      },
+      {
+        "#465557": "darkslategrey"
+      },
+      {
+        "#3e4d51": "darkslategrey"
+      },
+      {
+        "#7a8b78": "grey"
+      }
+    ],
+    "averageColorHSV": [
+      0.4125044552946062,
+      0.355281693780513,
+      0.008686090477656611
+    ],
+    "framenumber": 148864
+  },
+  {
+    "averageColorRGB": [
+      82.13836171938361,
+      80.69317721005677,
+      73.92520782643957
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_149623.png",
+    "palette": [
+      {
+        "#55645c": "dimgray"
+      },
+      {
+        "#61685e": "dimgray"
+      },
+      {
+        "#e6d4cd": "gainsboro"
+      },
+      {
+        "#494b42": "darkslategrey"
+      },
+      {
+        "#545b54": "dimgray"
+      },
+      {
+        "#071118": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.13734004159335175,
+      0.3060069991094572,
+      0.05262697705073641
+    ],
+    "framenumber": 149623
+  },
+  {
+    "averageColorRGB": [
+      152.90500304136253,
+      154.30277270884022,
+      160.96894261962692
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_150382.png",
+    "palette": [
+      {
+        "#0d1634": "black"
+      },
+      {
+        "#c0d3d9": "lightgrey"
+      },
+      {
+        "#9bb2b9": "darkgray"
+      },
+      {
+        "#856259": "dimgray"
+      },
+      {
+        "#e0e4ec": "lavender"
+      },
+      {
+        "#a3bdc0": "silver"
+      }
+    ],
+    "averageColorHSV": [
+      0.637777361509395,
+      0.6154391091391951,
+      0.041116105687445274
+    ],
+    "framenumber": 150382
+  },
+  {
+    "averageColorRGB": [
+      134.0617903487429,
+      113.49816504460665,
+      84.67600871857259
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_151141.png",
+    "palette": [
+      {
+        "#323a4c": "darkslategrey"
+      },
+      {
+        "#bb995d": "darkkhaki"
+      },
+      {
+        "#8b6436": "sienna"
+      },
+      {
+        "#1e2538": "darkslategrey"
+      },
+      {
+        "#a1773e": "sienna"
+      },
+      {
+        "#212a3d": "darkslategrey"
+      }
+    ],
+    "averageColorHSV": [
+      0.09726873935049855,
+      0.4288976452300304,
+      0.22577616598844946
+    ],
+    "framenumber": 151141
+  },
+  {
+    "averageColorRGB": [
+      27.634975669099756,
+      27.634975669099756,
+      27.634975669099756
+    ],
+    "file": "http://128.54.253.204/chromatography/graduate/The Graduate.mp4_151900.png",
+    "palette": [
+      {
+        "#020202": "black"
+      }
+    ],
+    "averageColorHSV": [
+      0.0,
+      0.10837245360431277,
+      0.0
+    ],
+    "framenumber": 151900
+  }
+]

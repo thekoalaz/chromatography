@@ -1,0 +1,6824 @@
+[
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_100.png",
+    "averageColorRGB": [
+      0.40654815821256035,
+      7.403676026570048,
+      13.222927989130435
+    ],
+    "palette": [
+      {
+        "#000101": "black"
+      },
+      {
+        "#000103": "black"
+      },
+      {
+        "#001425": "black"
+      },
+      {
+        "#000e18": "black"
+      },
+      {
+        "#000608": "black"
+      },
+      {
+        "#000201": "black"
+      }
+    ],
+    "framenumber": 100,
+    "averageColorHSV": [
+      0.5756746709982563,
+      0.02672446303400587,
+      0.9403428049886108
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_991.png",
+    "averageColorRGB": [
+      19.319459541062802,
+      19.31915760869565,
+      19.321346618357488
+    ],
+    "palette": [
+      {
+        "#010001": "black"
+      },
+      {
+        "#000002": "black"
+      },
+      {
+        "#000100": "black"
+      }
+    ],
+    "framenumber": 991,
+    "averageColorHSV": [
+      0.6896551724139789,
+      0.07576569456284929,
+      5.665064950950625e-05
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_1882.png",
+    "averageColorRGB": [
+      30.687383001207728,
+      15.669931310386474,
+      6.472192028985507
+    ],
+    "palette": [
+      {
+        "#0b0000": "black"
+      },
+      {
+        "#231408": "black"
+      },
+      {
+        "#160f09": "black"
+      },
+      {
+        "#0e0c08": "black"
+      },
+      {
+        "#100c06": "black"
+      },
+      {
+        "#090000": "black"
+      }
+    ],
+    "framenumber": 1882,
+    "averageColorHSV": [
+      0.0633055732931716,
+      0.0728619118239083,
+      0.6516541416995936
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_2773.png",
+    "averageColorRGB": [
+      37.285616696859904,
+      23.36099411231884,
+      11.65137756642512
+    ],
+    "palette": [
+      {
+        "#080000": "black"
+      },
+      {
+        "#321704": "black"
+      },
+      {
+        "#090703": "black"
+      },
+      {
+        "#0a0100": "black"
+      },
+      {
+        "#090401": "black"
+      },
+      {
+        "#070501": "black"
+      }
+    ],
+    "framenumber": 2773,
+    "averageColorHSV": [
+      0.07613265787677981,
+      0.09595489071232358,
+      0.523821283189574
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_3664.png",
+    "averageColorRGB": [
+      24.146837258454106,
+      27.382408665458936,
+      33.22580389492754
+    ],
+    "palette": [
+      {
+        "#222530": "darkslategray"
+      },
+      {
+        "#2b3240": "darkslategray"
+      },
+      {
+        "#353a4b": "darkslategray"
+      },
+      {
+        "#1d2530": "darkslategray"
+      },
+      {
+        "#0f0f0c": "black"
+      },
+      {
+        "#0c0c09": "black"
+      }
+    ],
+    "framenumber": 3664,
+    "averageColorHSV": [
+      0.6072698296961391,
+      0.11249537481055225,
+      0.15824557583468166
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_4555.png",
+    "averageColorRGB": [
+      18.490096618357487,
+      18.082050120772948,
+      15.42067104468599
+    ],
+    "palette": [
+      {
+        "#1a2223": "black"
+      },
+      {
+        "#030407": "black"
+      },
+      {
+        "#010205": "black"
+      },
+      {
+        "#080909": "black"
+      },
+      {
+        "#020306": "black"
+      },
+      {
+        "#1d1811": "black"
+      }
+    ],
+    "framenumber": 4555,
+    "averageColorHSV": [
+      0.14451015954013116,
+      0.06649170130008525,
+      0.09051477702218481
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_5446.png",
+    "averageColorRGB": [
+      12.148007246376812,
+      23.230189462560386,
+      39.38918704710145
+    ],
+    "palette": [
+      {
+        "#0d172a": "black"
+      },
+      {
+        "#1d3245": "darkslategray"
+      },
+      {
+        "#132436": "darkslategray"
+      },
+      {
+        "#080e1f": "black"
+      },
+      {
+        "#0e1d2f": "black"
+      },
+      {
+        "#091121": "black"
+      }
+    ],
+    "framenumber": 5446,
+    "averageColorHSV": [
+      0.5988637894463932,
+      0.10105332214407503,
+      0.5285732018239079
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_6337.png",
+    "averageColorRGB": [
+      12.476060537439613,
+      14.449173460144927,
+      15.908012530193236
+    ],
+    "palette": [
+      {
+        "#010507": "black"
+      },
+      {
+        "#010303": "black"
+      },
+      {
+        "#060b0d": "black"
+      },
+      {
+        "#111619": "black"
+      },
+      {
+        "#020608": "black"
+      },
+      {
+        "#000202": "black"
+      }
+    ],
+    "framenumber": 6337,
+    "averageColorHSV": [
+      0.5708459341859758,
+      0.05565504523065265,
+      0.12091118792486384
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_7228.png",
+    "averageColorRGB": [
+      35.93702068236715,
+      43.616715730676326,
+      50.26119036835749
+    ],
+    "palette": [
+      {
+        "#1e252a": "darkslategray"
+      },
+      {
+        "#24313a": "darkslategray"
+      },
+      {
+        "#262d34": "darkslategray"
+      },
+      {
+        "#1b282e": "darkslategray"
+      },
+      {
+        "#2b3642": "darkslategray"
+      },
+      {
+        "#1b2128": "black"
+      }
+    ],
+    "framenumber": 7228,
+    "averageColorHSV": [
+      0.577310759638419,
+      0.16901610009946005,
+      0.166177111002467
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_8119.png",
+    "averageColorRGB": [
+      106.50512907608696,
+      103.3860431763285,
+      94.05642738526569
+    ],
+    "palette": [
+      {
+        "#726750": "dimgray"
+      },
+      {
+        "#342b1d": "darkslategray"
+      },
+      {
+        "#2b2813": "black"
+      },
+      {
+        "#1f1a0e": "black"
+      },
+      {
+        "#a7c1c8": "lightsteelblue"
+      },
+      {
+        "#928060": "grey"
+      }
+    ],
+    "framenumber": 8119,
+    "averageColorHSV": [
+      0.12490748061893298,
+      0.39325795384578954,
+      0.06206923156392676
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_9010.png",
+    "averageColorRGB": [
+      90.10001509661835,
+      80.74495018115942,
+      64.75234752415459
+    ],
+    "palette": [
+      {
+        "#504939": "darkolivegreen"
+      },
+      {
+        "#523323": "darkolivegreen"
+      },
+      {
+        "#534e3c": "darkolivegreen"
+      },
+      {
+        "#62584b": "dimgray"
+      },
+      {
+        "#464433": "darkslategray"
+      },
+      {
+        "#3a331f": "darkslategray"
+      }
+    ],
+    "framenumber": 9010,
+    "averageColorHSV": [
+      0.10515499181719767,
+      0.30363208357014304,
+      0.16368925306318483
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_9901.png",
+    "averageColorRGB": [
+      88.04015323067632,
+      97.76177536231884,
+      108.56657986111111
+    ],
+    "palette": [
+      {
+        "#6e787f": "slategrey"
+      },
+      {
+        "#333c50": "darkslategray"
+      },
+      {
+        "#526f9b": "steelblue"
+      },
+      {
+        "#839aaf": "lightslategray"
+      },
+      {
+        "#4d5664": "dimgray"
+      },
+      {
+        "#6686ad": "lightslategray"
+      }
+    ],
+    "framenumber": 9901,
+    "averageColorHSV": [
+      0.5877308448382653,
+      0.38550339821919105,
+      0.10440347747832145
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_10792.png",
+    "averageColorRGB": [
+      85.43488451086957,
+      98.88699426328502,
+      110.56046950483092
+    ],
+    "palette": [
+      {
+        "#443d22": "darkolivegreen"
+      },
+      {
+        "#867e75": "grey"
+      },
+      {
+        "#2f340f": "darkgreen"
+      },
+      {
+        "#768aa9": "lightslategray"
+      },
+      {
+        "#414423": "darkolivegreen"
+      },
+      {
+        "#526f9a": "steelblue"
+      }
+    ],
+    "framenumber": 10792,
+    "averageColorHSV": [
+      0.5774341854086945,
+      0.38430461571705976,
+      0.12819479890298133
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_11683.png",
+    "averageColorRGB": [
+      105.04672403381642,
+      116.02352807971015,
+      127.51995018115942
+    ],
+    "palette": [
+      {
+        "#6a85a2": "lightslategray"
+      },
+      {
+        "#506f96": "slategrey"
+      },
+      {
+        "#858fa0": "lightslategray"
+      },
+      {
+        "#8f8676": "grey"
+      },
+      {
+        "#a19481": "rosybrown"
+      },
+      {
+        "#465f74": "dimgray"
+      }
+    ],
+    "framenumber": 11683,
+    "averageColorHSV": [
+      0.5852601374488495,
+      0.456013086696031,
+      0.09663132614851601
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_12574.png",
+    "averageColorRGB": [
+      142.82558876811595,
+      144.67784571256038,
+      140.93555631038646
+    ],
+    "palette": [
+      {
+        "#acb7b6": "darkgray"
+      },
+      {
+        "#9ba7a8": "darkgray"
+      },
+      {
+        "#8a877f": "grey"
+      },
+      {
+        "#798389": "grey"
+      },
+      {
+        "#81796d": "grey"
+      },
+      {
+        "#909b9f": "darkgray"
+      }
+    ],
+    "framenumber": 12574,
+    "averageColorHSV": [
+      0.24915881453780853,
+      0.5600262784763663,
+      0.01667786505928764
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_13465.png",
+    "averageColorRGB": [
+      91.77449048913043,
+      85.39058348429951,
+      76.94879604468599
+    ],
+    "palette": [
+      {
+        "#5f5647": "darkolivegreen"
+      },
+      {
+        "#8d8b85": "grey"
+      },
+      {
+        "#565149": "darkolivegreen"
+      },
+      {
+        "#8a7b6f": "grey"
+      },
+      {
+        "#443b30": "darkslategray"
+      },
+      {
+        "#7b7064": "dimgray"
+      }
+    ],
+    "framenumber": 13465,
+    "averageColorHSV": [
+      0.09490041620250349,
+      0.3308299735957185,
+      0.08786987705738525
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_14356.png",
+    "averageColorRGB": [
+      64.3393078200483,
+      66.09589749396135,
+      56.915164553140094
+    ],
+    "palette": [
+      {
+        "#26271f": "black"
+      },
+      {
+        "#6c6d58": "dimgray"
+      },
+      {
+        "#282f26": "darkslategray"
+      },
+      {
+        "#303822": "darkslategray"
+      },
+      {
+        "#434c30": "darkolivegreen"
+      },
+      {
+        "#1f2214": "black"
+      }
+    ],
+    "framenumber": 14356,
+    "averageColorHSV": [
+      0.1985557268908699,
+      0.2411981608766695,
+      0.0746333930301806
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_15247.png",
+    "averageColorRGB": [
+      97.54461050724638,
+      97.36591938405797,
+      92.82681536835749
+    ],
+    "palette": [
+      {
+        "#7a6859": "dimgray"
+      },
+      {
+        "#aeb7ba": "silver"
+      },
+      {
+        "#52535a": "dimgray"
+      },
+      {
+        "#2b302c": "darkslategray"
+      },
+      {
+        "#35372c": "darkslategray"
+      },
+      {
+        "#2e2f2a": "darkslategray"
+      }
+    ],
+    "framenumber": 15247,
+    "averageColorHSV": [
+      0.16035400302020167,
+      0.37327730563843897,
+      0.024782054960137096
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_16138.png",
+    "averageColorRGB": [
+      86.60671799516908,
+      81.89153834541062,
+      76.79699954710145
+    ],
+    "palette": [
+      {
+        "#676e79": "dimgray"
+      },
+      {
+        "#706557": "dimgray"
+      },
+      {
+        "#818a90": "lightslategray"
+      },
+      {
+        "#726253": "dimgray"
+      },
+      {
+        "#373c3b": "darkslategray"
+      },
+      {
+        "#6a4739": "darkolivegreen"
+      }
+    ],
+    "framenumber": 16138,
+    "averageColorHSV": [
+      0.08655598060364848,
+      0.32039944616131477,
+      0.06003363078645975
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_17029.png",
+    "averageColorRGB": [
+      91.1263134057971,
+      97.7026607789855,
+      91.5336616847826
+    ],
+    "palette": [
+      {
+        "#416e73": "dimgray"
+      },
+      {
+        "#908377": "grey"
+      },
+      {
+        "#3c402d": "darkslategray"
+      },
+      {
+        "#6a8b91": "slategrey"
+      },
+      {
+        "#b2c2d5": "lightsteelblue"
+      },
+      {
+        "#4f563c": "darkolivegreen"
+      }
+    ],
+    "framenumber": 17029,
+    "averageColorHSV": [
+      0.343656902934858,
+      0.3702528905583973,
+      0.03482700365015466
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_17920.png",
+    "averageColorRGB": [
+      88.20563103864734,
+      88.5765587258454,
+      82.84629378019324
+    ],
+    "palette": [
+      {
+        "#72665a": "dimgray"
+      },
+      {
+        "#c0d0d9": "lightgray"
+      },
+      {
+        "#5e6452": "dimgray"
+      },
+      {
+        "#5f6772": "dimgray"
+      },
+      {
+        "#615748": "darkolivegreen"
+      },
+      {
+        "#5a4b3e": "darkolivegreen"
+      }
+    ],
+    "framenumber": 17920,
+    "averageColorHSV": [
+      0.1774552221324283,
+      0.3361232402079189,
+      0.03342766067581521
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_18811.png",
+    "averageColorRGB": [
+      118.06638737922705,
+      114.89828653381642,
+      115.87191274154588
+    ],
+    "palette": [
+      {
+        "#c5b196": "tan"
+      },
+      {
+        "#566066": "dimgray"
+      },
+      {
+        "#868a9c": "lightslategray"
+      },
+      {
+        "#887562": "grey"
+      },
+      {
+        "#8f96a8": "lightslategray"
+      },
+      {
+        "#818b9b": "lightslategray"
+      }
+    ],
+    "framenumber": 18811,
+    "averageColorHSV": [
+      0.9487797129764202,
+      0.4567934782608696,
+      0.013599061146039567
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_19702.png",
+    "averageColorRGB": [
+      142.88667346014492,
+      161.24511246980677,
+      174.69185537439614
+    ],
+    "palette": [
+      {
+        "#8c9ca3": "lightslategray"
+      },
+      {
+        "#96afc5": "darkgray"
+      },
+      {
+        "#87a4b5": "darkgray"
+      },
+      {
+        "#6f8493": "slategrey"
+      },
+      {
+        "#b5c5d4": "lightsteelblue"
+      },
+      {
+        "#a7b6bf": "darkgray"
+      }
+    ],
+    "framenumber": 19702,
+    "averageColorHSV": [
+      0.5704641093855011,
+      0.6227029977147864,
+      0.16528915261697918
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_20593.png",
+    "averageColorRGB": [
+      130.33549969806762,
+      143.66051479468598,
+      153.7699577294686
+    ],
+    "palette": [
+      {
+        "#75899f": "lightslategray"
+      },
+      {
+        "#6d808e": "slategrey"
+      },
+      {
+        "#96a0ac": "darkgray"
+      },
+      {
+        "#808b92": "lightslategray"
+      },
+      {
+        "#a09f92": "darkgray"
+      },
+      {
+        "#869bab": "lightslategray"
+      }
+    ],
+    "framenumber": 20593,
+    "averageColorHSV": [
+      0.5718987037609068,
+      0.5570695243677181,
+      0.10374070026009376
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_21484.png",
+    "averageColorRGB": [
+      131.6853713768116,
+      162.2182216183575,
+      175.26283212560386
+    ],
+    "palette": [
+      {
+        "#648590": "slategrey"
+      },
+      {
+        "#8cadbc": "darkgray"
+      },
+      {
+        "#8aadb6": "darkgray"
+      },
+      {
+        "#768f9d": "lightslategray"
+      },
+      {
+        "#5d7582": "slategrey"
+      }
+    ],
+    "framenumber": 21484,
+    "averageColorHSV": [
+      0.5498905102282258,
+      0.6018592225537558,
+      0.21461253483325202
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_22375.png",
+    "averageColorRGB": [
+      145.43538269927535,
+      171.93893040458937,
+      187.28162741545893
+    ],
+    "palette": [
+      {
+        "#5e504a": "darkolivegreen"
+      },
+      {
+        "#9cbcc6": "lightsteelblue"
+      },
+      {
+        "#afd2ed": "lightblue"
+      },
+      {
+        "#9ebac9": "lightsteelblue"
+      },
+      {
+        "#849faa": "lightslategray"
+      },
+      {
+        "#8ba4ba": "darkgray"
+      }
+    ],
+    "framenumber": 22375,
+    "averageColorHSV": [
+      0.5611074228003384,
+      0.6523862943426162,
+      0.23604207455698759
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_23266.png",
+    "averageColorRGB": [
+      112.7040836352657,
+      116.59096467391304,
+      125.91071859903381
+    ],
+    "palette": [
+      {
+        "#91aac6": "darkgray"
+      },
+      {
+        "#b58c7f": "rosybrown"
+      },
+      {
+        "#a57e75": "rosybrown"
+      },
+      {
+        "#7e929b": "lightslategray"
+      },
+      {
+        "#784e44": "sienna"
+      },
+      {
+        "#647886": "slategrey"
+      }
+    ],
+    "framenumber": 23266,
+    "averageColorHSV": [
+      0.6176145418658773,
+      0.46787216124372455,
+      0.05534709012226457
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_24157.png",
+    "averageColorRGB": [
+      121.99280268719806,
+      140.92911005434783,
+      147.12841938405796
+    ],
+    "palette": [
+      {
+        "#6c8187": "slategrey"
+      },
+      {
+        "#7b8b93": "lightslategray"
+      },
+      {
+        "#68757d": "dimgray"
+      },
+      {
+        "#8fa4ac": "darkgray"
+      },
+      {
+        "#8ca2a6": "darkgray"
+      },
+      {
+        "#6b8182": "slategrey"
+      }
+    ],
+    "framenumber": 24157,
+    "averageColorHSV": [
+      0.5411057438565822,
+      0.527688670727953,
+      0.10434965219017944
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_25048.png",
+    "averageColorRGB": [
+      120.78713390700483,
+      133.2239356884058,
+      135.36967844202897
+    ],
+    "palette": [
+      {
+        "#bcd1d9": "lightsteelblue"
+      },
+      {
+        "#7b8c8e": "lightslategray"
+      },
+      {
+        "#788f98": "lightslategray"
+      },
+      {
+        "#63747a": "dimgray"
+      },
+      {
+        "#5a6a6a": "dimgray"
+      },
+      {
+        "#879ca1": "lightslategray"
+      }
+    ],
+    "framenumber": 25048,
+    "averageColorHSV": [
+      0.5245241008118712,
+      0.5022682595079094,
+      0.05744705883175052
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_25939.png",
+    "averageColorRGB": [
+      127.50803140096617,
+      128.34253094806763,
+      128.8580540458937
+    ],
+    "palette": [
+      {
+        "#94a2aa": "darkgray"
+      },
+      {
+        "#7e868c": "grey"
+      },
+      {
+        "#99a4af": "darkgray"
+      },
+      {
+        "#858d8f": "lightslategray"
+      },
+      {
+        "#656f79": "dimgray"
+      },
+      {
+        "#986c5f": "grey"
+      }
+    ],
+    "framenumber": 25939,
+    "averageColorHSV": [
+      0.5636437593303923,
+      0.5026785989154116,
+      0.005322721321815532
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_26830.png",
+    "averageColorRGB": [
+      75.3659458031401,
+      65.3849788647343,
+      49.627117300724635
+    ],
+    "palette": [
+      {
+        "#67685c": "dimgray"
+      },
+      {
+        "#716b59": "dimgray"
+      },
+      {
+        "#5a503d": "darkolivegreen"
+      },
+      {
+        "#4c4230": "darkolivegreen"
+      },
+      {
+        "#534839": "darkolivegreen"
+      },
+      {
+        "#5b461e": "darkolivegreen"
+      }
+    ],
+    "framenumber": 26830,
+    "averageColorHSV": [
+      0.10203689963674183,
+      0.2450844374585583,
+      0.20592205569862237
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_27721.png",
+    "averageColorRGB": [
+      77.27052007850241,
+      72.99096089975845,
+      68.24364809782608
+    ],
+    "palette": [
+      {
+        "#4f473d": "darkslategray"
+      },
+      {
+        "#76756e": "dimgray"
+      },
+      {
+        "#495055": "darkslategray"
+      },
+      {
+        "#697277": "dimgray"
+      },
+      {
+        "#2c231a": "black"
+      },
+      {
+        "#73554a": "dimgray"
+      }
+    ],
+    "framenumber": 27721,
+    "averageColorHSV": [
+      0.08765149234594329,
+      0.2853218983849578,
+      0.062034316615395955
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_28612.png",
+    "averageColorRGB": [
+      66.29907910628019,
+      63.05128698671498,
+      57.07792119565217
+    ],
+    "palette": [
+      {
+        "#37291a": "darkslategray"
+      },
+      {
+        "#5d563e": "darkolivegreen"
+      },
+      {
+        "#3e4854": "darkslategray"
+      },
+      {
+        "#102237": "midnightblue"
+      },
+      {
+        "#948a7e": "grey"
+      },
+      {
+        "#543f30": "darkolivegreen"
+      }
+    ],
+    "framenumber": 28612,
+    "averageColorHSV": [
+      0.10796485374463453,
+      0.24191568686653406,
+      0.07473968315051986
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_29503.png",
+    "averageColorRGB": [
+      94.24858091787439,
+      95.98241621376812,
+      86.60427234299517
+    ],
+    "palette": [
+      {
+        "#31342a": "darkslategray"
+      },
+      {
+        "#abb7aa": "darkgray"
+      },
+      {
+        "#4e534d": "darkslategray"
+      },
+      {
+        "#655c51": "dimgray"
+      },
+      {
+        "#e3f3e2": "beige"
+      },
+      {
+        "#504a3e": "darkolivegreen"
+      }
+    ],
+    "framenumber": 29503,
+    "averageColorHSV": [
+      0.19748007210142507,
+      0.3580131148171829,
+      0.051362692126690465
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_30394.png",
+    "averageColorRGB": [
+      62.74030042270531,
+      49.80136246980676,
+      37.02041062801932
+    ],
+    "palette": [
+      {
+        "#572a07": "maroon"
+      },
+      {
+        "#4e2106": "maroon"
+      },
+      {
+        "#6f4012": "saddlebrown"
+      },
+      {
+        "#3e1504": "black"
+      },
+      {
+        "#342a1d": "darkslategray"
+      },
+      {
+        "#706556": "dimgray"
+      }
+    ],
+    "framenumber": 30394,
+    "averageColorHSV": [
+      0.08282145286400182,
+      0.19560923735436203,
+      0.25781582272011255
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_31285.png",
+    "averageColorRGB": [
+      81.29299516908212,
+      76.91057895531401,
+      68.63802838164251
+    ],
+    "palette": [
+      {
+        "#5b6163": "dimgray"
+      },
+      {
+        "#6b5c4b": "dimgray"
+      },
+      {
+        "#44493c": "darkslategray"
+      },
+      {
+        "#605845": "darkolivegreen"
+      },
+      {
+        "#494a41": "darkslategray"
+      },
+      {
+        "#6e624e": "dimgray"
+      }
+    ],
+    "framenumber": 31285,
+    "averageColorHSV": [
+      0.10894998399471927,
+      0.2939823991190679,
+      0.08440525841643559
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_32176.png",
+    "averageColorRGB": [
+      73.48194067028986,
+      69.11288118961353,
+      57.626177536231886
+    ],
+    "palette": [
+      {
+        "#5b4d36": "darkolivegreen"
+      },
+      {
+        "#4d5247": "darkslategray"
+      },
+      {
+        "#998f81": "grey"
+      },
+      {
+        "#3a3d30": "darkslategray"
+      },
+      {
+        "#040c02": "black"
+      },
+      {
+        "#5d6055": "dimgray"
+      }
+    ],
+    "framenumber": 32176,
+    "averageColorHSV": [
+      0.12074162515613811,
+      0.2570747415814152,
+      0.12093654726309126
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_33067.png",
+    "averageColorRGB": [
+      64.48649230072463,
+      56.43687726449275,
+      48.64057216183575
+    ],
+    "palette": [
+      {
+        "#291a0c": "black"
+      },
+      {
+        "#170c04": "black"
+      },
+      {
+        "#5e4324": "darkolivegreen"
+      },
+      {
+        "#717c8f": "slategrey"
+      },
+      {
+        "#34435c": "darkslategray"
+      },
+      {
+        "#503918": "darkolivegreen"
+      }
+    ],
+    "framenumber": 33067,
+    "averageColorHSV": [
+      0.0820011821583798,
+      0.22181777345600076,
+      0.14007187594028953
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_33958.png",
+    "averageColorRGB": [
+      64.36753094806762,
+      54.38169535024154,
+      45.32379604468599
+    ],
+    "palette": [
+      {
+        "#737c8d": "slategrey"
+      },
+      {
+        "#674520": "saddlebrown"
+      },
+      {
+        "#845f3b": "sienna"
+      },
+      {
+        "#5a677f": "dimgray"
+      },
+      {
+        "#6b5537": "darkolivegreen"
+      },
+      {
+        "#3e506f": "darkslateblue"
+      }
+    ],
+    "framenumber": 33958,
+    "averageColorHSV": [
+      0.07927278403729447,
+      0.21508103331912473,
+      0.17361203866773975
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_34849.png",
+    "averageColorRGB": [
+      76.95018115942028,
+      83.04298384661836,
+      94.42554347826086
+    ],
+    "palette": [
+      {
+        "#6a727f": "slategrey"
+      },
+      {
+        "#6a7789": "slategrey"
+      },
+      {
+        "#596a7c": "dimgray"
+      },
+      {
+        "#586784": "dimgray"
+      },
+      {
+        "#645f59": "dimgray"
+      },
+      {
+        "#475971": "darkslateblue"
+      }
+    ],
+    "framenumber": 34849,
+    "averageColorHSV": [
+      0.6085581653374431,
+      0.33603083262290423,
+      0.10197104844216769
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_35740.png",
+    "averageColorRGB": [
+      21.63232185990338,
+      29.342149758454106,
+      33.72380359299517
+    ],
+    "palette": [
+      {
+        "#11191f": "black"
+      },
+      {
+        "#22272b": "darkslategray"
+      },
+      {
+        "#111b20": "black"
+      },
+      {
+        "#1b2026": "black"
+      },
+      {
+        "#182025": "black"
+      },
+      {
+        "#1c2325": "black"
+      }
+    ],
+    "framenumber": 35740,
+    "averageColorHSV": [
+      0.5603958766353315,
+      0.10854142245666382,
+      0.21843078131218185
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_36631.png",
+    "averageColorRGB": [
+      107.51785552536232,
+      114.60098505434782,
+      113.16947086352657
+    ],
+    "palette": [
+      {
+        "#0b1115": "black"
+      },
+      {
+        "#7b7365": "dimgray"
+      },
+      {
+        "#747a7b": "grey"
+      },
+      {
+        "#6e7676": "dimgray"
+      },
+      {
+        "#c2d2cf": "lightgray"
+      },
+      {
+        "#55554d": "darkolivegreen"
+      }
+    ],
+    "framenumber": 36631,
+    "averageColorHSV": [
+      0.46631634399824656,
+      0.4355271383915885,
+      0.0318889181597525
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_37522.png",
+    "averageColorRGB": [
+      88.34530117753623,
+      91.93540911835748,
+      95.25618583937198
+    ],
+    "palette": [
+      {
+        "#72777b": "grey"
+      },
+      {
+        "#201507": "black"
+      },
+      {
+        "#71757b": "grey"
+      },
+      {
+        "#535b62": "dimgray"
+      },
+      {
+        "#5c6068": "dimgray"
+      },
+      {
+        "#666c73": "dimgray"
+      }
+    ],
+    "framenumber": 37522,
+    "averageColorHSV": [
+      0.5800856639804972,
+      0.3600029157194279,
+      0.03764067913676171
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_38413.png",
+    "averageColorRGB": [
+      19.53953804347826,
+      41.55379302536232,
+      61.807944595410625
+    ],
+    "palette": [
+      {
+        "#283c54": "darkslategray"
+      },
+      {
+        "#132c42": "darkslategray"
+      },
+      {
+        "#394b64": "darkslategray"
+      },
+      {
+        "#031724": "black"
+      },
+      {
+        "#0c253a": "midnightblue"
+      },
+      {
+        "#061c2d": "black"
+      }
+    ],
+    "framenumber": 38413,
+    "averageColorHSV": [
+      0.5798632407444528,
+      0.15950486791938998,
+      0.5196031294486004
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_39304.png",
+    "averageColorRGB": [
+      10.732193538647342,
+      34.34856582125604,
+      47.72476977657005
+    ],
+    "palette": [
+      {
+        "#1f3748": "darkslategray"
+      },
+      {
+        "#142e40": "darkslategray"
+      },
+      {
+        "#0a2430": "black"
+      },
+      {
+        "#00121b": "black"
+      },
+      {
+        "#001825": "black"
+      },
+      {
+        "#061f2d": "black"
+      }
+    ],
+    "framenumber": 39304,
+    "averageColorHSV": [
+      0.5602652627258831,
+      0.11462149669650469,
+      0.6328172751370559
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_40195.png",
+    "averageColorRGB": [
+      95.57295440821255,
+      97.77268644323671,
+      99.53864734299516
+    ],
+    "palette": [
+      {
+        "#656a6f": "dimgray"
+      },
+      {
+        "#4b4d55": "darkslategray"
+      },
+      {
+        "#51565d": "dimgray"
+      },
+      {
+        "#37352e": "darkslategray"
+      },
+      {
+        "#969da3": "darkgray"
+      },
+      {
+        "#9b9fa5": "darkgray"
+      }
+    ],
+    "framenumber": 40195,
+    "averageColorHSV": [
+      0.574218256800698,
+      0.38257176813962296,
+      0.020325254363086884
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_41086.png",
+    "averageColorRGB": [
+      103.96752717391304,
+      106.4412288647343,
+      103.24220259661836
+    ],
+    "palette": [
+      {
+        "#696251": "dimgray"
+      },
+      {
+        "#716f63": "dimgray"
+      },
+      {
+        "#4a4841": "darkslategray"
+      },
+      {
+        "#777264": "dimgray"
+      },
+      {
+        "#c9dae1": "lightgray"
+      },
+      {
+        "#606056": "dimgray"
+      }
+    ],
+    "framenumber": 41086,
+    "averageColorHSV": [
+      0.29554451279316657,
+      0.41114398325755425,
+      0.01525645705920054
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_41977.png",
+    "averageColorRGB": [
+      135.2404815821256,
+      147.79604846014493,
+      158.96137907608696
+    ],
+    "palette": [
+      {
+        "#263040": "darkslategray"
+      },
+      {
+        "#7e909f": "lightslategray"
+      },
+      {
+        "#6b6e72": "dimgray"
+      },
+      {
+        "#bed7e9": "powderblue"
+      },
+      {
+        "#5b6065": "dimgray"
+      },
+      {
+        "#9db3c3": "darkgray"
+      }
+    ],
+    "framenumber": 41977,
+    "averageColorHSV": [
+      0.5784493266523354,
+      0.5768663934474756,
+      0.10992169611060226
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_42868.png",
+    "averageColorRGB": [
+      72.34244414251208,
+      80.56020531400966,
+      82.41811594202899
+    ],
+    "palette": [
+      {
+        "#38454f": "darkslategray"
+      },
+      {
+        "#9bcde0": "lightblue"
+      },
+      {
+        "#151a1e": "black"
+      },
+      {
+        "#aeb8a8": "darkgray"
+      },
+      {
+        "#6d7e82": "slategrey"
+      },
+      {
+        "#89a0a3": "lightslategray"
+      }
+    ],
+    "framenumber": 42868,
+    "averageColorHSV": [
+      0.5307326178837427,
+      0.30345207859713935,
+      0.06510490653440944
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_43759.png",
+    "averageColorRGB": [
+      108.49993961352656,
+      109.48982865338164,
+      110.96474562198067
+    ],
+    "palette": [
+      {
+        "#89939b": "lightslategray"
+      },
+      {
+        "#60696c": "dimgray"
+      },
+      {
+        "#8895a7": "lightslategray"
+      },
+      {
+        "#91a3b1": "darkgray"
+      },
+      {
+        "#6d767f": "slategrey"
+      },
+      {
+        "#9fa7b0": "darkgray"
+      }
+    ],
+    "framenumber": 43759,
+    "averageColorHSV": [
+      0.5997317816993964,
+      0.4303229122264848,
+      0.011230991472769888
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_44650.png",
+    "averageColorRGB": [
+      115.08955314009661,
+      102.37036911231884,
+      107.06883303140097
+    ],
+    "palette": [
+      {
+        "#98676e": "grey"
+      },
+      {
+        "#3f5057": "darkslategray"
+      },
+      {
+        "#324349": "darkslategray"
+      },
+      {
+        "#886c74": "grey"
+      },
+      {
+        "#656f75": "dimgray"
+      },
+      {
+        "#7f4247": "sienna"
+      }
+    ],
+    "framenumber": 44650,
+    "averageColorHSV": [
+      0.9384333681990262,
+      0.4263920044165009,
+      0.05848978467404238
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_45541.png",
+    "averageColorRGB": [
+      61.38406551932367,
+      62.66707804951691,
+      65.67971391908212
+    ],
+    "palette": [
+      {
+        "#4b525c": "darkslategray"
+      },
+      {
+        "#676c73": "dimgray"
+      },
+      {
+        "#353a3f": "darkslategray"
+      },
+      {
+        "#5a5c67": "dimgray"
+      },
+      {
+        "#545965": "dimgray"
+      },
+      {
+        "#4a4d54": "darkslategray"
+      }
+    ],
+    "framenumber": 45541,
+    "averageColorHSV": [
+      0.6168871219276472,
+      0.24914466556550152,
+      0.0338070252494005
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_46432.png",
+    "averageColorRGB": [
+      71.98513360507246,
+      68.96345108695652,
+      61.32224864130435
+    ],
+    "palette": [
+      {
+        "#565951": "dimgray"
+      },
+      {
+        "#3f3d38": "darkslategray"
+      },
+      {
+        "#4e4846": "darkslategray"
+      },
+      {
+        "#312d26": "darkslategray"
+      },
+      {
+        "#494b41": "darkslategray"
+      },
+      {
+        "#4c483f": "darkslategray"
+      }
+    ],
+    "framenumber": 46432,
+    "averageColorHSV": [
+      0.11943613246034501,
+      0.2613870240125036,
+      0.07998720539017956
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_47323.png",
+    "averageColorRGB": [
+      61.98258227657005,
+      46.78967391304348,
+      41.87358091787439
+    ],
+    "palette": [
+      {
+        "#450f08": "maroon"
+      },
+      {
+        "#201d15": "black"
+      },
+      {
+        "#633f37": "darkolivegreen"
+      },
+      {
+        "#3d3b31": "darkslategray"
+      },
+      {
+        "#622c22": "saddlebrown"
+      },
+      {
+        "#551f15": "maroon"
+      }
+    ],
+    "framenumber": 47323,
+    "averageColorHSV": [
+      0.0407453765561497,
+      0.20363953567538126,
+      0.19362357264293142
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_48214.png",
+    "averageColorRGB": [
+      92.56007321859903,
+      91.38211050724638,
+      93.42124471618357
+    ],
+    "palette": [
+      {
+        "#adcdf8": "lightblue"
+      },
+      {
+        "#494b36": "darkolivegreen"
+      },
+      {
+        "#573b2d": "darkolivegreen"
+      },
+      {
+        "#5d5b45": "darkolivegreen"
+      },
+      {
+        "#573223": "saddlebrown"
+      },
+      {
+        "#617b9a": "slategrey"
+      }
+    ],
+    "framenumber": 48214,
+    "averageColorHSV": [
+      0.7629463120663201,
+      0.3623595200459411,
+      0.011034075688029776
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_49105.png",
+    "averageColorRGB": [
+      89.21509661835749,
+      91.55016228864734,
+      94.44935084541062
+    ],
+    "palette": [
+      {
+        "#829dc0": "lightslategray"
+      },
+      {
+        "#677b94": "slategrey"
+      },
+      {
+        "#694b3b": "darkolivegreen"
+      },
+      {
+        "#6c665e": "dimgray"
+      },
+      {
+        "#0c1111": "black"
+      },
+      {
+        "#96b2cc": "lightsteelblue"
+      }
+    ],
+    "framenumber": 49105,
+    "averageColorHSV": [
+      0.592314601437676,
+      0.3601263675760159,
+      0.02849900620034643
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_49996.png",
+    "averageColorRGB": [
+      74.2483997584541,
+      71.1788345410628,
+      68.6764190821256
+    ],
+    "palette": [
+      {
+        "#885a49": "sienna"
+      },
+      {
+        "#6b7a89": "slategrey"
+      },
+      {
+        "#a1b2c7": "darkgray"
+      },
+      {
+        "#583b2e": "darkolivegreen"
+      },
+      {
+        "#2d3640": "darkslategray"
+      },
+      {
+        "#5d6978": "dimgray"
+      }
+    ],
+    "framenumber": 49996,
+    "averageColorHSV": [
+      0.07485116467256243,
+      0.28024474282466605,
+      0.03898539610914988
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_50887.png",
+    "averageColorRGB": [
+      83.41304347826087,
+      74.58949275362319,
+      69.06773097826087
+    ],
+    "palette": [
+      {
+        "#6d4730": "saddlebrown"
+      },
+      {
+        "#7a97b0": "lightslategray"
+      },
+      {
+        "#647483": "slategrey"
+      },
+      {
+        "#7e533e": "sienna"
+      },
+      {
+        "#869fae": "lightslategray"
+      },
+      {
+        "#593d2b": "darkolivegreen"
+      }
+    ],
+    "framenumber": 50887,
+    "averageColorHSV": [
+      0.06415291609904311,
+      0.2989819106990622,
+      0.09407948347016319
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_51778.png",
+    "averageColorRGB": [
+      90.72870244565217,
+      89.77685310990339,
+      90.68723580917874
+    ],
+    "palette": [
+      {
+        "#738591": "slategrey"
+      },
+      {
+        "#7996b1": "lightslategray"
+      },
+      {
+        "#744d3e": "darkolivegreen"
+      },
+      {
+        "#636f78": "dimgray"
+      },
+      {
+        "#859eae": "lightslategray"
+      },
+      {
+        "#292e36": "darkslategray"
+      }
+    ],
+    "framenumber": 51778,
+    "averageColorHSV": [
+      0.8405940476284873,
+      0.35393246187363836,
+      0.005273241218638433
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_52669.png",
+    "averageColorRGB": [
+      78.14884510869565,
+      65.3902324879227,
+      57.709035326086955
+    ],
+    "palette": [
+      {
+        "#92614d": "sienna"
+      },
+      {
+        "#472b1d": "darkslategray"
+      },
+      {
+        "#5a3e30": "darkolivegreen"
+      },
+      {
+        "#b47f68": "rosybrown"
+      },
+      {
+        "#674438": "darkolivegreen"
+      },
+      {
+        "#675248": "darkolivegreen"
+      }
+    ],
+    "framenumber": 52669,
+    "averageColorHSV": [
+      0.06263265365912986,
+      0.2663880008525149,
+      0.15044993869472775
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_53560.png",
+    "averageColorRGB": [
+      81.75084918478261,
+      71.17003321256038,
+      63.242244112318836
+    ],
+    "palette": [
+      {
+        "#272623": "darkslategray"
+      },
+      {
+        "#493723": "darkolivegreen"
+      },
+      {
+        "#49301e": "darkolivegreen"
+      },
+      {
+        "#8a5c49": "sienna"
+      },
+      {
+        "#a4715a": "indianred"
+      },
+      {
+        "#5e4235": "darkolivegreen"
+      }
+    ],
+    "framenumber": 53560,
+    "averageColorHSV": [
+      0.07138831793106637,
+      0.28430018293549303,
+      0.12765163258182435
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_54451.png",
+    "averageColorRGB": [
+      108.47459993961353,
+      108.1396625905797,
+      106.63669233091787
+    ],
+    "palette": [
+      {
+        "#7c6e59": "dimgray"
+      },
+      {
+        "#a9c1d4": "lightsteelblue"
+      },
+      {
+        "#897152": "dimgray"
+      },
+      {
+        "#93aecf": "lightsteelblue"
+      },
+      {
+        "#a0acb7": "darkgray"
+      },
+      {
+        "#675942": "darkolivegreen"
+      }
+    ],
+    "framenumber": 54451,
+    "averageColorHSV": [
+      0.13629359935821042,
+      0.4217868475892772,
+      0.008543984787113067
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_55342.png",
+    "averageColorRGB": [
+      35.4449916968599,
+      30.409454257246377,
+      21.986246980676327
+    ],
+    "palette": [
+      {
+        "#4e483d": "darkslategray"
+      },
+      {
+        "#454235": "darkslategray"
+      },
+      {
+        "#2c2418": "black"
+      },
+      {
+        "#000500": "black"
+      },
+      {
+        "#000100": "black"
+      },
+      {
+        "#22190e": "black"
+      }
+    ],
+    "framenumber": 55342,
+    "averageColorHSV": [
+      0.10430897598795004,
+      0.1126102719167377,
+      0.23434536719208626
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_56233.png",
+    "averageColorRGB": [
+      29.294485960144925,
+      21.4507095410628,
+      11.514322916666666
+    ],
+    "palette": [
+      {
+        "#261e11": "black"
+      },
+      {
+        "#262211": "black"
+      },
+      {
+        "#020200": "black"
+      },
+      {
+        "#3b2614": "darkslategray"
+      },
+      {
+        "#1c1906": "black"
+      },
+      {
+        "#010100": "black"
+      }
+    ],
+    "framenumber": 56233,
+    "averageColorHSV": [
+      0.09314112774723952,
+      0.08001727230747371,
+      0.43569424182780575
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_57124.png",
+    "averageColorRGB": [
+      41.6951351147343,
+      35.77310537439613,
+      26.85955993357488
+    ],
+    "palette": [
+      {
+        "#30260b": "black"
+      },
+      {
+        "#343023": "darkslategray"
+      },
+      {
+        "#2b2111": "black"
+      },
+      {
+        "#524c3c": "darkolivegreen"
+      },
+      {
+        "#494a46": "darkslategray"
+      },
+      {
+        "#3c3b33": "darkslategray"
+      }
+    ],
+    "framenumber": 57124,
+    "averageColorHSV": [
+      0.10013706166850762,
+      0.13442097068295916,
+      0.21640494747595446
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_58015.png",
+    "averageColorRGB": [
+      40.87028608091787,
+      35.64189689009662,
+      27.471735356280192
+    ],
+    "palette": [
+      {
+        "#3d3d35": "darkslategray"
+      },
+      {
+        "#383429": "darkslategray"
+      },
+      {
+        "#4d4f47": "darkslategray"
+      },
+      {
+        "#000100": "black"
+      },
+      {
+        "#010100": "black"
+      },
+      {
+        "#292318": "black"
+      }
+    ],
+    "framenumber": 58015,
+    "averageColorHSV": [
+      0.10162991632113462,
+      0.13400396360234915,
+      0.19605142550473262
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_58906.png",
+    "averageColorRGB": [
+      37.85546497584541,
+      33.25616696859903,
+      24.616255283816425
+    ],
+    "palette": [
+      {
+        "#141006": "black"
+      },
+      {
+        "#0b0801": "black"
+      },
+      {
+        "#030500": "black"
+      },
+      {
+        "#302b22": "darkslategray"
+      },
+      {
+        "#000100": "black"
+      },
+      {
+        "#010100": "black"
+      }
+    ],
+    "framenumber": 58906,
+    "averageColorHSV": [
+      0.1087667099694087,
+      0.12249356913659182,
+      0.2119232452220077
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_59797.png",
+    "averageColorRGB": [
+      33.01640247584541,
+      27.737024456521738,
+      21.22397720410628
+    ],
+    "palette": [
+      {
+        "#000101": "black"
+      },
+      {
+        "#4a3c26": "darkolivegreen"
+      },
+      {
+        "#010300": "black"
+      },
+      {
+        "#020401": "black"
+      },
+      {
+        "#2c190c": "black"
+      },
+      {
+        "#000100": "black"
+      }
+    ],
+    "framenumber": 59797,
+    "averageColorHSV": [
+      0.09205128295398453,
+      0.1063536856469641,
+      0.21741044847622712
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_60688.png",
+    "averageColorRGB": [
+      24.11975769927536,
+      21.245112469806763,
+      17.835110960144927
+    ],
+    "palette": [
+      {
+        "#000200": "black"
+      },
+      {
+        "#020200": "black"
+      },
+      {
+        "#34302a": "darkslategray"
+      },
+      {
+        "#000100": "black"
+      },
+      {
+        "#010100": "black"
+      },
+      {
+        "#071222": "black"
+      }
+    ],
+    "framenumber": 60688,
+    "averageColorHSV": [
+      0.09043206540233895,
+      0.08226444835180449,
+      0.14979540968529093
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_61579.png",
+    "averageColorRGB": [
+      35.01954257246377,
+      24.303091032608695,
+      15.78876434178744
+    ],
+    "palette": [
+      {
+        "#100501": "black"
+      },
+      {
+        "#250801": "black"
+      },
+      {
+        "#080200": "black"
+      },
+      {
+        "#311205": "black"
+      },
+      {
+        "#160400": "black"
+      },
+      {
+        "#010100": "black"
+      }
+    ],
+    "framenumber": 61579,
+    "averageColorHSV": [
+      0.07379079678671445,
+      0.09962413120441414,
+      0.3784967340701191
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_62470.png",
+    "averageColorRGB": [
+      36.69296120169082,
+      31.132846467391303,
+      22.972358091787438
+    ],
+    "palette": [
+      {
+        "#160f06": "black"
+      },
+      {
+        "#302a21": "darkslategray"
+      },
+      {
+        "#000100": "black"
+      },
+      {
+        "#3e3e36": "darkslategray"
+      },
+      {
+        "#010100": "black"
+      },
+      {
+        "#432815": "darkslategray"
+      }
+    ],
+    "framenumber": 62470,
+    "averageColorHSV": [
+      0.09912693961333852,
+      0.11699082214407502,
+      0.22995943493430898
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_63361.png",
+    "averageColorRGB": [
+      32.18329181763285,
+      27.36935763888889,
+      20.581989734299516
+    ],
+    "palette": [
+      {
+        "#040400": "black"
+      },
+      {
+        "#46331f": "darkslategray"
+      },
+      {
+        "#564632": "darkolivegreen"
+      },
+      {
+        "#483e30": "darkslategray"
+      },
+      {
+        "#030300": "black"
+      },
+      {
+        "#635342": "darkolivegreen"
+      }
+    ],
+    "framenumber": 63361,
+    "averageColorHSV": [
+      0.09750870858913106,
+      0.10346133637633798,
+      0.21986620258844186
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_64252.png",
+    "averageColorRGB": [
+      24.79754302536232,
+      19.553019323671496,
+      11.360605374396135
+    ],
+    "palette": [
+      {
+        "#0b0a02": "black"
+      },
+      {
+        "#0e0902": "black"
+      },
+      {
+        "#4c3820": "darkolivegreen"
+      },
+      {
+        "#050300": "black"
+      },
+      {
+        "#030300": "black"
+      },
+      {
+        "#040200": "black"
+      }
+    ],
+    "framenumber": 64252,
+    "averageColorHSV": [
+      0.10161558833913671,
+      0.07089833019560482,
+      0.3716157559399791
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_65143.png",
+    "averageColorRGB": [
+      12.848294082125603,
+      9.377321105072463,
+      4.824562198067633
+    ],
+    "palette": [
+      {
+        "#090703": "black"
+      },
+      {
+        "#060601": "black"
+      },
+      {
+        "#050300": "black"
+      },
+      {
+        "#080803": "black"
+      },
+      {
+        "#070501": "black"
+      },
+      {
+        "#040200": "black"
+      }
+    ],
+    "framenumber": 65143,
+    "averageColorHSV": [
+      0.0945686074923674,
+      0.03465265937292791,
+      0.4540144364242087
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_66034.png",
+    "averageColorRGB": [
+      44.509944897343,
+      46.56266228864734,
+      51.411062047101446
+    ],
+    "palette": [
+      {
+        "#4c4f55": "darkslategray"
+      },
+      {
+        "#3a3f43": "darkslategray"
+      },
+      {
+        "#282d32": "darkslategray"
+      },
+      {
+        "#131b23": "black"
+      },
+      {
+        "#18222e": "darkslategray"
+      },
+      {
+        "#252629": "darkslategray"
+      }
+    ],
+    "framenumber": 66034,
+    "averageColorHSV": [
+      0.6170921473833119,
+      0.1880804057734205,
+      0.07194583720076499
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_66925.png",
+    "averageColorRGB": [
+      17.187760416666666,
+      18.33534118357488,
+      19.21587032004831
+    ],
+    "palette": [
+      {
+        "#1d2932": "darkslategray"
+      },
+      {
+        "#070906": "black"
+      },
+      {
+        "#070b0f": "black"
+      },
+      {
+        "#0c1014": "black"
+      },
+      {
+        "#080c0e": "black"
+      },
+      {
+        "#0b0d0d": "black"
+      }
+    ],
+    "framenumber": 66925,
+    "averageColorHSV": [
+      0.5723604060283951,
+      0.07137966811120583,
+      0.055711748041004754
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_67816.png",
+    "averageColorRGB": [
+      16.750384963768116,
+      16.485465730676328,
+      17.518821708937196
+    ],
+    "palette": [
+      {
+        "#14161c": "black"
+      },
+      {
+        "#141316": "black"
+      },
+      {
+        "#0f1111": "black"
+      },
+      {
+        "#2e1a1c": "black"
+      },
+      {
+        "#111215": "black"
+      },
+      {
+        "#0b1015": "black"
+      }
+    ],
+    "framenumber": 67816,
+    "averageColorHSV": [
+      0.7093946388700187,
+      0.06667507341100691,
+      0.030388990802878917
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_68707.png",
+    "averageColorRGB": [
+      14.359295742753623,
+      18.843274456521737,
+      27.15360431763285
+    ],
+    "palette": [
+      {
+        "#0a0f19": "black"
+      },
+      {
+        "#02050c": "black"
+      },
+      {
+        "#030810": "black"
+      },
+      {
+        "#01040b": "black"
+      },
+      {
+        "#01060e": "black"
+      },
+      {
+        "#01060c": "black"
+      }
+    ],
+    "framenumber": 68707,
+    "averageColorHSV": [
+      0.6082555550966869,
+      0.08139784325565975,
+      0.30820078954416746
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_69598.png",
+    "averageColorRGB": [
+      53.954706370772946,
+      64.65940141908213,
+      77.19255359299517
+    ],
+    "palette": [
+      {
+        "#3d4b5a": "darkslategray"
+      },
+      {
+        "#1e2732": "darkslategray"
+      },
+      {
+        "#252f3b": "darkslategray"
+      },
+      {
+        "#5d707d": "dimgray"
+      },
+      {
+        "#11181f": "black"
+      },
+      {
+        "#2e3c4e": "darkslategray"
+      }
+    ],
+    "framenumber": 69598,
+    "averageColorHSV": [
+      0.5898903704666157,
+      0.2571514901250355,
+      0.17718896474575305
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_70489.png",
+    "averageColorRGB": [
+      27.805921648550726,
+      34.160420440821255,
+      47.69589371980676
+    ],
+    "palette": [
+      {
+        "#030b1a": "black"
+      },
+      {
+        "#162544": "midnightblue"
+      },
+      {
+        "#070f20": "black"
+      },
+      {
+        "#0d1932": "black"
+      },
+      {
+        "#2c3d60": "darkslategray"
+      },
+      {
+        "#091226": "black"
+      }
+    ],
+    "framenumber": 70489,
+    "averageColorHSV": [
+      0.6134195767134525,
+      0.14804277523207351,
+      0.2634370044510459
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_71380.png",
+    "averageColorRGB": [
+      13.49393115942029,
+      25.444387832125603,
+      39.11711201690821
+    ],
+    "palette": [
+      {
+        "#071626": "black"
+      },
+      {
+        "#06111b": "black"
+      },
+      {
+        "#051221": "black"
+      },
+      {
+        "#132032": "darkslategray"
+      },
+      {
+        "#111b2b": "black"
+      },
+      {
+        "#0b1926": "black"
+      }
+    ],
+    "framenumber": 71380,
+    "averageColorHSV": [
+      0.5889346009304891,
+      0.1031589081888794,
+      0.4870304656687869
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_72271.png",
+    "averageColorRGB": [
+      50.685235507246375,
+      42.510677083333334,
+      15.148890398550725
+    ],
+    "palette": [
+      {
+        "#504d12": "darkolivegreen"
+      },
+      {
+        "#1d1b08": "black"
+      },
+      {
+        "#615c18": "darkolivegreen"
+      },
+      {
+        "#38380e": "darkolivegreen"
+      },
+      {
+        "#23210c": "black"
+      },
+      {
+        "#401200": "black"
+      }
+    ],
+    "framenumber": 72271,
+    "averageColorHSV": [
+      0.12832770975316785,
+      0.12908652138391588,
+      0.5397860854041727
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_73162.png",
+    "averageColorRGB": [
+      97.1800083031401,
+      99.4609035326087,
+      104.23506189613526
+    ],
+    "palette": [
+      {
+        "#9fa7af": "darkgray"
+      },
+      {
+        "#8999b2": "lightslategray"
+      },
+      {
+        "#4d3b35": "darkslategray"
+      },
+      {
+        "#4f535f": "dimgray"
+      },
+      {
+        "#b2bec5": "silver"
+      },
+      {
+        "#b4c3d0": "lightsteelblue"
+      }
+    ],
+    "framenumber": 73162,
+    "averageColorHSV": [
+      0.6127834183113491,
+      0.39493151019465755,
+      0.03502743655683296
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_74053.png",
+    "averageColorRGB": [
+      94.28281249999999,
+      95.38900966183574,
+      97.67813254830918
+    ],
+    "palette": [
+      {
+        "#9da6ad": "darkgray"
+      },
+      {
+        "#90a1b7": "darkgray"
+      },
+      {
+        "#444852": "darkslategray"
+      },
+      {
+        "#b6bdc0": "silver"
+      },
+      {
+        "#4f3b35": "darkslategray"
+      },
+      {
+        "#a1b0bc": "darkgray"
+      }
+    ],
+    "framenumber": 74053,
+    "averageColorHSV": [
+      0.612366573887165,
+      0.37639400989864547,
+      0.017687556432141566
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_74944.png",
+    "averageColorRGB": [
+      92.55531778381642,
+      93.13384661835748,
+      91.74192708333334
+    ],
+    "palette": [
+      {
+        "#684330": "darkolivegreen"
+      },
+      {
+        "#a4b8cc": "lightsteelblue"
+      },
+      {
+        "#777b82": "grey"
+      },
+      {
+        "#7a714b": "dimgray"
+      },
+      {
+        "#576371": "dimgray"
+      },
+      {
+        "#857351": "dimgray"
+      }
+    ],
+    "framenumber": 74944,
+    "averageColorHSV": [
+      0.23593897012768328,
+      0.36250151706213884,
+      0.00752894501618207
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_75835.png",
+    "averageColorRGB": [
+      97.26479468599034,
+      102.5986865942029,
+      108.33417496980677
+    ],
+    "palette": [
+      {
+        "#513c38": "darkslategray"
+      },
+      {
+        "#bcd5e2": "lightblue"
+      },
+      {
+        "#704f48": "dimgray"
+      },
+      {
+        "#92a7c2": "darkgray"
+      },
+      {
+        "#d8eef2": "lavender"
+      },
+      {
+        "#a7bfd1": "lightsteelblue"
+      }
+    ],
+    "framenumber": 75835,
+    "averageColorHSV": [
+      0.5863566617785162,
+      0.40313523461920997,
+      0.05383966807979728
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_76726.png",
+    "averageColorRGB": [
+      88.30271739130434,
+      97.01967844202898,
+      112.67324124396136
+    ],
+    "palette": [
+      {
+        "#12191f": "black"
+      },
+      {
+        "#07090b": "black"
+      },
+      {
+        "#8290a4": "lightslategray"
+      },
+      {
+        "#817878": "grey"
+      },
+      {
+        "#4f5054": "darkslategray"
+      },
+      {
+        "#5e7496": "slategrey"
+      }
+    ],
+    "framenumber": 76726,
+    "averageColorHSV": [
+      0.6070525668397134,
+      0.394070507127972,
+      0.12126089119388167
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_77617.png",
+    "averageColorRGB": [
+      4.4809254227053135,
+      6.88882095410628,
+      5.791900664251208
+    ],
+    "palette": [
+      {
+        "#000101": "black"
+      },
+      {
+        "#000300": "black"
+      },
+      {
+        "#000200": "black"
+      },
+      {
+        "#000400": "black"
+      },
+      {
+        "#000100": "black"
+      },
+      {
+        "#000202": "black"
+      }
+    ],
+    "framenumber": 77617,
+    "averageColorHSV": [
+      0.42407475908939873,
+      0.0222936203466894,
+      0.211780936143996
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_78508.png",
+    "averageColorRGB": [
+      91.58942859299516,
+      63.19156853864734,
+      56.02316576086957
+    ],
+    "palette": [
+      {
+        "#b51b0b": "firebrick"
+      },
+      {
+        "#45382e": "darkslategray"
+      },
+      {
+        "#3e291b": "darkslategray"
+      },
+      {
+        "#6b0e05": "maroon"
+      },
+      {
+        "#4b5c60": "dimgray"
+      },
+      {
+        "#de2911": "orangered"
+      }
+    ],
+    "framenumber": 78508,
+    "averageColorHSV": [
+      0.03359177212223544,
+      0.28943645951738184,
+      0.24094328121396108
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_79399.png",
+    "averageColorRGB": [
+      121.3591938405797,
+      119.74225166062801,
+      116.5931461352657
+    ],
+    "palette": [
+      {
+        "#8a9cad": "darkgray"
+      },
+      {
+        "#948874": "grey"
+      },
+      {
+        "#93796b": "grey"
+      },
+      {
+        "#533b32": "darkolivegreen"
+      },
+      {
+        "#566c72": "dimgray"
+      },
+      {
+        "#ada48f": "rosybrown"
+      }
+    ],
+    "framenumber": 79399,
+    "averageColorHSV": [
+      0.11012288448320107,
+      0.4665732156389125,
+      0.020029421462288706
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_80290.png",
+    "averageColorRGB": [
+      168.82298460144926,
+      183.51431914251208,
+      193.2969051932367
+    ],
+    "palette": [
+      {
+        "#9daebc": "darkgray"
+      },
+      {
+        "#b3c7d3": "lightsteelblue"
+      },
+      {
+        "#704a41": "darkolivegreen"
+      },
+      {
+        "#797e8b": "slategrey"
+      },
+      {
+        "#c1d6de": "powderblue"
+      },
+      {
+        "#8997a6": "lightslategray"
+      }
+    ],
+    "framenumber": 80290,
+    "averageColorHSV": [
+      0.566619118189066,
+      0.7100389995974234,
+      0.16549839297393198
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_81181.png",
+    "averageColorRGB": [
+      118.42152777777777,
+      110.36593825483091,
+      110.52174290458937
+    ],
+    "palette": [
+      {
+        "#754e3d": "darkolivegreen"
+      },
+      {
+        "#8db0d6": "skyblue"
+      },
+      {
+        "#b3d0e8": "lightblue"
+      },
+      {
+        "#a88372": "rosybrown"
+      },
+      {
+        "#8f6a5b": "dimgray"
+      },
+      {
+        "#7393b8": "cadetblue"
+      }
+    ],
+    "framenumber": 81181,
+    "averageColorHSV": [
+      0.9967764691147134,
+      0.4486028745737425,
+      0.03520992501310675
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_82072.png",
+    "averageColorRGB": [
+      136.072361865942,
+      132.68723958333334,
+      133.6851826690821
+    ],
+    "palette": [
+      {
+        "#859cb7": "lightslategray"
+      },
+      {
+        "#9a5a32": "sienna"
+      },
+      {
+        "#594536": "darkolivegreen"
+      },
+      {
+        "#91a5b4": "darkgray"
+      },
+      {
+        "#a4b0bb": "darkgray"
+      },
+      {
+        "#8a6b5a": "dimgray"
+      }
+    ],
+    "framenumber": 82072,
+    "averageColorHSV": [
+      0.9508662217376025,
+      0.5269796106848537,
+      0.014032153416032825
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_82963.png",
+    "averageColorRGB": [
+      133.1086956521739,
+      127.29418402777777,
+      127.86111865942028
+    ],
+    "palette": [
+      {
+        "#abb6d0": "lightsteelblue"
+      },
+      {
+        "#a3aac4": "darkgray"
+      },
+      {
+        "#858ea8": "lightslategray"
+      },
+      {
+        "#c5b8a9": "silver"
+      },
+      {
+        "#afa296": "darkgray"
+      },
+      {
+        "#a4958a": "rosybrown"
+      }
+    ],
+    "framenumber": 82963,
+    "averageColorHSV": [
+      0.9837494339374435,
+      0.5105938817253954,
+      0.023295587773370294
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_83854.png",
+    "averageColorRGB": [
+      107.02681536835749,
+      113.53623188405797,
+      121.2345523852657
+    ],
+    "palette": [
+      {
+        "#616f73": "dimgray"
+      },
+      {
+        "#869aad": "lightslategray"
+      },
+      {
+        "#7b8590": "lightslategray"
+      },
+      {
+        "#6a7980": "slategrey"
+      },
+      {
+        "#61717d": "dimgray"
+      },
+      {
+        "#697d94": "slategrey"
+      }
+    ],
+    "framenumber": 83854,
+    "averageColorHSV": [
+      0.5903066699039425,
+      0.4475713093208298,
+      0.0622432834637332
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_84745.png",
+    "averageColorRGB": [
+      72.38989658816425,
+      90.83914175724638,
+      104.48175951086957
+    ],
+    "palette": [
+      {
+        "#42555f": "darkslategray"
+      },
+      {
+        "#25393f": "darkslategray"
+      },
+      {
+        "#36484f": "darkslategray"
+      },
+      {
+        "#677682": "slategrey"
+      },
+      {
+        "#647eac": "lightslategray"
+      },
+      {
+        "#6e8bb0": "lightslategray"
+      }
+    ],
+    "framenumber": 84745,
+    "averageColorHSV": [
+      0.5708519050788774,
+      0.3468071688216349,
+      0.18144152449579862
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_85636.png",
+    "averageColorRGB": [
+      129.2132133152174,
+      136.1271663647343,
+      139.10669157608694
+    ],
+    "palette": [
+      {
+        "#5f6c71": "dimgray"
+      },
+      {
+        "#94a2af": "darkgray"
+      },
+      {
+        "#606f71": "dimgray"
+      },
+      {
+        "#a9bdca": "lightsteelblue"
+      },
+      {
+        "#5c6b6a": "dimgray"
+      },
+      {
+        "#8ba3b8": "darkgray"
+      }
+    ],
+    "framenumber": 85636,
+    "averageColorHSV": [
+      0.5501934225892557,
+      0.5261174605711849,
+      0.040936256071978025
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_86527.png",
+    "averageColorRGB": [
+      112.53960597826087,
+      117.97760039251207,
+      116.75086428140096
+    ],
+    "palette": [
+      {
+        "#7e8a96": "lightslategray"
+      },
+      {
+        "#5b635f": "dimgray"
+      },
+      {
+        "#525b54": "dimgray"
+      },
+      {
+        "#96a8b8": "darkgray"
+      },
+      {
+        "#96604b": "sienna"
+      },
+      {
+        "#182705": "black"
+      }
+    ],
+    "framenumber": 86527,
+    "averageColorHSV": [
+      0.4624023117819494,
+      0.4519945222956332,
+      0.02359040567889116
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_87418.png",
+    "averageColorRGB": [
+      123.76790836352657,
+      111.74100618961353,
+      94.64848278985507
+    ],
+    "palette": [
+      {
+        "#6b4b36": "darkolivegreen"
+      },
+      {
+        "#d1d3b7": "silver"
+      },
+      {
+        "#7e6351": "dimgray"
+      },
+      {
+        "#d1cda6": "silver"
+      },
+      {
+        "#603a22": "saddlebrown"
+      },
+      {
+        "#625d41": "darkolivegreen"
+      }
+    ],
+    "framenumber": 87418,
+    "averageColorHSV": [
+      0.09783001703630649,
+      0.42826743363408165,
+      0.13332069731535198
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_88309.png",
+    "averageColorRGB": [
+      107.38461277173913,
+      109.36105827294686,
+      112.68124999999999
+    ],
+    "palette": [
+      {
+        "#778ea6": "lightslategray"
+      },
+      {
+        "#565850": "dimgray"
+      },
+      {
+        "#4a4b3f": "darkslategray"
+      },
+      {
+        "#788394": "lightslategray"
+      },
+      {
+        "#697c96": "slategrey"
+      },
+      {
+        "#5b5e4d": "dimgray"
+      }
+    ],
+    "framenumber": 88309,
+    "averageColorHSV": [
+      0.6044748326144823,
+      0.4315016917092924,
+      0.024068418252378977
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_89200.png",
+    "averageColorRGB": [
+      143.107601147343,
+      145.5048648852657,
+      145.26346618357488
+    ],
+    "palette": [
+      {
+        "#b7a690": "rosybrown"
+      },
+      {
+        "#75838f": "slategrey"
+      },
+      {
+        "#7c858b": "grey"
+      },
+      {
+        "#d5c6ab": "silver"
+      },
+      {
+        "#97a4b3": "darkgray"
+      },
+      {
+        "#8d97a8": "lightslategray"
+      }
+    ],
+    "framenumber": 89200,
+    "averageColorHSV": [
+      0.48321706689505367,
+      0.56590679614237,
+      0.010828359189708594
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_90091.png",
+    "averageColorRGB": [
+      130.15243810386474,
+      142.30871074879227,
+      147.61974637681158
+    ],
+    "palette": [
+      {
+        "#6e8698": "lightslategray"
+      },
+      {
+        "#89a4b3": "darkgray"
+      },
+      {
+        "#a5c2ce": "lightsteelblue"
+      },
+      {
+        "#8c9da4": "lightslategray"
+      },
+      {
+        "#7e8d97": "lightslategray"
+      },
+      {
+        "#dcefee": "lavender"
+      }
+    ],
+    "framenumber": 90091,
+    "averageColorHSV": [
+      0.5506759593887072,
+      0.5446513421189731,
+      0.07521626224612779
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_90982.png",
+    "averageColorRGB": [
+      143.04375,
+      147.53104619565218,
+      151.34641455314008
+    ],
+    "palette": [
+      {
+        "#525a60": "dimgray"
+      },
+      {
+        "#dde7ed": "lavender"
+      },
+      {
+        "#919fac": "darkgray"
+      },
+      {
+        "#d7eaf3": "lavender"
+      },
+      {
+        "#818b98": "lightslategray"
+      },
+      {
+        "#b9c4ce": "silver"
+      }
+    ],
+    "framenumber": 90982,
+    "averageColorHSV": [
+      0.5765892349592137,
+      0.5772356167708629,
+      0.038507819162945364
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_91873.png",
+    "averageColorRGB": [
+      131.7504302536232,
+      139.29439915458937,
+      144.05932216183575
+    ],
+    "palette": [
+      {
+        "#9cbbd7": "lightsteelblue"
+      },
+      {
+        "#c6ecf9": "paleturquoise"
+      },
+      {
+        "#625040": "darkolivegreen"
+      },
+      {
+        "#adc8d7": "lightsteelblue"
+      },
+      {
+        "#7b97b9": "lightslategray"
+      },
+      {
+        "#52382e": "darkolivegreen"
+      }
+    ],
+    "framenumber": 91873,
+    "averageColorHSV": [
+      0.5645187105763111,
+      0.540803436108743,
+      0.0525593701495581
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_92764.png",
+    "averageColorRGB": [
+      72.28419006642513,
+      64.5534042874396,
+      50.131710446859906
+    ],
+    "palette": [
+      {
+        "#312712": "black"
+      },
+      {
+        "#5c4b1d": "darkolivegreen"
+      },
+      {
+        "#2b2419": "black"
+      },
+      {
+        "#4a3e1a": "darkolivegreen"
+      },
+      {
+        "#51401f": "darkolivegreen"
+      },
+      {
+        "#382414": "black"
+      }
+    ],
+    "framenumber": 92764,
+    "averageColorHSV": [
+      0.10850323220583069,
+      0.24003117747702948,
+      0.18096080269540768
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_93655.png",
+    "averageColorRGB": [
+      72.34554272342994,
+      68.81706295289855,
+      59.43556763285024
+    ],
+    "palette": [
+      {
+        "#464b48": "darkslategray"
+      },
+      {
+        "#5c6461": "dimgray"
+      },
+      {
+        "#5f511f": "darkolivegreen"
+      },
+      {
+        "#697481": "slategrey"
+      },
+      {
+        "#44360c": "darkolivegreen"
+      },
+      {
+        "#38342a": "darkslategray"
+      }
+    ],
+    "framenumber": 93655,
+    "averageColorHSV": [
+      0.12111429668693302,
+      0.2583943340319219,
+      0.0979652930201955
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_94546.png",
+    "averageColorRGB": [
+      100.40824652777778,
+      98.00093221618357,
+      95.6295440821256
+    ],
+    "palette": [
+      {
+        "#8b9393": "lightslategray"
+      },
+      {
+        "#563a2e": "darkolivegreen"
+      },
+      {
+        "#41281c": "darkslategray"
+      },
+      {
+        "#9da7a8": "darkgray"
+      },
+      {
+        "#879296": "lightslategray"
+      },
+      {
+        "#7d8687": "grey"
+      }
+    ],
+    "framenumber": 94546,
+    "averageColorHSV": [
+      0.08270683520710169,
+      0.38438782472530075,
+      0.024376434925046316
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_95437.png",
+    "averageColorRGB": [
+      91.1936065821256,
+      93.43724713164251,
+      94.81621376811594
+    ],
+    "palette": [
+      {
+        "#c2cbd2": "lightgray"
+      },
+      {
+        "#342d27": "darkslategray"
+      },
+      {
+        "#292418": "black"
+      },
+      {
+        "#231d13": "black"
+      },
+      {
+        "#99a9b5": "darkgray"
+      },
+      {
+        "#7a828b": "slategrey"
+      }
+    ],
+    "framenumber": 95437,
+    "averageColorHSV": [
+      0.5634426425350174,
+      0.36472513794165007,
+      0.019475354468754747
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_96328.png",
+    "averageColorRGB": [
+      61.32679649758454,
+      51.11531929347826,
+      43.18486941425121
+    ],
+    "palette": [
+      {
+        "#342c21": "darkslategray"
+      },
+      {
+        "#241b13": "black"
+      },
+      {
+        "#413a31": "darkslategray"
+      },
+      {
+        "#493f37": "darkslategray"
+      },
+      {
+        "#2b2218": "black"
+      },
+      {
+        "#482c1d": "darkslategray"
+      }
+    ],
+    "framenumber": 96328,
+    "averageColorHSV": [
+      0.07285563658516203,
+      0.20492483512124657,
+      0.17358757919558518
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_97219.png",
+    "averageColorRGB": [
+      51.21856884057971,
+      45.10991092995169,
+      37.88307291666666
+    ],
+    "palette": [
+      {
+        "#261c11": "black"
+      },
+      {
+        "#3f3223": "darkslategray"
+      },
+      {
+        "#574e45": "darkolivegreen"
+      },
+      {
+        "#494134": "darkslategray"
+      },
+      {
+        "#423829": "darkslategray"
+      },
+      {
+        "#2d2416": "black"
+      }
+    ],
+    "framenumber": 97219,
+    "averageColorHSV": [
+      0.09032082564356121,
+      0.1747091014847968,
+      0.1496661078394609
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_98110.png",
+    "averageColorRGB": [
+      62.438715277777774,
+      54.65444972826087,
+      47.083744716183574
+    ],
+    "palette": [
+      {
+        "#362c21": "darkslategray"
+      },
+      {
+        "#40372f": "darkslategray"
+      },
+      {
+        "#20170d": "black"
+      },
+      {
+        "#2e271a": "black"
+      },
+      {
+        "#6e645d": "dimgray"
+      },
+      {
+        "#564d45": "darkolivegreen"
+      }
+    ],
+    "framenumber": 98110,
+    "averageColorHSV": [
+      0.0821743137584073,
+      0.21474992155678696,
+      0.14019928480825591
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_99001.png",
+    "averageColorRGB": [
+      60.83918327294686,
+      50.25140021135265,
+      39.75412515096618
+    ],
+    "palette": [
+      {
+        "#41281e": "darkslategray"
+      },
+      {
+        "#805a56": "dimgray"
+      },
+      {
+        "#0d0902": "black"
+      },
+      {
+        "#f7e880": "khaki"
+      },
+      {
+        "#17120b": "black"
+      },
+      {
+        "#372117": "black"
+      }
+    ],
+    "framenumber": 99001,
+    "averageColorHSV": [
+      0.0829756234617103,
+      0.1972417812233589,
+      0.209606965436762
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_99892.png",
+    "averageColorRGB": [
+      79.50311367753623,
+      69.95261171497584,
+      62.838647342995166
+    ],
+    "palette": [
+      {
+        "#505865": "dimgray"
+      },
+      {
+        "#948b83": "grey"
+      },
+      {
+        "#3b454e": "darkslategray"
+      },
+      {
+        "#6b5b4c": "dimgray"
+      },
+      {
+        "#8d7763": "grey"
+      },
+      {
+        "#504640": "darkslategray"
+      }
+    ],
+    "framenumber": 99892,
+    "averageColorHSV": [
+      0.07114903681049083,
+      0.2791014921971204,
+      0.11707362769059312
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_100783.png",
+    "averageColorRGB": [
+      56.74981884057971,
+      53.671588164251204,
+      50.18171799516908
+    ],
+    "palette": [
+      {
+        "#17222a": "black"
+      },
+      {
+        "#465158": "darkslategray"
+      },
+      {
+        "#7e5344": "sienna"
+      },
+      {
+        "#382017": "black"
+      },
+      {
+        "#0f1b22": "black"
+      },
+      {
+        "#2f2b24": "darkslategray"
+      }
+    ],
+    "framenumber": 100783,
+    "averageColorHSV": [
+      0.08855604410927576,
+      0.20966968007009565,
+      0.06142342137567422
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_101674.png",
+    "averageColorRGB": [
+      99.41362092391304,
+      96.9717315821256,
+      92.19899607487922
+    ],
+    "palette": [
+      {
+        "#6d4433": "saddlebrown"
+      },
+      {
+        "#8b9294": "lightslategray"
+      },
+      {
+        "#94938c": "grey"
+      },
+      {
+        "#232018": "black"
+      },
+      {
+        "#afada1": "darkgray"
+      },
+      {
+        "#405164": "darkslategray"
+      }
+    ],
+    "framenumber": 101674,
+    "averageColorHSV": [
+      0.11025603333774504,
+      0.3757110137231221,
+      0.037652138789374685
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_102565.png",
+    "averageColorRGB": [
+      80.23579408212561,
+      71.96184707125603,
+      66.6092315821256
+    ],
+    "palette": [
+      {
+        "#372316": "black"
+      },
+      {
+        "#2d1b0e": "black"
+      },
+      {
+        "#402b1f": "darkslategray"
+      },
+      {
+        "#523225": "darkolivegreen"
+      },
+      {
+        "#3c2317": "darkslategray"
+      },
+      {
+        "#bdc7c9": "silver"
+      }
+    ],
+    "framenumber": 102565,
+    "averageColorHSV": [
+      0.0654679110393202,
+      0.2879314228710808,
+      0.09279553351133592
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_103456.png",
+    "averageColorRGB": [
+      106.52852506038647,
+      106.66016002415459,
+      106.05955993357487
+    ],
+    "palette": [
+      {
+        "#2d2722": "darkslategray"
+      },
+      {
+        "#373b3b": "darkslategray"
+      },
+      {
+        "#65686b": "dimgray"
+      },
+      {
+        "#100f0b": "black"
+      },
+      {
+        "#bbc4c6": "silver"
+      },
+      {
+        "#787b7f": "grey"
+      }
+    ],
+    "framenumber": 103456,
+    "averageColorHSV": [
+      0.20319540013196216,
+      0.417097490113195,
+      0.002823434003669561
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_104347.png",
+    "averageColorRGB": [
+      110.03239356884058,
+      109.0582729468599,
+      106.78877189009661
+    ],
+    "palette": [
+      {
+        "#8a919a": "lightslategray"
+      },
+      {
+        "#555046": "darkolivegreen"
+      },
+      {
+        "#8c8175": "grey"
+      },
+      {
+        "#8b8c96": "lightslategray"
+      },
+      {
+        "#a6aab4": "darkgray"
+      },
+      {
+        "#c2cfdc": "lightgray"
+      }
+    ],
+    "framenumber": 104347,
+    "averageColorHSV": [
+      0.11661353067343098,
+      0.4251395401155631,
+      0.014959894122321071
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_105238.png",
+    "averageColorRGB": [
+      109.61075256642512,
+      108.6409420289855,
+      107.13847750603864
+    ],
+    "palette": [
+      {
+        "#8d8168": "grey"
+      },
+      {
+        "#788ca5": "lightslategray"
+      },
+      {
+        "#d5cdbd": "lightgray"
+      },
+      {
+        "#96b3d0": "lightsteelblue"
+      },
+      {
+        "#57697a": "dimgray"
+      },
+      {
+        "#48555f": "darkslategray"
+      }
+    ],
+    "framenumber": 105238,
+    "averageColorHSV": [
+      0.10128757832687581,
+      0.4249984903381642,
+      0.011406153828366268
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_106129.png",
+    "averageColorRGB": [
+      43.65245697463768,
+      37.71839900362319,
+      33.34534269323672
+    ],
+    "palette": [
+      {
+        "#59331e": "saddlebrown"
+      },
+      {
+        "#3d2818": "darkslategray"
+      },
+      {
+        "#000100": "black"
+      },
+      {
+        "#6e4f43": "darkolivegreen"
+      },
+      {
+        "#322e29": "darkslategray"
+      },
+      {
+        "#6b6e79": "dimgray"
+      }
+    ],
+    "framenumber": 106129,
+    "averageColorHSV": [
+      0.07071258729642023,
+      0.15097607778014588,
+      0.13386245225006574
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_107020.png",
+    "averageColorRGB": [
+      85.73126509661836,
+      73.67048233695652,
+      67.39151947463768
+    ],
+    "palette": [
+      {
+        "#805b4d": "dimgray"
+      },
+      {
+        "#4a2d21": "darkslategray"
+      },
+      {
+        "#6c5349": "dimgray"
+      },
+      {
+        "#b1806d": "rosybrown"
+      },
+      {
+        "#363028": "darkslategray"
+      },
+      {
+        "#624335": "darkolivegreen"
+      }
+    ],
+    "framenumber": 107020,
+    "averageColorHSV": [
+      0.05706152265995573,
+      0.30024075406128636,
+      0.11977150019399135
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_107911.png",
+    "averageColorRGB": [
+      77.89063632246376,
+      79.6760303442029,
+      89.62218825483092
+    ],
+    "palette": [
+      {
+        "#415068": "darkslategray"
+      },
+      {
+        "#526685": "dimgray"
+      },
+      {
+        "#677e9e": "slategrey"
+      },
+      {
+        "#4e5567": "dimgray"
+      },
+      {
+        "#34231b": "black"
+      },
+      {
+        "#44332b": "darkslategray"
+      }
+    ],
+    "framenumber": 107911,
+    "averageColorHSV": [
+      0.6413021051827869,
+      0.32845651877900917,
+      0.07003375390493712
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_108802.png",
+    "averageColorRGB": [
+      40.977966485507245,
+      25.54200634057971,
+      16.380502717391305
+    ],
+    "palette": [
+      {
+        "#3f1e0e": "black"
+      },
+      {
+        "#251409": "black"
+      },
+      {
+        "#503b2a": "darkolivegreen"
+      },
+      {
+        "#170f09": "black"
+      },
+      {
+        "#381409": "black"
+      },
+      {
+        "#4a2d1b": "darkolivegreen"
+      }
+    ],
+    "framenumber": 108802,
+    "averageColorHSV": [
+      0.06207620773124758,
+      0.1124675866723501,
+      0.428837521467064
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_109693.png",
+    "averageColorRGB": [
+      125.41522493961352,
+      128.74245923913043,
+      133.18574879227052
+    ],
+    "palette": [
+      {
+        "#604033": "darkolivegreen"
+      },
+      {
+        "#b3bec8": "silver"
+      },
+      {
+        "#22211a": "black"
+      },
+      {
+        "#98a7b1": "darkgray"
+      },
+      {
+        "#b5c5cc": "silver"
+      },
+      {
+        "#bacbdf": "lightsteelblue"
+      }
+    ],
+    "framenumber": 109693,
+    "averageColorHSV": [
+      0.5953022309562132,
+      0.5070607328076158,
+      0.030909124701102745
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_110584.png",
+    "averageColorRGB": [
+      105.02621905193236,
+      110.0938179347826,
+      116.69829785628019
+    ],
+    "palette": [
+      {
+        "#8c97ae": "lightslategray"
+      },
+      {
+        "#758297": "lightslategray"
+      },
+      {
+        "#7b725f": "dimgray"
+      },
+      {
+        "#657d97": "slategrey"
+      },
+      {
+        "#87a4c7": "darkgray"
+      },
+      {
+        "#899ab4": "darkgray"
+      }
+    ],
+    "framenumber": 110584,
+    "averageColorHSV": [
+      0.5943059648614524,
+      0.4347539547219854,
+      0.052642256107292514
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_111475.png",
+    "averageColorRGB": [
+      81.9553592995169,
+      79.0155155495169,
+      82.10958257850241
+    ],
+    "palette": [
+      {
+        "#2d3339": "darkslategray"
+      },
+      {
+        "#56372a": "darkolivegreen"
+      },
+      {
+        "#707f98": "slategrey"
+      },
+      {
+        "#231307": "black"
+      },
+      {
+        "#714b3d": "darkolivegreen"
+      },
+      {
+        "#a9c1dc": "lightsteelblue"
+      }
+    ],
+    "framenumber": 111475,
+    "averageColorHSV": [
+      0.8250258598396684,
+      0.31593156495690067,
+      0.019202886855821593
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_112366.png",
+    "averageColorRGB": [
+      119.44832427536231,
+      129.6264190821256,
+      149.0783703200483
+    ],
+    "palette": [
+      {
+        "#423834": "darkslategray"
+      },
+      {
+        "#312826": "darkslategray"
+      },
+      {
+        "#5b5653": "dimgray"
+      },
+      {
+        "#586787": "dimgray"
+      },
+      {
+        "#9ab0cf": "lightsteelblue"
+      },
+      {
+        "#6e84aa": "lightslategray"
+      }
+    ],
+    "framenumber": 112366,
+    "averageColorHSV": [
+      0.6094156879843443,
+      0.5265229305792365,
+      0.1227052654745449
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_113257.png",
+    "averageColorRGB": [
+      70.07476222826087,
+      62.08223882850241,
+      55.39945274758454
+    ],
+    "palette": [
+      {
+        "#3e230f": "black"
+      },
+      {
+        "#432515": "darkslategray"
+      },
+      {
+        "#a6cde8": "lightblue"
+      },
+      {
+        "#2f190e": "black"
+      },
+      {
+        "#988f7c": "grey"
+      },
+      {
+        "#473527": "darkslategray"
+      }
+    ],
+    "framenumber": 113257,
+    "averageColorHSV": [
+      0.0758960266984195,
+      0.24602787250165764,
+      0.11695876705426228
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_114148.png",
+    "averageColorRGB": [
+      84.11561367753623,
+      74.96165836352657,
+      73.76532306763285
+    ],
+    "palette": [
+      {
+        "#3e200f": "black"
+      },
+      {
+        "#2b1711": "black"
+      },
+      {
+        "#aac6e1": "lightsteelblue"
+      },
+      {
+        "#66767e": "slategrey"
+      },
+      {
+        "#230a02": "black"
+      },
+      {
+        "#311002": "black"
+      }
+    ],
+    "framenumber": 114148,
+    "averageColorHSV": [
+      0.019264117646272134,
+      0.3095704642062139,
+      0.0655575703012801
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_115039.png",
+    "averageColorRGB": [
+      103.64767889492754,
+      112.72670969202898,
+      111.34834692028986
+    ],
+    "palette": [
+      {
+        "#5e3121": "saddlebrown"
+      },
+      {
+        "#617682": "slategrey"
+      },
+      {
+        "#a4c5c9": "lightsteelblue"
+      },
+      {
+        "#7995a6": "lightslategray"
+      },
+      {
+        "#bde4e4": "powderblue"
+      },
+      {
+        "#88aeba": "darkgray"
+      }
+    ],
+    "framenumber": 115039,
+    "averageColorHSV": [
+      0.4746969545806003,
+      0.4242635070332481,
+      0.04195982184579465
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_115930.png",
+    "averageColorRGB": [
+      62.4491470410628,
+      63.60035099637681,
+      53.73776419082125
+    ],
+    "palette": [
+      {
+        "#14271d": "black"
+      },
+      {
+        "#161811": "black"
+      },
+      {
+        "#6c6856": "dimgray"
+      },
+      {
+        "#786c5c": "dimgray"
+      },
+      {
+        "#1d3025": "darkslategray"
+      },
+      {
+        "#5a4d41": "darkolivegreen"
+      }
+    ],
+    "framenumber": 115930,
+    "averageColorHSV": [
+      0.18612072366696508,
+      0.23007473566117267,
+      0.08405271202644646
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_116821.png",
+    "averageColorRGB": [
+      77.47050875603864,
+      67.7093372584541,
+      61.82650966183575
+    ],
+    "palette": [
+      {
+        "#4f4844": "darkslategray"
+      },
+      {
+        "#834e35": "sienna"
+      },
+      {
+        "#817773": "grey"
+      },
+      {
+        "#443b32": "darkslategray"
+      },
+      {
+        "#37332e": "darkslategray"
+      },
+      {
+        "#6c6460": "dimgray"
+      }
+    ],
+    "framenumber": 116821,
+    "averageColorHSV": [
+      0.06267395313685392,
+      0.2731314086624988,
+      0.1123067763537678
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_117712.png",
+    "averageColorRGB": [
+      86.06847071256038,
+      84.75540458937198,
+      86.46411911231884
+    ],
+    "palette": [
+      {
+        "#5c4f36": "darkolivegreen"
+      },
+      {
+        "#384354": "darkslategray"
+      },
+      {
+        "#485263": "darkslategray"
+      },
+      {
+        "#a19088": "rosybrown"
+      },
+      {
+        "#586376": "dimgray"
+      },
+      {
+        "#827068": "dimgray"
+      }
+    ],
+    "framenumber": 117712,
+    "averageColorHSV": [
+      0.7947421005239933,
+      0.33572455627782516,
+      0.009979671044546784
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_118603.png",
+    "averageColorRGB": [
+      101.15842768719807,
+      110.4495357789855,
+      111.14459163647342
+    ],
+    "palette": [
+      {
+        "#788c99": "lightslategray"
+      },
+      {
+        "#cce3e4": "gainsboro"
+      },
+      {
+        "#616f78": "dimgray"
+      },
+      {
+        "#c2d4d7": "lightgray"
+      },
+      {
+        "#3d3c34": "darkslategray"
+      },
+      {
+        "#6b7e86": "slategrey"
+      }
+    ],
+    "framenumber": 118603,
+    "averageColorHSV": [
+      0.5116003145455125,
+      0.4162804300464147,
+      0.0470373147828421
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_119494.png",
+    "averageColorRGB": [
+      96.04622584541063,
+      108.45313632246376,
+      107.60435160024154
+    ],
+    "palette": [
+      {
+        "#636e6b": "dimgray"
+      },
+      {
+        "#54605e": "dimgray"
+      },
+      {
+        "#5f6b6c": "dimgray"
+      },
+      {
+        "#788481": "grey"
+      },
+      {
+        "#3e4f50": "darkslategray"
+      },
+      {
+        "#687372": "dimgray"
+      }
+    ],
+    "framenumber": 119494,
+    "averageColorHSV": [
+      0.48859795751472457,
+      0.40097914150563607,
+      0.06066967811307033
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_120385.png",
+    "averageColorRGB": [
+      95.68706219806764,
+      97.38462786835748,
+      104.9254604468599
+    ],
+    "palette": [
+      {
+        "#7d8194": "lightslategray"
+      },
+      {
+        "#556893": "slategrey"
+      },
+      {
+        "#9398a5": "darkgray"
+      },
+      {
+        "#757e92": "slategrey"
+      },
+      {
+        "#6e7fa0": "lightslategray"
+      },
+      {
+        "#908877": "grey"
+      }
+    ],
+    "framenumber": 120385,
+    "averageColorHSV": [
+      0.6360414864031982,
+      0.3933578875390736,
+      0.046050954980231686
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_121276.png",
+    "averageColorRGB": [
+      89.65262303743961,
+      98.59763737922705,
+      104.37827596618357
+    ],
+    "palette": [
+      {
+        "#55687e": "dimgray"
+      },
+      {
+        "#645738": "darkolivegreen"
+      },
+      {
+        "#ae934d": "peru"
+      },
+      {
+        "#efce68": "burlywood"
+      },
+      {
+        "#344155": "darkslategray"
+      },
+      {
+        "#43546d": "darkslategray"
+      }
+    ],
+    "framenumber": 121276,
+    "averageColorHSV": [
+      0.5654259453998235,
+      0.3804527431443592,
+      0.07589333969157651
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_122167.png",
+    "averageColorRGB": [
+      58.95810688405797,
+      50.24784118357488,
+      37.56840655193237
+    ],
+    "palette": [
+      {
+        "#24201a": "black"
+      },
+      {
+        "#5e584b": "darkolivegreen"
+      },
+      {
+        "#4e3912": "darkolivegreen"
+      },
+      {
+        "#37332c": "darkslategray"
+      },
+      {
+        "#34270d": "black"
+      },
+      {
+        "#2d1c0f": "black"
+      }
+    ],
+    "framenumber": 122167,
+    "averageColorHSV": [
+      0.09879704121426318,
+      0.1892676734039026,
+      0.2215940426182467
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_123058.png",
+    "averageColorRGB": [
+      93.78575256642512,
+      107.98437877415459,
+      111.43229544082125
+    ],
+    "palette": [
+      {
+        "#869195": "lightslategray"
+      },
+      {
+        "#969ea3": "darkgray"
+      },
+      {
+        "#3b5054": "darkslategray"
+      },
+      {
+        "#485a61": "darkslategray"
+      },
+      {
+        "#2e4648": "darkslategray"
+      },
+      {
+        "#586a6e": "dimgray"
+      }
+    ],
+    "framenumber": 123058,
+    "averageColorHSV": [
+      0.5325646095027233,
+      0.40238832942597325,
+      0.08598923460071614
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_123949.png",
+    "averageColorRGB": [
+      76.21314160628019,
+      66.44394248188405,
+      55.41536080917874
+    ],
+    "palette": [
+      {
+        "#5f5b44": "darkolivegreen"
+      },
+      {
+        "#39372c": "darkslategray"
+      },
+      {
+        "#4e4934": "darkolivegreen"
+      },
+      {
+        "#715b4c": "dimgray"
+      },
+      {
+        "#635c57": "dimgray"
+      },
+      {
+        "#5b5752": "dimgray"
+      }
+    ],
+    "framenumber": 123949,
+    "averageColorHSV": [
+      0.0883794748768126,
+      0.2580951027754097,
+      0.1580036269914963
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_124840.png",
+    "averageColorRGB": [
+      39.16297554347826,
+      29.732401117149756,
+      27.400932216183573
+    ],
+    "palette": [
+      {
+        "#2f373f": "darkslategray"
+      },
+      {
+        "#230c05": "black"
+      },
+      {
+        "#25140c": "black"
+      },
+      {
+        "#2d1c12": "black"
+      },
+      {
+        "#180701": "black"
+      },
+      {
+        "#272c32": "darkslategray"
+      }
+    ],
+    "framenumber": 124840,
+    "averageColorHSV": [
+      0.03303661951825212,
+      0.13051746619541535,
+      0.176703017042857
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_125731.png",
+    "averageColorRGB": [
+      58.131634963768114,
+      46.3959880736715,
+      44.50076615338164
+    ],
+    "palette": [
+      {
+        "#2f373f": "darkslategray"
+      },
+      {
+        "#42291f": "darkslategray"
+      },
+      {
+        "#a47567": "grey"
+      },
+      {
+        "#86584c": "sienna"
+      },
+      {
+        "#282d34": "darkslategray"
+      },
+      {
+        "#200905": "black"
+      }
+    ],
+    "framenumber": 125731,
+    "averageColorHSV": [
+      0.023173161186000307,
+      0.2012400021904897,
+      0.1328125295911914
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_126622.png",
+    "averageColorRGB": [
+      47.625181159420286,
+      34.990474033816426,
+      31.995387983091785
+    ],
+    "palette": [
+      {
+        "#250501": "black"
+      },
+      {
+        "#22262c": "darkslategray"
+      },
+      {
+        "#2b1a11": "black"
+      },
+      {
+        "#303740": "darkslategray"
+      },
+      {
+        "#815a54": "dimgray"
+      },
+      {
+        "#2f333b": "darkslategray"
+      }
+    ],
+    "framenumber": 126622,
+    "averageColorHSV": [
+      0.0319377872005448,
+      0.15611876302453348,
+      0.19630345957905532
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_127513.png",
+    "averageColorRGB": [
+      43.28653381642512,
+      35.662273550724635,
+      32.07123339371981
+    ],
+    "palette": [
+      {
+        "#2b1b12": "black"
+      },
+      {
+        "#20262b": "darkslategray"
+      },
+      {
+        "#283035": "darkslategray"
+      },
+      {
+        "#351f13": "black"
+      },
+      {
+        "#5d443b": "darkolivegreen"
+      },
+      {
+        "#200c06": "black"
+      }
+    ],
+    "framenumber": 127513,
+    "averageColorHSV": [
+      0.05336519489236904,
+      0.14776032786302928,
+      0.14882739812911372
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_128404.png",
+    "averageColorRGB": [
+      45.70899758454106,
+      37.75409118357488,
+      33.605442330917874
+    ],
+    "palette": [
+      {
+        "#23150c": "black"
+      },
+      {
+        "#513b2f": "darkolivegreen"
+      },
+      {
+        "#20262b": "darkslategray"
+      },
+      {
+        "#1f0c06": "black"
+      },
+      {
+        "#190e08": "black"
+      },
+      {
+        "#352014": "black"
+      }
+    ],
+    "framenumber": 128404,
+    "averageColorHSV": [
+      0.057127138345227334,
+      0.15551850963815478,
+      0.15260216508525226
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_129295.png",
+    "averageColorRGB": [
+      43.23315972222222,
+      32.55197388285024,
+      32.29047403381642
+    ],
+    "palette": [
+      {
+        "#29130e": "black"
+      },
+      {
+        "#1f2121": "black"
+      },
+      {
+        "#1f0b08": "black"
+      },
+      {
+        "#674947": "darkolivegreen"
+      },
+      {
+        "#7d5554": "dimgray"
+      },
+      {
+        "#321e17": "black"
+      }
+    ],
+    "framenumber": 129295,
+    "averageColorHSV": [
+      0.00398287124508027,
+      0.14808555638438947,
+      0.14489087910883067
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_130186.png",
+    "averageColorRGB": [
+      37.55072086352657,
+      29.027313556763286,
+      28.197727958937197
+    ],
+    "palette": [
+      {
+        "#202428": "darkslategray"
+      },
+      {
+        "#292d31": "darkslategray"
+      },
+      {
+        "#1b0b06": "black"
+      },
+      {
+        "#120602": "black"
+      },
+      {
+        "#341f17": "black"
+      },
+      {
+        "#62413d": "darkolivegreen"
+      }
+    ],
+    "framenumber": 130186,
+    "averageColorHSV": [
+      0.01478289010959305,
+      0.12891852710287013,
+      0.14225419872405887
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_131077.png",
+    "averageColorRGB": [
+      37.84249320652174,
+      29.180200785024155,
+      28.531325483091788
+    ],
+    "palette": [
+      {
+        "#4d302b": "darkslategray"
+      },
+      {
+        "#282c30": "darkslategray"
+      },
+      {
+        "#202427": "darkslategray"
+      },
+      {
+        "#1c0a06": "black"
+      },
+      {
+        "#311914": "black"
+      },
+      {
+        "#5c3f3c": "darkolivegreen"
+      }
+    ],
+    "framenumber": 131077,
+    "averageColorHSV": [
+      0.011614642423770713,
+      0.130144742528654,
+      0.14028374300674373
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_131968.png",
+    "averageColorRGB": [
+      48.89819595410628,
+      38.138775664251206,
+      35.07807216183575
+    ],
+    "palette": [
+      {
+        "#3b261e": "darkslategray"
+      },
+      {
+        "#343a41": "darkslategray"
+      },
+      {
+        "#332016": "black"
+      },
+      {
+        "#282e33": "darkslategray"
+      },
+      {
+        "#4d372e": "darkslategray"
+      },
+      {
+        "#30180d": "black"
+      }
+    ],
+    "framenumber": 131968,
+    "averageColorHSV": [
+      0.036911192552984216,
+      0.16465934924694514,
+      0.1645717784599542
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_132859.png",
+    "averageColorRGB": [
+      10.030189462560386,
+      9.36736865942029,
+      10.021293780193236
+    ],
+    "palette": [
+      {
+        "#040401": "black"
+      },
+      {
+        "#0b0e15": "black"
+      },
+      {
+        "#030300": "black"
+      },
+      {
+        "#080b12": "black"
+      },
+      {
+        "#010100": "black"
+      },
+      {
+        "#0e121a": "black"
+      }
+    ],
+    "framenumber": 132859,
+    "averageColorHSV": [
+      0.8355701577070325,
+      0.03803442769015819,
+      0.03417032179885626
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_133750.png",
+    "averageColorRGB": [
+      31.67306763285024,
+      25.766315670289856,
+      26.86970108695652
+    ],
+    "palette": [
+      {
+        "#262b31": "darkslategray"
+      },
+      {
+        "#140403": "black"
+      },
+      {
+        "#1d2225": "black"
+      },
+      {
+        "#171e25": "black"
+      },
+      {
+        "#210807": "black"
+      },
+      {
+        "#555f72": "dimgray"
+      }
+    ],
+    "framenumber": 133750,
+    "averageColorHSV": [
+      0.968866549567331,
+      0.11262624177086294,
+      0.10283452960118174
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_134641.png",
+    "averageColorRGB": [
+      29.39778457125604,
+      23.005865036231885,
+      20.561752717391304
+    ],
+    "palette": [
+      {
+        "#131b1e": "black"
+      },
+      {
+        "#2c180f": "black"
+      },
+      {
+        "#050502": "black"
+      },
+      {
+        "#2b1009": "black"
+      },
+      {
+        "#50362f": "darkslategray"
+      },
+      {
+        "#030502": "black"
+      }
+    ],
+    "framenumber": 134641,
+    "averageColorHSV": [
+      0.04610124316855283,
+      0.09795987703656342,
+      0.17686376482659322
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_135532.png",
+    "averageColorRGB": [
+      28.81802158816425,
+      34.311613073671495,
+      43.68504302536232
+    ],
+    "palette": [
+      {
+        "#161e27": "black"
+      },
+      {
+        "#131821": "black"
+      },
+      {
+        "#272b3c": "darkslategray"
+      },
+      {
+        "#1c222f": "darkslategray"
+      },
+      {
+        "#202733": "darkslategray"
+      },
+      {
+        "#282f3d": "darkslategray"
+      }
+    ],
+    "framenumber": 135532,
+    "averageColorHSV": [
+      0.6050807878283542,
+      0.14216287179122855,
+      0.20505369692227324
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_136423.png",
+    "averageColorRGB": [
+      25.417085597826087,
+      19.98871527777778,
+      18.99490111714976
+    ],
+    "palette": [
+      {
+        "#100602": "black"
+      },
+      {
+        "#020200": "black"
+      },
+      {
+        "#080100": "black"
+      },
+      {
+        "#252832": "darkslategray"
+      },
+      {
+        "#010100": "black"
+      },
+      {
+        "#252c39": "darkslategray"
+      }
+    ],
+    "framenumber": 136423,
+    "averageColorHSV": [
+      0.02579117649709121,
+      0.08708232689210951,
+      0.144604755510988
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_137314.png",
+    "averageColorRGB": [
+      10.169716183574879,
+      14.275920893719807,
+      18.091198671497583
+    ],
+    "palette": [
+      {
+        "#0a151f": "black"
+      },
+      {
+        "#122131": "black"
+      },
+      {
+        "#1a2839": "darkslategray"
+      },
+      {
+        "#273445": "darkslategray"
+      },
+      {
+        "#030300": "black"
+      },
+      {
+        "#010100": "black"
+      }
+    ],
+    "framenumber": 137314,
+    "averageColorHSV": [
+      0.5802728063338027,
+      0.05541355853935777,
+      0.2802981619153388
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_138205.png",
+    "averageColorRGB": [
+      21.908084239130435,
+      27.256767059178742,
+      37.40008303140097
+    ],
+    "palette": [
+      {
+        "#161e2c": "black"
+      },
+      {
+        "#020200": "black"
+      },
+      {
+        "#1c2638": "darkslategray"
+      },
+      {
+        "#232c43": "darkslategray"
+      },
+      {
+        "#010100": "black"
+      },
+      {
+        "#222e44": "darkslategray"
+      }
+    ],
+    "framenumber": 138205,
+    "averageColorHSV": [
+      0.6091242443731993,
+      0.1162905240598655,
+      0.2612118955152418
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_139096.png",
+    "averageColorRGB": [
+      71.32466410024155,
+      78.25906551932367,
+      79.79359148550725
+    ],
+    "palette": [
+      {
+        "#37393f": "darkslategray"
+      },
+      {
+        "#3f555d": "darkslategray"
+      },
+      {
+        "#2f3439": "darkslategray"
+      },
+      {
+        "#647b84": "slategrey"
+      },
+      {
+        "#4d524a": "darkslategray"
+      },
+      {
+        "#51666d": "dimgray"
+      }
+    ],
+    "framenumber": 139096,
+    "averageColorHSV": [
+      0.5301991404652052,
+      0.2963103050700957,
+      0.056041722771609126
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_139987.png",
+    "averageColorRGB": [
+      41.96088466183575,
+      47.97111262077294,
+      49.066919535024155
+    ],
+    "palette": [
+      {
+        "#1d3238": "darkslategray"
+      },
+      {
+        "#000100": "black"
+      },
+      {
+        "#233c47": "darkslategray"
+      },
+      {
+        "#415562": "darkslategray"
+      },
+      {
+        "#8d8370": "grey"
+      },
+      {
+        "#2a3f4e": "darkslategray"
+      }
+    ],
+    "framenumber": 139987,
+    "averageColorHSV": [
+      0.5257013213371114,
+      0.17848589058207825,
+      0.07806444345093336
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_140878.png",
+    "averageColorRGB": [
+      88.91834993961352,
+      95.47872131642512,
+      100.62168251811595
+    ],
+    "palette": [
+      {
+        "#536372": "dimgray"
+      },
+      {
+        "#7a8ca0": "lightslategray"
+      },
+      {
+        "#acb6b8": "darkgray"
+      },
+      {
+        "#404d5b": "darkslategray"
+      },
+      {
+        "#a1aab0": "darkgray"
+      },
+      {
+        "#667785": "slategrey"
+      }
+    ],
+    "framenumber": 140878,
+    "averageColorHSV": [
+      0.5732406940102087,
+      0.3716471224661362,
+      0.061745966942959384
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_141769.png",
+    "averageColorRGB": [
+      72.01438707729469,
+      73.60305706521739,
+      74.11287364130435
+    ],
+    "palette": [
+      {
+        "#9fb0b8": "darkgray"
+      },
+      {
+        "#b8c8cb": "silver"
+      },
+      {
+        "#a7b4be": "darkgray"
+      },
+      {
+        "#222733": "darkslategray"
+      },
+      {
+        "#303540": "darkslategray"
+      },
+      {
+        "#393a3e": "darkslategray"
+      }
+    ],
+    "framenumber": 141769,
+    "averageColorHSV": [
+      0.5404908140967427,
+      0.286524040624704,
+      0.014360678176611895
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_142660.png",
+    "averageColorRGB": [
+      104.06431914251208,
+      113.52820803140096,
+      123.6631378321256
+    ],
+    "palette": [
+      {
+        "#92a0b3": "darkgray"
+      },
+      {
+        "#4f5c6b": "dimgray"
+      },
+      {
+        "#798692": "lightslategray"
+      },
+      {
+        "#667281": "slategrey"
+      },
+      {
+        "#adbcca": "lightsteelblue"
+      },
+      {
+        "#505b63": "dimgray"
+      }
+    ],
+    "framenumber": 142660,
+    "averageColorHSV": [
+      0.5861865704019505,
+      0.446524425440466,
+      0.0860626072498419
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_143551.png",
+    "averageColorRGB": [
+      119.41483997584541,
+      126.67589824879227,
+      123.57497735507246
+    ],
+    "palette": [
+      {
+        "#777f77": "grey"
+      },
+      {
+        "#5b625b": "dimgray"
+      },
+      {
+        "#68706c": "dimgray"
+      },
+      {
+        "#98a1a4": "darkgray"
+      },
+      {
+        "#8493a0": "lightslategray"
+      },
+      {
+        "#4b544a": "darkslategray"
+      }
+    ],
+    "framenumber": 143551,
+    "averageColorHSV": [
+      0.4288230269575359,
+      0.4825308592639954,
+      0.029505613763971778
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_144442.png",
+    "averageColorRGB": [
+      87.22662666062801,
+      90.32994036835748,
+      82.08521286231884
+    ],
+    "palette": [
+      {
+        "#353b41": "darkslategray"
+      },
+      {
+        "#c3a950": "darkkhaki"
+      },
+      {
+        "#474f5d": "darkslategray"
+      },
+      {
+        "#3e4450": "darkslategray"
+      },
+      {
+        "#545e6e": "dimgray"
+      },
+      {
+        "#2f2e1d": "darkslategray"
+      }
+    ],
+    "framenumber": 144442,
+    "averageColorHSV": [
+      0.22939996511824315,
+      0.3380689279032869,
+      0.04781904230313168
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_145333.png",
+    "averageColorRGB": [
+      77.30236262077294,
+      85.67355827294686,
+      87.37130132850241
+    ],
+    "palette": [
+      {
+        "#323f46": "darkslategray"
+      },
+      {
+        "#223231": "darkslategray"
+      },
+      {
+        "#353f41": "darkslategray"
+      },
+      {
+        "#7f8789": "grey"
+      },
+      {
+        "#3f4c55": "darkslategray"
+      },
+      {
+        "#5c6568": "dimgray"
+      }
+    ],
+    "framenumber": 145333,
+    "averageColorHSV": [
+      0.5281019861317372,
+      0.3228895371554419,
+      0.06114480279512708
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_146224.png",
+    "averageColorRGB": [
+      156.6523814915459,
+      152.01751962560385,
+      155.46105827294684
+    ],
+    "palette": [
+      {
+        "#845648": "sienna"
+      },
+      {
+        "#c2cad5": "lightgray"
+      },
+      {
+        "#d0d5e0": "lightgray"
+      },
+      {
+        "#4e3224": "darkolivegreen"
+      },
+      {
+        "#86929b": "lightslategray"
+      },
+      {
+        "#634033": "darkolivegreen"
+      }
+    ],
+    "framenumber": 146224,
+    "averageColorHSV": [
+      0.8761725538990048,
+      0.6052351002297054,
+      0.023021206921668362
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_147115.png",
+    "averageColorRGB": [
+      93.71289628623188,
+      109.88765474033816,
+      130.54301026570047
+    ],
+    "palette": [
+      {
+        "#626d7b": "dimgray"
+      },
+      {
+        "#77838f": "slategrey"
+      },
+      {
+        "#484f58": "darkslategray"
+      },
+      {
+        "#6a84a7": "lightslategray"
+      },
+      {
+        "#505960": "dimgray"
+      },
+      {
+        "#5d7397": "slategrey"
+      }
+    ],
+    "framenumber": 147115,
+    "averageColorHSV": [
+      0.5934713168725502,
+      0.43971746382731836,
+      0.16423252589308995
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_148006.png",
+    "averageColorRGB": [
+      43.524177234299515,
+      53.05294006642512,
+      41.727177687198065
+    ],
+    "palette": [
+      {
+        "#7c5646": "sienna"
+      },
+      {
+        "#5d4232": "darkolivegreen"
+      },
+      {
+        "#a47666": "grey"
+      },
+      {
+        "#142d21": "black"
+      },
+      {
+        "#062516": "black"
+      },
+      {
+        "#0c2c2a": "darkslategray"
+      }
+    ],
+    "framenumber": 148006,
+    "averageColorHSV": [
+      0.30688920405632936,
+      0.1858433681443592,
+      0.11949512880610555
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_148897.png",
+    "averageColorRGB": [
+      104.663069897343,
+      107.6202030495169,
+      110.03272192028986
+    ],
+    "palette": [
+      {
+        "#6b737e": "slategrey"
+      },
+      {
+        "#a3b1b7": "darkgray"
+      },
+      {
+        "#525a63": "dimgray"
+      },
+      {
+        "#667077": "dimgray"
+      },
+      {
+        "#818b92": "lightslategray"
+      },
+      {
+        "#9ea3a7": "darkgray"
+      }
+    ],
+    "framenumber": 148897,
+    "averageColorHSV": [
+      0.5748812915145839,
+      0.4209721408188879,
+      0.025010513608519927
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_149788.png",
+    "averageColorRGB": [
+      72.62648324275362,
+      80.63428064613527,
+      86.28094051932366
+    ],
+    "palette": [
+      {
+        "#49545b": "darkslategray"
+      },
+      {
+        "#6c7582": "slategrey"
+      },
+      {
+        "#3a4347": "darkslategray"
+      },
+      {
+        "#939fb4": "darkgray"
+      },
+      {
+        "#a4adc4": "darkgray"
+      },
+      {
+        "#2b3535": "darkslategray"
+      }
+    ],
+    "framenumber": 149788,
+    "averageColorHSV": [
+      0.5689232797615181,
+      0.3115831838472104,
+      0.08592712003823096
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_150679.png",
+    "averageColorRGB": [
+      128.92524909420288,
+      133.40374396135266,
+      135.60691802536232
+    ],
+    "palette": [
+      {
+        "#59666f": "dimgray"
+      },
+      {
+        "#7e8389": "grey"
+      },
+      {
+        "#d5dfe2": "gainsboro"
+      },
+      {
+        "#cdd8d9": "lightgray"
+      },
+      {
+        "#7f8996": "lightslategray"
+      },
+      {
+        "#abb6bc": "darkgray"
+      }
+    ],
+    "framenumber": 150679,
+    "averageColorHSV": [
+      0.5549556826472738,
+      0.5186905237638534,
+      0.027220140630051598
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_151570.png",
+    "averageColorRGB": [
+      109.38173686594203,
+      119.87868734903381,
+      126.1557857789855
+    ],
+    "palette": [
+      {
+        "#565f63": "dimgray"
+      },
+      {
+        "#acb6bf": "silver"
+      },
+      {
+        "#93a8ba": "darkgray"
+      },
+      {
+        "#3d4548": "darkslategray"
+      },
+      {
+        "#656f70": "dimgray"
+      },
+      {
+        "#79899c": "lightslategray"
+      }
+    ],
+    "framenumber": 151570,
+    "averageColorHSV": [
+      0.5623691439724553,
+      0.4618382796959364,
+      0.0712160369383282
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_152461.png",
+    "averageColorRGB": [
+      113.4247131642512,
+      128.78843976449275,
+      138.5100505736715
+    ],
+    "palette": [
+      {
+        "#7a8a93": "lightslategray"
+      },
+      {
+        "#4e5e60": "dimgray"
+      },
+      {
+        "#63727a": "dimgray"
+      },
+      {
+        "#899bae": "lightslategray"
+      },
+      {
+        "#a6baca": "lightsteelblue"
+      },
+      {
+        "#404d52": "darkslategray"
+      }
+    ],
+    "framenumber": 152461,
+    "averageColorHSV": [
+      0.5645902601089988,
+      0.49398973281945624,
+      0.09957076600796354
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_153352.png",
+    "averageColorRGB": [
+      78.59137228260869,
+      73.9092655495169,
+      67.47966862922705
+    ],
+    "palette": [
+      {
+        "#5a5450": "dimgray"
+      },
+      {
+        "#382617": "darkslategray"
+      },
+      {
+        "#4c4740": "darkslategray"
+      },
+      {
+        "#3b3228": "darkslategray"
+      },
+      {
+        "#554f4d": "darkslategray"
+      },
+      {
+        "#4e4945": "darkslategray"
+      }
+    ],
+    "framenumber": 153352,
+    "averageColorHSV": [
+      0.09643881083787309,
+      0.28641380570948183,
+      0.07607054474328241
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_154243.png",
+    "averageColorRGB": [
+      101.48237847222222,
+      94.81966711956521,
+      69.03203125
+    ],
+    "palette": [
+      {
+        "#6c5b26": "darkolivegreen"
+      },
+      {
+        "#5b4a1a": "darkolivegreen"
+      },
+      {
+        "#68614c": "dimgray"
+      },
+      {
+        "#7b6228": "saddlebrown"
+      },
+      {
+        "#403d1c": "darkolivegreen"
+      },
+      {
+        "#4f4619": "darkolivegreen"
+      }
+    ],
+    "framenumber": 154243,
+    "averageColorHSV": [
+      0.13244663553710587,
+      0.3343419798474946,
+      0.19030853330862585
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_155134.png",
+    "averageColorRGB": [
+      46.60328351449275,
+      39.92416591183575,
+      31.593848128019324
+    ],
+    "palette": [
+      {
+        "#4e463d": "darkslategray"
+      },
+      {
+        "#312923": "darkslategray"
+      },
+      {
+        "#180f01": "black"
+      },
+      {
+        "#635a4f": "dimgray"
+      },
+      {
+        "#403b34": "darkslategray"
+      },
+      {
+        "#242019": "black"
+      }
+    ],
+    "framenumber": 155134,
+    "averageColorHSV": [
+      0.09250090103682096,
+      0.15332770910296487,
+      0.19194355433765695
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_156025.png",
+    "averageColorRGB": [
+      86.80655948067633,
+      91.01694972826087,
+      96.07770229468599
+    ],
+    "palette": [
+      {
+        "#4b5457": "darkslategray"
+      },
+      {
+        "#454f5e": "darkslategray"
+      },
+      {
+        "#677590": "slategrey"
+      },
+      {
+        "#5b6670": "dimgray"
+      },
+      {
+        "#88939f": "lightslategray"
+      },
+      {
+        "#545d75": "dimgray"
+      }
+    ],
+    "framenumber": 156025,
+    "averageColorHSV": [
+      0.5909767844150021,
+      0.3585965917163967,
+      0.05069404400361938
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_156916.png",
+    "averageColorRGB": [
+      36.96863300120773,
+      34.51858771135266,
+      30.803868508454105
+    ],
+    "palette": [
+      {
+        "#1e150b": "black"
+      },
+      {
+        "#1a150d": "black"
+      },
+      {
+        "#282c2f": "darkslategray"
+      },
+      {
+        "#1d2323": "black"
+      },
+      {
+        "#34363b": "darkslategray"
+      },
+      {
+        "#352923": "darkslategray"
+      }
+    ],
+    "framenumber": 156916,
+    "averageColorHSV": [
+      0.10042879462427216,
+      0.13288725786208203,
+      0.0909626228253469
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_157807.png",
+    "averageColorRGB": [
+      91.29653532608695,
+      97.47127868357488,
+      97.52213919082125
+    ],
+    "palette": [
+      {
+        "#dde9f9": "lavender"
+      },
+      {
+        "#bbd0da": "lightsteelblue"
+      },
+      {
+        "#2b343a": "darkslategray"
+      },
+      {
+        "#384346": "darkslategray"
+      },
+      {
+        "#2e383a": "darkslategray"
+      },
+      {
+        "#c8dcec": "powderblue"
+      }
+    ],
+    "framenumber": 157807,
+    "averageColorHSV": [
+      0.5013615950182353,
+      0.37023269513119256,
+      0.03297133549243732
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_158698.png",
+    "averageColorRGB": [
+      161.50188707729467,
+      165.29276494565218,
+      164.6030457427536
+    ],
+    "palette": [
+      {
+        "#3c4d5c": "darkslategray"
+      },
+      {
+        "#d6e4e1": "gainsboro"
+      },
+      {
+        "#abbcb8": "silver"
+      },
+      {
+        "#536576": "dimgray"
+      },
+      {
+        "#724f42": "darkolivegreen"
+      },
+      {
+        "#535049": "darkslategray"
+      }
+    ],
+    "framenumber": 158698,
+    "averageColorHSV": [
+      0.46967636403097757,
+      0.6407738274959742,
+      0.02069196074359311
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_159589.png",
+    "averageColorRGB": [
+      111.54007397342995,
+      112.56737998188406,
+      106.68198973429952
+    ],
+    "palette": [
+      {
+        "#b4beb8": "silver"
+      },
+      {
+        "#f9fcea": "floralwhite"
+      },
+      {
+        "#4b4a3d": "darkslategray"
+      },
+      {
+        "#40494e": "darkslategray"
+      },
+      {
+        "#eae9db": "beige"
+      },
+      {
+        "#383325": "darkslategray"
+      }
+    ],
+    "framenumber": 159589,
+    "averageColorHSV": [
+      0.19575864882468177,
+      0.4299007249336933,
+      0.026843362219025467
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_160480.png",
+    "averageColorRGB": [
+      83.51898022342995,
+      81.66297931763285,
+      74.2547252415459
+    ],
+    "palette": [
+      {
+        "#273536": "darkslategray"
+      },
+      {
+        "#58463b": "darkolivegreen"
+      },
+      {
+        "#786d63": "dimgray"
+      },
+      {
+        "#3a4641": "darkslategray"
+      },
+      {
+        "#333f3c": "darkslategray"
+      },
+      {
+        "#344040": "darkslategray"
+      }
+    ],
+    "framenumber": 160480,
+    "averageColorHSV": [
+      0.1332766655381995,
+      0.3093602067940703,
+      0.05871862459325083
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_161371.png",
+    "averageColorRGB": [
+      73.7089485205314,
+      80.65281551932367,
+      75.09407457729469
+    ],
+    "palette": [
+      {
+        "#1a2d25": "darkslategray"
+      },
+      {
+        "#1f3c36": "darkslategray"
+      },
+      {
+        "#21322d": "darkslategray"
+      },
+      {
+        "#233c39": "darkslategray"
+      },
+      {
+        "#344841": "darkslategray"
+      },
+      {
+        "#a66c4e": "sienna"
+      }
+    ],
+    "framenumber": 161371,
+    "averageColorHSV": [
+      0.36657912315534963,
+      0.3026701255683433,
+      0.04498437188758363
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_162262.png",
+    "averageColorRGB": [
+      50.74241394927536,
+      57.192093146135264,
+      54.71736865942029
+    ],
+    "palette": [
+      {
+        "#2c3739": "darkslategray"
+      },
+      {
+        "#7c868d": "lightslategray"
+      },
+      {
+        "#1e332c": "darkslategray"
+      },
+      {
+        "#283737": "darkslategray"
+      },
+      {
+        "#273734": "darkslategray"
+      },
+      {
+        "#14271e": "black"
+      }
+    ],
+    "framenumber": 162262,
+    "averageColorHSV": [
+      0.4360504501805346,
+      0.21163628842237375,
+      0.05975548849413467
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_163153.png",
+    "averageColorRGB": [
+      11.560303442028985,
+      40.803551479468595,
+      60.99890172101449
+    ],
+    "palette": [
+      {
+        "#07253c": "midnightblue"
+      },
+      {
+        "#021d26": "black"
+      },
+      {
+        "#042636": "midnightblue"
+      },
+      {
+        "#032030": "black"
+      },
+      {
+        "#17364d": "darkslategray"
+      },
+      {
+        "#0b2d45": "midnightblue"
+      }
+    ],
+    "framenumber": 163153,
+    "averageColorHSV": [
+      0.568082264143703,
+      0.14227295130008524,
+      0.6813552900406638
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_164044.png",
+    "averageColorRGB": [
+      8.33810763888889,
+      37.38145757850241,
+      55.72239960748792
+    ],
+    "palette": [
+      {
+        "#062031": "black"
+      },
+      {
+        "#051b2b": "black"
+      },
+      {
+        "#0b2c40": "darkslategray"
+      },
+      {
+        "#031726": "black"
+      },
+      {
+        "#041321": "black"
+      },
+      {
+        "#0d354c": "darkslategray"
+      }
+    ],
+    "framenumber": 164044,
+    "averageColorHSV": [
+      0.5645113294828442,
+      0.12560883773799375,
+      0.73968024927369
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_164935.png",
+    "averageColorRGB": [
+      19.874411231884057,
+      38.09637303743961,
+      54.86950860507246
+    ],
+    "palette": [
+      {
+        "#112435": "darkslategray"
+      },
+      {
+        "#071522": "black"
+      },
+      {
+        "#234058": "darkslategray"
+      },
+      {
+        "#0a1d2d": "black"
+      },
+      {
+        "#1a3249": "darkslategray"
+      },
+      {
+        "#09121d": "black"
+      }
+    ],
+    "framenumber": 164935,
+    "averageColorHSV": [
+      0.5798832637838943,
+      0.14655670556265984,
+      0.4681999211377373
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_165826.png",
+    "averageColorRGB": [
+      25.172271286231883,
+      35.875935990338164,
+      45.91909722222222
+    ],
+    "palette": [
+      {
+        "#19222c": "black"
+      },
+      {
+        "#233a4c": "darkslategray"
+      },
+      {
+        "#20252a": "darkslategray"
+      },
+      {
+        "#262b32": "darkslategray"
+      },
+      {
+        "#1a1f25": "black"
+      },
+      {
+        "#162b3a": "darkslategray"
+      }
+    ],
+    "framenumber": 165826,
+    "averageColorHSV": [
+      0.5806803031209848,
+      0.1393948402126551,
+      0.2918332614953551
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_166717.png",
+    "averageColorRGB": [
+      9.932827596618358,
+      16.87427536231884,
+      20.232782306763283
+    ],
+    "palette": [
+      {
+        "#080e10": "black"
+      },
+      {
+        "#0c161c": "black"
+      },
+      {
+        "#091116": "black"
+      },
+      {
+        "#040a0d": "black"
+      },
+      {
+        "#091317": "black"
+      },
+      {
+        "#0b1011": "black"
+      }
+    ],
+    "framenumber": 166717,
+    "averageColorHSV": [
+      0.5543450115228256,
+      0.05914825471251302,
+      0.3414469239354009
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_167608.png",
+    "averageColorRGB": [
+      52.886265851449274,
+      61.358925875603866,
+      54.791417572463764
+    ],
+    "palette": [
+      {
+        "#05292a": "black"
+      },
+      {
+        "#0f3841": "darkslategray"
+      },
+      {
+        "#012a25": "black"
+      },
+      {
+        "#01251e": "black"
+      },
+      {
+        "#0a3133": "darkslategray"
+      },
+      {
+        "#684937": "darkolivegreen"
+      }
+    ],
+    "framenumber": 167608,
+    "averageColorHSV": [
+      0.37080979124979874,
+      0.22401017985696692,
+      0.07416207103399938
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_168499.png",
+    "averageColorRGB": [
+      135.21524381038648,
+      144.14592768719805,
+      148.24032306763286
+    ],
+    "palette": [
+      {
+        "#555b61": "dimgray"
+      },
+      {
+        "#b0bcc0": "silver"
+      },
+      {
+        "#818d93": "lightslategray"
+      },
+      {
+        "#99a6b0": "darkgray"
+      },
+      {
+        "#b2bec5": "silver"
+      },
+      {
+        "#677177": "dimgray"
+      }
+    ],
+    "framenumber": 168499,
+    "averageColorHSV": [
+      0.5523911767901776,
+      0.555795229172587,
+      0.05749458981511647
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_169390.png",
+    "averageColorRGB": [
+      64.15815217391304,
+      60.36050724637681,
+      57.03989281400966
+    ],
+    "palette": [
+      {
+        "#383a3c": "darkslategray"
+      },
+      {
+        "#3d3933": "darkslategray"
+      },
+      {
+        "#54575c": "dimgray"
+      },
+      {
+        "#46443e": "darkslategray"
+      },
+      {
+        "#595a61": "dimgray"
+      },
+      {
+        "#363d43": "darkslategray"
+      }
+    ],
+    "framenumber": 169390,
+    "averageColorHSV": [
+      0.07774874597086495,
+      0.2376432254665151,
+      0.05873246025224832
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_170281.png",
+    "averageColorRGB": [
+      64.59824124396135,
+      71.96173762077295,
+      84.88429196859903
+    ],
+    "palette": [
+      {
+        "#454c5a": "darkslategray"
+      },
+      {
+        "#7688a9": "lightslategray"
+      },
+      {
+        "#2b2f34": "darkslategray"
+      },
+      {
+        "#23272a": "darkslategray"
+      },
+      {
+        "#565f76": "dimgray"
+      },
+      {
+        "#58657d": "dimgray"
+      }
+    ],
+    "framenumber": 170281,
+    "averageColorHSV": [
+      0.6061694603452433,
+      0.293103006299138,
+      0.13570850244952318
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_171172.png",
+    "averageColorRGB": [
+      66.42147871376811,
+      71.69485960144927,
+      74.23502792874396
+    ],
+    "palette": [
+      {
+        "#3e545c": "darkslategray"
+      },
+      {
+        "#764b3f": "sienna"
+      },
+      {
+        "#496271": "dimgray"
+      },
+      {
+        "#294049": "darkslategray"
+      },
+      {
+        "#7f5e56": "dimgray"
+      },
+      {
+        "#394f5d": "darkslategray"
+      }
+    ],
+    "framenumber": 171172,
+    "averageColorHSV": [
+      0.5541829809007935,
+      0.2757970718480629,
+      0.05555057068802727
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_172063.png",
+    "averageColorRGB": [
+      90.01204332729468,
+      92.7574199879227,
+      91.31542874396135
+    ],
+    "palette": [
+      {
+        "#4a595d": "darkslategray"
+      },
+      {
+        "#9fa192": "darkgray"
+      },
+      {
+        "#5b5e65": "dimgray"
+      },
+      {
+        "#414345": "darkslategray"
+      },
+      {
+        "#959a8e": "darkseagreen"
+      },
+      {
+        "#5d686f": "dimgray"
+      }
+    ],
+    "framenumber": 172063,
+    "averageColorHSV": [
+      0.41245941679325643,
+      0.3583714966965047,
+      0.01502098113563503
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_172954.png",
+    "averageColorRGB": [
+      103.79690141908212,
+      101.0072765700483,
+      102.33186518719806
+    ],
+    "palette": [
+      {
+        "#5d3924": "saddlebrown"
+      },
+      {
+        "#9aa097": "darkgray"
+      },
+      {
+        "#838fa7": "lightslategray"
+      },
+      {
+        "#96a5b8": "darkgray"
+      },
+      {
+        "#694433": "darkolivegreen"
+      },
+      {
+        "#6e7786": "slategrey"
+      }
+    ],
+    "framenumber": 172954,
+    "averageColorHSV": [
+      0.9208622013811563,
+      0.40157681958653024,
+      0.013620937211456102
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_173845.png",
+    "averageColorRGB": [
+      51.29552007850241,
+      30.206287741545893,
+      30.06796497584541
+    ],
+    "palette": [
+      {
+        "#270704": "black"
+      },
+      {
+        "#371412": "black"
+      },
+      {
+        "#44535c": "darkslategray"
+      },
+      {
+        "#38201f": "darkslategray"
+      },
+      {
+        "#1c0300": "black"
+      },
+      {
+        "#310d0a": "black"
+      }
+    ],
+    "framenumber": 173845,
+    "averageColorHSV": [
+      0.0010860315364593272,
+      0.15953624520460358,
+      0.260897810467162
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_174736.png",
+    "averageColorRGB": [
+      119.42746452294686,
+      127.00019625603865,
+      127.16318689613526
+    ],
+    "palette": [
+      {
+        "#465157": "darkslategray"
+      },
+      {
+        "#b1c4c7": "silver"
+      },
+      {
+        "#798e94": "lightslategray"
+      },
+      {
+        "#aec5ce": "lightsteelblue"
+      },
+      {
+        "#859da0": "lightslategray"
+      },
+      {
+        "#b8c3c2": "silver"
+      }
+    ],
+    "framenumber": 174736,
+    "averageColorHSV": [
+      0.5035116444686433,
+      0.48351108121388653,
+      0.03137070415553382
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_175627.png",
+    "averageColorRGB": [
+      79.69438028381643,
+      85.58009510869564,
+      84.50118508454106
+    ],
+    "palette": [
+      {
+        "#42535c": "darkslategray"
+      },
+      {
+        "#3f484d": "darkslategray"
+      },
+      {
+        "#516670": "dimgray"
+      },
+      {
+        "#a8bcc0": "silver"
+      },
+      {
+        "#b0bfc0": "silver"
+      },
+      {
+        "#5e7479": "dimgray"
+      }
+    ],
+    "framenumber": 175627,
+    "averageColorHSV": [
+      0.46944834353866477,
+      0.32406759880884717,
+      0.03561175923203614
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_176518.png",
+    "averageColorRGB": [
+      95.44405193236715,
+      101.444953955314,
+      94.43997584541063
+    ],
+    "palette": [
+      {
+        "#aab9b6": "darkgray"
+      },
+      {
+        "#4f6e77": "dimgray"
+      },
+      {
+        "#bfcccb": "silver"
+      },
+      {
+        "#7a6d5d": "dimgray"
+      },
+      {
+        "#86999c": "lightslategray"
+      },
+      {
+        "#77634f": "dimgray"
+      }
+    ],
+    "framenumber": 176518,
+    "averageColorHSV": [
+      0.3094437491166224,
+      0.3840880976484797,
+      0.035760679073319215
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_177409.png",
+    "averageColorRGB": [
+      103.1222297705314,
+      107.655891455314,
+      99.74753925120773
+    ],
+    "palette": [
+      {
+        "#2f3826": "darkslategray"
+      },
+      {
+        "#76624e": "dimgray"
+      },
+      {
+        "#98a9ac": "darkgray"
+      },
+      {
+        "#476872": "dimgray"
+      },
+      {
+        "#252919": "black"
+      },
+      {
+        "#876b54": "dimgray"
+      }
+    ],
+    "framenumber": 177409,
+    "averageColorHSV": [
+      0.2622125226548157,
+      0.40667339354219945,
+      0.03813028635624013
+    ]
+  },
+  {
+    "file": "http://128.54.253.204/chromatography/jaws/Jaws.mp4_178300.png",
+    "averageColorRGB": [
+      40.11068463164251,
+      82.6518115942029,
+      131.52186367753623
+    ],
+    "palette": [
+      {
+        "#407296": "steelblue"
+      },
+      {
+        "#9aadb8": "darkgray"
+      },
+      {
+        "#adb3b8": "darkgray"
+      },
+      {
+        "#a9adb2": "darkgray"
+      },
+      {
+        "#073c72": "midnightblue"
+      },
+      {
+        "#6b9bbb": "cadetblue"
+      }
+    ],
+    "framenumber": 178300,
+    "averageColorHSV": [
+      0.5891029824313533,
+      0.3365344084493701,
+      0.5325981577877972
+    ]
+  }
+]
