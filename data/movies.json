@@ -1,0 +1,148 @@
+{
+  "movies": [
+    {
+      "title": "The Grand Budapest Hotel",
+      "year": 2014,
+      "IMDB_link": "http://www.imdb.com/title/tt2278388/",
+      "run_time": 6000,
+      "director": "Wes Anderson",
+      "path_to_the_frames": "./budapest/budapest.json",
+      "script_name": "budapest"
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "IMDB_link": "http://www.imdb.com/title/tt0111161/",
+      "run_time": 8520,
+      "director": "Frank Darabont",
+      "path_to_the_frames": "./shawshank/shawshank.json",
+      "script_name": "shawshank"
+    },
+    {
+      "title": "The Carbin in the Wood",
+      "year": 2012,
+      "IMDB_link": "http://www.imdb.com/title/tt1259521/",
+      "run_time": 5700,
+      "director": "Drew Goddard",
+      "path_to_the_frames": "./cabin/cabin.json",
+      "script_name": "cabin"
+    },
+    {
+      "title": "Fight Club",
+      "year": 1999,
+      "IMDB_link": "http://www.imdb.com/title/tt0137523/",
+      "run_time": 8340,
+      "director": "David Fincher",
+      "path_to_the_frames": "./fightclub/fightclub.json",
+      "script_name": "fightclub"
+    },
+    {
+      "title": "Magnolia",
+      "year": 1999,
+      "IMDB_link": "http://www.imdb.com/title/tt0175880/",
+      "run_time": 11280,
+      "director": "Paul Thomas Anderson",
+      "path_to_the_frames": "./magnolia/magnolia.json",
+      "script_name": "magnolia"
+    },
+    {
+      "title": "The Other Guys",
+      "year": 2010,
+      "IMDB_link": "http://www.imdb.com/title/tt1386588/",
+      "run_time": 6420,
+      "director": "Adam McKay",
+      "path_to_the_frames": "./otherguys/otherguys.json",
+      "script_name": "otherguys"
+    },
+    {
+      "title": "Sin City",
+      "year": 2005,
+      "IMDB_link": "http://www.imdb.com/title/tt0401792/",
+      "run_time": 7440,
+      "director": "Frank Miller",
+      "path_to_the_frames": "./sincity/sincity.json",
+      "script_name": "sincity"
+    },
+    {
+      "title": "Watchmen",
+      "year": 2009,
+      "IMDB_link": "http://www.imdb.com/title/tt0409459/",
+      "run_time": 9720,
+      "director": "Zack Snyder",
+      "path_to_the_frames": "./watchmen/watchmen.json",
+      "script_name": "watchmen"
+    },
+    {
+      "title": "Kill Bill: Vol. 1",
+      "year": 2003,
+      "IMDB_link": "http://www.imdb.com/title/tt0266697/",
+      "run_time": 6660,
+      "director": "Quentin Tarantino",
+      "path_to_the_frames": "./killbill1/killbill1.json",
+      "script_name": "killbill1"
+    },
+    {
+      "title": "Kill Bill: Vol. 2",
+      "year": 2004,
+      "IMDB_link": "http://www.imdb.com/title/tt0378194/",
+      "run_time": 8220,
+      "director": "Quentin Tarantino",
+      "path_to_the_frames": "./killbill2/killbill2.json",
+      "script_name": "killbill2"
+    },
+    {
+      "title": "Mulholland Drive",
+      "year": 2001,
+      "IMDB_link": "http://www.imdb.com/title/tt0166924/",
+      "run_time": 8820,
+      "director": "David Lynch",
+      "path_to_the_frames": "./mulholland/Mulholland.json",
+      "script_name": "mulholland"
+    },
+    {
+      "title": "The Dark Knight",
+      "year": 2008,
+      "IMDB_link": "http://www.imdb.com/title/tt0468569/",
+      "run_time": 9120,
+      "director": "Christopher Nolan",
+      "path_to_the_frames": "./darkknight/darkknight.json",
+      "script_name": "darkknight"
+    },
+    {
+      "title": "Vertigo",
+      "year": 1958,
+      "IMDB_link": "http://www.imdb.com/title/tt0052357/",
+      "run_time": 7680,
+      "director": "Alfred Hitchcock",
+      "path_to_the_frames": "./vertigo/vertigo.json",
+      "script_name": "vertigo"
+    },
+    {
+      "title": "Rear Window",
+      "year": 1954,
+      "IMDB_link": "http://www.imdb.com/title/tt0047396/",
+      "run_time": 6720,
+      "director": "Alfred Hitchcock",
+      "path_to_the_frames": "./rearwindow/rearwindow.json",
+      "script_name": "rearwindow"
+    },
+    {
+      "title": "The Graduate",
+      "year": 1967,
+      "IMDB_link": "http://www.imdb.com/title/tt0061722/",
+      "run_time": 6360,
+      "director": "Mike Nichols",
+      "path_to_the_frames": "./graduate/graduate.json",
+      "script_name": "graduate"
+    },
+    {
+      "title": "Jaws",
+      "year": 1975,
+      "IMDB_link": "http://www.imdb.com/title/tt0073195/",
+      "run_time": 7440,
+      "director": "Steven Spielberg",
+      "path_to_the_frames": "./jaws/jaws.json",
+      "script_name": "jaws"
+    }
+  ]
+}

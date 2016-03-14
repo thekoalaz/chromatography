@@ -116,9 +116,9 @@ def extract_colors(imageData, n, format, output):
 
     # algorithm tuning
     N_QUANTIZED = 100       # start with an adaptive palette of this size
-    MIN_DISTANCE = 10.0     # min distance to consider two colors different
+    MIN_DISTANCE = 25.0     # min distance to consider two colors different
     MIN_PROMINENCE = 0.01   # ignore if less than this proportion of image
-    MIN_SATURATION = 0.05   # ignore if not saturated enough
+    MIN_SATURATION = 0.15   # ignore if not saturated enough
     BACKGROUND_PROMINENCE = 0.5     # level of prominence indicating a bg color
 
     if n:
@@ -163,7 +163,9 @@ def extract_colors(imageData, n, format, output):
             key=attrgetter('prominence'),
             reverse=True)
 
-    colors, bg_color = detect_background(im, colors, to_canonical)
+    #colors, bg_color = detect_background(im, colors, to_canonical)
+    #Don't ignore background colors
+    bg_color = None
 
     # keep any color which meets the minimum saturation
     sat_colors = [c for c in colors if meets_min_saturation(c, MIN_SATURATION)]
@@ -180,11 +182,18 @@ def extract_colors(imageData, n, format, output):
             * MIN_PROMINENCE][:MAX_COLORS]
 
     final_colors_hex = []
+    color_areas = {}
     for color in colors:
-        final_colors_hex.append(rgb_to_hex(color[0]))
+        hex = rgb_to_hex(color[0])
+        if output == 'area':
+            color_areas[hex] = color.prominence
+        final_colors_hex.append(hex)
+
 
     if output == 'json':
         return json.dumps(prepare_output(final_colors_hex, format), indent=4)
+    elif output =='area':
+        return (prepare_output(final_colors_hex, format), color_areas)
     else:
         return prepare_output(final_colors_hex, format)
 

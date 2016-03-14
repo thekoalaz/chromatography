@@ -21,10 +21,15 @@ class Frame(object):
         LOGGER.debug("Saving image to: " + filename)
         cv2.imwrite(filename, frame)
 
-        palette = colorweave.palette(path=filename, n=6, format="css3")
+        palette, areas = colorweave.palette(path=filename, n=6, format="css3", output="area")
         self.palette = []
         for hex, name in palette.items():
-            self.palette.append({hex: name})
+            area = areas[hex]
+            self.palette.append({
+                "hex": hex,
+                "name": name,
+                "area": area
+                })
         LOGGER.debug("Palette is: " + str(palette))
 
 class FrameEncoder(json.JSONEncoder):
