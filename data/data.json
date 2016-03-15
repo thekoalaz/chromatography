@@ -25,14 +25,6 @@
               "path_to_the_frames": "./cabin/cabin.json"
       },
       {
-              "title": "Fight Club",
-              "year": 1999,
-              "IMDB_link": "http://www.imdb.com/title/tt0137523/",
-              "run_time": 8340,
-              "director": "David Fincher",
-              "path_to_the_frames": "./fightclub/fightclub.json"
-      },
-      {
               "title": "Magnolia",
               "year": 1999,
               "IMDB_link": "http://www.imdb.com/title/tt0175880/",

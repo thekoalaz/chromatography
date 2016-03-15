@@ -1,237 +1,261 @@
 'use strict';
 
-$(document).ready(function () {
-  console.log("$(document).ready");
-  initializePage();
-});
+var MovieInfoController = {
+  frameElementName: "frame"
+  ,paletteElementName: "palette"
+  ,barcodeElementName: "barcode"
+  ,searchElementName: "search"
+  ,searchBtnElementName: "searchBtn"
+  ,movieLinkBaseElementName: "movielink"
+  ,numberOfMoviesElementName: "numberofmovies"
+  ,characterFrameElementName: "characterFrame"
+  ,titleElementName: "title"
 
-function componentToHex(u) {
-  var c = Math.round(u);
-  var hex = c.toString(16);
-  return hex.length == 1 ? "0" + hex: hex;
-}
+  ,frame: null
+  ,palette: null
+  ,barcode: null
+  ,search: null
+  ,searchBtn: null
+  ,movieLinks: null
+  ,numberOfMovies: null
+  ,barcodeStrokeWidth: null
+  ,palleteSqureWidth: null
+  ,numOfFrames: 200
+  ,barcodeContainer: null
+  ,paletteContainer: null
+  ,title: null
+  ,frameData: null
+  ,characterFrame: null
 
-function rgbToHex(r, g, b) {
-  return "#" + componentToHex(r) + componentToHex(g) + componentToHex(b);
-}
+  ,componentToHex: function(u) {
+    var c = Math.round(u);
+    var hex = c.toString(16);
+    return hex.length == 1 ? "0" + hex: hex;
+  }
 
-var barcodeContainers = {};
-var paletteContainer = {};
-var num_of_frames = 51;
+  ,rgbToHex: function(r, g, b) {
+  	var base = this;
+    return "#" + base.componentToHex(r) + base.componentToHex(g) + base.componentToHex(b);
+  }
 
-/*
- * Draws color barcodes for all of the movies contained in 'data'
- */
-function draw_barcode_all(data) {
-  console.log('function draw_barcode_all()');
-  var i_string;
-  $.each(data.movies, function(i, movie) {
-    var stroke_width = Math.floor(document.getElementById("img" + i).offsetWidth/(num_of_frames+1));
-    $("#a"+i).append("<br><h1><b>Color Barcode (avg. color of each frame)</b></h1>");
-    i_string = i.toString();
-    barcodeContainers.i_string = d3.select("#a" + i)
+  ,findElements: function() {
+    var base = this;
+
+    base.frame = document.getElementById(base.frameElementName);
+    base.palette = $("#"+base.paletteElementName);
+    base.barcode = $("#"+base.barcodeElementName);
+    base.search = document.getElementById(base.searchElementName);
+    base.searchBtn = document.getElementById(base.searchBtnElementName);
+    base.title = document.getElementById(base.titleElementName);
+    base.movieLinks = [];
+    base.numberOfMovies = document.getElementById(base.numberOfMoviesElementName).value;
+    for (var i = 0; i < base.numberOfMovies; ++i) {
+      base.movieLinks.push(document.getElementById(base.movieLinkBaseElementName+i));
+    }
+    base.barcodeStrokeWidth = base.frame.offsetWidth/(base.numOfFrames+1);
+    base.paletteSqureWidth = 30; // Heuristics
+    base.characterFrame = document.getElementById(base.characterFrameElementName);
+
+    console.log("base.barcodeStrokeWidth: "+base.barcodeStrokeWidth);
+    console.log("base.frame.width: "+base.frame.width);
+    return base;
+  }
+
+  ,draw_palette: function(j) {
+  	var base = this;
+    var palette_colors = {};
+    var k_string;
+
+    $.each(base.frameData[j].palette, function(k, color) {
+      k_string = k.toString();
+      palette_colors.k_string = $.map(color, function(element, index) {return index});
+      base.paletteContainer.append("line")
+      .attr("x1", base.paletteSqureWidth*k+base.paletteSqureWidth*k+1.5*base.paletteSqureWidth) // 3.3*squre_width was determined by heuristics
+      .attr("x2", base.paletteSqureWidth*k+base.paletteSqureWidth*k+1.5*base.paletteSqureWidth)
+      .attr("y1", base.paletteSqureWidth)
+      .attr("y2", 0)
+      .attr("stroke", palette_colors.k_string)
+      .attr("stroke-width", base.paletteSqureWidth);
+    });
+  }
+
+  ,shadow: function(d, j) {
+  	var base = this;
+   // filters go in defs element
+    var defs = base.barcodeContainer.append("defs");
+
+    // create filter with id #drop-shadow
+    // height=130% so that the shadow is not clipped
+    var filter = defs.append("filter")
+                .attr("id", "drop-shadow")
+                .style("stroke-width", 0)
+                .attr("height", "130%");
+
+    // SourceAlpha refers to opacity of graphic that this filter will be applied to
+    // convolve that with a Gaussian with standard deviation 3 and store result
+    // in blur
+    filter.append("feGaussianBlur")
+          .attr("in", "SourceAlpha")
+          .attr("stdDeviation", 5)
+          .attr("result", "blur");
+
+    // translate output of Gaussian blur to the right and downwards with 2px
+    // store result in offsetBlur
+    filter.append("feOffset")
+          .attr("in", "blur")
+          .attr("dx", 2)
+          .attr("dy", 2)
+          .attr("result", "offsetBlur");
+
+    // overlay original SourceGraphic over translated blurred opacity by using
+    // feMerge filter. Order of specifying inputs is important!
+    var feMerge = filter.append("feMerge");
+
+    feMerge.append("feMergeNode")
+          .attr("in", "offsetBlur")
+    feMerge.append("feMergeNode")
+          .attr("in", "SourceGraphic");
+
+    // for each rendered node, apply #drop-shadow filter
+    var item = base.barcodeContainer.select("rect"+j)
+															      .style("filter", "url(#drop-shadow)")
+															      .attr("transform", function(d) { 
+															        return "translate("+d.x+","+d.y+")"; 
+															      });
+
+    //var div_img = document.getElementById("img"+i);
+    //div_img.innerHTML = "<img class=\"center fit\" src=\"data/"+movie.frames[j].file+"\" style=\"height: 120px; width: 100%; position: relative;\" id=\""+"img"+j+"\" /><br>";
+    base.frame.innerHTML = "<img class=\"center fit\" src=\""+base.frameData[j].file+"\" style=\"height: 240px; position: relative;\" /><br>";
+    base.draw_palette(j);    
+  }
+
+  ,recreateSVGs: function() {
+  	var base = this;
+    // first remove the exisiting color barcode
+    d3.select("#"+base.barcodeElementName).select("svg").remove();
+
+    base.barcodeContainer = d3.select("#"+base.barcodeElementName)
                              .attr("align", "center")
                              .append("svg")
                              .attr("width", "100%")
                              .attr("height", 200);
-                              
-    $.each(movie.frames, function(j, frame) {
-      barcodeContainers.i_string.append("line")
-                      .attr("x1", stroke_width*j + 1.5*stroke_width)  // 1.5*stroke_width was determined by heuristics
-                      .attr("x2", stroke_width*j + 1.5*stroke_width)
-                      .attr("y1", 100)
-                      .attr("y2", 0)
-                      .attr("stroke", 
-                        rgbToHex(
-                          frame.averageColorRGB[0],
-                          frame.averageColorRGB[1],
-                          frame.averageColorRGB[2]))
-                      .attr("stroke-width", stroke_width);
+
+    // first remove the existing color palette
+    d3.select("#"+base.paletteElementName).select("svg").remove();
+
+    base.paletteContainer = d3.select("#"+base.paletteElementName)
+													   .attr("align", "center")
+													   .append("svg")
+													   .attr("width", "100%")
+													   .attr("height", base.palleteSqureWidth);
+
+		return base;
+  }
+
+  ,visualizeBarcode: function() {
+    var base = this;
+
+    var bar_items = [];
+    $.each(base.frameData, function(j, frame) {
+      bar_items.push({x: base.barcodeStrokeWidth*j+1.5*base.barcodeStrokeWidth, y: 100, frame: frame});
     });
-  });     
-}
 
-function draw_palette_all(data) {
-  console.log('function draw_palette_all()');
-  var i_string;
-  $.each(data.movies, function(i, movie) {
-    var stroke_width = Math.floor(document.getElementById("img" + i).offsetWidth/(num_of_frames+1));
-    var square_width = stroke_width*3; // Heuristics
-    $("#a"+i).append("<br><h1><b>Color Palette of Each Frame</b></h1>");
-    $.each(movie.frames, function(j, frame) {
-      var palette_colors = [];
-      i_string = i.toString();
-      barcodeContainers.i_string = d3.select("#a" + i)
-                               .attr("align", "center")
-                               .append("svg")
-                               .attr("width", "100%")
-                               .attr("height", square_width+5);
-      $.each(movie.frames[j].palette, function(k, color) {
-        palette_colors[k] = $.map(color, function(element, index) {return index});
-        barcodeContainers.i_string.append("line")
-                            .attr("x1", square_width*k+square_width*k+3.3*square_width) // 3.3*squre_width was determined by heuristics
-                            .attr("x2", square_width*k+square_width*k+3.3*square_width)
-                            .attr("y1", square_width)
-                            .attr("y2", 0)
-                            .attr("stroke", palette_colors[k])
-                            .attr("stroke-width", square_width);
-      });       
-    }); 
-  });
-}
+    base.barcodeContainer
+    		.selectAll("rect")
+		    .data(bar_items)// 1.5*base.barcodeStrokeWidth was determined by heuristics
+		    .enter().append("rect", function(d, j) {
+		      return "rect"+j;
+		    })
+		    .attr("id", function(d, j) {
+		      return "rect"+j; 
+		    })
+		    .attr("width", base.barcodeStrokeWidth)  
+		    .attr("height", 100)
+		    .style("fill", function(d) {
+		      return base.rgbToHex(
+		        d.frame.averageColorRGB[0],
+		        d.frame.averageColorRGB[1],
+		        d.frame.averageColorRGB[2]);
+		    })
+		    .attr("transform", function(d) { 
+		      return "translate("+d.x+","+d.y+")"; 
+		    });
 
-function draw_barcode(movie, i) {
-  console.log('function draw_barcode()');
-  var stroke_width = Math.floor(document.getElementById("a" + i).offsetWidth/(num_of_frames+1));
-  var div_a = document.getElementById("a"+i);
-  div_a.innerHTML = "<br><h3><b>Color Barcode (avg. color of each frame)</b></h3>";
-  var i_string = i.toString();
-  barcodeContainers.i_string = d3.select("#a" + i)
-                           .attr("align", "center")
-                           .append("svg")
-                           .attr("width", "100%")
-                           .attr("height", 200);
-  var bar_items = [];
-  $.each(movie.frames, function(j, frame) {
-    bar_items.push({x: stroke_width*j+1.5*stroke_width, y: 100, frame: frame});
-  });
-  barcodeContainers.i_string.selectAll("rect")
-  .data(bar_items)// 1.5*stroke_width was determined by heuristics
-  .enter().append("rect", function(d, j) {
-    return "rect"+j;
-  })
-  .attr("id", function(d, j) {
-    return "rect"+j; 
-  })
-  .attr("width", stroke_width)  
-  .attr("height", 100)
-  .style("fill", function(d) {
-    return rgbToHex(
-      d.frame.averageColorRGB[0],
-      d.frame.averageColorRGB[1],
-      d.frame.averageColorRGB[2]);
-  })
-  .attr("transform", function(d) { 
-    return "translate("+d.x+","+d.y+")"; 
-  });
+		return base;
+  }
 
-  var stroke_width = Math.floor(document.getElementById("img" + i).offsetWidth/(num_of_frames+1));
-  var square_width = stroke_width*3; // Heuristics
-  var div_palette = document.getElementById("palette"+i);
-  div_palette.innerHTML = "<br><h3><b>Color Palette of Each Frame</b></h3>";
-  var i_string = i.toString();
-  paletteContainer.i_string = d3.select("#palette" + i)
-                           .attr("align", "center")
-                           .append("svg")
-                           .attr("width", "75%")
-                           .attr("height", square_width+5);
+  ,displayInformation: function(movieIndex) {
+    console.log("displayInformation: "+movieIndex);
+    var base = this;
+    $.getJSON("/data/data.json", function(data) {
+  		base.title.innerHTML = "Movie title: "+"<b>"+data.movies[movieIndex].title+"</b>";
 
-  barcodeContainers.i_string.selectAll("rect")
-  .on({
-    "mouseover": function(d, j) {
-      // filters go in defs element
-      var defs = barcodeContainers.i_string.append("defs");
-
-      // create filter with id #drop-shadow
-      // height=130% so that the shadow is not clipped
-      var filter = defs.append("filter")
-                      .attr("id", "drop-shadow")
-                      .style("stroke-width", 0)
-                      .attr("height", "130%");
-
-      // SourceAlpha refers to opacity of graphic that this filter will be applied to
-      // convolve that with a Gaussian with standard deviation 3 and store result
-      // in blur
-      filter.append("feGaussianBlur")
-            .attr("in", "SourceAlpha")
-            .attr("stdDeviation", 10)
-            .attr("result", "blur");
-
-      // translate output of Gaussian blur to the right and downwards with 2px
-      // store result in offsetBlur
-      filter.append("feOffset")
-            .attr("in", "blur")
-            .attr("dx", 0)
-            .attr("dy", 0)
-            .attr("result", "offsetBlur");
-
-      // overlay original SourceGraphic over translated blurred opacity by using
-      // feMerge filter. Order of specifying inputs is important!
-      var feMerge = filter.append("feMerge");
-
-      feMerge.append("feMergeNode")
-            .attr("in", "offsetBlur")
-      feMerge.append("feMergeNode")
-            .attr("in", "SourceGraphic");
-
-      // for each rendered node, apply #drop-shadow filter
-
-      var item = barcodeContainers.i_string.select("#rect"+j)
-                                .style("filter", "url(#drop-shadow)")
-                                .attr("transform", function(d) { 
-                                  return "translate("+d.x+","+d.y+")"; 
-                                });
-
-      var div_img = document.getElementById("img"+i);
-      div_img.innerHTML = "<img class=\"center fit\" src=\"data/"+movie.frames[j].file+"\" style=\"width: 100%; position: relative;\" id=\""+"img"+j+"\" /><br>";
-      draw_palette(movie, i, j);    
-    },
-    "mouseout": function(d, j) {
-      barcodeContainers.i_string.selectAll("rect").style("filter", null);
-    },
-    "click": function(d, j) {
-    },
-  });
-}
-
-function draw_palette(movie, i, j) {
-  var stroke_width = Math.floor(document.getElementById("img" + i).offsetWidth/(num_of_frames+1));
-  var square_width = stroke_width*3; // Heuristics
-  var palette_colors = {};
-  var k_string;
-  $.each(movie.frames[j].palette, function(k, color) {
-    k_string = k.toString();
-    palette_colors.k_string = $.map(color, function(element, index) {return index});
-    paletteContainer.i_string.append("line")
-    .attr("x1", square_width*k+square_width*k+1.5*square_width) // 3.3*squre_width was determined by heuristics
-    .attr("x2", square_width*k+square_width*k+1.5*square_width)
-    .attr("y1", square_width)
-    .attr("y2", 0)
-    .attr("stroke", palette_colors.k_string)
-    .attr("stroke-width", square_width);
-  });
-}
-
-function show_movie(data, i) {
-  console.log('function show_movie()');
-  draw_barcode(data.movies[i], i);
-  //draw_palette(data.movies[i], i);
-}
-
-var hashtable_appeared = {};
-
-function initializePage() {
-  console.log('initializePage()');
-  $.getJSON('/data/data.json', function(data) {
-    var i_string;
-    $.each(data.movies, function(i, movie) {
-      $('#movielink'+i).click(function (e) {
-        e.preventDefault();
-        if (hashtable_appeared.i_string != "1") {
-          i_string = i.toString();
-          var div_a = document.getElementById('a'+i);
-          div_a.innerHTML += "<h1><b>"+movie.title+"</b></h1>";
-          div_a.innerHTML += "<br>";
-          hashtable_appeared.i_string = "1";
-          show_movie(data, i);
-        } else {
-
-        }
+      $.getJSON("/data/"+data.movies[movieIndex].path_to_the_frames, function() {
+      })
+      .success(function(frames) {
+      	base.frameData = frames;
+      	base.visualizeBarcode().addInteractivity();
+      })
+      .error(function() {
+      	alert("We are currently developing more movie data. Please try it next time");
       });
     });
-  });
-}
+  }
 
+  ,addInteractivity: function() {
+  	var base = this;
+    //base.barcodeContainer.selectAll("rect")
+    //base.barcodeContainer.selectAll("rect")
+    base.barcodeContainer.selectAll("rect")
+    .on({
+      "mouseover": function(d, j) {
+        console.log('mouseover:', j);
+      	base.shadow(d,j);
+      }
+      ,"mouseout": function(d, j) {
+        base.barcodeContainer.selectAll("rect").style("filter", null);
+      }
+      ,"click": function(d, j) {
+      	console.log("click: "+j);
+      }
+    });
+
+    return base;
+  }
+
+  ,addEvents: function() {
+    var base = this;
+
+    base.movieLinks.map(function(link, i) {
+      link.onclick = function(e) {
+        e.preventDefault();
+        base.recreateSVGs().displayInformation(i);
+        base.characterFrame.src = "https://hyeonsu.shinyapps.io/"+link.text.split(" ").join("");
+      };
+	    base.barcode.on({
+	    	"mouseover": function(e) {
+	    		base.addInteractivity();
+	    	}
+	    	,"click": function(e) {
+	    		base.addInteractivity();
+	    	}
+	    });
+    });
+
+    return base;
+  }
+
+  ,initialize: function() {
+    var base = this;
+    return base.findElements().addEvents();
+  }
+};
+
+var MovieInfoController = MovieInfoController || {};
+
+$(document).ready(function() {
+  MovieInfoController.initialize();
+});
 
 /* NOTE to myself. 
 

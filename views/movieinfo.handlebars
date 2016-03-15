@@ -1,50 +1,49 @@
 <!DOCTYPE html>
-<!-- TODO -->
-<!--
-  Modify the code to render fetch N lines (an idea about N: 
-  twice the size of the number of rows that can be viewed on the screen
-  without scrolling?) from the available items' database
--->
 <html lang="en">
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Chromatography</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Chromatography</title>
+  <!-- Bootstrap Core CSS -->
+  <link href="css/bootstrap.css" rel="stylesheet">
 
-    <!-- Bootstrap Core CSS -->
-    <link href="css/bootstrap.css" rel="stylesheet">
-
-    <!-- Custom CSS -->
-    <link href="css/4-col-portfolio.css" rel="stylesheet">
-
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+    https://hyeonsu.shinyapps.io/TheDarkKnight/
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
 </head>
 <body>
-  {{> navbar}}
-
-  <!-- Page Content -->
-  <div class="container" style="text-align: center; position: relative; z-index: 1" id="container">
-    <div class="row" style="padding: 0 auto; margin: 0 auto;">
-      {{#each movies}}
-        <div class="col-md-3 portfolio-item" style="padding: 0 auto; margin: 0 auto; position: relative;">
-          <img class="center fit" src="" style="position: relative;" id="img{{@index}}" />
-          <br>
-        </div>
-        <div class="col-md-3 portfolio-item" style="padding: 0 auto; margin: 0 auto;" id="palette{{@index}}"><h3><b>Color Palette of Each Frame</b></h3></div>
-        <div class="col-md-3 portfolio-item" style="padding: 0 auto; margin: 0 auto;" id="a{{@index}}"><h3><b>Color Barcode (avg. color of each frame)</b></h3></div>
-      {{/each}}
-      <div class="col-md-3 portfolio-item" style="position: absolute; text-align: left; margin: 0 75% auto;">
+  <div class="container-fluid" style="text-align: center; position: relative; padding: 0 0 0 0; margin: 0 0 0 0;" id="container">
+    <div class="row" style="text-align: center; position: relative; padding: 0 0 0 0; margin: 0 0 0 0;">
+      <div class="col-md-4" style="text-align: center; position: relative; padding: 0 0 0 0; margin: 0 0 0 0;">
+        <small>* To view historical comparisons of color analysis among the movies, <a href="http://goo.gl/rOx2Si">click here</a></small>
+        <br>
+        <small>* Currently the character network analysis is only available for <i>The Dark Knight</i></small>
+        <div id="title">Movie title: </div>
+        <h3><b>Color Barcode (avg. color of each frame)</b></h3>
+        <div id="barcode" class="center fit" style="padding: 0 0 0 0; margin: 0 0 0 0; position: relative;"></div>
+        <h3><b>Color Palette of Each Frame</b></h3>
+        <div id="palette" class="center fit" style="padding: 0 0 0 0; margin: 0 0 0 0; position: relative;"></div>
+        <h3><b>Image Frame</b></h3>
+        <div id="frame" style="padding: 0 0 0 0; margin: 0 0 0 0; position: relative;"></div>
+      </div>
+      <!-- <div class="col-md-4" style="padding: 0 auto; margin: 0 auto; position: relative;"> -->
+      <div class="col-md-5">
+        <iframe id="characterFrame" src="" style="border: none; width: 700px; height: 1000px;" scrolling="no"></iframe>
+      </div>
+      <div class="col-md-4">
+        <!-- audio analysis data -->
+      </div>
+      <div class="col-md-2" style="position: absolute; text-align: left; margin: 0 75% auto;">
         <div class="form-group">
-          <div class="input-group col-md-7" style="width: 100%; padding: 0 10px 0 10px;">
-            <input id="keyword-search" type="text" class="form-control"  placeholder="Search movies" style="text-align: center;"/>
+          <div class="input-group col-md-7" style="width: 100%; padding: 0 0 0;">
+            <input id="search" type="text" class="form-control"  placeholder="Search movies" style="text-align: center;"/>
             <div class="input-group-btn" role="group">
-              <button style="background: #fff; border: none; text-shadow: none; padding: none;">
+              <button id="searchBtn" style="background: #fff; border: none; text-shadow: none; padding: none;">
                 <span>
                   <img src="images/magnifying-glass32.png" alt="none" />
                 </span>
@@ -52,6 +51,7 @@
             </div>
           </div>
         </div>
+        <input type="hidden" id="numberofmovies" value="{{movies.length}}"/>
         {{#each movies}}
           <a href="#" id="movielink{{@index}}">{{title}}</a>
           <br>
@@ -64,6 +64,5 @@
   <script src="js/jquery.js"></script>
   <script src="js/bootstrap.min.js"></script>
   <script src="js/movieinfo.js"></script>
-
 </body>
 </html>
