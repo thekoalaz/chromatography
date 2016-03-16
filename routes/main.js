@@ -5,11 +5,11 @@ var app = express();
 var http = require('http').Server(app);
 
 router.get('/', function(req, res) {
-  res.render('main', { title: 'Chefbox', version: '0.0.1' });
+  res.render('main', { title: 'Chromatography', version: '0.0.1' });
 });
 
 router.get('/main', function(req, res) {
-  res.render('main', { title: 'Chefbox', version: '0.0.1' });
+  res.render('main', { title: 'Chromatography', version: '0.0.1' });
 });
 
 module.exports = router;
